@@ -1,5 +1,26 @@
 [
   {
+    "id": 676,
+    "title": "LUXENGLISH",
+    "caption": "LUXENGLISH\nhttps://luxenglish.ru/\n\n☆ #образование #мероприятие #readymag",
+    "image": "data/images/676.jpg",
+    "tags": [
+      "образование",
+      "мероприятие",
+      "readymag"
+    ],
+    "url": "https://luxenglish.ru/",
+    "date": 1583402410,
+    "edit_date": 1583439209,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "meropriyatie",
+      "readymag"
+    ]
+  },
+  {
     "id": 675,
     "title": "Театральная школа Karavaev Lab",
     "caption": "Театральная школа Karavaev Lab\nhttps://karavaev-lab.ru/\n\n☆ #образование #мероприятие #tilda",
@@ -347,26 +368,6 @@
     "slugs": [
       "obrazovanie",
       "meropriyatie"
-    ]
-  },
-  {
-    "id": 412,
-    "title": "Виртуальный русский павильон",
-    "image": "data/images/412.jpg",
-    "tags": [
-      "мероприятие",
-      "промо",
-      "readymag"
-    ],
-    "url": "https://readymag.com/u90533425/1065619/",
-    "date": 1547632858,
-    "edit_date": 1583185362,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "meropriyatie",
-      "promo",
-      "readymag"
     ]
   }
 ]
