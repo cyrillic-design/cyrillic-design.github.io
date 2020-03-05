@@ -141,6 +141,27 @@
     ]
   },
   {
+    "id": 632,
+    "title": "Большой музей",
+    "caption": "Большой музей\nhttps://bm.digital/\n\n#медиа #искусство #мероприятие",
+    "image": "data/images/632.jpg",
+    "tags": [
+      "медиа",
+      "искусство",
+      "мероприятие"
+    ],
+    "url": "https://bm.digital/",
+    "date": 1574848867,
+    "edit_date": 1583439499,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "media",
+      "iskusstvo",
+      "meropriyatie"
+    ]
+  },
+  {
     "id": 607,
     "title": "DW ERA",
     "image": "data/images/607.jpg",
@@ -354,25 +375,6 @@
     "slugs": [
       "meropriyatie",
       "yandeks"
-    ]
-  },
-  {
-    "id": 481,
-    "title": "Pluton",
-    "caption": "Pluton\nhttps://pluton.moscow/\n\n#музыка #мероприятие",
-    "image": "data/images/481.jpg",
-    "tags": [
-      "музыка",
-      "мероприятие"
-    ],
-    "url": "https://pluton.moscow/",
-    "date": 1553594440,
-    "edit_date": 1583439485,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "muzika",
-      "meropriyatie"
     ]
   }
 ]
