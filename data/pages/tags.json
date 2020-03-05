@@ -876,10 +876,6 @@
     "slug": "evne"
   },
   {
-    "title": "мероприятия",
-    "slug": "meropriyatiya"
-  },
-  {
     "title": "афиша",
     "slug": "afisha"
   },
@@ -934,6 +930,10 @@
   {
     "title": "strangebrain",
     "slug": "strangebrain"
+  },
+  {
+    "title": "мероприятия",
+    "slug": "meropriyatiya"
   },
   {
     "title": "выставка",

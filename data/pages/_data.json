@@ -5130,15 +5130,16 @@
   "435": {
     "id": 435,
     "title": "Гоголь-Центр",
+    "caption": "Гоголь-Центр\nhttps://gogolcenter.com/\n\n#мероприятие #афиша #театр",
     "image": "435.jpg",
     "tags": [
-      "мероприятия",
+      "мероприятие",
       "афиша",
       "театр"
     ],
     "url": "https://gogolcenter.com/",
     "date": 1549881005,
-    "edit_date": 1583185362,
+    "edit_date": 1583439448,
     "isHighlighted": true,
     "isRemoved": false
   },
