@@ -365,6 +365,7 @@
   {
     "id": 557,
     "title": "WRS99",
+    "caption": "WRS99\nhttps://wrs99.store\n\n#промо #whiterussianstudio",
     "image": "data/images/557.jpg",
     "tags": [
       "промо",
@@ -372,8 +373,8 @@
     ],
     "url": "https://wrs99.store",
     "date": 1564048826,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
+    "edit_date": 1583423516,
+    "isHighlighted": true,
     "isRemoved": false,
     "slugs": [
       "promo",
