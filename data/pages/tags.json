@@ -560,8 +560,8 @@
     "slug": "zhurnalshrift"
   },
   {
-    "title": "игры",
-    "slug": "igri"
+    "title": "игра",
+    "slug": "igra"
   },
   {
     "title": "orientir",
@@ -958,10 +958,6 @@
   {
     "title": "verks",
     "slug": "verks"
-  },
-  {
-    "title": "игра",
-    "slug": "igra"
   },
   {
     "title": "аналитика",
