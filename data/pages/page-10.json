@@ -196,6 +196,7 @@
   {
     "id": 467,
     "title": "Мятный JOE",
+    "caption": "Мятный JOE\nhttps://mintijoe.ru/\n\n#промо #prominado",
     "image": "data/images/467.jpg",
     "tags": [
       "промо",
@@ -203,8 +204,8 @@
     ],
     "url": "https://mintijoe.ru/",
     "date": 1552298406,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
+    "edit_date": 1583423601,
+    "isHighlighted": true,
     "isRemoved": false,
     "slugs": [
       "promo",
