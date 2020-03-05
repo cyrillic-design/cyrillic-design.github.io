@@ -72,23 +72,5 @@
       "afisha",
       "teatr"
     ]
-  },
-  {
-    "id": 419,
-    "title": "Pop Farm",
-    "image": "data/images/419.jpg",
-    "tags": [
-      "музыка",
-      "мероприятия"
-    ],
-    "url": "https://popfarm.ru/",
-    "date": 1548237624,
-    "edit_date": 1583185362,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "muzika",
-      "meropriyatiya"
-    ]
   }
 ]

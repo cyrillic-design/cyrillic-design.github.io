@@ -848,10 +848,6 @@
     "slug": "uplab"
   },
   {
-    "title": "мероприятия",
-    "slug": "meropriyatiya"
-  },
-  {
     "title": "max",
     "slug": "max"
   },
@@ -878,6 +874,10 @@
   {
     "title": "evne",
     "slug": "evne"
+  },
+  {
+    "title": "мероприятия",
+    "slug": "meropriyatiya"
   },
   {
     "title": "афиша",
