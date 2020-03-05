@@ -348,19 +348,20 @@
   {
     "id": 228,
     "title": "Dumb Startups",
+    "caption": "Dumb Startups\nhttp://dumbstartup.co/\n\n#образование #люди #бизнес",
     "image": "data/images/228.jpg",
     "tags": [
-      "образованиие",
+      "образование",
       "люди",
       "бизнес"
     ],
     "url": "http://dumbstartup.co/",
     "date": 1530871218,
-    "edit_date": 1583185435,
+    "edit_date": 1583417729,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
-      "obrazovaniie",
+      "obrazovanie",
       "lyudi",
       "biznes"
     ]

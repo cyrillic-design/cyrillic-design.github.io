@@ -302,6 +302,27 @@
     ]
   },
   {
+    "id": 228,
+    "title": "Dumb Startups",
+    "caption": "Dumb Startups\nhttp://dumbstartup.co/\n\n#образование #люди #бизнес",
+    "image": "data/images/228.jpg",
+    "tags": [
+      "образование",
+      "люди",
+      "бизнес"
+    ],
+    "url": "http://dumbstartup.co/",
+    "date": 1530871218,
+    "edit_date": 1583417729,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "lyudi",
+      "biznes"
+    ]
+  },
+  {
     "id": 207,
     "title": "DESIGNWORKOUT",
     "image": "data/images/207.jpg",
@@ -365,30 +386,6 @@
       "obrazovanie",
       "platforma",
       "setka"
-    ]
-  },
-  {
-    "id": 144,
-    "title": "+1",
-    "image": "data/images/144.jpg",
-    "tags": [
-      "спецпроект",
-      "люди",
-      "бизнес",
-      "государство",
-      "образование"
-    ],
-    "url": "http://plus-one.ru/",
-    "date": 1523527220,
-    "edit_date": 1583185535,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "lyudi",
-      "biznes",
-      "gosudarstvo",
-      "obrazovanie"
     ]
   }
 ]
