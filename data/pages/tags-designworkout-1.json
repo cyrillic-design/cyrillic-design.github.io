@@ -1,28 +1,5 @@
 [
   {
-    "id": 676,
-    "title": "LUXENGLISH",
-    "caption": "LUXENGLISH\nhttps://luxenglish.ru/\n\n☆ #образование #мероприятия #readymag #designworkout",
-    "image": "data/images/676.jpg",
-    "tags": [
-      "образование",
-      "мероприятия",
-      "readymag",
-      "designworkout"
-    ],
-    "url": "https://luxenglish.ru/",
-    "date": 1583402410,
-    "edit_date": 1583436526,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "meropriyatiya",
-      "readymag",
-      "designworkout"
-    ]
-  },
-  {
     "id": 607,
     "title": "DW ERA",
     "image": "data/images/607.jpg",
