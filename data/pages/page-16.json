@@ -1,5 +1,25 @@
 [
   {
+    "id": 347,
+    "title": "Gracia Ceramica",
+    "image": "data/images/347.jpg",
+    "tags": [
+      "промо",
+      "магазин",
+      "производство"
+    ],
+    "url": "http://www.graciaceramica.com/",
+    "date": 1541584853,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "magazin",
+      "proizvodstvo"
+    ]
+  },
+  {
     "id": 346,
     "title": "Раздоры II",
     "image": "data/images/346.jpg",
@@ -367,30 +387,6 @@
       "zhurnal",
       "spetsproekt",
       "politika"
-    ]
-  },
-  {
-    "id": 327,
-    "title": "Тестовое задание для Mail ru",
-    "image": "data/images/327.jpg",
-    "tags": [
-      "тестовоезадание",
-      "исследование",
-      "readymag",
-      "ивансемкин",
-      "mailru"
-    ],
-    "url": "https://readymag.com/u63516304/1094764/",
-    "date": 1539597634,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "testovoezadanie",
-      "issledovanie",
-      "readymag",
-      "ivansemkin",
-      "mailru"
     ]
   }
 ]

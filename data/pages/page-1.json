@@ -1,5 +1,26 @@
 [
   {
+    "id": 676,
+    "title": "LUXENGLISH",
+    "caption": "LUXENGLISH\nhttps://luxenglish.ru/\n\n☆ #образования #мероприятие #readymag",
+    "image": "data/images/676.jpg",
+    "tags": [
+      "образования",
+      "мероприятие",
+      "readymag"
+    ],
+    "url": "https://luxenglish.ru/",
+    "date": 1583402410,
+    "edit_date": 1583415191,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovaniya",
+      "meropriyatie",
+      "readymag"
+    ]
+  },
+  {
     "id": 675,
     "title": "Театральная школа Karavaev Lab",
     "caption": "Театральная школа Karavaev Lab\nhttps://karavaev-lab.ru/\n\n☆ #образование #мероприятие #tilda",
@@ -11,7 +32,7 @@
     ],
     "url": "https://karavaev-lab.ru/",
     "date": 1583316024,
-    "edit_date": 1583392914,
+    "edit_date": 1583410948,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
@@ -31,7 +52,7 @@
     ],
     "url": "https://street-beat.ru/",
     "date": 1583229627,
-    "edit_date": 1583355465,
+    "edit_date": 1583405722,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
@@ -49,7 +70,7 @@
     ],
     "url": "https://prosto-remont.com/",
     "date": 1583143227,
-    "edit_date": 1583349365,
+    "edit_date": 1583402885,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
@@ -370,24 +391,6 @@
       "uslugi",
       "promo",
       "only"
-    ]
-  },
-  {
-    "id": 651,
-    "title": "Смена 2020",
-    "image": "data/images/651.jpg",
-    "tags": [
-      "спецпроект",
-      "смена"
-    ],
-    "url": "https://2020.smena.me/",
-    "date": 1577786418,
-    "edit_date": 1583183700,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "smena"
     ]
   }
 ]

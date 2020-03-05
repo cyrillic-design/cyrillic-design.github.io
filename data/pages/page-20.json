@@ -1,5 +1,23 @@
 [
   {
+    "id": 266,
+    "title": "Proxima",
+    "image": "data/images/266.jpg",
+    "tags": [
+      "агентство",
+      "портфолио"
+    ],
+    "url": "https://proxima.agency/",
+    "date": 1534154410,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "agentstvo",
+      "portfolio"
+    ]
+  },
+  {
     "id": 265,
     "title": "ШиШки",
     "image": "data/images/265.jpg",
@@ -358,24 +376,6 @@
       "servis",
       "puteshestvie",
       "arenda"
-    ]
-  },
-  {
-    "id": 246,
-    "title": "Щи",
-    "image": "data/images/246.jpg",
-    "tags": [
-      "журнал",
-      "издание"
-    ],
-    "url": "http://schi.media/",
-    "date": 1532426406,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "zhurnal",
-      "izdanie"
     ]
   }
 ]

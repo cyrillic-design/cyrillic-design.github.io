@@ -1,5 +1,23 @@
 [
   {
+    "id": 145,
+    "title": "Банк Открытие",
+    "image": "data/images/145.jpg",
+    "tags": [
+      "финансы",
+      "банк"
+    ],
+    "url": "https://www.open.ru/",
+    "date": 1523613614,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "finansi",
+      "bank"
+    ]
+  },
+  {
     "id": 144,
     "title": "+1",
     "image": "data/images/144.jpg",
@@ -369,26 +387,6 @@
       "aviakompaniya",
       "uslugi",
       "puteshestviya"
-    ]
-  },
-  {
-    "id": 124,
-    "title": "N+1",
-    "image": "data/images/124.jpg",
-    "tags": [
-      "образование",
-      "медиа",
-      "наука"
-    ],
-    "url": "https://nplus1.ru/about",
-    "date": 1521885613,
-    "edit_date": 1583185535,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "media",
-      "nauka"
     ]
   }
 ]

@@ -224,18 +224,6 @@
     "slug": "mvideo"
   },
   {
-    "title": "производство",
-    "slug": "proizvodstvo"
-  },
-  {
-    "title": "копоративныйсайт",
-    "slug": "koporativniisait"
-  },
-  {
-    "title": "artperformance",
-    "slug": "artperformance"
-  },
-  {
     "title": "сообщество",
     "slug": "soobshchestvo"
   },
@@ -354,6 +342,10 @@
   {
     "title": "искусство",
     "slug": "iskusstvo"
+  },
+  {
+    "title": "производство",
+    "slug": "proizvodstvo"
   },
   {
     "title": "газета",
@@ -1104,6 +1096,10 @@
     "slug": "advokatskayagazeta"
   },
   {
+    "title": "artperformance",
+    "slug": "artperformance"
+  },
+  {
     "title": "ильястарков",
     "slug": "ilyastarkov"
   },
@@ -1238,5 +1234,9 @@
   {
     "title": "aidapacheva",
     "slug": "aidapacheva"
+  },
+  {
+    "title": "образования",
+    "slug": "obrazovaniya"
   }
 ]

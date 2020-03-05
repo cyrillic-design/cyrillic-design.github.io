@@ -1,5 +1,25 @@
 [
   {
+    "id": 287,
+    "title": "Richterfest 2018",
+    "image": "data/images/287.jpg",
+    "tags": [
+      "мероприятие",
+      "фестиваль",
+      "музыка"
+    ],
+    "url": "http://richterfest.ru/",
+    "date": 1535882410,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "festival",
+      "muzika"
+    ]
+  },
+  {
     "id": 286,
     "title": "Первое Студенческое Агентство",
     "image": "data/images/286.jpg",
@@ -361,24 +381,6 @@
     "slugs": [
       "spetsproekt",
       "obrazovanie"
-    ]
-  },
-  {
-    "id": 266,
-    "title": "Proxima",
-    "image": "data/images/266.jpg",
-    "tags": [
-      "агентство",
-      "портфолио"
-    ],
-    "url": "https://proxima.agency/",
-    "date": 1534154410,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "agentstvo",
-      "portfolio"
     ]
   }
 ]

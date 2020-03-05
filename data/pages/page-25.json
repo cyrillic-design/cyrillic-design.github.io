@@ -1,5 +1,29 @@
 [
   {
+    "id": 165,
+    "title": "Áccent",
+    "image": "data/images/165.jpg",
+    "tags": [
+      "медиа",
+      "издание",
+      "образование",
+      "платформа",
+      "setka"
+    ],
+    "url": "https://accent.setka.io/ru/",
+    "date": 1525421388,
+    "edit_date": 1583185536,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "media",
+      "izdanie",
+      "obrazovanie",
+      "platforma",
+      "setka"
+    ]
+  },
+  {
     "id": 164,
     "title": "Государственная дума РФ",
     "image": "data/images/164.jpg",
@@ -370,24 +394,6 @@
       "odezhda",
       "proizvodstvo",
       "dzendizain"
-    ]
-  },
-  {
-    "id": 145,
-    "title": "Банк Открытие",
-    "image": "data/images/145.jpg",
-    "tags": [
-      "финансы",
-      "банк"
-    ],
-    "url": "https://www.open.ru/",
-    "date": 1523613614,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "finansi",
-      "bank"
     ]
   }
 ]

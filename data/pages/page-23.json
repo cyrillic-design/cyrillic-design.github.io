@@ -1,5 +1,25 @@
 [
   {
+    "id": 206,
+    "title": "Частная лавочка",
+    "image": "data/images/206.jpg",
+    "tags": [
+      "производство",
+      "еда",
+      "chipsa"
+    ],
+    "url": "http://lavochkamarket.ru/",
+    "date": 1528970420,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "yeda",
+      "chipsa"
+    ]
+  },
+  {
     "id": 205,
     "title": "Авиатор",
     "image": "data/images/205.jpg",
@@ -369,30 +389,6 @@
     "slugs": [
       "finansi",
       "servis"
-    ]
-  },
-  {
-    "id": 185,
-    "title": "EMKA",
-    "image": "data/images/185.jpg",
-    "tags": [
-      "производство",
-      "магазин",
-      "одежда",
-      "мода",
-      "icrea"
-    ],
-    "url": "https://www.emkafashion.ru/",
-    "date": 1527242423,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "proizvodstvo",
-      "magazin",
-      "odezhda",
-      "moda",
-      "icrea"
     ]
   }
 ]

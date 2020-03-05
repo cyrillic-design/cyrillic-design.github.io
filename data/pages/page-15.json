@@ -1,5 +1,21 @@
 [
   {
+    "id": 370,
+    "title": "Wonderzine",
+    "image": "data/images/370.jpg",
+    "tags": [
+      "издание"
+    ],
+    "url": "https://www.wonderzine.com/",
+    "date": 1543485623,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "izdanie"
+    ]
+  },
+  {
     "id": 369,
     "title": "Мапа станаўлення Беларусі",
     "image": "data/images/369.jpg",
@@ -363,26 +379,6 @@
       "gorod",
       "lyudi",
       "kruzhok"
-    ]
-  },
-  {
-    "id": 347,
-    "title": "Gracia Ceramica",
-    "image": "data/images/347.jpg",
-    "tags": [
-      "промо",
-      "магазин",
-      "производство"
-    ],
-    "url": "http://www.graciaceramica.com/",
-    "date": 1541584853,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "magazin",
-      "proizvodstvo"
     ]
   }
 ]

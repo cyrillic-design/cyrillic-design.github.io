@@ -1,5 +1,25 @@
 [
   {
+    "id": 124,
+    "title": "N+1",
+    "image": "data/images/124.jpg",
+    "tags": [
+      "образование",
+      "медиа",
+      "наука"
+    ],
+    "url": "https://nplus1.ru/about",
+    "date": 1521885613,
+    "edit_date": 1583185535,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "media",
+      "nauka"
+    ]
+  },
+  {
     "id": 123,
     "title": "type today",
     "image": "data/images/123.jpg",
@@ -301,26 +321,6 @@
       "media",
       "obrazovanie",
       "kultura"
-    ]
-  },
-  {
-    "id": 108,
-    "title": "АО Ивановоискож",
-    "image": "data/images/108.jpg",
-    "tags": [
-      "производство",
-      "копоративныйсайт",
-      "artperformance"
-    ],
-    "url": "https://ivanovoiskozh.ru/",
-    "date": 1520509097,
-    "edit_date": 1583185563,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "proizvodstvo",
-      "koporativniisait",
-      "artperformance"
     ]
   },
   {
