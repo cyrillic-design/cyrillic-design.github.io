@@ -1,5 +1,23 @@
 [
   {
+    "id": 445,
+    "title": "Как стать дата-журналистом Курс Strelka Mag",
+    "image": "data/images/445.jpg",
+    "tags": [
+      "образование",
+      "мероприятие"
+    ],
+    "url": "https://data-journalism.strelka.com/",
+    "date": 1550743209,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "meropriyatie"
+    ]
+  },
+  {
     "id": 435,
     "title": "Гоголь-Центр",
     "caption": "Гоголь-Центр\nhttps://gogolcenter.com/\n\n#мероприятие #афиша #театр",
