@@ -172,6 +172,29 @@
     ]
   },
   {
+    "id": 92,
+    "title": "Совет Федерации Федерального Собрания Российской Федерации",
+    "caption": "Совет Федерации Федерального Собрания Российской Федерации\nhttp://council.gov.ru/\n\n#государство #страна #россия #labag",
+    "image": "data/images/92.jpg",
+    "tags": [
+      "государство",
+      "страна",
+      "россия",
+      "labag"
+    ],
+    "url": "http://council.gov.ru/",
+    "date": 1519552816,
+    "edit_date": 1583438931,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "gosudarstvo",
+      "strana",
+      "rossiya",
+      "labag"
+    ]
+  },
+  {
     "id": 85,
     "title": "Официальный сайт Швеции",
     "image": "data/images/85.jpg",
