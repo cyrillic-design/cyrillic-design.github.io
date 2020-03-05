@@ -357,22 +357,22 @@
     ]
   },
   {
-    "id": 471,
-    "title": "Intervals",
-    "caption": "Intervals\nhttp://intervalsfest.com/\n\n#мероприятие #промо",
-    "image": "data/images/471.jpg",
+    "id": 481,
+    "title": "Pluton",
+    "caption": "Pluton\nhttps://pluton.moscow/\n\n#музыка #мероприятие",
+    "image": "data/images/481.jpg",
     "tags": [
-      "мероприятие",
-      "промо"
+      "музыка",
+      "мероприятие"
     ],
-    "url": "http://intervalsfest.com/",
-    "date": 1552644017,
-    "edit_date": 1583423594,
-    "isHighlighted": true,
+    "url": "https://pluton.moscow/",
+    "date": 1553594440,
+    "edit_date": 1583439485,
+    "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
-      "meropriyatie",
-      "promo"
+      "muzika",
+      "meropriyatie"
     ]
   }
 ]

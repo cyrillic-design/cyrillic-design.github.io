@@ -960,10 +960,6 @@
     "slug": "verks"
   },
   {
-    "title": "мероприятия",
-    "slug": "meropriyatiya"
-  },
-  {
     "title": "игра",
     "slug": "igra"
   },
@@ -1150,6 +1146,10 @@
   {
     "title": "voskhoddigital",
     "slug": "voskhoddigital"
+  },
+  {
+    "title": "мероприятия",
+    "slug": "meropriyatiya"
   },
   {
     "title": "события",

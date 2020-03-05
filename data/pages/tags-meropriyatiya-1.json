@@ -18,23 +18,5 @@
       "iskusstvo",
       "meropriyatiya"
     ]
-  },
-  {
-    "id": 481,
-    "title": "Pluton",
-    "image": "data/images/481.jpg",
-    "tags": [
-      "музыка",
-      "мероприятия"
-    ],
-    "url": "https://pluton.moscow/",
-    "date": 1553594440,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "muzika",
-      "meropriyatiya"
-    ]
   }
 ]

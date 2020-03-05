@@ -5712,14 +5712,15 @@
   "481": {
     "id": 481,
     "title": "Pluton",
+    "caption": "Pluton\nhttps://pluton.moscow/\n\n#музыка #мероприятие",
     "image": "481.jpg",
     "tags": [
       "музыка",
-      "мероприятия"
+      "мероприятие"
     ],
     "url": "https://pluton.moscow/",
     "date": 1553594440,
-    "edit_date": 1583185363,
+    "edit_date": 1583439485,
     "isHighlighted": false,
     "isRemoved": false
   },
