@@ -1,5 +1,25 @@
 [
   {
+    "id": 355,
+    "title": "Bauhaus Imaginista",
+    "image": "data/images/355.jpg",
+    "tags": [
+      "образование",
+      "garage",
+      "readymag"
+    ],
+    "url": "https://bauhaus-imaginista.garagemca.org",
+    "date": 1542276018,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "garage",
+      "readymag"
+    ]
+  },
+  {
     "id": 351,
     "title": "TREND FORECASTING WORKSHOP",
     "image": "data/images/351.jpg",
@@ -369,28 +389,6 @@
       "biznes",
       "gosudarstvo",
       "obrazovanie"
-    ]
-  },
-  {
-    "id": 138,
-    "title": "pcc world",
-    "image": "data/images/138.jpg",
-    "tags": [
-      "реклама",
-      "портал",
-      "образование",
-      "бизнес"
-    ],
-    "url": "https://ppc.world/",
-    "date": 1523095230,
-    "edit_date": 1583185535,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "reklama",
-      "portal",
-      "obrazovanie",
-      "biznes"
     ]
   }
 ]
