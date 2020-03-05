@@ -243,6 +243,25 @@
     ]
   },
   {
+    "id": 162,
+    "title": "Никея",
+    "caption": "Никея\nhttps://nikeabooks.ru/\n\n#магазин #издание",
+    "image": "data/images/162.jpg",
+    "tags": [
+      "магазин",
+      "издание"
+    ],
+    "url": "https://nikeabooks.ru/",
+    "date": 1525168811,
+    "edit_date": 1583439722,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "izdanie"
+    ]
+  },
+  {
     "id": 160,
     "title": "Дистопия",
     "image": "data/images/160.jpg",
