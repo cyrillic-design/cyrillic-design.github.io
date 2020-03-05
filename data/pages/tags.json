@@ -932,10 +932,6 @@
     "slug": "strangebrain"
   },
   {
-    "title": "мероприятия",
-    "slug": "meropriyatiya"
-  },
-  {
     "title": "выставка",
     "slug": "vistavka"
   },
@@ -962,6 +958,10 @@
   {
     "title": "verks",
     "slug": "verks"
+  },
+  {
+    "title": "мероприятия",
+    "slug": "meropriyatiya"
   },
   {
     "title": "игра",

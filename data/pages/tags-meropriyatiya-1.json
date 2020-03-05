@@ -36,21 +36,5 @@
       "muzika",
       "meropriyatiya"
     ]
-  },
-  {
-    "id": 464,
-    "title": "Камчатка",
-    "image": "data/images/464.jpg",
-    "tags": [
-      "мероприятия"
-    ],
-    "url": "https://kamchatka.camp/",
-    "date": 1552039217,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "meropriyatiya"
-    ]
   }
 ]

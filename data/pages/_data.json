@@ -5491,13 +5491,15 @@
   "464": {
     "id": 464,
     "title": "Камчатка",
+    "caption": "Камчатка\nhttps://kamchatka.camp/\n\n#образование #мероприятие",
     "image": "464.jpg",
     "tags": [
-      "мероприятия"
+      "образование",
+      "мероприятие"
     ],
     "url": "https://kamchatka.camp/",
     "date": 1552039217,
-    "edit_date": 1583185363,
+    "edit_date": 1583439473,
     "isHighlighted": false,
     "isRemoved": false
   },

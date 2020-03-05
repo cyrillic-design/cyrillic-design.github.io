@@ -1,5 +1,29 @@
 [
   {
+    "id": 165,
+    "title": "Áccent",
+    "image": "data/images/165.jpg",
+    "tags": [
+      "медиа",
+      "издание",
+      "образование",
+      "платформа",
+      "setka"
+    ],
+    "url": "https://accent.setka.io/ru/",
+    "date": 1525421388,
+    "edit_date": 1583185536,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "media",
+      "izdanie",
+      "obrazovanie",
+      "platforma",
+      "setka"
+    ]
+  },
+  {
     "id": 144,
     "title": "+1",
     "image": "data/images/144.jpg",
