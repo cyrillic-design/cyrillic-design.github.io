@@ -4881,6 +4881,7 @@
   "418": {
     "id": 418,
     "title": "DESIGNWORKOUT",
+    "caption": "DESIGNWORKOUT\nhttps://designworkout.ru/\n\n#образование #update",
     "image": "418.jpg",
     "tags": [
       "образование",
@@ -4888,7 +4889,7 @@
     ],
     "url": "https://designworkout.ru/",
     "date": 1548151224,
-    "edit_date": 1583185362,
+    "edit_date": 1583423714,
     "isHighlighted": true,
     "isRemoved": false
   },
