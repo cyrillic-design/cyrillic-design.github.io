@@ -146,19 +146,22 @@
   {
     "id": 291,
     "title": "ONY",
+    "caption": "ONY\nhttps://ony.ru/\n\n#агентство #дизайн #портфолио",
     "image": "data/images/291.jpg",
     "tags": [
-      "агентсво",
-      "дизайн"
+      "агентство",
+      "дизайн",
+      "портфолио"
     ],
     "url": "https://ony.ru/",
     "date": 1536228002,
-    "edit_date": 1583185435,
+    "edit_date": 1583385193,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
-      "agentsvo",
-      "dizain"
+      "agentstvo",
+      "dizain",
+      "portfolio"
     ]
   },
   {
