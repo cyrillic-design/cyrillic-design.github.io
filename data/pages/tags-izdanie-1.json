@@ -200,6 +200,25 @@
     ]
   },
   {
+    "id": 224,
+    "title": "Мамихлапинатана",
+    "caption": "Мамихлапинатана\nhttp://mamihlapinatana.ru/\n\n#медиа #издание",
+    "image": "data/images/224.jpg",
+    "tags": [
+      "медиа",
+      "издание"
+    ],
+    "url": "http://mamihlapinatana.ru/",
+    "date": 1530525621,
+    "edit_date": 1583439686,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "media",
+      "izdanie"
+    ]
+  },
+  {
     "id": 165,
     "title": "Áccent",
     "image": "data/images/165.jpg",
