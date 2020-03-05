@@ -8260,16 +8260,17 @@
   "676": {
     "id": 676,
     "title": "LUXENGLISH",
-    "caption": "LUXENGLISH\nhttps://luxenglish.ru/\n\n☆ #образование #мероприятия #readymag",
+    "caption": "LUXENGLISH\nhttps://luxenglish.ru/\n\n☆ #образование #мероприятия #readymag #designworkout",
     "image": "676.jpg",
     "tags": [
       "образование",
       "мероприятия",
-      "readymag"
+      "readymag",
+      "designworkout"
     ],
     "url": "https://luxenglish.ru/",
     "date": 1583402410,
-    "edit_date": 1583419860,
+    "edit_date": 1583421276,
     "isHighlighted": false,
     "isRemoved": false
   }
