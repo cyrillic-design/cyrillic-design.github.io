@@ -2,14 +2,15 @@
   {
     "id": 479,
     "title": "Masterskaya",
+    "caption": "Masterskaya\nhttps://masterskaya.pro/\n\n#портфолио",
     "image": "data/images/479.jpg",
     "tags": [
       "портфолио"
     ],
     "url": "https://masterskaya.pro/",
     "date": 1553335219,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
+    "edit_date": 1583423555,
+    "isHighlighted": true,
     "isRemoved": false,
     "slugs": [
       "portfolio"
