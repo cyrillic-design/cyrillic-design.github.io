@@ -1,1 +1,26 @@
-[{"id":327,"title":"Тестовое задание для Mail ru","image":"data/images/327.jpg","tags":["тестовоезадание","исследование","readymag","ивансемкин","mailru"],"url":"https://readymag.com/u63516304/1094764/","date":1539597634,"edit_date":1583185395,"isHighlighted":false,"isRemoved":false,"slugs":["testovoezadanie","issledovanie","readymag","ivansemkin","mailru"]}]
+[
+  {
+    "id": 327,
+    "title": "Тестовое задание для Mail ru",
+    "image": "data/images/327.jpg",
+    "tags": [
+      "тестовоезадание",
+      "исследование",
+      "readymag",
+      "ивансемкин",
+      "mailru"
+    ],
+    "url": "https://readymag.com/u63516304/1094764/",
+    "date": 1539597634,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "testovoezadanie",
+      "issledovanie",
+      "readymag",
+      "ivansemkin",
+      "mailru"
+    ]
+  }
+]

@@ -1,1 +1,80 @@
-[{"id":602,"title":"Briket Market","image":"data/images/602.jpg","tags":["заглушка","мероприятие"],"url":"https://briketmarket.com/","date":1570960829,"edit_date":1583183812,"isHighlighted":false,"isRemoved":false,"slugs":["zaglushka","meropriyatie"]},{"id":562,"title":"Совет","image":"data/images/562.jpg","tags":["портфолио","заглушка"],"url":"https://sovetsovetsovet.ru/","date":1565258456,"edit_date":1583183812,"isHighlighted":false,"isRemoved":false,"slugs":["portfolio","zaglushka"]},{"id":532,"title":"Молния","image":"data/images/532.jpg","tags":["сервис","заглушка","приложение"],"url":"https://molnia.me/","date":1560506435,"edit_date":1583183812,"isHighlighted":false,"isRemoved":false,"slugs":["servis","zaglushka","prilozhenie"]},{"id":529,"title":"Sloy","image":"data/images/529.jpg","tags":["приложение","промо","мода","заглушка"],"url":"https://sloy.com/","date":1560260683,"edit_date":1583183812,"isHighlighted":false,"isRemoved":false,"slugs":["prilozhenie","promo","moda","zaglushka"]}]
+[
+  {
+    "id": 602,
+    "title": "Briket Market",
+    "image": "data/images/602.jpg",
+    "tags": [
+      "заглушка",
+      "мероприятие"
+    ],
+    "url": "https://briketmarket.com/",
+    "date": 1570960829,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zaglushka",
+      "meropriyatie"
+    ]
+  },
+  {
+    "id": 562,
+    "title": "Совет",
+    "image": "data/images/562.jpg",
+    "tags": [
+      "портфолио",
+      "заглушка"
+    ],
+    "url": "https://sovetsovetsovet.ru/",
+    "date": 1565258456,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "zaglushka"
+    ]
+  },
+  {
+    "id": 532,
+    "title": "Молния",
+    "image": "data/images/532.jpg",
+    "tags": [
+      "сервис",
+      "заглушка",
+      "приложение"
+    ],
+    "url": "https://molnia.me/",
+    "date": 1560506435,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "zaglushka",
+      "prilozhenie"
+    ]
+  },
+  {
+    "id": 529,
+    "title": "Sloy",
+    "image": "data/images/529.jpg",
+    "tags": [
+      "приложение",
+      "промо",
+      "мода",
+      "заглушка"
+    ],
+    "url": "https://sloy.com/",
+    "date": 1560260683,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "prilozhenie",
+      "promo",
+      "moda",
+      "zaglushka"
+    ]
+  }
+]

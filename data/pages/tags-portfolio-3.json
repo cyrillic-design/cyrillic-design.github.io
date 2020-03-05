@@ -1,1 +1,360 @@
-[{"id":393,"title":"Breadhead","image":"data/images/393.jpg","tags":["студия","портфолио"],"url":"https://breadhead.ru/","date":1545213616,"edit_date":1583185395,"isHighlighted":false,"isRemoved":false,"slugs":["studiya","portfolio"]},{"id":386,"title":"Карабинович","image":"data/images/386.jpg","tags":["музыка","портфолио","sk41"],"url":"http://karabinovych.com/","date":1544695221,"edit_date":1583185395,"isHighlighted":false,"isRemoved":false,"slugs":["muzika","portfolio","sk41"]},{"id":383,"title":"BrandStudio","image":"data/images/383.jpg","tags":["агентство","портфолио"],"url":"https://brandstudio.ru/#","date":1544436027,"edit_date":1583185395,"isHighlighted":false,"isRemoved":false,"slugs":["agentstvo","portfolio"]},{"id":372,"title":"Beta","image":"data/images/372.jpg","tags":["агентство","портфолио"],"url":"https://betaagency.ru/","date":1543673818,"edit_date":1583185395,"isHighlighted":false,"isRemoved":false,"slugs":["agentstvo","portfolio"]},{"id":367,"title":"Letterwork","image":"data/images/367.jpg","tags":["студия","портфолио"],"url":"http://letter.work/","date":1543226422,"edit_date":1583185395,"isHighlighted":false,"isRemoved":false,"slugs":["studiya","portfolio"]},{"id":359,"title":"Dropbox - Секретные операции","image":"data/images/359.jpg","tags":["портфолио","dropbox"],"url":"https://www.dropbox.com/blackops","date":1542708017,"edit_date":1583185395,"isHighlighted":false,"isRemoved":false,"slugs":["portfolio","dropbox"]},{"id":357,"title":"Юрий Нарвин","image":"data/images/357.jpg","tags":["портфолио"],"url":"https://ru.narvin.co","date":1542448821,"edit_date":1583185395,"isHighlighted":false,"isRemoved":false,"slugs":["portfolio"]},{"id":339,"title":"Майк Юхтенко","image":"data/images/339.jpg","tags":["портфолио"],"url":"http://maicle.ru/","date":1540893615,"edit_date":1583185395,"isHighlighted":false,"isRemoved":false,"slugs":["portfolio"]},{"id":306,"title":"Райт","image":"data/images/306.jpg","tags":["студия","портфолио"],"url":"https://right.by/","date":1537524019,"edit_date":1583185436,"isHighlighted":false,"isRemoved":false,"slugs":["studiya","portfolio"]},{"id":298,"title":"SETTERS","image":"data/images/298.jpg","tags":["агентство","портфолио"],"url":"https://setters.agency/","date":1536832821,"edit_date":1583185435,"isHighlighted":false,"isRemoved":false,"slugs":["agentstvo","portfolio"]},{"id":292,"title":"Greensight","image":"data/images/292.jpg","tags":["агентство","портфолио"],"url":"https://greensight.ru/","date":1536314405,"edit_date":1583185435,"isHighlighted":false,"isRemoved":false,"slugs":["agentstvo","portfolio"]},{"id":280,"title":"HA","image":"data/images/280.jpg","tags":["студия","портфолио"],"url":"https://hainteractive.ru/","date":1535277605,"edit_date":1583185435,"isHighlighted":false,"isRemoved":false,"slugs":["studiya","portfolio"]},{"id":269,"title":"Игорь Штанг","image":"data/images/269.jpg","tags":["портфолио"],"url":"http://igorshtang.ru/","date":1534413620,"edit_date":1583185435,"isHighlighted":false,"isRemoved":false,"slugs":["portfolio"]},{"id":266,"title":"Proxima","image":"data/images/266.jpg","tags":["агентство","портфолио"],"url":"https://proxima.agency/","date":1534154410,"edit_date":1583185435,"isHighlighted":false,"isRemoved":false,"slugs":["agentstvo","portfolio"]},{"id":252,"title":"Студия Олега Чулакова","image":"data/images/252.jpg","tags":["студия","портфолио"],"url":"https://chulakov.ru/","date":1532944822,"edit_date":1583185435,"isHighlighted":true,"isRemoved":false,"slugs":["studiya","portfolio"]},{"id":248,"title":"Redis","image":"data/images/248.jpg","tags":["студия","портфолио"],"url":"https://red-is.ru/","date":1532599216,"edit_date":1583185435,"isHighlighted":false,"isRemoved":false,"slugs":["studiya","portfolio"]},{"id":245,"title":"Geex Arts","image":"data/images/245.jpg","tags":["агентство","портфолио"],"url":"https://geex-arts.com/","date":1532340021,"edit_date":1583185435,"isHighlighted":false,"isRemoved":false,"slugs":["agentstvo","portfolio"]},{"id":241,"title":"спіілка дизайн бюро","image":"data/images/241.jpg","tags":["студия","дизайн","портфолио"],"url":"http://spiilka.com.ua/","date":1531994420,"edit_date":1583185435,"isHighlighted":false,"isRemoved":false,"slugs":["studiya","dizain","portfolio"]},{"id":235,"title":"MST","image":"data/images/235.jpg","tags":["агенство","портфолио"],"url":"https://mst.agency/ru/","date":1531476010,"edit_date":1583185435,"isHighlighted":false,"isRemoved":false,"slugs":["agenstvo","portfolio"]},{"id":233,"title":"Genue","image":"data/images/233.jpg","tags":["портфолио","студия"],"url":"http://genue.ru/","date":1531303225,"edit_date":1583185435,"isHighlighted":false,"isRemoved":false,"slugs":["portfolio","studiya"]}]
+[
+  {
+    "id": 393,
+    "title": "Breadhead",
+    "image": "data/images/393.jpg",
+    "tags": [
+      "студия",
+      "портфолио"
+    ],
+    "url": "https://breadhead.ru/",
+    "date": 1545213616,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "studiya",
+      "portfolio"
+    ]
+  },
+  {
+    "id": 386,
+    "title": "Карабинович",
+    "image": "data/images/386.jpg",
+    "tags": [
+      "музыка",
+      "портфолио",
+      "sk41"
+    ],
+    "url": "http://karabinovych.com/",
+    "date": 1544695221,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "muzika",
+      "portfolio",
+      "sk41"
+    ]
+  },
+  {
+    "id": 383,
+    "title": "BrandStudio",
+    "image": "data/images/383.jpg",
+    "tags": [
+      "агентство",
+      "портфолио"
+    ],
+    "url": "https://brandstudio.ru/#",
+    "date": 1544436027,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "agentstvo",
+      "portfolio"
+    ]
+  },
+  {
+    "id": 372,
+    "title": "Beta",
+    "image": "data/images/372.jpg",
+    "tags": [
+      "агентство",
+      "портфолио"
+    ],
+    "url": "https://betaagency.ru/",
+    "date": 1543673818,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "agentstvo",
+      "portfolio"
+    ]
+  },
+  {
+    "id": 367,
+    "title": "Letterwork",
+    "image": "data/images/367.jpg",
+    "tags": [
+      "студия",
+      "портфолио"
+    ],
+    "url": "http://letter.work/",
+    "date": 1543226422,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "studiya",
+      "portfolio"
+    ]
+  },
+  {
+    "id": 359,
+    "title": "Dropbox - Секретные операции",
+    "image": "data/images/359.jpg",
+    "tags": [
+      "портфолио",
+      "dropbox"
+    ],
+    "url": "https://www.dropbox.com/blackops",
+    "date": 1542708017,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "dropbox"
+    ]
+  },
+  {
+    "id": 357,
+    "title": "Юрий Нарвин",
+    "image": "data/images/357.jpg",
+    "tags": [
+      "портфолио"
+    ],
+    "url": "https://ru.narvin.co",
+    "date": 1542448821,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio"
+    ]
+  },
+  {
+    "id": 339,
+    "title": "Майк Юхтенко",
+    "image": "data/images/339.jpg",
+    "tags": [
+      "портфолио"
+    ],
+    "url": "http://maicle.ru/",
+    "date": 1540893615,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio"
+    ]
+  },
+  {
+    "id": 306,
+    "title": "Райт",
+    "image": "data/images/306.jpg",
+    "tags": [
+      "студия",
+      "портфолио"
+    ],
+    "url": "https://right.by/",
+    "date": 1537524019,
+    "edit_date": 1583185436,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "studiya",
+      "portfolio"
+    ]
+  },
+  {
+    "id": 298,
+    "title": "SETTERS",
+    "image": "data/images/298.jpg",
+    "tags": [
+      "агентство",
+      "портфолио"
+    ],
+    "url": "https://setters.agency/",
+    "date": 1536832821,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "agentstvo",
+      "portfolio"
+    ]
+  },
+  {
+    "id": 292,
+    "title": "Greensight",
+    "image": "data/images/292.jpg",
+    "tags": [
+      "агентство",
+      "портфолио"
+    ],
+    "url": "https://greensight.ru/",
+    "date": 1536314405,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "agentstvo",
+      "portfolio"
+    ]
+  },
+  {
+    "id": 280,
+    "title": "HA",
+    "image": "data/images/280.jpg",
+    "tags": [
+      "студия",
+      "портфолио"
+    ],
+    "url": "https://hainteractive.ru/",
+    "date": 1535277605,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "studiya",
+      "portfolio"
+    ]
+  },
+  {
+    "id": 269,
+    "title": "Игорь Штанг",
+    "image": "data/images/269.jpg",
+    "tags": [
+      "портфолио"
+    ],
+    "url": "http://igorshtang.ru/",
+    "date": 1534413620,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio"
+    ]
+  },
+  {
+    "id": 266,
+    "title": "Proxima",
+    "image": "data/images/266.jpg",
+    "tags": [
+      "агентство",
+      "портфолио"
+    ],
+    "url": "https://proxima.agency/",
+    "date": 1534154410,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "agentstvo",
+      "portfolio"
+    ]
+  },
+  {
+    "id": 252,
+    "title": "Студия Олега Чулакова",
+    "image": "data/images/252.jpg",
+    "tags": [
+      "студия",
+      "портфолио"
+    ],
+    "url": "https://chulakov.ru/",
+    "date": 1532944822,
+    "edit_date": 1583185435,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "studiya",
+      "portfolio"
+    ]
+  },
+  {
+    "id": 248,
+    "title": "Redis",
+    "image": "data/images/248.jpg",
+    "tags": [
+      "студия",
+      "портфолио"
+    ],
+    "url": "https://red-is.ru/",
+    "date": 1532599216,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "studiya",
+      "portfolio"
+    ]
+  },
+  {
+    "id": 245,
+    "title": "Geex Arts",
+    "image": "data/images/245.jpg",
+    "tags": [
+      "агентство",
+      "портфолио"
+    ],
+    "url": "https://geex-arts.com/",
+    "date": 1532340021,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "agentstvo",
+      "portfolio"
+    ]
+  },
+  {
+    "id": 241,
+    "title": "спіілка дизайн бюро",
+    "image": "data/images/241.jpg",
+    "tags": [
+      "студия",
+      "дизайн",
+      "портфолио"
+    ],
+    "url": "http://spiilka.com.ua/",
+    "date": 1531994420,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "studiya",
+      "dizain",
+      "portfolio"
+    ]
+  },
+  {
+    "id": 235,
+    "title": "MST",
+    "image": "data/images/235.jpg",
+    "tags": [
+      "агенство",
+      "портфолио"
+    ],
+    "url": "https://mst.agency/ru/",
+    "date": 1531476010,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "agenstvo",
+      "portfolio"
+    ]
+  },
+  {
+    "id": 233,
+    "title": "Genue",
+    "image": "data/images/233.jpg",
+    "tags": [
+      "портфолио",
+      "студия"
+    ],
+    "url": "http://genue.ru/",
+    "date": 1531303225,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "studiya"
+    ]
+  }
+]

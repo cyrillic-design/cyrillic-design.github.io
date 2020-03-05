@@ -1,1 +1,20 @@
-[{"id":518,"title":"Ламбада-маркет","image":"data/images/518.jpg","tags":["магазин","ярмарка"],"url":"https://lmbd.ru/","date":1558951242,"edit_date":1583183812,"isHighlighted":false,"isRemoved":false,"slugs":["magazin","yarmarka"]}]
+[
+  {
+    "id": 518,
+    "title": "Ламбада-маркет",
+    "image": "data/images/518.jpg",
+    "tags": [
+      "магазин",
+      "ярмарка"
+    ],
+    "url": "https://lmbd.ru/",
+    "date": 1558951242,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "yarmarka"
+    ]
+  }
+]

@@ -1,1 +1,20 @@
-[{"id":359,"title":"Dropbox - Секретные операции","image":"data/images/359.jpg","tags":["портфолио","dropbox"],"url":"https://www.dropbox.com/blackops","date":1542708017,"edit_date":1583185395,"isHighlighted":false,"isRemoved":false,"slugs":["portfolio","dropbox"]}]
+[
+  {
+    "id": 359,
+    "title": "Dropbox - Секретные операции",
+    "image": "data/images/359.jpg",
+    "tags": [
+      "портфолио",
+      "dropbox"
+    ],
+    "url": "https://www.dropbox.com/blackops",
+    "date": 1542708017,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "dropbox"
+    ]
+  }
+]

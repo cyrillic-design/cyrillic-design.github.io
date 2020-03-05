@@ -1,1 +1,152 @@
-[{"id":505,"title":"Карамзин Онлайн","image":"data/images/505.jpg","tags":["память","спецпроект"],"url":"http://www.karamzin.info/","date":1557828063,"edit_date":1583185363,"isHighlighted":false,"isRemoved":false,"slugs":["pamyat","spetsproekt"]},{"id":480,"title":"25.03. Реквием","image":"data/images/480.jpg","tags":["память","такиедела"],"url":"https://requiem.takiedela.ru/","date":1553517061,"edit_date":1583185363,"isHighlighted":false,"isRemoved":false,"slugs":["pamyat","takiedela"]},{"id":304,"title":"Бедные люди. Кабаковы","image":"data/images/304.jpg","tags":["кино","память","гараж","промо"],"url":"https://kabakovs.garagemca.org/ru/","date":1537351224,"edit_date":1583185436,"isHighlighted":false,"isRemoved":false,"slugs":["kino","pamyat","garazh","promo"]},{"id":215,"title":"Виктор Цой","image":"data/images/215.jpg","tags":["спецпроект","музыка","память","netlab"],"url":"http://kino.inspiration.vision/","date":1529748004,"edit_date":1583185435,"isHighlighted":false,"isRemoved":false,"slugs":["spetsproekt","muzika","pamyat","netlab"]},{"id":86,"title":"Жили | были","image":"data/images/86.jpg","tags":["спецпроект","благотворительность","память","люди","такиедела"],"url":"https://takiedela.ru/homeless/","date":1519120816,"edit_date":1583185563,"isHighlighted":false,"isRemoved":false,"slugs":["spetsproekt","blagotvoritelnost","pamyat","lyudi","takiedela"]},{"id":80,"title":"Памяти Юрия Верменича","image":"data/images/80.jpg","tags":["культура","спецпроект","музыка","память","coda"],"url":"http://vermenich.jazzprovince.ru/","date":1518775229,"edit_date":1583185563,"isHighlighted":false,"isRemoved":false,"slugs":["kultura","spetsproekt","muzika","pamyat","coda"]},{"id":62,"title":"Иван Айвазовский. К 200-летию со дня рождения","image":"data/images/62.jpg","tags":["культура","спецпроект","память","dianadubina"],"url":"http://ivanaivazovsky.life/","date":1518364834,"edit_date":1583185563,"isHighlighted":false,"isRemoved":false,"slugs":["kultura","spetsproekt","pamyat","dianadubina"]}]
+[
+  {
+    "id": 505,
+    "title": "Карамзин Онлайн",
+    "image": "data/images/505.jpg",
+    "tags": [
+      "память",
+      "спецпроект"
+    ],
+    "url": "http://www.karamzin.info/",
+    "date": 1557828063,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "pamyat",
+      "spetsproekt"
+    ]
+  },
+  {
+    "id": 480,
+    "title": "25.03. Реквием",
+    "image": "data/images/480.jpg",
+    "tags": [
+      "память",
+      "такиедела"
+    ],
+    "url": "https://requiem.takiedela.ru/",
+    "date": 1553517061,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "pamyat",
+      "takiedela"
+    ]
+  },
+  {
+    "id": 304,
+    "title": "Бедные люди. Кабаковы",
+    "image": "data/images/304.jpg",
+    "tags": [
+      "кино",
+      "память",
+      "гараж",
+      "промо"
+    ],
+    "url": "https://kabakovs.garagemca.org/ru/",
+    "date": 1537351224,
+    "edit_date": 1583185436,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "kino",
+      "pamyat",
+      "garazh",
+      "promo"
+    ]
+  },
+  {
+    "id": 215,
+    "title": "Виктор Цой",
+    "image": "data/images/215.jpg",
+    "tags": [
+      "спецпроект",
+      "музыка",
+      "память",
+      "netlab"
+    ],
+    "url": "http://kino.inspiration.vision/",
+    "date": 1529748004,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "muzika",
+      "pamyat",
+      "netlab"
+    ]
+  },
+  {
+    "id": 86,
+    "title": "Жили | были",
+    "image": "data/images/86.jpg",
+    "tags": [
+      "спецпроект",
+      "благотворительность",
+      "память",
+      "люди",
+      "такиедела"
+    ],
+    "url": "https://takiedela.ru/homeless/",
+    "date": 1519120816,
+    "edit_date": 1583185563,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "blagotvoritelnost",
+      "pamyat",
+      "lyudi",
+      "takiedela"
+    ]
+  },
+  {
+    "id": 80,
+    "title": "Памяти Юрия Верменича",
+    "image": "data/images/80.jpg",
+    "tags": [
+      "культура",
+      "спецпроект",
+      "музыка",
+      "память",
+      "coda"
+    ],
+    "url": "http://vermenich.jazzprovince.ru/",
+    "date": 1518775229,
+    "edit_date": 1583185563,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "kultura",
+      "spetsproekt",
+      "muzika",
+      "pamyat",
+      "coda"
+    ]
+  },
+  {
+    "id": 62,
+    "title": "Иван Айвазовский. К 200-летию со дня рождения",
+    "image": "data/images/62.jpg",
+    "tags": [
+      "культура",
+      "спецпроект",
+      "память",
+      "dianadubina"
+    ],
+    "url": "http://ivanaivazovsky.life/",
+    "date": 1518364834,
+    "edit_date": 1583185563,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "kultura",
+      "spetsproekt",
+      "pamyat",
+      "dianadubina"
+    ]
+  }
+]

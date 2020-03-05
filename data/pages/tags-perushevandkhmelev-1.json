@@ -1,1 +1,20 @@
-[{"id":553,"title":"Пётр Юшин","image":"data/images/553.jpg","tags":["портфолио","perushevandkhmelev"],"url":"https://yushinpetr.com/ru/","date":1563444011,"edit_date":1583183812,"isHighlighted":false,"isRemoved":false,"slugs":["portfolio","perushevandkhmelev"]}]
+[
+  {
+    "id": 553,
+    "title": "Пётр Юшин",
+    "image": "data/images/553.jpg",
+    "tags": [
+      "портфолио",
+      "perushevandkhmelev"
+    ],
+    "url": "https://yushinpetr.com/ru/",
+    "date": 1563444011,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "perushevandkhmelev"
+    ]
+  }
+]

@@ -1,1 +1,56 @@
-[{"id":620,"title":"Лаишево — через прошлое в настоящее","image":"data/images/620.jpg","tags":["спецпроект","совет"],"url":"https://laish.tatar/","date":1572948056,"edit_date":1583183700,"isHighlighted":false,"isRemoved":false,"slugs":["spetsproekt","sovet"]},{"id":547,"title":"Инвентаризация","image":"data/images/547.jpg","tags":["мероприятие","совет"],"url":"https://inventoryfest.ru/","date":1562603964,"edit_date":1583183812,"isHighlighted":true,"isRemoved":false,"slugs":["meropriyatie","sovet"]},{"id":535,"title":"Эко Окна","image":"data/images/535.jpg","tags":["промо","совет"],"url":"https://ecookna21.ru/","date":1560938439,"edit_date":1583183812,"isHighlighted":false,"isRemoved":false,"slugs":["promo","sovet"]}]
+[
+  {
+    "id": 620,
+    "title": "Лаишево — через прошлое в настоящее",
+    "image": "data/images/620.jpg",
+    "tags": [
+      "спецпроект",
+      "совет"
+    ],
+    "url": "https://laish.tatar/",
+    "date": 1572948056,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "sovet"
+    ]
+  },
+  {
+    "id": 547,
+    "title": "Инвентаризация",
+    "image": "data/images/547.jpg",
+    "tags": [
+      "мероприятие",
+      "совет"
+    ],
+    "url": "https://inventoryfest.ru/",
+    "date": 1562603964,
+    "edit_date": 1583183812,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "sovet"
+    ]
+  },
+  {
+    "id": 535,
+    "title": "Эко Окна",
+    "image": "data/images/535.jpg",
+    "tags": [
+      "промо",
+      "совет"
+    ],
+    "url": "https://ecookna21.ru/",
+    "date": 1560938439,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "sovet"
+    ]
+  }
+]

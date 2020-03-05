@@ -1,1 +1,62 @@
-[{"id":516,"title":"Любава","image":"data/images/516.jpg","tags":["магазин","производство","max"],"url":"http://xn--80aabf6b4g.xn--p1acf/","date":1558778408,"edit_date":1583185363,"isHighlighted":false,"isRemoved":false,"slugs":["magazin","proizvodstvo","max"]},{"id":433,"title":"VkusVill - Доставка","image":"data/images/433.jpg","tags":["сервис","доставка","max"],"url":"https://dostavka.vkusvill.ru/","date":1549706401,"edit_date":1583185362,"isHighlighted":false,"isRemoved":false,"slugs":["servis","dostavka","max"]},{"id":422,"title":"ВкусВилл","image":"data/images/422.jpg","tags":["сервис","магазин","max"],"url":"https://new.vkusvill.ru","date":1548496819,"edit_date":1583185362,"isHighlighted":false,"isRemoved":false,"slugs":["servis","magazin","max"]}]
+[
+  {
+    "id": 516,
+    "title": "Любава",
+    "image": "data/images/516.jpg",
+    "tags": [
+      "магазин",
+      "производство",
+      "max"
+    ],
+    "url": "http://xn--80aabf6b4g.xn--p1acf/",
+    "date": 1558778408,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "proizvodstvo",
+      "max"
+    ]
+  },
+  {
+    "id": 433,
+    "title": "VkusVill - Доставка",
+    "image": "data/images/433.jpg",
+    "tags": [
+      "сервис",
+      "доставка",
+      "max"
+    ],
+    "url": "https://dostavka.vkusvill.ru/",
+    "date": 1549706401,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "dostavka",
+      "max"
+    ]
+  },
+  {
+    "id": 422,
+    "title": "ВкусВилл",
+    "image": "data/images/422.jpg",
+    "tags": [
+      "сервис",
+      "магазин",
+      "max"
+    ],
+    "url": "https://new.vkusvill.ru",
+    "date": 1548496819,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "magazin",
+      "max"
+    ]
+  }
+]

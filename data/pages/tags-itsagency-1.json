@@ -1,1 +1,22 @@
-[{"id":374,"title":"Larne","image":"data/images/374.jpg","tags":["мода","магазин","itsagency"],"url":"https://larne.ru/","date":1543831214,"edit_date":1583185395,"isHighlighted":false,"isRemoved":false,"slugs":["moda","magazin","itsagency"]}]
+[
+  {
+    "id": 374,
+    "title": "Larne",
+    "image": "data/images/374.jpg",
+    "tags": [
+      "мода",
+      "магазин",
+      "itsagency"
+    ],
+    "url": "https://larne.ru/",
+    "date": 1543831214,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "moda",
+      "magazin",
+      "itsagency"
+    ]
+  }
+]

@@ -1,1 +1,20 @@
-[{"id":385,"title":"Pure","image":"data/images/385.jpg","tags":["сервис","датинг"],"url":"https://pure.sex/ru/","date":1544608815,"edit_date":1583185395,"isHighlighted":false,"isRemoved":false,"slugs":["servis","dating"]}]
+[
+  {
+    "id": 385,
+    "title": "Pure",
+    "image": "data/images/385.jpg",
+    "tags": [
+      "сервис",
+      "датинг"
+    ],
+    "url": "https://pure.sex/ru/",
+    "date": 1544608815,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "dating"
+    ]
+  }
+]

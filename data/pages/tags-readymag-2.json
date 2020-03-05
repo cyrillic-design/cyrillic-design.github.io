@@ -1,1 +1,105 @@
-[{"id":284,"title":"Фестиваль 90 лет Парку Горького","image":"data/images/284.jpg","tags":["мероприятие","фестиваль","город","readymag"],"url":"http://90-pg.com/","date":1535623221,"edit_date":1583185435,"isHighlighted":false,"isRemoved":false,"slugs":["meropriyatie","festival","gorod","readymag"]},{"id":263,"title":"Десять шрифтов 2017","caption":"Десять шрифтов 2017 \nhttp://2017.typejournal.ru/\n\n#спецпроект #журналшрифт #readymag","image":"data/images/263.jpg","tags":["спецпроект","журналшрифт","readymag"],"url":"http://2017.typejournal.ru/","date":1533895207,"edit_date":1583247436,"isHighlighted":false,"isRemoved":false,"slugs":["spetsproekt","zhurnalshrift","readymag"]},{"id":156,"title":"Rocket Home Pig","image":"data/images/156.jpg","tags":["промо","банк","финансы","readymag"],"url":"http://homepig.rocketbank.ru/","date":1524564005,"edit_date":1583185536,"isHighlighted":true,"isRemoved":false,"slugs":["promo","bank","finansi","readymag"]},{"id":151,"title":"Свет изнутри","image":"data/images/151.jpg","tags":["спецпроект","readymag","катяузиенко"],"url":"https://readymag.com/kaatisha/shine/","date":1524132003,"edit_date":1583185536,"isHighlighted":false,"isRemoved":false,"slugs":["spetsproekt","readymag","katyauzienko"]},{"id":122,"title":"R/m Design Almanac","image":"data/images/122.jpg","tags":["образование","readymag"],"url":"https://almanac-rus.readymag.com/","date":1521712804,"edit_date":1583185535,"isHighlighted":false,"isRemoved":false,"slugs":["obrazovanie","readymag"]}]
+[
+  {
+    "id": 284,
+    "title": "Фестиваль 90 лет Парку Горького",
+    "image": "data/images/284.jpg",
+    "tags": [
+      "мероприятие",
+      "фестиваль",
+      "город",
+      "readymag"
+    ],
+    "url": "http://90-pg.com/",
+    "date": 1535623221,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "festival",
+      "gorod",
+      "readymag"
+    ]
+  },
+  {
+    "id": 263,
+    "title": "Десять шрифтов 2017",
+    "caption": "Десять шрифтов 2017 \nhttp://2017.typejournal.ru/\n\n#спецпроект #журналшрифт #readymag",
+    "image": "data/images/263.jpg",
+    "tags": [
+      "спецпроект",
+      "журналшрифт",
+      "readymag"
+    ],
+    "url": "http://2017.typejournal.ru/",
+    "date": 1533895207,
+    "edit_date": 1583247436,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "zhurnalshrift",
+      "readymag"
+    ]
+  },
+  {
+    "id": 156,
+    "title": "Rocket Home Pig",
+    "image": "data/images/156.jpg",
+    "tags": [
+      "промо",
+      "банк",
+      "финансы",
+      "readymag"
+    ],
+    "url": "http://homepig.rocketbank.ru/",
+    "date": 1524564005,
+    "edit_date": 1583185536,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "bank",
+      "finansi",
+      "readymag"
+    ]
+  },
+  {
+    "id": 151,
+    "title": "Свет изнутри",
+    "image": "data/images/151.jpg",
+    "tags": [
+      "спецпроект",
+      "readymag",
+      "катяузиенко"
+    ],
+    "url": "https://readymag.com/kaatisha/shine/",
+    "date": 1524132003,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "readymag",
+      "katyauzienko"
+    ]
+  },
+  {
+    "id": 122,
+    "title": "R/m Design Almanac",
+    "image": "data/images/122.jpg",
+    "tags": [
+      "образование",
+      "readymag"
+    ],
+    "url": "https://almanac-rus.readymag.com/",
+    "date": 1521712804,
+    "edit_date": 1583185535,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "readymag"
+    ]
+  }
+]

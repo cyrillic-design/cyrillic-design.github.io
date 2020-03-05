@@ -1,1 +1,238 @@
-[{"id":246,"title":"Щи","image":"data/images/246.jpg","tags":["журнал","издание"],"url":"http://schi.media/","date":1532426406,"edit_date":1583185435,"isHighlighted":false,"isRemoved":false,"slugs":["zhurnal","izdanie"]},{"id":213,"title":"Нож","image":"data/images/213.jpg","tags":["журнал","медиа"],"url":"https://knife.media/","date":1529575224,"edit_date":1583185435,"isHighlighted":true,"isRemoved":false,"slugs":["zhurnal","media"]},{"id":204,"title":"Tatler","image":"data/images/204.jpg","tags":["журнал","мода"],"url":"https://www.tatler.ru/","date":1528797612,"edit_date":1583185536,"isHighlighted":false,"isRemoved":false,"slugs":["zhurnal","moda"]},{"id":201,"title":"Афиша Daily","image":"data/images/201.jpg","tags":["журнал","новости","люди"],"url":"https://daily.afisha.ru/","date":1528538418,"edit_date":1583185536,"isHighlighted":false,"isRemoved":false,"slugs":["zhurnal","novosti","lyudi"]},{"id":196,"title":"Esquire","image":"data/images/196.jpg","tags":["журнал","люди","новости","мода"],"url":"https://esquire.ru/","date":1528106414,"edit_date":1583185536,"isHighlighted":false,"isRemoved":false,"slugs":["zhurnal","lyudi","novosti","moda"]},{"id":183,"title":"ThisIsMedia","image":"data/images/183.jpg","tags":["медиа","журнал"],"url":"https://thisis.media/","date":1527069606,"edit_date":1583185536,"isHighlighted":false,"isRemoved":false,"slugs":["media","zhurnal"]},{"id":179,"title":"Телеграф","image":"data/images/179.jpg","tags":["журнал","образование","люди","the23"],"url":"http://telegraf.design/","date":1526724012,"edit_date":1583185536,"isHighlighted":false,"isRemoved":false,"slugs":["zhurnal","obrazovanie","lyudi","the23"]},{"id":135,"title":"Полюбить советскую архитектуру","image":"data/images/135.jpg","tags":["спецпроект","strelka","журнал"],"url":"https://sovietarch.strelka.com/ru/","date":1522836010,"edit_date":1583185535,"isHighlighted":true,"isRemoved":false,"slugs":["spetsproekt","strelka","zhurnal"]},{"id":123,"title":"type today","image":"data/images/123.jpg","tags":["магазин","журнал"],"url":"https://type.today/ru","date":1521799209,"edit_date":1583185535,"isHighlighted":false,"isRemoved":false,"slugs":["magazin","zhurnal"]},{"id":103,"title":"Inc.Russia","image":"data/images/103.jpg","tags":["журнал","медиа","бизнес"],"url":"https://incrussia.ru/","date":1520152874,"edit_date":1583185563,"isHighlighted":true,"isRemoved":false,"slugs":["zhurnal","media","biznes"]},{"id":99,"title":"Т—Ж","image":"data/images/99.jpg","tags":["финансы","журнал","медиа"],"url":"https://journal.tinkoff.ru/","date":1519812007,"edit_date":1583185563,"isHighlighted":true,"isRemoved":false,"slugs":["finansi","zhurnal","media"]},{"id":76,"title":"Republic","image":"data/images/76.jpg","tags":["новости","медиа","журнал","wednesday"],"url":"https://republic.ru/","date":1518688846,"edit_date":1583185563,"isHighlighted":true,"isRemoved":false,"slugs":["novosti","media","zhurnal","wednesday"]}]
+[
+  {
+    "id": 246,
+    "title": "Щи",
+    "image": "data/images/246.jpg",
+    "tags": [
+      "журнал",
+      "издание"
+    ],
+    "url": "http://schi.media/",
+    "date": 1532426406,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "izdanie"
+    ]
+  },
+  {
+    "id": 213,
+    "title": "Нож",
+    "image": "data/images/213.jpg",
+    "tags": [
+      "журнал",
+      "медиа"
+    ],
+    "url": "https://knife.media/",
+    "date": 1529575224,
+    "edit_date": 1583185435,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "media"
+    ]
+  },
+  {
+    "id": 204,
+    "title": "Tatler",
+    "image": "data/images/204.jpg",
+    "tags": [
+      "журнал",
+      "мода"
+    ],
+    "url": "https://www.tatler.ru/",
+    "date": 1528797612,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "moda"
+    ]
+  },
+  {
+    "id": 201,
+    "title": "Афиша Daily",
+    "image": "data/images/201.jpg",
+    "tags": [
+      "журнал",
+      "новости",
+      "люди"
+    ],
+    "url": "https://daily.afisha.ru/",
+    "date": 1528538418,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "novosti",
+      "lyudi"
+    ]
+  },
+  {
+    "id": 196,
+    "title": "Esquire",
+    "image": "data/images/196.jpg",
+    "tags": [
+      "журнал",
+      "люди",
+      "новости",
+      "мода"
+    ],
+    "url": "https://esquire.ru/",
+    "date": 1528106414,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "lyudi",
+      "novosti",
+      "moda"
+    ]
+  },
+  {
+    "id": 183,
+    "title": "ThisIsMedia",
+    "image": "data/images/183.jpg",
+    "tags": [
+      "медиа",
+      "журнал"
+    ],
+    "url": "https://thisis.media/",
+    "date": 1527069606,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "media",
+      "zhurnal"
+    ]
+  },
+  {
+    "id": 179,
+    "title": "Телеграф",
+    "image": "data/images/179.jpg",
+    "tags": [
+      "журнал",
+      "образование",
+      "люди",
+      "the23"
+    ],
+    "url": "http://telegraf.design/",
+    "date": 1526724012,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "obrazovanie",
+      "lyudi",
+      "the23"
+    ]
+  },
+  {
+    "id": 135,
+    "title": "Полюбить советскую архитектуру",
+    "image": "data/images/135.jpg",
+    "tags": [
+      "спецпроект",
+      "strelka",
+      "журнал"
+    ],
+    "url": "https://sovietarch.strelka.com/ru/",
+    "date": 1522836010,
+    "edit_date": 1583185535,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "strelka",
+      "zhurnal"
+    ]
+  },
+  {
+    "id": 123,
+    "title": "type today",
+    "image": "data/images/123.jpg",
+    "tags": [
+      "магазин",
+      "журнал"
+    ],
+    "url": "https://type.today/ru",
+    "date": 1521799209,
+    "edit_date": 1583185535,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "zhurnal"
+    ]
+  },
+  {
+    "id": 103,
+    "title": "Inc.Russia",
+    "image": "data/images/103.jpg",
+    "tags": [
+      "журнал",
+      "медиа",
+      "бизнес"
+    ],
+    "url": "https://incrussia.ru/",
+    "date": 1520152874,
+    "edit_date": 1583185563,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "media",
+      "biznes"
+    ]
+  },
+  {
+    "id": 99,
+    "title": "Т—Ж",
+    "image": "data/images/99.jpg",
+    "tags": [
+      "финансы",
+      "журнал",
+      "медиа"
+    ],
+    "url": "https://journal.tinkoff.ru/",
+    "date": 1519812007,
+    "edit_date": 1583185563,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "finansi",
+      "zhurnal",
+      "media"
+    ]
+  },
+  {
+    "id": 76,
+    "title": "Republic",
+    "image": "data/images/76.jpg",
+    "tags": [
+      "новости",
+      "медиа",
+      "журнал",
+      "wednesday"
+    ],
+    "url": "https://republic.ru/",
+    "date": 1518688846,
+    "edit_date": 1583185563,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "novosti",
+      "media",
+      "zhurnal",
+      "wednesday"
+    ]
+  }
+]

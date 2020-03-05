@@ -1,1 +1,40 @@
-[{"id":410,"title":"КиноПоиск — Итоги 2018 года","image":"data/images/410.jpg","tags":["сервис","итоги"],"url":"https://www.kinopoisk.ru/special/itogi18/","date":1547460141,"edit_date":1583185395,"isHighlighted":false,"isRemoved":false,"slugs":["servis","itogi"]},{"id":406,"title":"Tilda. Итоги 2018 года","image":"data/images/406.jpg","tags":["сервис","итоги","блог"],"url":"http://blog.tilda.cc/2018-in-review","date":1547114430,"edit_date":1583185395,"isHighlighted":false,"isRemoved":false,"slugs":["servis","itogi","blog"]}]
+[
+  {
+    "id": 410,
+    "title": "КиноПоиск — Итоги 2018 года",
+    "image": "data/images/410.jpg",
+    "tags": [
+      "сервис",
+      "итоги"
+    ],
+    "url": "https://www.kinopoisk.ru/special/itogi18/",
+    "date": 1547460141,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "itogi"
+    ]
+  },
+  {
+    "id": 406,
+    "title": "Tilda. Итоги 2018 года",
+    "image": "data/images/406.jpg",
+    "tags": [
+      "сервис",
+      "итоги",
+      "блог"
+    ],
+    "url": "http://blog.tilda.cc/2018-in-review",
+    "date": 1547114430,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "itogi",
+      "blog"
+    ]
+  }
+]

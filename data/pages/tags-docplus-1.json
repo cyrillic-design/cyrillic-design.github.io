@@ -1,1 +1,22 @@
-[{"id":458,"title":"Только спросить","image":"data/images/458.jpg","tags":["блог","здоровье","docplus"],"url":"https://tolkosprosit.docplus.ru/blog/","date":1551520801,"edit_date":1583185362,"isHighlighted":false,"isRemoved":false,"slugs":["blog","zdorove","docplus"]}]
+[
+  {
+    "id": 458,
+    "title": "Только спросить",
+    "image": "data/images/458.jpg",
+    "tags": [
+      "блог",
+      "здоровье",
+      "docplus"
+    ],
+    "url": "https://tolkosprosit.docplus.ru/blog/",
+    "date": 1551520801,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "blog",
+      "zdorove",
+      "docplus"
+    ]
+  }
+]

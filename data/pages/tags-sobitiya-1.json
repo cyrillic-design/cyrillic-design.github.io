@@ -1,1 +1,24 @@
-[{"id":633,"title":"ВДНХ","image":"data/images/633.jpg","tags":["события","город","люди","смена"],"url":"https://new.vdnh.ru/","date":1575108085,"edit_date":1583183700,"isHighlighted":false,"isRemoved":false,"slugs":["sobitiya","gorod","lyudi","smena"]}]
+[
+  {
+    "id": 633,
+    "title": "ВДНХ",
+    "image": "data/images/633.jpg",
+    "tags": [
+      "события",
+      "город",
+      "люди",
+      "смена"
+    ],
+    "url": "https://new.vdnh.ru/",
+    "date": 1575108085,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "sobitiya",
+      "gorod",
+      "lyudi",
+      "smena"
+    ]
+  }
+]

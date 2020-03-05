@@ -1,1 +1,62 @@
-[{"id":337,"title":"Я вышел ростом и лицом","image":"data/images/337.jpg","tags":["спецпроект","lentaru"],"url":"http://vysotsky.lenta.ru/","date":1540720809,"edit_date":1583185395,"isHighlighted":false,"isRemoved":false,"slugs":["spetsproekt","lentaru"]},{"id":317,"title":"Белый квадрат","image":"data/images/317.jpg","tags":["спецпроект","lentaru"],"url":"http://sorokin.lenta.ru/","date":1538474415,"edit_date":1583185395,"isHighlighted":false,"isRemoved":false,"slugs":["spetsproekt","lentaru"]},{"id":312,"title":"Бунтарь. Воин. Атеист","image":"data/images/312.jpg","tags":["спецпроект","промо","искусство","lentaru","третьяковскаягалерея"],"url":"https://vereshchagin.lenta.ru/","date":1538041141,"edit_date":1583185395,"isHighlighted":false,"isRemoved":false,"slugs":["spetsproekt","promo","iskusstvo","lentaru","tretyakovskayagalereya"]}]
+[
+  {
+    "id": 337,
+    "title": "Я вышел ростом и лицом",
+    "image": "data/images/337.jpg",
+    "tags": [
+      "спецпроект",
+      "lentaru"
+    ],
+    "url": "http://vysotsky.lenta.ru/",
+    "date": 1540720809,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "lentaru"
+    ]
+  },
+  {
+    "id": 317,
+    "title": "Белый квадрат",
+    "image": "data/images/317.jpg",
+    "tags": [
+      "спецпроект",
+      "lentaru"
+    ],
+    "url": "http://sorokin.lenta.ru/",
+    "date": 1538474415,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "lentaru"
+    ]
+  },
+  {
+    "id": 312,
+    "title": "Бунтарь. Воин. Атеист",
+    "image": "data/images/312.jpg",
+    "tags": [
+      "спецпроект",
+      "промо",
+      "искусство",
+      "lentaru",
+      "третьяковскаягалерея"
+    ],
+    "url": "https://vereshchagin.lenta.ru/",
+    "date": 1538041141,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "promo",
+      "iskusstvo",
+      "lentaru",
+      "tretyakovskayagalereya"
+    ]
+  }
+]

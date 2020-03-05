@@ -1,1 +1,22 @@
-[{"id":423,"title":"Телесеть","image":"data/images/423.jpg","tags":["услуги","провайдер","apusagency"],"url":"https://teleset.plus/","date":1548583204,"edit_date":1583185362,"isHighlighted":false,"isRemoved":false,"slugs":["uslugi","provaider","apusagency"]}]
+[
+  {
+    "id": 423,
+    "title": "Телесеть",
+    "image": "data/images/423.jpg",
+    "tags": [
+      "услуги",
+      "провайдер",
+      "apusagency"
+    ],
+    "url": "https://teleset.plus/",
+    "date": 1548583204,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "uslugi",
+      "provaider",
+      "apusagency"
+    ]
+  }
+]

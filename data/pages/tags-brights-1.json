@@ -1,1 +1,20 @@
-[{"id":591,"title":"KLEI","image":"data/images/591.jpg","tags":["сервис","brights"],"url":"http://klei.co/","date":1569146419,"edit_date":1583183812,"isHighlighted":false,"isRemoved":false,"slugs":["servis","brights"]}]
+[
+  {
+    "id": 591,
+    "title": "KLEI",
+    "image": "data/images/591.jpg",
+    "tags": [
+      "сервис",
+      "brights"
+    ],
+    "url": "http://klei.co/",
+    "date": 1569146419,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "brights"
+    ]
+  }
+]

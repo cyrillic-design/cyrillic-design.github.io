@@ -1,1 +1,60 @@
-[{"id":468,"title":"Sense","image":"data/images/468.jpg","tags":["медиа","образование","otherland"],"url":"https://sense.community/ru/","date":1552384825,"edit_date":1583185363,"isHighlighted":false,"isRemoved":false,"slugs":["media","obrazovanie","otherland"]},{"id":449,"title":"Pro et Contra","image":"data/images/449.jpg","tags":["услуги","промо","otherland"],"url":"http://pro-et-contra.com.ua/","date":1551088809,"edit_date":1583185362,"isHighlighted":false,"isRemoved":false,"slugs":["uslugi","promo","otherland"]},{"id":436,"title":"PRAGMATIKA MEDIA","image":"data/images/436.jpg","tags":["журнал","otherland"],"url":"https://pragmatika.media/","date":1549965608,"edit_date":1583185362,"isHighlighted":false,"isRemoved":false,"slugs":["zhurnal","otherland"]}]
+[
+  {
+    "id": 468,
+    "title": "Sense",
+    "image": "data/images/468.jpg",
+    "tags": [
+      "медиа",
+      "образование",
+      "otherland"
+    ],
+    "url": "https://sense.community/ru/",
+    "date": 1552384825,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "media",
+      "obrazovanie",
+      "otherland"
+    ]
+  },
+  {
+    "id": 449,
+    "title": "Pro et Contra",
+    "image": "data/images/449.jpg",
+    "tags": [
+      "услуги",
+      "промо",
+      "otherland"
+    ],
+    "url": "http://pro-et-contra.com.ua/",
+    "date": 1551088809,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "uslugi",
+      "promo",
+      "otherland"
+    ]
+  },
+  {
+    "id": 436,
+    "title": "PRAGMATIKA MEDIA",
+    "image": "data/images/436.jpg",
+    "tags": [
+      "журнал",
+      "otherland"
+    ],
+    "url": "https://pragmatika.media/",
+    "date": 1549965608,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "otherland"
+    ]
+  }
+]

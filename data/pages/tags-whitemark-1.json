@@ -1,1 +1,22 @@
-[{"id":659,"title":"Alcon Tower","image":"data/images/659.jpg","tags":["недвижимость","промо","whitemark"],"url":"https://www.alcontower.ru/","date":1580296973,"edit_date":1583183700,"isHighlighted":false,"isRemoved":false,"slugs":["nedvizhimost","promo","whitemark"]}]
+[
+  {
+    "id": 659,
+    "title": "Alcon Tower",
+    "image": "data/images/659.jpg",
+    "tags": [
+      "недвижимость",
+      "промо",
+      "whitemark"
+    ],
+    "url": "https://www.alcontower.ru/",
+    "date": 1580296973,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "nedvizhimost",
+      "promo",
+      "whitemark"
+    ]
+  }
+]

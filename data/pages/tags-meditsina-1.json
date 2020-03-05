@@ -1,1 +1,22 @@
-[{"id":177,"title":"Детская клиническая больница","image":"data/images/177.jpg","tags":["медицина","здоровье","aic"],"url":"http://deti-sechenov.ru/","date":1526551212,"edit_date":1583185536,"isHighlighted":false,"isRemoved":false,"slugs":["meditsina","zdorove","aic"]}]
+[
+  {
+    "id": 177,
+    "title": "Детская клиническая больница",
+    "image": "data/images/177.jpg",
+    "tags": [
+      "медицина",
+      "здоровье",
+      "aic"
+    ],
+    "url": "http://deti-sechenov.ru/",
+    "date": 1526551212,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meditsina",
+      "zdorove",
+      "aic"
+    ]
+  }
+]

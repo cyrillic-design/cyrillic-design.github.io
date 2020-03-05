@@ -1,1 +1,20 @@
-[{"id":414,"title":"Lure","image":"data/images/414.jpg","tags":["промо","redo"],"url":"http://lureoysterbar.ru","date":1547805617,"edit_date":1583185362,"isHighlighted":false,"isRemoved":false,"slugs":["promo","redo"]}]
+[
+  {
+    "id": 414,
+    "title": "Lure",
+    "image": "data/images/414.jpg",
+    "tags": [
+      "промо",
+      "redo"
+    ],
+    "url": "http://lureoysterbar.ru",
+    "date": 1547805617,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "redo"
+    ]
+  }
+]

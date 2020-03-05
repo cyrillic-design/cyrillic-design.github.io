@@ -1,1 +1,22 @@
-[{"id":401,"title":"Сделай свой Выборг","image":"data/images/401.jpg","tags":["бренд","город","setters"],"url":"https://vyborg.me/","date":1545904829,"edit_date":1583185395,"isHighlighted":false,"isRemoved":false,"slugs":["brend","gorod","setters"]}]
+[
+  {
+    "id": 401,
+    "title": "Сделай свой Выборг",
+    "image": "data/images/401.jpg",
+    "tags": [
+      "бренд",
+      "город",
+      "setters"
+    ],
+    "url": "https://vyborg.me/",
+    "date": 1545904829,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "brend",
+      "gorod",
+      "setters"
+    ]
+  }
+]

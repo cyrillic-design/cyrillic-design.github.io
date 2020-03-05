@@ -1,1 +1,20 @@
-[{"id":539,"title":"ЗАО «Росма»","image":"data/images/539.jpg","tags":["производство","levelup"],"url":"https://rosma.spb.ru/","date":1561370466,"edit_date":1583183812,"isHighlighted":false,"isRemoved":false,"slugs":["proizvodstvo","levelup"]}]
+[
+  {
+    "id": 539,
+    "title": "ЗАО «Росма»",
+    "image": "data/images/539.jpg",
+    "tags": [
+      "производство",
+      "levelup"
+    ],
+    "url": "https://rosma.spb.ru/",
+    "date": 1561370466,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "levelup"
+    ]
+  }
+]

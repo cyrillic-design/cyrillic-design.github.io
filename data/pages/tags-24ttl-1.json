@@ -1,1 +1,20 @@
-[{"id":660,"title":"International Digital Retail Forum 2020","image":"data/images/660.jpg","tags":["мероприятие","24ttl"],"url":"https://www.idrf.online/","date":1580983260,"edit_date":1583183700,"isHighlighted":false,"isRemoved":false,"slugs":["meropriyatie","24ttl"]}]
+[
+  {
+    "id": 660,
+    "title": "International Digital Retail Forum 2020",
+    "image": "data/images/660.jpg",
+    "tags": [
+      "мероприятие",
+      "24ttl"
+    ],
+    "url": "https://www.idrf.online/",
+    "date": 1580983260,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "24ttl"
+    ]
+  }
+]

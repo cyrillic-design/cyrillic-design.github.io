@@ -1,1 +1,338 @@
-[{"id":402,"title":"Рейтинги РВК 2018","image":"data/images/402.jpg","tags":["финансы","бизнес"],"url":"http://ratings.rvc.ru/","date":1545991205,"edit_date":1583185395,"isHighlighted":false,"isRemoved":false,"slugs":["finansi","biznes"]},{"id":398,"title":"Radario","image":"data/images/398.jpg","tags":["сервис","бизнес","финансы"],"url":"https://business.radario.ru/","date":1545645648,"edit_date":1583185395,"isHighlighted":false,"isRemoved":false,"slugs":["servis","biznes","finansi"]},{"id":384,"title":"Конференция «Управление изменениями. Global Russians»","image":"data/images/384.jpg","tags":["мероприятие","бизнес","plusone"],"url":"https://conf.plus-one.ru/global-russians","date":1544522444,"edit_date":1583185395,"isHighlighted":false,"isRemoved":false,"slugs":["meropriyatie","biznes","plusone"]},{"id":311,"title":"РБК","image":"data/images/311.jpg","tags":["новости","политика","бизнес"],"url":"https://www.rbc.ru/","date":1537956012,"edit_date":1583185395,"isHighlighted":false,"isRemoved":false,"slugs":["novosti","politika","biznes"]},{"id":303,"title":"Wheely","image":"data/images/303.jpg","tags":["сервис","бизнес"],"url":"https://wheely.com/ru","date":1537264817,"edit_date":1583185436,"isHighlighted":false,"isRemoved":false,"slugs":["servis","biznes"]},{"id":301,"title":"Яндекс.Касса","image":"data/images/301.jpg","tags":["update","яндекс","сервис","финансы","бизнес"],"url":"https://kassa.yandex.ru/","date":1537092010,"edit_date":1583185436,"isHighlighted":false,"isRemoved":false,"slugs":["update","yandeks","servis","finansi","biznes"]},{"id":255,"title":"Volt for Drive","image":"data/images/255.jpg","tags":["сервис","технологии","бизнес","redcollar"],"url":"https://v4d.ru/","date":1533204018,"edit_date":1583185435,"isHighlighted":false,"isRemoved":false,"slugs":["servis","tekhnologii","biznes","redcollar"]},{"id":230,"title":"Сфера","image":"data/images/230.jpg","tags":["банк","финансы","бизнес","бкс"],"url":"https://sfera.ru/","date":1531044005,"edit_date":1583185435,"isHighlighted":false,"isRemoved":false,"slugs":["bank","finansi","biznes","bks"]},{"id":228,"title":"Dumb Startups","image":"data/images/228.jpg","tags":["образованиие","люди","бизнес"],"url":"http://dumbstartup.co/","date":1530871218,"edit_date":1583185435,"isHighlighted":false,"isRemoved":false,"slugs":["obrazovaniie","lyudi","biznes"]},{"id":222,"title":"Яндекс.Касса","image":"data/images/222.jpg","tags":["финансы","бизнес","сервис"],"url":"https://kassa.yandex.ru/","date":1530352817,"edit_date":1583185435,"isHighlighted":false,"isRemoved":false,"slugs":["finansi","biznes","servis"]},{"id":171,"title":"Legacy","image":"data/images/171.jpg","tags":["фонд","бизнес","финансы","сибирикс"],"url":"http://legacy-ef.com/","date":1526032809,"edit_date":1583185536,"isHighlighted":false,"isRemoved":false,"slugs":["fond","biznes","finansi","sibiriks"]},{"id":148,"title":"Ведомости","image":"data/images/148.jpg","tags":["новости","газета","бизнес","финансы","charmer"],"url":"https://m.vedomosti.ru/","date":1523872822,"edit_date":1583185536,"isHighlighted":false,"isRemoved":false,"slugs":["novosti","gazeta","biznes","finansi","charmer"]},{"id":144,"title":"+1","image":"data/images/144.jpg","tags":["спецпроект","люди","бизнес","государство","образование"],"url":"http://plus-one.ru/","date":1523527220,"edit_date":1583185535,"isHighlighted":false,"isRemoved":false,"slugs":["spetsproekt","lyudi","biznes","gosudarstvo","obrazovanie"]},{"id":138,"title":"pcc world","image":"data/images/138.jpg","tags":["реклама","портал","образование","бизнес"],"url":"https://ppc.world/","date":1523095230,"edit_date":1583185535,"isHighlighted":false,"isRemoved":false,"slugs":["reklama","portal","obrazovanie","biznes"]},{"id":133,"title":"BERNÍK & partneri","image":"data/images/133.jpg","tags":["бизнес","услуги","ideil"],"url":"https://www.bernik-partneri.sk/ru","date":1522662082,"edit_date":1583185535,"isHighlighted":false,"isRemoved":false,"slugs":["biznes","uslugi","ideil"]},{"id":103,"title":"Inc.Russia","image":"data/images/103.jpg","tags":["журнал","медиа","бизнес"],"url":"https://incrussia.ru/","date":1520152874,"edit_date":1583185563,"isHighlighted":true,"isRemoved":false,"slugs":["zhurnal","media","biznes"]}]
+[
+  {
+    "id": 402,
+    "title": "Рейтинги РВК 2018",
+    "image": "data/images/402.jpg",
+    "tags": [
+      "финансы",
+      "бизнес"
+    ],
+    "url": "http://ratings.rvc.ru/",
+    "date": 1545991205,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "finansi",
+      "biznes"
+    ]
+  },
+  {
+    "id": 398,
+    "title": "Radario",
+    "image": "data/images/398.jpg",
+    "tags": [
+      "сервис",
+      "бизнес",
+      "финансы"
+    ],
+    "url": "https://business.radario.ru/",
+    "date": 1545645648,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "biznes",
+      "finansi"
+    ]
+  },
+  {
+    "id": 384,
+    "title": "Конференция «Управление изменениями. Global Russians»",
+    "image": "data/images/384.jpg",
+    "tags": [
+      "мероприятие",
+      "бизнес",
+      "plusone"
+    ],
+    "url": "https://conf.plus-one.ru/global-russians",
+    "date": 1544522444,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "biznes",
+      "plusone"
+    ]
+  },
+  {
+    "id": 311,
+    "title": "РБК",
+    "image": "data/images/311.jpg",
+    "tags": [
+      "новости",
+      "политика",
+      "бизнес"
+    ],
+    "url": "https://www.rbc.ru/",
+    "date": 1537956012,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "novosti",
+      "politika",
+      "biznes"
+    ]
+  },
+  {
+    "id": 303,
+    "title": "Wheely",
+    "image": "data/images/303.jpg",
+    "tags": [
+      "сервис",
+      "бизнес"
+    ],
+    "url": "https://wheely.com/ru",
+    "date": 1537264817,
+    "edit_date": 1583185436,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "biznes"
+    ]
+  },
+  {
+    "id": 301,
+    "title": "Яндекс.Касса",
+    "image": "data/images/301.jpg",
+    "tags": [
+      "update",
+      "яндекс",
+      "сервис",
+      "финансы",
+      "бизнес"
+    ],
+    "url": "https://kassa.yandex.ru/",
+    "date": 1537092010,
+    "edit_date": 1583185436,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "update",
+      "yandeks",
+      "servis",
+      "finansi",
+      "biznes"
+    ]
+  },
+  {
+    "id": 255,
+    "title": "Volt for Drive",
+    "image": "data/images/255.jpg",
+    "tags": [
+      "сервис",
+      "технологии",
+      "бизнес",
+      "redcollar"
+    ],
+    "url": "https://v4d.ru/",
+    "date": 1533204018,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "tekhnologii",
+      "biznes",
+      "redcollar"
+    ]
+  },
+  {
+    "id": 230,
+    "title": "Сфера",
+    "image": "data/images/230.jpg",
+    "tags": [
+      "банк",
+      "финансы",
+      "бизнес",
+      "бкс"
+    ],
+    "url": "https://sfera.ru/",
+    "date": 1531044005,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "bank",
+      "finansi",
+      "biznes",
+      "bks"
+    ]
+  },
+  {
+    "id": 228,
+    "title": "Dumb Startups",
+    "image": "data/images/228.jpg",
+    "tags": [
+      "образованиие",
+      "люди",
+      "бизнес"
+    ],
+    "url": "http://dumbstartup.co/",
+    "date": 1530871218,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovaniie",
+      "lyudi",
+      "biznes"
+    ]
+  },
+  {
+    "id": 222,
+    "title": "Яндекс.Касса",
+    "image": "data/images/222.jpg",
+    "tags": [
+      "финансы",
+      "бизнес",
+      "сервис"
+    ],
+    "url": "https://kassa.yandex.ru/",
+    "date": 1530352817,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "finansi",
+      "biznes",
+      "servis"
+    ]
+  },
+  {
+    "id": 171,
+    "title": "Legacy",
+    "image": "data/images/171.jpg",
+    "tags": [
+      "фонд",
+      "бизнес",
+      "финансы",
+      "сибирикс"
+    ],
+    "url": "http://legacy-ef.com/",
+    "date": 1526032809,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "fond",
+      "biznes",
+      "finansi",
+      "sibiriks"
+    ]
+  },
+  {
+    "id": 148,
+    "title": "Ведомости",
+    "image": "data/images/148.jpg",
+    "tags": [
+      "новости",
+      "газета",
+      "бизнес",
+      "финансы",
+      "charmer"
+    ],
+    "url": "https://m.vedomosti.ru/",
+    "date": 1523872822,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "novosti",
+      "gazeta",
+      "biznes",
+      "finansi",
+      "charmer"
+    ]
+  },
+  {
+    "id": 144,
+    "title": "+1",
+    "image": "data/images/144.jpg",
+    "tags": [
+      "спецпроект",
+      "люди",
+      "бизнес",
+      "государство",
+      "образование"
+    ],
+    "url": "http://plus-one.ru/",
+    "date": 1523527220,
+    "edit_date": 1583185535,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "lyudi",
+      "biznes",
+      "gosudarstvo",
+      "obrazovanie"
+    ]
+  },
+  {
+    "id": 138,
+    "title": "pcc world",
+    "image": "data/images/138.jpg",
+    "tags": [
+      "реклама",
+      "портал",
+      "образование",
+      "бизнес"
+    ],
+    "url": "https://ppc.world/",
+    "date": 1523095230,
+    "edit_date": 1583185535,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "reklama",
+      "portal",
+      "obrazovanie",
+      "biznes"
+    ]
+  },
+  {
+    "id": 133,
+    "title": "BERNÍK & partneri",
+    "image": "data/images/133.jpg",
+    "tags": [
+      "бизнес",
+      "услуги",
+      "ideil"
+    ],
+    "url": "https://www.bernik-partneri.sk/ru",
+    "date": 1522662082,
+    "edit_date": 1583185535,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "biznes",
+      "uslugi",
+      "ideil"
+    ]
+  },
+  {
+    "id": 103,
+    "title": "Inc.Russia",
+    "image": "data/images/103.jpg",
+    "tags": [
+      "журнал",
+      "медиа",
+      "бизнес"
+    ],
+    "url": "https://incrussia.ru/",
+    "date": 1520152874,
+    "edit_date": 1583185563,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "media",
+      "biznes"
+    ]
+  }
+]

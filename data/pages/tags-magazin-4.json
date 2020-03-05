@@ -1,1 +1,102 @@
-[{"id":106,"title":"Goods","image":"data/images/106.jpg","tags":["маркетплейс","магазин","мвидео"],"url":"https://goods.ru/","date":1520330593,"edit_date":1583185563,"isHighlighted":false,"isRemoved":false,"slugs":["marketpleis","magazin","mvideo"]},{"id":98,"title":"Ciльпо","image":"data/images/98.jpg","tags":["магазин","еда"],"url":"https://silpo.ua/","date":1519725604,"edit_date":1583185563,"isHighlighted":false,"isRemoved":false,"slugs":["magazin","yeda"]},{"id":87,"title":"Buddha pizza","image":"data/images/87.jpg","tags":["магазин","доставка","еда","solardigital"],"url":"https://buddhapizza.com/","date":1519207214,"edit_date":1583185563,"isHighlighted":false,"isRemoved":false,"slugs":["magazin","dostavka","yeda","solardigital"]},{"id":83,"title":"YAMI YAMI","image":"data/images/83.jpg","tags":["магазин","доставка","еда","breadhead"],"url":"https://yamiyami.ru/","date":1518864039,"edit_date":1583185563,"isHighlighted":true,"isRemoved":false,"slugs":["magazin","dostavka","yeda","breadhead"]},{"id":75,"title":"Bork","image":"data/images/75.jpg","tags":["магазин","промо"],"url":"https://www.bork.ru","date":1518602432,"edit_date":1583185563,"isHighlighted":true,"isRemoved":false,"slugs":["magazin","promo"]}]
+[
+  {
+    "id": 106,
+    "title": "Goods",
+    "image": "data/images/106.jpg",
+    "tags": [
+      "маркетплейс",
+      "магазин",
+      "мвидео"
+    ],
+    "url": "https://goods.ru/",
+    "date": 1520330593,
+    "edit_date": 1583185563,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "marketpleis",
+      "magazin",
+      "mvideo"
+    ]
+  },
+  {
+    "id": 98,
+    "title": "Ciльпо",
+    "image": "data/images/98.jpg",
+    "tags": [
+      "магазин",
+      "еда"
+    ],
+    "url": "https://silpo.ua/",
+    "date": 1519725604,
+    "edit_date": 1583185563,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "yeda"
+    ]
+  },
+  {
+    "id": 87,
+    "title": "Buddha pizza",
+    "image": "data/images/87.jpg",
+    "tags": [
+      "магазин",
+      "доставка",
+      "еда",
+      "solardigital"
+    ],
+    "url": "https://buddhapizza.com/",
+    "date": 1519207214,
+    "edit_date": 1583185563,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "dostavka",
+      "yeda",
+      "solardigital"
+    ]
+  },
+  {
+    "id": 83,
+    "title": "YAMI YAMI",
+    "image": "data/images/83.jpg",
+    "tags": [
+      "магазин",
+      "доставка",
+      "еда",
+      "breadhead"
+    ],
+    "url": "https://yamiyami.ru/",
+    "date": 1518864039,
+    "edit_date": 1583185563,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "dostavka",
+      "yeda",
+      "breadhead"
+    ]
+  },
+  {
+    "id": 75,
+    "title": "Bork",
+    "image": "data/images/75.jpg",
+    "tags": [
+      "магазин",
+      "промо"
+    ],
+    "url": "https://www.bork.ru",
+    "date": 1518602432,
+    "edit_date": 1583185563,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "promo"
+    ]
+  }
+]

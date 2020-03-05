@@ -1,1 +1,24 @@
-[{"id":61,"title":"Oh My Look!","image":"data/images/61.jpg","tags":["одежда","аренда","zolteco","vintage"],"url":"https://ohmylook.ua/","date":1518335843,"edit_date":1583185563,"isHighlighted":false,"isRemoved":false,"slugs":["odezhda","arenda","zolteco","vintage"]}]
+[
+  {
+    "id": 61,
+    "title": "Oh My Look!",
+    "image": "data/images/61.jpg",
+    "tags": [
+      "одежда",
+      "аренда",
+      "zolteco",
+      "vintage"
+    ],
+    "url": "https://ohmylook.ua/",
+    "date": 1518335843,
+    "edit_date": 1583185563,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "odezhda",
+      "arenda",
+      "zolteco",
+      "vintage"
+    ]
+  }
+]

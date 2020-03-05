@@ -1,1 +1,22 @@
-[{"id":446,"title":"REDO Cold brew coffee","image":"data/images/446.jpg","tags":["магазин","производство","brainylab"],"url":"https://redocoldbrew.ru/","date":1550829620,"edit_date":1583185362,"isHighlighted":false,"isRemoved":false,"slugs":["magazin","proizvodstvo","brainylab"]}]
+[
+  {
+    "id": 446,
+    "title": "REDO Cold brew coffee",
+    "image": "data/images/446.jpg",
+    "tags": [
+      "магазин",
+      "производство",
+      "brainylab"
+    ],
+    "url": "https://redocoldbrew.ru/",
+    "date": 1550829620,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "proizvodstvo",
+      "brainylab"
+    ]
+  }
+]

@@ -1,1 +1,24 @@
-[{"id":489,"title":"DataFork","image":"data/images/489.jpg","tags":["данные","аналитика","финансы","pinkman"],"url":"http://dataf.org","date":1554285626,"edit_date":1583185363,"isHighlighted":false,"isRemoved":false,"slugs":["dannie","analitika","finansi","pinkman"]}]
+[
+  {
+    "id": 489,
+    "title": "DataFork",
+    "image": "data/images/489.jpg",
+    "tags": [
+      "данные",
+      "аналитика",
+      "финансы",
+      "pinkman"
+    ],
+    "url": "http://dataf.org",
+    "date": 1554285626,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "dannie",
+      "analitika",
+      "finansi",
+      "pinkman"
+    ]
+  }
+]

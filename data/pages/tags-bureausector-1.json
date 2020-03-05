@@ -1,1 +1,22 @@
-[{"id":460,"title":"Белая Радуга","image":"data/images/460.jpg","tags":["здоровье","услуги","bureausector"],"url":"https://belayaraduga.ru/","date":1551693622,"edit_date":1583185362,"isHighlighted":false,"isRemoved":false,"slugs":["zdorove","uslugi","bureausector"]}]
+[
+  {
+    "id": 460,
+    "title": "Белая Радуга",
+    "image": "data/images/460.jpg",
+    "tags": [
+      "здоровье",
+      "услуги",
+      "bureausector"
+    ],
+    "url": "https://belayaraduga.ru/",
+    "date": 1551693622,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zdorove",
+      "uslugi",
+      "bureausector"
+    ]
+  }
+]

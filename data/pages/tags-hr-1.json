@@ -1,1 +1,36 @@
-[{"id":590,"title":"Careers Rasa Design Team","image":"data/images/590.jpg","tags":["hr","портфолио"],"url":"https://careers.rasa.team/","date":1569060028,"edit_date":1583183812,"isHighlighted":false,"isRemoved":false,"slugs":["hr","portfolio"]},{"id":455,"title":"Skyeng job review","image":"data/images/455.jpg","tags":["hr"],"url":"https://readymag.com/u49498434/1315502/","date":1551261614,"edit_date":1583185362,"isHighlighted":false,"isRemoved":false,"slugs":["hr"]}]
+[
+  {
+    "id": 590,
+    "title": "Careers Rasa Design Team",
+    "image": "data/images/590.jpg",
+    "tags": [
+      "hr",
+      "портфолио"
+    ],
+    "url": "https://careers.rasa.team/",
+    "date": 1569060028,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "hr",
+      "portfolio"
+    ]
+  },
+  {
+    "id": 455,
+    "title": "Skyeng job review",
+    "image": "data/images/455.jpg",
+    "tags": [
+      "hr"
+    ],
+    "url": "https://readymag.com/u49498434/1315502/",
+    "date": 1551261614,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "hr"
+    ]
+  }
+]

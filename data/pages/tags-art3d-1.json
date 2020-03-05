@@ -1,1 +1,42 @@
-[{"id":645,"title":"Гоголевский 12","image":"data/images/645.jpg","tags":["промо","недвижимость","art3d"],"url":"http://gogolevsky12.ru/","date":1577268028,"edit_date":1583183700,"isHighlighted":false,"isRemoved":false,"slugs":["promo","nedvizhimost","art3d"]},{"id":405,"title":"White Khamovniki","image":"data/images/405.jpg","tags":["промо","недвижимость","art3d"],"url":"http://whitekhamovniki.ru/","date":1546250413,"edit_date":1583185395,"isHighlighted":false,"isRemoved":false,"slugs":["promo","nedvizhimost","art3d"]}]
+[
+  {
+    "id": 645,
+    "title": "Гоголевский 12",
+    "image": "data/images/645.jpg",
+    "tags": [
+      "промо",
+      "недвижимость",
+      "art3d"
+    ],
+    "url": "http://gogolevsky12.ru/",
+    "date": 1577268028,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "nedvizhimost",
+      "art3d"
+    ]
+  },
+  {
+    "id": 405,
+    "title": "White Khamovniki",
+    "image": "data/images/405.jpg",
+    "tags": [
+      "промо",
+      "недвижимость",
+      "art3d"
+    ],
+    "url": "http://whitekhamovniki.ru/",
+    "date": 1546250413,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "nedvizhimost",
+      "art3d"
+    ]
+  }
+]

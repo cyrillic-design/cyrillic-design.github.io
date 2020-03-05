@@ -1,1 +1,18 @@
-[{"id":567,"title":"Жумар","image":"data/images/567.jpg","tags":["keynetstudio"],"url":"https://zhumar.ru/","date":1565776856,"edit_date":1583183812,"isHighlighted":false,"isRemoved":false,"slugs":["keynetstudio"]}]
+[
+  {
+    "id": 567,
+    "title": "Жумар",
+    "image": "data/images/567.jpg",
+    "tags": [
+      "keynetstudio"
+    ],
+    "url": "https://zhumar.ru/",
+    "date": 1565776856,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "keynetstudio"
+    ]
+  }
+]

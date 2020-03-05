@@ -1,1 +1,396 @@
-[{"id":351,"title":"TREND FORECASTING WORKSHOP","image":"data/images/351.jpg","tags":["образование","kosmos"],"url":"https://trends.k-o-s-m-o-s.com/","date":1541844026,"edit_date":1583185395,"isHighlighted":false,"isRemoved":false,"slugs":["obrazovanie","kosmos"]},{"id":325,"title":"Google Science Fair","image":"data/images/325.jpg","tags":["конкурс","образование","google"],"url":"https://www.googlesciencefair.com/intl/ru/","date":1539338448,"edit_date":1583185395,"isHighlighted":false,"isRemoved":false,"slugs":["konkurs","obrazovanie","google"]},{"id":323,"title":"The Orator Club","image":"data/images/323.jpg","tags":["update","образование","cherepukhin"],"url":"https://orator.club/","date":1539165606,"edit_date":1583185395,"isHighlighted":true,"isRemoved":false,"slugs":["update","obrazovanie","cherepukhin"]},{"id":318,"title":"Московская школа музыки","image":"data/images/318.jpg","tags":["образование","whiterussianstudio"],"url":"http://moscowmusicschool.ru/","date":1538560816,"edit_date":1583185395,"isHighlighted":false,"isRemoved":false,"slugs":["obrazovanie","whiterussianstudio"]},{"id":308,"title":"Sun and stuff","image":"data/images/308.jpg","tags":["спецпроект","образование"],"url":"http://sunandstuff.com/","date":1537696803,"edit_date":1583185395,"isHighlighted":false,"isRemoved":false,"slugs":["spetsproekt","obrazovanie"]},{"id":302,"title":"Периодическая система химических элементов Д. И. Менделеева","image":"data/images/302.jpg","tags":["образование","сервис","наука","artlebedev"],"url":"https://periodic.artlebedev.ru/","date":1537178413,"edit_date":1583185436,"isHighlighted":true,"isRemoved":false,"slugs":["obrazovanie","servis","nauka","artlebedev"]},{"id":295,"title":"Тинькофф Финтех","image":"data/images/295.jpg","tags":["образование","финансы","банк","тинькофф"],"url":"https://fintech.tinkoff.ru/","date":1536573613,"edit_date":1583185435,"isHighlighted":false,"isRemoved":false,"slugs":["obrazovanie","finansi","bank","tinkoff"]},{"id":293,"title":"The Orator Club","image":"data/images/293.jpg","tags":["образование","wonderwork"],"url":"http://orator.club/","date":1536426971,"edit_date":1583185435,"isHighlighted":true,"isRemoved":false,"slugs":["obrazovanie","wonderwork"]},{"id":289,"title":"Архитекторы РФ","image":"data/images/289.jpg","tags":["мероприятие","образование"],"url":"https://xn--80akijuiemcz7e.xn--p1ai/","date":1536055220,"edit_date":1583185435,"isHighlighted":false,"isRemoved":false,"slugs":["meropriyatie","obrazovanie"]},{"id":270,"title":"","image":"data/images/270.jpg","tags":["журнал","образование"],"url":"https://platfor.ma/","date":1534500003,"edit_date":1583185435,"isHighlighted":false,"isRemoved":false,"slugs":["zhurnal","obrazovanie"]},{"id":267,"title":"Медузы и жопы","image":"data/images/267.jpg","tags":["спецпроект","образование"],"url":"http://sunandstuff.com/mandelbrot/about/","date":1534240814,"edit_date":1583185435,"isHighlighted":false,"isRemoved":false,"slugs":["spetsproekt","obrazovanie"]},{"id":256,"title":"MADS","image":"data/images/256.jpg","tags":["образование"],"url":"https://madscourses.ru/","date":1533290421,"edit_date":1583185435,"isHighlighted":false,"isRemoved":false,"slugs":["obrazovanie"]},{"id":250,"title":"Майбутні","image":"data/images/250.jpg","tags":["образование","spiilka"],"url":"http://maibutni.com.ua/","date":1532772008,"edit_date":1583185435,"isHighlighted":false,"isRemoved":false,"slugs":["obrazovanie","spiilka"]},{"id":231,"title":"Universal University","image":"data/images/231.jpg","tags":["образование","sulliwan"],"url":"http://u.university/","date":1531130406,"edit_date":1583185435,"isHighlighted":false,"isRemoved":false,"slugs":["obrazovanie","sulliwan"]},{"id":229,"title":"100 лет дизайна","image":"data/images/229.jpg","tags":["образование","дизайн","bangbangeducation"],"url":"https://bangbangeducation.ru/100","date":1530957621,"edit_date":1583185435,"isHighlighted":false,"isRemoved":false,"slugs":["obrazovanie","dizain","bangbangeducation"]},{"id":207,"title":"DESIGNWORKOUT","image":"data/images/207.jpg","tags":["образование","дизайн","мастерская"],"url":"http://campus.designworkout.ru/","date":1529056828,"edit_date":1583185536,"isHighlighted":true,"isRemoved":false,"slugs":["obrazovanie","dizain","masterskaya"]},{"id":179,"title":"Телеграф","image":"data/images/179.jpg","tags":["журнал","образование","люди","the23"],"url":"http://telegraf.design/","date":1526724012,"edit_date":1583185536,"isHighlighted":false,"isRemoved":false,"slugs":["zhurnal","obrazovanie","lyudi","the23"]},{"id":165,"title":"Áccent","image":"data/images/165.jpg","tags":["медиа","издание","образование","платформа","setka"],"url":"https://accent.setka.io/ru/","date":1525421388,"edit_date":1583185536,"isHighlighted":true,"isRemoved":false,"slugs":["media","izdanie","obrazovanie","platforma","setka"]},{"id":144,"title":"+1","image":"data/images/144.jpg","tags":["спецпроект","люди","бизнес","государство","образование"],"url":"http://plus-one.ru/","date":1523527220,"edit_date":1583185535,"isHighlighted":false,"isRemoved":false,"slugs":["spetsproekt","lyudi","biznes","gosudarstvo","obrazovanie"]},{"id":138,"title":"pcc world","image":"data/images/138.jpg","tags":["реклама","портал","образование","бизнес"],"url":"https://ppc.world/","date":1523095230,"edit_date":1583185535,"isHighlighted":false,"isRemoved":false,"slugs":["reklama","portal","obrazovanie","biznes"]}]
+[
+  {
+    "id": 351,
+    "title": "TREND FORECASTING WORKSHOP",
+    "image": "data/images/351.jpg",
+    "tags": [
+      "образование",
+      "kosmos"
+    ],
+    "url": "https://trends.k-o-s-m-o-s.com/",
+    "date": 1541844026,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "kosmos"
+    ]
+  },
+  {
+    "id": 325,
+    "title": "Google Science Fair",
+    "image": "data/images/325.jpg",
+    "tags": [
+      "конкурс",
+      "образование",
+      "google"
+    ],
+    "url": "https://www.googlesciencefair.com/intl/ru/",
+    "date": 1539338448,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "konkurs",
+      "obrazovanie",
+      "google"
+    ]
+  },
+  {
+    "id": 323,
+    "title": "The Orator Club",
+    "image": "data/images/323.jpg",
+    "tags": [
+      "update",
+      "образование",
+      "cherepukhin"
+    ],
+    "url": "https://orator.club/",
+    "date": 1539165606,
+    "edit_date": 1583185395,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "update",
+      "obrazovanie",
+      "cherepukhin"
+    ]
+  },
+  {
+    "id": 318,
+    "title": "Московская школа музыки",
+    "image": "data/images/318.jpg",
+    "tags": [
+      "образование",
+      "whiterussianstudio"
+    ],
+    "url": "http://moscowmusicschool.ru/",
+    "date": 1538560816,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "whiterussianstudio"
+    ]
+  },
+  {
+    "id": 308,
+    "title": "Sun and stuff",
+    "image": "data/images/308.jpg",
+    "tags": [
+      "спецпроект",
+      "образование"
+    ],
+    "url": "http://sunandstuff.com/",
+    "date": 1537696803,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "obrazovanie"
+    ]
+  },
+  {
+    "id": 302,
+    "title": "Периодическая система химических элементов Д. И. Менделеева",
+    "image": "data/images/302.jpg",
+    "tags": [
+      "образование",
+      "сервис",
+      "наука",
+      "artlebedev"
+    ],
+    "url": "https://periodic.artlebedev.ru/",
+    "date": 1537178413,
+    "edit_date": 1583185436,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "servis",
+      "nauka",
+      "artlebedev"
+    ]
+  },
+  {
+    "id": 295,
+    "title": "Тинькофф Финтех",
+    "image": "data/images/295.jpg",
+    "tags": [
+      "образование",
+      "финансы",
+      "банк",
+      "тинькофф"
+    ],
+    "url": "https://fintech.tinkoff.ru/",
+    "date": 1536573613,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "finansi",
+      "bank",
+      "tinkoff"
+    ]
+  },
+  {
+    "id": 293,
+    "title": "The Orator Club",
+    "image": "data/images/293.jpg",
+    "tags": [
+      "образование",
+      "wonderwork"
+    ],
+    "url": "http://orator.club/",
+    "date": 1536426971,
+    "edit_date": 1583185435,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "wonderwork"
+    ]
+  },
+  {
+    "id": 289,
+    "title": "Архитекторы РФ",
+    "image": "data/images/289.jpg",
+    "tags": [
+      "мероприятие",
+      "образование"
+    ],
+    "url": "https://xn--80akijuiemcz7e.xn--p1ai/",
+    "date": 1536055220,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "obrazovanie"
+    ]
+  },
+  {
+    "id": 270,
+    "title": "",
+    "image": "data/images/270.jpg",
+    "tags": [
+      "журнал",
+      "образование"
+    ],
+    "url": "https://platfor.ma/",
+    "date": 1534500003,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "obrazovanie"
+    ]
+  },
+  {
+    "id": 267,
+    "title": "Медузы и жопы",
+    "image": "data/images/267.jpg",
+    "tags": [
+      "спецпроект",
+      "образование"
+    ],
+    "url": "http://sunandstuff.com/mandelbrot/about/",
+    "date": 1534240814,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "obrazovanie"
+    ]
+  },
+  {
+    "id": 256,
+    "title": "MADS",
+    "image": "data/images/256.jpg",
+    "tags": [
+      "образование"
+    ],
+    "url": "https://madscourses.ru/",
+    "date": 1533290421,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie"
+    ]
+  },
+  {
+    "id": 250,
+    "title": "Майбутні",
+    "image": "data/images/250.jpg",
+    "tags": [
+      "образование",
+      "spiilka"
+    ],
+    "url": "http://maibutni.com.ua/",
+    "date": 1532772008,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "spiilka"
+    ]
+  },
+  {
+    "id": 231,
+    "title": "Universal University",
+    "image": "data/images/231.jpg",
+    "tags": [
+      "образование",
+      "sulliwan"
+    ],
+    "url": "http://u.university/",
+    "date": 1531130406,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "sulliwan"
+    ]
+  },
+  {
+    "id": 229,
+    "title": "100 лет дизайна",
+    "image": "data/images/229.jpg",
+    "tags": [
+      "образование",
+      "дизайн",
+      "bangbangeducation"
+    ],
+    "url": "https://bangbangeducation.ru/100",
+    "date": 1530957621,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "dizain",
+      "bangbangeducation"
+    ]
+  },
+  {
+    "id": 207,
+    "title": "DESIGNWORKOUT",
+    "image": "data/images/207.jpg",
+    "tags": [
+      "образование",
+      "дизайн",
+      "мастерская"
+    ],
+    "url": "http://campus.designworkout.ru/",
+    "date": 1529056828,
+    "edit_date": 1583185536,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "dizain",
+      "masterskaya"
+    ]
+  },
+  {
+    "id": 179,
+    "title": "Телеграф",
+    "image": "data/images/179.jpg",
+    "tags": [
+      "журнал",
+      "образование",
+      "люди",
+      "the23"
+    ],
+    "url": "http://telegraf.design/",
+    "date": 1526724012,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "obrazovanie",
+      "lyudi",
+      "the23"
+    ]
+  },
+  {
+    "id": 165,
+    "title": "Áccent",
+    "image": "data/images/165.jpg",
+    "tags": [
+      "медиа",
+      "издание",
+      "образование",
+      "платформа",
+      "setka"
+    ],
+    "url": "https://accent.setka.io/ru/",
+    "date": 1525421388,
+    "edit_date": 1583185536,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "media",
+      "izdanie",
+      "obrazovanie",
+      "platforma",
+      "setka"
+    ]
+  },
+  {
+    "id": 144,
+    "title": "+1",
+    "image": "data/images/144.jpg",
+    "tags": [
+      "спецпроект",
+      "люди",
+      "бизнес",
+      "государство",
+      "образование"
+    ],
+    "url": "http://plus-one.ru/",
+    "date": 1523527220,
+    "edit_date": 1583185535,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "lyudi",
+      "biznes",
+      "gosudarstvo",
+      "obrazovanie"
+    ]
+  },
+  {
+    "id": 138,
+    "title": "pcc world",
+    "image": "data/images/138.jpg",
+    "tags": [
+      "реклама",
+      "портал",
+      "образование",
+      "бизнес"
+    ],
+    "url": "https://ppc.world/",
+    "date": 1523095230,
+    "edit_date": 1583185535,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "reklama",
+      "portal",
+      "obrazovanie",
+      "biznes"
+    ]
+  }
+]

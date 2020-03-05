@@ -1,1 +1,98 @@
-[{"id":634,"title":"Signal Future Insights","image":"data/images/634.jpg","tags":["спецпроект","ony"],"url":"https://signal-fi.ony.ru/","date":1575194465,"edit_date":1583183700,"isHighlighted":false,"isRemoved":false,"slugs":["spetsproekt","ony"]},{"id":589,"title":"Экспертный журнал о красоте","image":"data/images/589.jpg","tags":["журнал","ony"],"url":"https://flacon-magazine.com/","date":1568973621,"edit_date":1583183812,"isHighlighted":false,"isRemoved":false,"slugs":["zhurnal","ony"]},{"id":142,"title":"Третьяковская галерея","image":"data/images/142.jpg","tags":["культура","искусство","ony"],"url":"https://www.tretyakovgallery.ru/","date":1523354426,"edit_date":1583185535,"isHighlighted":false,"isRemoved":false,"slugs":["kultura","iskusstvo","ony"]},{"id":128,"title":"Связной","image":"data/images/128.jpg","tags":["магазин","ony"],"url":"https://www.svyaznoy.ru/","date":1522231213,"edit_date":1583185535,"isHighlighted":false,"isRemoved":false,"slugs":["magazin","ony"]},{"id":120,"title":"Мегафон","image":"data/images/120.jpg","tags":["телекоммуникации","провайдер","услуги","ony"],"url":"https://megafon.ru","date":1521540014,"edit_date":1583185535,"isHighlighted":false,"isRemoved":false,"slugs":["telekommunikatsii","provaider","uslugi","ony"]}]
+[
+  {
+    "id": 634,
+    "title": "Signal Future Insights",
+    "image": "data/images/634.jpg",
+    "tags": [
+      "спецпроект",
+      "ony"
+    ],
+    "url": "https://signal-fi.ony.ru/",
+    "date": 1575194465,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "ony"
+    ]
+  },
+  {
+    "id": 589,
+    "title": "Экспертный журнал о красоте",
+    "image": "data/images/589.jpg",
+    "tags": [
+      "журнал",
+      "ony"
+    ],
+    "url": "https://flacon-magazine.com/",
+    "date": 1568973621,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "ony"
+    ]
+  },
+  {
+    "id": 142,
+    "title": "Третьяковская галерея",
+    "image": "data/images/142.jpg",
+    "tags": [
+      "культура",
+      "искусство",
+      "ony"
+    ],
+    "url": "https://www.tretyakovgallery.ru/",
+    "date": 1523354426,
+    "edit_date": 1583185535,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "kultura",
+      "iskusstvo",
+      "ony"
+    ]
+  },
+  {
+    "id": 128,
+    "title": "Связной",
+    "image": "data/images/128.jpg",
+    "tags": [
+      "магазин",
+      "ony"
+    ],
+    "url": "https://www.svyaznoy.ru/",
+    "date": 1522231213,
+    "edit_date": 1583185535,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "ony"
+    ]
+  },
+  {
+    "id": 120,
+    "title": "Мегафон",
+    "image": "data/images/120.jpg",
+    "tags": [
+      "телекоммуникации",
+      "провайдер",
+      "услуги",
+      "ony"
+    ],
+    "url": "https://megafon.ru",
+    "date": 1521540014,
+    "edit_date": 1583185535,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "telekommunikatsii",
+      "provaider",
+      "uslugi",
+      "ony"
+    ]
+  }
+]

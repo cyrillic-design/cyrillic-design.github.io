@@ -1,1 +1,46 @@
-[{"id":181,"title":"Setka Workflow","image":"data/images/181.jpg","tags":["сервис","услуги","setka"],"url":"https://setka.io/ru/workflow/","date":1526896811,"edit_date":1583185536,"isHighlighted":true,"isRemoved":false,"slugs":["servis","uslugi","setka"]},{"id":165,"title":"Áccent","image":"data/images/165.jpg","tags":["медиа","издание","образование","платформа","setka"],"url":"https://accent.setka.io/ru/","date":1525421388,"edit_date":1583185536,"isHighlighted":true,"isRemoved":false,"slugs":["media","izdanie","obrazovanie","platforma","setka"]}]
+[
+  {
+    "id": 181,
+    "title": "Setka Workflow",
+    "image": "data/images/181.jpg",
+    "tags": [
+      "сервис",
+      "услуги",
+      "setka"
+    ],
+    "url": "https://setka.io/ru/workflow/",
+    "date": 1526896811,
+    "edit_date": 1583185536,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "uslugi",
+      "setka"
+    ]
+  },
+  {
+    "id": 165,
+    "title": "Áccent",
+    "image": "data/images/165.jpg",
+    "tags": [
+      "медиа",
+      "издание",
+      "образование",
+      "платформа",
+      "setka"
+    ],
+    "url": "https://accent.setka.io/ru/",
+    "date": 1525421388,
+    "edit_date": 1583185536,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "media",
+      "izdanie",
+      "obrazovanie",
+      "platforma",
+      "setka"
+    ]
+  }
+]

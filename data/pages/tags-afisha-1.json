@@ -1,1 +1,22 @@
-[{"id":435,"title":"Гоголь-Центр","image":"data/images/435.jpg","tags":["мероприятия","афиша","театр"],"url":"https://gogolcenter.com/","date":1549881005,"edit_date":1583185362,"isHighlighted":true,"isRemoved":false,"slugs":["meropriyatiya","afisha","teatr"]}]
+[
+  {
+    "id": 435,
+    "title": "Гоголь-Центр",
+    "image": "data/images/435.jpg",
+    "tags": [
+      "мероприятия",
+      "афиша",
+      "театр"
+    ],
+    "url": "https://gogolcenter.com/",
+    "date": 1549881005,
+    "edit_date": 1583185362,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatiya",
+      "afisha",
+      "teatr"
+    ]
+  }
+]

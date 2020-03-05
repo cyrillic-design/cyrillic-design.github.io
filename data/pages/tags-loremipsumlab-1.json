@@ -1,1 +1,22 @@
-[{"id":366,"title":"Kto Tut Beauty","image":"data/images/366.jpg","tags":["красота","магазин","loremipsumlab"],"url":"https://ktotutbeauty.com/","date":1543140018,"edit_date":1583185395,"isHighlighted":false,"isRemoved":false,"slugs":["krasota","magazin","loremipsumlab"]}]
+[
+  {
+    "id": 366,
+    "title": "Kto Tut Beauty",
+    "image": "data/images/366.jpg",
+    "tags": [
+      "красота",
+      "магазин",
+      "loremipsumlab"
+    ],
+    "url": "https://ktotutbeauty.com/",
+    "date": 1543140018,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "krasota",
+      "magazin",
+      "loremipsumlab"
+    ]
+  }
+]
