@@ -5730,13 +5730,15 @@
   "482": {
     "id": 482,
     "title": "Юлия Засс",
+    "caption": "Юлия Засс\nhttps://juliazass.com/ru\n\n#портфолио #tilda",
     "image": "482.jpg",
     "tags": [
-      "портфолио"
+      "портфолио",
+      "tilda"
     ],
     "url": "https://juliazass.com/ru",
     "date": 1553680823,
-    "edit_date": 1583185363,
+    "edit_date": 1583440323,
     "isHighlighted": false,
     "isRemoved": false
   },
