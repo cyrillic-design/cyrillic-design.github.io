@@ -1,5 +1,27 @@
 [
   {
+    "id": 166,
+    "title": "BOSCO FRESH FEST 18",
+    "image": "data/images/166.jpg",
+    "tags": [
+      "фестиваль",
+      "музыка",
+      "люди",
+      "bosco"
+    ],
+    "url": "https://boscofreshfest18.com/",
+    "date": 1525619259,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "festival",
+      "muzika",
+      "lyudi",
+      "bosco"
+    ]
+  },
+  {
     "id": 165,
     "title": "Áccent",
     "image": "data/images/165.jpg",
@@ -373,28 +395,6 @@
       "uslugi",
       "servis",
       "puteshestviya"
-    ]
-  },
-  {
-    "id": 146,
-    "title": "Cardinal & Margo",
-    "image": "data/images/146.jpg",
-    "tags": [
-      "магазин",
-      "одежда",
-      "производство",
-      "дзендизайн"
-    ],
-    "url": "http://cardinal-hats.ru/",
-    "date": 1523700009,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "odezhda",
-      "proizvodstvo",
-      "dzendizain"
     ]
   }
 ]

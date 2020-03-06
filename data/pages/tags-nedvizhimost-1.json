@@ -1,5 +1,25 @@
 [
   {
+    "id": 678,
+    "title": "ЖК Композиция №24",
+    "caption": "ЖК Композиция №24\nhttps://k24moscow.ru/\n\n☆ #недвижимость #промо #videinfra",
+    "image": "data/images/678.jpg",
+    "tags": [
+      "недвижимость",
+      "промо",
+      "videinfra"
+    ],
+    "url": "https://k24moscow.ru/",
+    "date": 1583488809,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "nedvizhimost",
+      "promo",
+      "videinfra"
+    ]
+  },
+  {
     "id": 659,
     "title": "Alcon Tower",
     "image": "data/images/659.jpg",
@@ -370,28 +390,6 @@
       "nedvizhimost",
       "finansi",
       "aic"
-    ]
-  },
-  {
-    "id": 131,
-    "title": "Locals",
-    "image": "data/images/131.jpg",
-    "tags": [
-      "недвижимость",
-      "аренда",
-      "услуги",
-      "genue"
-    ],
-    "url": "https://thelocals.ru/",
-    "date": 1522490411,
-    "edit_date": 1583185535,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "nedvizhimost",
-      "arenda",
-      "uslugi",
-      "genue"
     ]
   }
 ]

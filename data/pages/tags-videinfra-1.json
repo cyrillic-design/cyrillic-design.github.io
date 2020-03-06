@@ -1,5 +1,25 @@
 [
   {
+    "id": 678,
+    "title": "ЖК Композиция №24",
+    "caption": "ЖК Композиция №24\nhttps://k24moscow.ru/\n\n☆ #недвижимость #промо #videinfra",
+    "image": "data/images/678.jpg",
+    "tags": [
+      "недвижимость",
+      "промо",
+      "videinfra"
+    ],
+    "url": "https://k24moscow.ru/",
+    "date": 1583488809,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "nedvizhimost",
+      "promo",
+      "videinfra"
+    ]
+  },
+  {
     "id": 661,
     "title": "YE'S apart-hotel",
     "image": "data/images/661.jpg",

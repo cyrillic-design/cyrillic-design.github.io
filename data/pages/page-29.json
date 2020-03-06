@@ -1,5 +1,25 @@
 [
   {
+    "id": 63,
+    "title": "Shuka Design Bureau",
+    "image": "data/images/63.jpg",
+    "tags": [
+      "агентство",
+      "портфолио",
+      "щука"
+    ],
+    "url": "shuka.ru",
+    "date": 1518426008,
+    "edit_date": 1583185563,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "agentstvo",
+      "portfolio",
+      "shchuka"
+    ]
+  },
+  {
     "id": 62,
     "title": "Иван Айвазовский. К 200-летию со дня рождения",
     "image": "data/images/62.jpg",

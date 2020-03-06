@@ -1,5 +1,23 @@
 [
   {
+    "id": 525,
+    "title": "Tima Radya",
+    "image": "data/images/525.jpg",
+    "tags": [
+      "портфолио",
+      "sever"
+    ],
+    "url": "http://t-radya.com/",
+    "date": 1559642456,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "sever"
+    ]
+  },
+  {
     "id": 524,
     "title": "К19",
     "image": "data/images/524.jpg",
@@ -349,24 +367,6 @@
     "slugs": [
       "meropriyatie",
       "yandeks"
-    ]
-  },
-  {
-    "id": 501,
-    "title": "Vasilkov",
-    "image": "data/images/501.jpg",
-    "tags": [
-      "недвижимость",
-      "advancedteam"
-    ],
-    "url": "https://vasilkovrealty.com.ua/",
-    "date": 1556272973,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "nedvizhimost",
-      "advancedteam"
     ]
   }
 ]

@@ -1,5 +1,21 @@
 [
   {
+    "id": 552,
+    "title": "COLLIDER",
+    "image": "data/images/552.jpg",
+    "tags": [
+      "промо"
+    ],
+    "url": "https://collider.ru/",
+    "date": 1563357625,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo"
+    ]
+  },
+  {
     "id": 546,
     "title": "Бубнёжная «Интроверт»",
     "image": "data/images/546.jpg",
@@ -367,24 +383,6 @@
     "slugs": [
       "promo",
       "readymag"
-    ]
-  },
-  {
-    "id": 414,
-    "title": "Lure",
-    "image": "data/images/414.jpg",
-    "tags": [
-      "промо",
-      "redo"
-    ],
-    "url": "http://lureoysterbar.ru",
-    "date": 1547805617,
-    "edit_date": 1583185362,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "redo"
     ]
   }
 ]

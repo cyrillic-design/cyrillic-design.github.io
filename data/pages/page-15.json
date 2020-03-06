@@ -1,5 +1,25 @@
 [
   {
+    "id": 371,
+    "title": "KM20",
+    "image": "data/images/371.jpg",
+    "tags": [
+      "мода",
+      "одежда",
+      "магазин"
+    ],
+    "url": "https://www.km20.ru/",
+    "date": 1543572012,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "moda",
+      "odezhda",
+      "magazin"
+    ]
+  },
+  {
     "id": 370,
     "title": "Wonderzine",
     "image": "data/images/370.jpg",
@@ -359,26 +379,6 @@
       "otchet",
       "spetsproekt",
       "sergeiandronov"
-    ]
-  },
-  {
-    "id": 348,
-    "title": "Гусь-Хрустальный",
-    "image": "data/images/348.jpg",
-    "tags": [
-      "город",
-      "люди",
-      "кружок"
-    ],
-    "url": "https://khrustalny.city/",
-    "date": 1541674073,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "gorod",
-      "lyudi",
-      "kruzhok"
     ]
   }
 ]

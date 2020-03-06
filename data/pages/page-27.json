@@ -1,5 +1,25 @@
 [
   {
+    "id": 125,
+    "title": "Победа",
+    "image": "data/images/125.jpg",
+    "tags": [
+      "авиакомпания",
+      "услуги",
+      "путешествия"
+    ],
+    "url": "https://www.pobeda.aero/",
+    "date": 1521972017,
+    "edit_date": 1583185535,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "aviakompaniya",
+      "uslugi",
+      "puteshestviya"
+    ]
+  },
+  {
     "id": 124,
     "title": "N+1",
     "image": "data/images/124.jpg",
@@ -379,26 +399,6 @@
       "promo",
       "yeda",
       "zero"
-    ]
-  },
-  {
-    "id": 103,
-    "title": "Inc.Russia",
-    "image": "data/images/103.jpg",
-    "tags": [
-      "журнал",
-      "медиа",
-      "бизнес"
-    ],
-    "url": "https://incrussia.ru/",
-    "date": 1520152874,
-    "edit_date": 1583185563,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "zhurnal",
-      "media",
-      "biznes"
     ]
   }
 ]
