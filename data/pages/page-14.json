@@ -1,5 +1,23 @@
 [
   {
+    "id": 395,
+    "title": "method education",
+    "image": "data/images/395.jpg",
+    "tags": [
+      "образование",
+      "сервис"
+    ],
+    "url": "https://method.education/",
+    "date": 1545386423,
+    "edit_date": 1583185395,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "servis"
+    ]
+  },
+  {
     "id": 394,
     "title": "Яндекс.Телефон с Алисой",
     "image": "data/images/394.jpg",
@@ -359,24 +377,6 @@
       "magazin",
       "proizvodstvo",
       "greensight"
-    ]
-  },
-  {
-    "id": 372,
-    "title": "Beta",
-    "image": "data/images/372.jpg",
-    "tags": [
-      "агентство",
-      "портфолио"
-    ],
-    "url": "https://betaagency.ru/",
-    "date": 1543673818,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "agentstvo",
-      "portfolio"
     ]
   }
 ]

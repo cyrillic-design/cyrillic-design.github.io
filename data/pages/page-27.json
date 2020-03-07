@@ -1,5 +1,25 @@
 [
   {
+    "id": 126,
+    "title": "Брянский лес",
+    "image": "data/images/126.jpg",
+    "tags": [
+      "промо",
+      "магазин",
+      "redcollar"
+    ],
+    "url": "https://b-les.com/",
+    "date": 1522058422,
+    "edit_date": 1583185535,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "magazin",
+      "redcollar"
+    ]
+  },
+  {
     "id": 125,
     "title": "Победа",
     "image": "data/images/125.jpg",
@@ -379,26 +399,6 @@
       "marketpleis",
       "magazin",
       "mvideo"
-    ]
-  },
-  {
-    "id": 104,
-    "title": "Almette Маасдам",
-    "image": "data/images/104.jpg",
-    "tags": [
-      "промо",
-      "еда",
-      "zero"
-    ],
-    "url": "http://maasdam.almette.ru/",
-    "date": 1520244040,
-    "edit_date": 1583185563,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "yeda",
-      "zero"
     ]
   }
 ]

@@ -1,5 +1,25 @@
 [
   {
+    "id": 679,
+    "title": "Если быть точным",
+    "caption": "Если быть точным\nhttps://tochno.st/\n\n☆ #сервис #данные #студияартемиялебедева",
+    "image": "data/images/679.jpg",
+    "tags": [
+      "сервис",
+      "данные",
+      "студияартемиялебедева"
+    ],
+    "url": "https://tochno.st/",
+    "date": 1583575215,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "dannie",
+      "studiyaartemiyalebedeva"
+    ]
+  },
+  {
     "id": 671,
     "title": "Просто-Ремонт",
     "caption": "Просто-Ремонт\nhttps://prosto-remont.com/\n\n☆ #сервис",
@@ -350,26 +370,6 @@
     "slugs": [
       "proizvodstvo",
       "promo",
-      "servis"
-    ]
-  },
-  {
-    "id": 509,
-    "title": "АБУК",
-    "image": "data/images/509.jpg",
-    "tags": [
-      "промо",
-      "приложение",
-      "сервис"
-    ],
-    "url": "https://abuk.com.ua/",
-    "date": 1558173659,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "prilozhenie",
       "servis"
     ]
   }

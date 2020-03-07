@@ -1,5 +1,27 @@
 [
   {
+    "id": 633,
+    "title": "ВДНХ",
+    "image": "data/images/633.jpg",
+    "tags": [
+      "события",
+      "город",
+      "люди",
+      "смена"
+    ],
+    "url": "https://new.vdnh.ru/",
+    "date": 1575108085,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "sobitiya",
+      "gorod",
+      "lyudi",
+      "smena"
+    ]
+  },
+  {
     "id": 632,
     "title": "Большой музей",
     "caption": "Большой музей\nhttps://bm.digital/\n\n#медиа #искусство #мероприятие",
@@ -361,28 +383,6 @@
       "media",
       "zhurnal",
       "charmer"
-    ]
-  },
-  {
-    "id": 613,
-    "title": "Званий обід",
-    "image": "data/images/613.jpg",
-    "tags": [
-      "спецпроект",
-      "еда",
-      "промо",
-      "platforma"
-    ],
-    "url": "https://platfor.ma/specials/zvanyi-obid/",
-    "date": 1571911231,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "yeda",
-      "promo",
-      "platforma"
     ]
   }
 ]
