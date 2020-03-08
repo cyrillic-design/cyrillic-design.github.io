@@ -1,5 +1,25 @@
 [
   {
+    "id": 106,
+    "title": "Goods",
+    "image": "data/images/106.jpg",
+    "tags": [
+      "маркетплейс",
+      "магазин",
+      "мвидео"
+    ],
+    "url": "https://goods.ru/",
+    "date": 1520330593,
+    "edit_date": 1583185563,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "marketpleis",
+      "magazin",
+      "mvideo"
+    ]
+  },
+  {
     "id": 104,
     "title": "Almette Маасдам",
     "image": "data/images/104.jpg",
@@ -395,24 +415,6 @@
       "media",
       "zhurnal",
       "wednesday"
-    ]
-  },
-  {
-    "id": 75,
-    "title": "Bork",
-    "image": "data/images/75.jpg",
-    "tags": [
-      "магазин",
-      "промо"
-    ],
-    "url": "https://www.bork.ru",
-    "date": 1518602432,
-    "edit_date": 1583185563,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "promo"
     ]
   }
 ]

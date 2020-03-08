@@ -1,5 +1,23 @@
 [
   {
+    "id": 351,
+    "title": "TREND FORECASTING WORKSHOP",
+    "image": "data/images/351.jpg",
+    "tags": [
+      "образование",
+      "kosmos"
+    ],
+    "url": "https://trends.k-o-s-m-o-s.com/",
+    "date": 1541844026,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "kosmos"
+    ]
+  },
+  {
     "id": 349,
     "title": "OFFF Tel-Aviv",
     "image": "data/images/349.jpg",
@@ -367,26 +385,6 @@
     "slugs": [
       "servis",
       "nedvizhimost"
-    ]
-  },
-  {
-    "id": 330,
-    "title": "Інноваційний парк UNIT.City",
-    "image": "data/images/330.jpg",
-    "tags": [
-      "город",
-      "промо",
-      "the23"
-    ],
-    "url": "https://unit.city/",
-    "date": 1539857425,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "gorod",
-      "promo",
-      "the23"
     ]
   }
 ]

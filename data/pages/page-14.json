@@ -1,5 +1,25 @@
 [
   {
+    "id": 396,
+    "title": "Дом-музей Карамзиных на Венце",
+    "image": "data/images/396.jpg",
+    "tags": [
+      "спецпроект",
+      "история",
+      "itechgroup"
+    ],
+    "url": "http://www.karamzin.info/home/",
+    "date": 1545472806,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "istoriya",
+      "itechgroup"
+    ]
+  },
+  {
     "id": 395,
     "title": "method education",
     "image": "data/images/395.jpg",
@@ -357,26 +377,6 @@
       "moda",
       "magazin",
       "itsagency"
-    ]
-  },
-  {
-    "id": 373,
-    "title": "ТМК",
-    "image": "data/images/373.jpg",
-    "tags": [
-      "магазин",
-      "производство",
-      "greensight"
-    ],
-    "url": "https://www.tmktools.ru/",
-    "date": 1543744814,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "proizvodstvo",
-      "greensight"
     ]
   }
 ]

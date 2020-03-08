@@ -1,5 +1,25 @@
 [
   {
+    "id": 527,
+    "title": "Российский экологический оператор",
+    "image": "data/images/527.jpg",
+    "tags": [
+      "производство",
+      "промо",
+      "сервис"
+    ],
+    "url": "https://reo.ru/",
+    "date": 1559815232,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "promo",
+      "servis"
+    ]
+  },
+  {
     "id": 526,
     "title": "ТехноСтиль",
     "image": "data/images/526.jpg",
@@ -349,24 +369,6 @@
     "slugs": [
       "servis",
       "zdorove"
-    ]
-  },
-  {
-    "id": 505,
-    "title": "Карамзин Онлайн",
-    "image": "data/images/505.jpg",
-    "tags": [
-      "память",
-      "спецпроект"
-    ],
-    "url": "http://www.karamzin.info/",
-    "date": 1557828063,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "pamyat",
-      "spetsproekt"
     ]
   }
 ]

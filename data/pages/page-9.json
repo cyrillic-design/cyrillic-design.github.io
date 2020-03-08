@@ -1,5 +1,23 @@
 [
   {
+    "id": 505,
+    "title": "Карамзин Онлайн",
+    "image": "data/images/505.jpg",
+    "tags": [
+      "память",
+      "спецпроект"
+    ],
+    "url": "http://www.karamzin.info/",
+    "date": 1557828063,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "pamyat",
+      "spetsproekt"
+    ]
+  },
+  {
     "id": 502,
     "title": "Летняя стажировка для дизайнеров в Яндекс.Маркете",
     "image": "data/images/502.jpg",
@@ -356,25 +374,6 @@
     "slugs": [
       "portfolio",
       "sulliwan"
-    ]
-  },
-  {
-    "id": 482,
-    "title": "Юлия Засс",
-    "caption": "Юлия Засс\nhttps://juliazass.com/ru\n\n#портфолио #tilda",
-    "image": "data/images/482.jpg",
-    "tags": [
-      "портфолио",
-      "tilda"
-    ],
-    "url": "https://juliazass.com/ru",
-    "date": 1553680823,
-    "edit_date": 1583440323,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio",
-      "tilda"
     ]
   }
 ]

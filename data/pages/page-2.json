@@ -1,5 +1,25 @@
 [
   {
+    "id": 655,
+    "title": "ExperimentFest + Яндекс.Практикум",
+    "image": "data/images/655.jpg",
+    "tags": [
+      "мероприятие",
+      "викторакифьев",
+      "tilda"
+    ],
+    "url": "https://www.experiment-fest.ru/",
+    "date": 1579255225,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "viktorakifev",
+      "tilda"
+    ]
+  },
+  {
     "id": 654,
     "title": "Charmer",
     "image": "data/images/654.jpg",
@@ -363,24 +383,6 @@
     "slugs": [
       "servis",
       "dostavka"
-    ]
-  },
-  {
-    "id": 634,
-    "title": "Signal Future Insights",
-    "image": "data/images/634.jpg",
-    "tags": [
-      "спецпроект",
-      "ony"
-    ],
-    "url": "https://signal-fi.ony.ru/",
-    "date": 1575194465,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "ony"
     ]
   }
 ]

@@ -1,5 +1,25 @@
 [
   {
+    "id": 373,
+    "title": "ТМК",
+    "image": "data/images/373.jpg",
+    "tags": [
+      "магазин",
+      "производство",
+      "greensight"
+    ],
+    "url": "https://www.tmktools.ru/",
+    "date": 1543744814,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "proizvodstvo",
+      "greensight"
+    ]
+  },
+  {
     "id": 372,
     "title": "Beta",
     "image": "data/images/372.jpg",
@@ -359,24 +379,6 @@
       "yeda",
       "dostavka",
       "adndigitalstudio"
-    ]
-  },
-  {
-    "id": 351,
-    "title": "TREND FORECASTING WORKSHOP",
-    "image": "data/images/351.jpg",
-    "tags": [
-      "образование",
-      "kosmos"
-    ],
-    "url": "https://trends.k-o-s-m-o-s.com/",
-    "date": 1541844026,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "kosmos"
     ]
   }
 ]

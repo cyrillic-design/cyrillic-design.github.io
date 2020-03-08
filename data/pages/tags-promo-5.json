@@ -1,5 +1,23 @@
 [
   {
+    "id": 154,
+    "title": "Zoomanity",
+    "image": "data/images/154.jpg",
+    "tags": [
+      "промо",
+      "магазин"
+    ],
+    "url": "http://zoomanity.land/ru/",
+    "date": 1524391208,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "magazin"
+    ]
+  },
+  {
     "id": 152,
     "title": "VI международный форум по е-коммерции",
     "image": "data/images/152.jpg",
