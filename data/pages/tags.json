@@ -804,12 +804,12 @@
     "slug": "vono"
   },
   {
-    "title": "бренд",
-    "slug": "brend"
-  },
-  {
     "title": "гайд",
     "slug": "gaid"
+  },
+  {
+    "title": "бренд",
+    "slug": "brend"
   },
   {
     "title": "setters",

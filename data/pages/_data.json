@@ -4609,15 +4609,16 @@
   "399": {
     "id": 399,
     "title": "Бренд Рамблер",
+    "caption": "Бренд Рамблер\nhttps://brand.rambler.ru/\n\n#брендинг #дизайн #гайд",
     "image": "399.jpg",
     "tags": [
-      "бренд",
+      "брендинг",
       "дизайн",
       "гайд"
     ],
     "url": "https://brand.rambler.ru/",
     "date": 1545732023,
-    "edit_date": 1583185395,
+    "edit_date": 1583687848,
     "isHighlighted": false,
     "isRemoved": false
   },
