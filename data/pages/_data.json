@@ -8025,15 +8025,17 @@
   "655": {
     "id": 655,
     "title": "ExperimentFest + Яндекс.Практикум",
+    "caption": "ExperimentFest + Яндекс.Практикум\nhttps://www.experiment-fest.ru/\n\n☆ #мероприятие #яндекс #викторакифьев #tilda\n♡ @AndyAbramov",
     "image": "655.jpg",
     "tags": [
       "мероприятие",
+      "яндекс",
       "викторакифьев",
       "tilda"
     ],
     "url": "https://www.experiment-fest.ru/",
     "date": 1579255225,
-    "edit_date": 1583183700,
+    "edit_date": 1583687238,
     "isHighlighted": false,
     "isRemoved": false
   },
