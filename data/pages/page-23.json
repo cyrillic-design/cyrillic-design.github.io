@@ -1,5 +1,27 @@
 [
   {
+    "id": 210,
+    "title": "Фабрика «Диванчик»",
+    "image": "data/images/210.jpg",
+    "tags": [
+      "производство",
+      "фабрика",
+      "магазин",
+      "okcmedia"
+    ],
+    "url": "https://divanchik.ru/",
+    "date": 1529316019,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "fabrika",
+      "magazin",
+      "okcmedia"
+    ]
+  },
+  {
     "id": 209,
     "title": "24ttl",
     "image": "data/images/209.jpg",
@@ -367,26 +389,6 @@
       "finansi",
       "uslugi",
       "tekhnologii"
-    ]
-  },
-  {
-    "id": 189,
-    "title": "Яндекс Плюс",
-    "image": "data/images/189.jpg",
-    "tags": [
-      "сервис",
-      "услуги",
-      "промо"
-    ],
-    "url": "https://plus.yandex.ru",
-    "date": 1527581050,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "uslugi",
-      "promo"
     ]
   }
 ]

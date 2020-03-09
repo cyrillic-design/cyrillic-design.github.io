@@ -1,5 +1,25 @@
 [
   {
+    "id": 311,
+    "title": "РБК",
+    "image": "data/images/311.jpg",
+    "tags": [
+      "новости",
+      "политика",
+      "бизнес"
+    ],
+    "url": "https://www.rbc.ru/",
+    "date": 1537956012,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "novosti",
+      "politika",
+      "biznes"
+    ]
+  },
+  {
     "id": 310,
     "title": "Рихтер",
     "image": "data/images/310.jpg",
@@ -360,27 +380,6 @@
     "isRemoved": false,
     "slugs": [
       "agentstvo",
-      "portfolio"
-    ]
-  },
-  {
-    "id": 291,
-    "title": "ONY",
-    "caption": "ONY\nhttps://ony.ru/\n\n#агентство #дизайн #портфолио",
-    "image": "data/images/291.jpg",
-    "tags": [
-      "агентство",
-      "дизайн",
-      "портфолио"
-    ],
-    "url": "https://ony.ru/",
-    "date": 1536228002,
-    "edit_date": 1583385193,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "agentstvo",
-      "dizain",
       "portfolio"
     ]
   }

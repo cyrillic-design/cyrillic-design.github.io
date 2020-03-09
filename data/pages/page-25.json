@@ -1,5 +1,25 @@
 [
   {
+    "id": 169,
+    "title": "Администрация Кемеровской области",
+    "image": "data/images/169.jpg",
+    "tags": [
+      "государство",
+      "медиа",
+      "россия"
+    ],
+    "url": "https://ako.ru/",
+    "date": 1525860009,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "gosudarstvo",
+      "media",
+      "rossiya"
+    ]
+  },
+  {
     "id": 168,
     "title": "АВ Экспресс",
     "image": "data/images/168.jpg",
@@ -375,22 +395,6 @@
     "slugs": [
       "sport",
       "buking"
-    ]
-  },
-  {
-    "id": 149,
-    "title": "Выпуск 90",
-    "image": "data/images/149.jpg",
-    "tags": [
-      "спецпроект"
-    ],
-    "url": "https://90.theoryandpractice.ru/",
-    "date": 1523961893,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt"
     ]
   }
 ]

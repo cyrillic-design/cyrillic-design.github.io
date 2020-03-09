@@ -1,5 +1,23 @@
 [
   {
+    "id": 615,
+    "title": "Weekend-курс актёрского мастерства",
+    "image": "data/images/615.jpg",
+    "tags": [
+      "образование",
+      "tilda"
+    ],
+    "url": "https://karavaev-lab.ru/wknd",
+    "date": 1572084041,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "tilda"
+    ]
+  },
+  {
     "id": 614,
     "title": "Цех",
     "image": "data/images/614.jpg",
@@ -352,24 +370,6 @@
     "isRemoved": false,
     "slugs": [
       "zhurnal"
-    ]
-  },
-  {
-    "id": 595,
-    "title": "Державні послуги онлайн",
-    "image": "data/images/595.jpg",
-    "tags": [
-      "сервис",
-      "государство"
-    ],
-    "url": "https://plan.diia.gov.ua/",
-    "date": 1569585843,
-    "edit_date": 1583183812,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "gosudarstvo"
     ]
   }
 ]

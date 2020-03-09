@@ -1,5 +1,25 @@
 [
   {
+    "id": 570,
+    "title": "Rehabshop",
+    "image": "data/images/570.jpg",
+    "tags": [
+      "магазин",
+      "roky",
+      "orientir"
+    ],
+    "url": "https://rehab-shop.ru/",
+    "date": 1566036044,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "roky",
+      "orientir"
+    ]
+  },
+  {
     "id": 569,
     "title": "Молния Beta",
     "image": "data/images/569.jpg",
@@ -340,24 +360,6 @@
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ]
-  },
-  {
-    "id": 550,
-    "title": "Татцентр.ру",
-    "image": "data/images/550.jpg",
-    "tags": [
-      "издание",
-      "stride"
-    ],
-    "url": "http://tatcenter.ru/",
-    "date": 1563191436,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "izdanie",
-      "stride"
     ]
   }
 ]

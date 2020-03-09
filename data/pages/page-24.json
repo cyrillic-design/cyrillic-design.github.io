@@ -1,5 +1,25 @@
 [
   {
+    "id": 189,
+    "title": "Яндекс Плюс",
+    "image": "data/images/189.jpg",
+    "tags": [
+      "сервис",
+      "услуги",
+      "промо"
+    ],
+    "url": "https://plus.yandex.ru",
+    "date": 1527581050,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "uslugi",
+      "promo"
+    ]
+  },
+  {
     "id": 188,
     "title": "Дизайн-студия 23",
     "image": "data/images/188.jpg",
@@ -374,26 +394,6 @@
     "slugs": [
       "magazin",
       "dostavka"
-    ]
-  },
-  {
-    "id": 169,
-    "title": "Администрация Кемеровской области",
-    "image": "data/images/169.jpg",
-    "tags": [
-      "государство",
-      "медиа",
-      "россия"
-    ],
-    "url": "https://ako.ru/",
-    "date": 1525860009,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "gosudarstvo",
-      "media",
-      "rossiya"
     ]
   }
 ]

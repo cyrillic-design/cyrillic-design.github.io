@@ -1,5 +1,25 @@
 [
   {
+    "id": 374,
+    "title": "Larne",
+    "image": "data/images/374.jpg",
+    "tags": [
+      "мода",
+      "магазин",
+      "itsagency"
+    ],
+    "url": "https://larne.ru/",
+    "date": 1543831214,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "moda",
+      "magazin",
+      "itsagency"
+    ]
+  },
+  {
     "id": 373,
     "title": "ТМК",
     "image": "data/images/373.jpg",
@@ -359,26 +379,6 @@
       "bank",
       "finansi",
       "artlebedev"
-    ]
-  },
-  {
-    "id": 352,
-    "title": "Теремок",
-    "image": "data/images/352.jpg",
-    "tags": [
-      "еда",
-      "доставка",
-      "adndigitalstudio"
-    ],
-    "url": "https://new.teremok.ru/",
-    "date": 1542016843,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "yeda",
-      "dostavka",
-      "adndigitalstudio"
     ]
   }
 ]

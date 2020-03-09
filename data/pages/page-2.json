@@ -1,5 +1,25 @@
 [
   {
+    "id": 656,
+    "title": "GoKirtan",
+    "image": "data/images/656.jpg",
+    "tags": [
+      "музыка",
+      "readymag",
+      "артемлепилин"
+    ],
+    "url": "https://gokirtan.com/ru/",
+    "date": 1579600858,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "muzika",
+      "readymag",
+      "artemlepilin"
+    ]
+  },
+  {
     "id": 655,
     "title": "ExperimentFest + Яндекс.Практикум",
     "caption": "ExperimentFest + Яндекс.Практикум\nhttps://www.experiment-fest.ru/\n\n☆ #мероприятие #яндекс #викторакифьев #tilda\n♡ @AndyAbramov",
@@ -368,24 +388,6 @@
       "spetsproekt",
       "lyudi",
       "kruzhok"
-    ]
-  },
-  {
-    "id": 635,
-    "title": "Самокат",
-    "image": "data/images/635.jpg",
-    "tags": [
-      "сервис",
-      "доставка"
-    ],
-    "url": "https://samokat.ru/",
-    "date": 1575280808,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "dostavka"
     ]
   }
 ]
