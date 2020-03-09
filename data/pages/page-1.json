@@ -2,25 +2,26 @@
   {
     "id": 681,
     "title": "Накормим весь малый бизнес",
-    "caption": "Накормим весь малый бизнес\nhttps://sfera.ru/landing/localkitchen/\n\n☆ #сервис #промо #банк #кухнянарайоне #бкс",
+    "caption": "Накормим весь малый бизнес\nhttps://sfera.ru/landing/localkitchen/\n\n☆ #сервис #промо #банк #бкс #кухнянарайоне",
     "image": "data/images/681.jpg",
     "tags": [
       "сервис",
       "промо",
       "банк",
-      "кухнянарайоне",
-      "бкс"
+      "бкс",
+      "кухнянарайоне"
     ],
     "url": "https://sfera.ru/landing/localkitchen/",
     "date": 1583748019,
+    "edit_date": 1583750685,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
       "servis",
       "promo",
       "bank",
-      "kukhnyanaraione",
-      "bks"
+      "bks",
+      "kukhnyanaraione"
     ]
   },
   {
