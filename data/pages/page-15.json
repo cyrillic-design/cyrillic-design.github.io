@@ -1,5 +1,25 @@
 [
   {
+    "id": 375,
+    "title": "60 беларускамоўных гітоў сучаснасьці",
+    "image": "data/images/375.jpg",
+    "tags": [
+      "музыка",
+      "спецпроект",
+      "cherenkevich"
+    ],
+    "url": "http://tuzin.letapis.by/",
+    "date": 1543917619,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "muzika",
+      "spetsproekt",
+      "cherenkevich"
+    ]
+  },
+  {
     "id": 374,
     "title": "Larne",
     "image": "data/images/374.jpg",
@@ -359,26 +379,6 @@
       "katalog",
       "simple",
       "pinkman"
-    ]
-  },
-  {
-    "id": 353,
-    "title": "Orient Finans Bank",
-    "image": "data/images/353.jpg",
-    "tags": [
-      "банк",
-      "финансы",
-      "artlebedev"
-    ],
-    "url": "https://ofb.uz/",
-    "date": 1542103221,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "bank",
-      "finansi",
-      "artlebedev"
     ]
   }
 ]

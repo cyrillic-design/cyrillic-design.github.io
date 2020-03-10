@@ -1,5 +1,25 @@
 [
   {
+    "id": 636,
+    "title": "Шапша",
+    "image": "data/images/636.jpg",
+    "tags": [
+      "спецпроект",
+      "люди",
+      "кружок"
+    ],
+    "url": "https://shapsha.io/",
+    "date": 1575626449,
+    "edit_date": 1583183700,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "lyudi",
+      "kruzhok"
+    ]
+  },
+  {
     "id": 635,
     "title": "Самокат",
     "image": "data/images/635.jpg",
@@ -363,22 +383,6 @@
       "spetsproekt",
       "the23",
       "tilda"
-    ]
-  },
-  {
-    "id": 616,
-    "title": "SkyUp Airlines",
-    "image": "data/images/616.jpg",
-    "tags": [
-      "сервис"
-    ],
-    "url": "https://skyup.aero/uk/",
-    "date": 1572170448,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis"
     ]
   }
 ]

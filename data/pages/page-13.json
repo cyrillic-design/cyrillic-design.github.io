@@ -1,5 +1,24 @@
 [
   {
+    "id": 418,
+    "title": "DESIGNWORKOUT",
+    "caption": "DESIGNWORKOUT\nhttps://designworkout.ru/\n\n#образование #update",
+    "image": "data/images/418.jpg",
+    "tags": [
+      "образование",
+      "update"
+    ],
+    "url": "https://designworkout.ru/",
+    "date": 1548151224,
+    "edit_date": 1583423714,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "update"
+    ]
+  },
+  {
     "id": 417,
     "title": "Без ТЗ",
     "image": "data/images/417.jpg",
@@ -362,26 +381,6 @@
       "brending",
       "dizain",
       "gaid"
-    ]
-  },
-  {
-    "id": 398,
-    "title": "Radario",
-    "image": "data/images/398.jpg",
-    "tags": [
-      "сервис",
-      "бизнес",
-      "финансы"
-    ],
-    "url": "https://business.radario.ru/",
-    "date": 1545645648,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "biznes",
-      "finansi"
     ]
   }
 ]

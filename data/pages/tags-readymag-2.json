@@ -1,5 +1,25 @@
 [
   {
+    "id": 355,
+    "title": "Bauhaus Imaginista",
+    "image": "data/images/355.jpg",
+    "tags": [
+      "образование",
+      "garage",
+      "readymag"
+    ],
+    "url": "https://bauhaus-imaginista.garagemca.org",
+    "date": 1542276018,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "garage",
+      "readymag"
+    ]
+  },
+  {
     "id": 327,
     "title": "Тестовое задание для Mail ru",
     "image": "data/images/327.jpg",

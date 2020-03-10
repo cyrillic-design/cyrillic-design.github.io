@@ -1,5 +1,23 @@
 [
   {
+    "id": 332,
+    "title": "ТАСС",
+    "image": "data/images/332.jpg",
+    "tags": [
+      "новости",
+      "агентство"
+    ],
+    "url": "https://tass.ru/",
+    "date": 1540288814,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "novosti",
+      "agentstvo"
+    ]
+  },
+  {
     "id": 331,
     "title": "homeapp",
     "image": "data/images/331.jpg",
@@ -373,30 +391,6 @@
       "dizain",
       "brending",
       "fedoriv"
-    ]
-  },
-  {
-    "id": 312,
-    "title": "Бунтарь. Воин. Атеист",
-    "image": "data/images/312.jpg",
-    "tags": [
-      "спецпроект",
-      "промо",
-      "искусство",
-      "lentaru",
-      "третьяковскаягалерея"
-    ],
-    "url": "https://vereshchagin.lenta.ru/",
-    "date": 1538041141,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "promo",
-      "iskusstvo",
-      "lentaru",
-      "tretyakovskayagalereya"
     ]
   }
 ]
