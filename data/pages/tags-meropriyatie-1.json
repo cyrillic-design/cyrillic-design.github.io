@@ -1,5 +1,28 @@
 [
   {
+    "id": 683,
+    "title": "В моем репертуаре",
+    "caption": "В моем репертуаре\nhttps://truetoform.me/\n\n☆ #сервис #промо #мероприятие #readymag",
+    "image": "data/images/683.jpg",
+    "tags": [
+      "сервис",
+      "промо",
+      "мероприятие",
+      "readymag"
+    ],
+    "url": "https://truetoform.me/",
+    "date": 1583834419,
+    "edit_date": 1583834486,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "promo",
+      "meropriyatie",
+      "readymag"
+    ]
+  },
+  {
     "id": 676,
     "title": "LUXENGLISH",
     "caption": "LUXENGLISH\nhttps://luxenglish.ru/\n\n☆ #образование #мероприятие #readymag",
@@ -363,24 +386,6 @@
       "muzika",
       "meropriyatie",
       "sulliwan"
-    ]
-  },
-  {
-    "id": 502,
-    "title": "Летняя стажировка для дизайнеров в Яндекс.Маркете",
-    "image": "data/images/502.jpg",
-    "tags": [
-      "мероприятие",
-      "яндекс"
-    ],
-    "url": "http://designsummer.ru/",
-    "date": 1556654536,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "meropriyatie",
-      "yandeks"
     ]
   }
 ]

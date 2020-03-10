@@ -8370,15 +8370,17 @@
   "683": {
     "id": 683,
     "title": "В моем репертуаре",
-    "caption": "В моем репертуаре\nhttps://truetoform.me/\n\n☆ #сервис #промо #readymag",
+    "caption": "В моем репертуаре\nhttps://truetoform.me/\n\n☆ #сервис #промо #мероприятие #readymag",
     "image": "683.jpg",
     "tags": [
       "сервис",
       "промо",
+      "мероприятие",
       "readymag"
     ],
     "url": "https://truetoform.me/",
     "date": 1583834419,
+    "edit_date": 1583834486,
     "isHighlighted": false,
     "isRemoved": false
   }
