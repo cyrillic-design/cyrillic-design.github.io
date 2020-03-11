@@ -1,5 +1,23 @@
 [
   {
+    "id": 508,
+    "title": "Meduza",
+    "image": "data/images/508.jpg",
+    "tags": [
+      "издание",
+      "новости"
+    ],
+    "url": "https://meduza.io/",
+    "date": 1558087259,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "izdanie",
+      "novosti"
+    ]
+  },
+  {
     "id": 507,
     "title": "Институт Музыкальных Инициатив",
     "image": "data/images/507.jpg",
@@ -356,24 +374,6 @@
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ]
-  },
-  {
-    "id": 485,
-    "title": "UXPUB",
-    "image": "data/images/485.jpg",
-    "tags": [
-      "журнал",
-      "дизайн"
-    ],
-    "url": "https://ux.pub/",
-    "date": 1553940023,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "zhurnal",
-      "dizain"
     ]
   }
 ]

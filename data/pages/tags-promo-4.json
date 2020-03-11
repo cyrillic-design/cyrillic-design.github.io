@@ -1,5 +1,25 @@
 [
   {
+    "id": 330,
+    "title": "Інноваційний парк UNIT.City",
+    "image": "data/images/330.jpg",
+    "tags": [
+      "город",
+      "промо",
+      "the23"
+    ],
+    "url": "https://unit.city/",
+    "date": 1539857425,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "gorod",
+      "promo",
+      "the23"
+    ]
+  },
+  {
     "id": 312,
     "title": "Бунтарь. Воин. Атеист",
     "image": "data/images/312.jpg",
@@ -375,24 +395,6 @@
     "slugs": [
       "nedvizhimost",
       "finansi",
-      "promo"
-    ]
-  },
-  {
-    "id": 159,
-    "title": "Servermall",
-    "image": "data/images/159.jpg",
-    "tags": [
-      "магазин",
-      "промо"
-    ],
-    "url": "https://servermall.ru/",
-    "date": 1524823212,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
       "promo"
     ]
   }

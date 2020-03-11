@@ -1,5 +1,27 @@
 [
   {
+    "id": 617,
+    "title": "NETTO",
+    "image": "data/images/617.jpg",
+    "tags": [
+      "портфолио",
+      "спецпроект",
+      "the23",
+      "tilda"
+    ],
+    "url": "https://netto.the23.design/",
+    "date": 1572256855,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "spetsproekt",
+      "the23",
+      "tilda"
+    ]
+  },
+  {
     "id": 616,
     "title": "SkyUp Airlines",
     "image": "data/images/616.jpg",
@@ -352,24 +374,6 @@
     "slugs": [
       "portfolio",
       "groznovco"
-    ]
-  },
-  {
-    "id": 597,
-    "title": "Электронный архив работ художника Соломона Телингатера",
-    "image": "data/images/597.jpg",
-    "tags": [
-      "спецпроект",
-      "ильястарков"
-    ],
-    "url": "http://telingater.togdazine.ru/",
-    "date": 1570022721,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "ilyastarkov"
     ]
   }
 ]

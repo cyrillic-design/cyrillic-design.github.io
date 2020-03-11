@@ -1,5 +1,23 @@
 [
   {
+    "id": 622,
+    "title": "New Wallet — Travel Kit",
+    "image": "data/images/622.jpg",
+    "tags": [
+      "магазин",
+      "промо"
+    ],
+    "url": "https://newwallet.ru/osobennosti/osobennosti-travel",
+    "date": 1573552837,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "promo"
+    ]
+  },
+  {
     "id": 613,
     "title": "Званий обід",
     "image": "data/images/613.jpg",
@@ -364,26 +382,6 @@
       "uslugi",
       "promo",
       "only"
-    ]
-  },
-  {
-    "id": 449,
-    "title": "Pro et Contra",
-    "image": "data/images/449.jpg",
-    "tags": [
-      "услуги",
-      "промо",
-      "otherland"
-    ],
-    "url": "http://pro-et-contra.com.ua/",
-    "date": 1551088809,
-    "edit_date": 1583185362,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "uslugi",
-      "promo",
-      "otherland"
     ]
   }
 ]

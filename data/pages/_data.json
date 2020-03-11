@@ -8384,5 +8384,21 @@
     "edit_date": 1583834486,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "684": {
+    "id": 684,
+    "title": "Яндекс.Заправки",
+    "caption": "Яндекс.Заправки\nhttps://zapravki.yandex.ru/\n\n☆ #приложение #сервис #промо #яндекс",
+    "image": "684.jpg",
+    "tags": [
+      "приложение",
+      "сервис",
+      "промо",
+      "яндекс"
+    ],
+    "url": "https://zapravki.yandex.ru/",
+    "date": 1583920822,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

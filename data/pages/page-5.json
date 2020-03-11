@@ -1,5 +1,23 @@
 [
   {
+    "id": 597,
+    "title": "Электронный архив работ художника Соломона Телингатера",
+    "image": "data/images/597.jpg",
+    "tags": [
+      "спецпроект",
+      "ильястарков"
+    ],
+    "url": "http://telingater.togdazine.ru/",
+    "date": 1570022721,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "ilyastarkov"
+    ]
+  },
+  {
     "id": 596,
     "title": "GaidLine",
     "image": "data/images/596.jpg",
@@ -345,26 +363,6 @@
       "blog",
       "finansi",
       "bank"
-    ]
-  },
-  {
-    "id": 572,
-    "title": "Elementaree",
-    "image": "data/images/572.jpg",
-    "tags": [
-      "сервис",
-      "еда",
-      "доставка"
-    ],
-    "url": "https://elementaree.ru/",
-    "date": 1566295257,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "yeda",
-      "dostavka"
     ]
   }
 ]

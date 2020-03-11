@@ -1,5 +1,27 @@
 [
   {
+    "id": 684,
+    "title": "Яндекс.Заправки",
+    "caption": "Яндекс.Заправки\nhttps://zapravki.yandex.ru/\n\n☆ #приложение #сервис #промо #яндекс",
+    "image": "data/images/684.jpg",
+    "tags": [
+      "приложение",
+      "сервис",
+      "промо",
+      "яндекс"
+    ],
+    "url": "https://zapravki.yandex.ru/",
+    "date": 1583920822,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "prilozhenie",
+      "servis",
+      "promo",
+      "yandeks"
+    ]
+  },
+  {
     "id": 532,
     "title": "Молния",
     "image": "data/images/532.jpg",
