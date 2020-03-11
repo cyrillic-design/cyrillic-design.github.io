@@ -1,29 +1,5 @@
 [
   {
-    "id": 312,
-    "title": "Бунтарь. Воин. Атеист",
-    "image": "data/images/312.jpg",
-    "tags": [
-      "спецпроект",
-      "промо",
-      "искусство",
-      "lentaru",
-      "третьяковскаягалерея"
-    ],
-    "url": "https://vereshchagin.lenta.ru/",
-    "date": 1538041141,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "promo",
-      "iskusstvo",
-      "lentaru",
-      "tretyakovskayagalereya"
-    ]
-  },
-  {
     "id": 311,
     "title": "РБК",
     "image": "data/images/311.jpg",
@@ -387,6 +363,24 @@
     "slugs": [
       "obrazovanie",
       "wonderwork"
+    ]
+  },
+  {
+    "id": 292,
+    "title": "Greensight",
+    "image": "data/images/292.jpg",
+    "tags": [
+      "агентство",
+      "портфолио"
+    ],
+    "url": "https://greensight.ru/",
+    "date": 1536314405,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "agentstvo",
+      "portfolio"
     ]
   }
 ]

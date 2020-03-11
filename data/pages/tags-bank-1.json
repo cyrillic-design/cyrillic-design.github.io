@@ -133,27 +133,6 @@
     ]
   },
   {
-    "id": 397,
-    "title": "Совкомбанк",
-    "caption": "Совкомбанк\nhttps://new.sovcombank.ru/\n\n#финансы #банк #chulakov",
-    "image": "data/images/397.jpg",
-    "tags": [
-      "финансы",
-      "банк",
-      "chulakov"
-    ],
-    "url": "https://new.sovcombank.ru/",
-    "date": 1545567524,
-    "edit_date": 1583247305,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "finansi",
-      "bank",
-      "chulakov"
-    ]
-  },
-  {
     "id": 362,
     "title": "Дело Модульбанка",
     "image": "data/images/362.jpg",
@@ -417,6 +396,24 @@
       "bank",
       "finansi",
       "aic"
+    ]
+  },
+  {
+    "id": 84,
+    "title": "Тинькофф",
+    "image": "data/images/84.jpg",
+    "tags": [
+      "банк",
+      "финансы"
+    ],
+    "url": "https://www.tinkoff.ru/",
+    "date": 1518948017,
+    "edit_date": 1583185563,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "bank",
+      "finansi"
     ]
   }
 ]

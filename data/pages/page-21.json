@@ -1,23 +1,5 @@
 [
   {
-    "id": 251,
-    "title": "Ад на колёсах",
-    "image": "data/images/251.jpg",
-    "tags": [
-      "спецпроект",
-      "батенькадавытрансформер"
-    ],
-    "url": "http://taxi.batenka.ru/",
-    "date": 1532858412,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "batenkadavitransformer"
-    ]
-  },
-  {
     "id": 250,
     "title": "Майбутні",
     "image": "data/images/250.jpg",
@@ -373,6 +355,24 @@
     "slugs": [
       "spetsproekt",
       "batenkadavitransformer"
+    ]
+  },
+  {
+    "id": 231,
+    "title": "Universal University",
+    "image": "data/images/231.jpg",
+    "tags": [
+      "образование",
+      "sulliwan"
+    ],
+    "url": "http://u.university/",
+    "date": 1531130406,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "sulliwan"
     ]
   }
 ]
