@@ -8400,5 +8400,20 @@
     "date": 1583920822,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "685": {
+    "id": 685,
+    "title": "Sloy Design",
+    "caption": "Sloy Design\nhttps://sloy.design/ru\n\n☆ #приложение #брендинг #cargo",
+    "image": "685.jpg",
+    "tags": [
+      "приложение",
+      "брендинг",
+      "cargo"
+    ],
+    "url": "https://sloy.design/ru",
+    "date": 1584007225,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

@@ -1,5 +1,27 @@
 [
   {
+    "id": 171,
+    "title": "Legacy",
+    "image": "data/images/171.jpg",
+    "tags": [
+      "фонд",
+      "бизнес",
+      "финансы",
+      "сибирикс"
+    ],
+    "url": "http://legacy-ef.com/",
+    "date": 1526032809,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "fond",
+      "biznes",
+      "finansi",
+      "sibiriks"
+    ]
+  },
+  {
     "id": 170,
     "title": "HANDWERS",
     "image": "data/images/170.jpg",
@@ -375,26 +397,6 @@
       "meropriyatie",
       "promo",
       "buking"
-    ]
-  },
-  {
-    "id": 151,
-    "title": "Свет изнутри",
-    "image": "data/images/151.jpg",
-    "tags": [
-      "спецпроект",
-      "readymag",
-      "катяузиенко"
-    ],
-    "url": "https://readymag.com/kaatisha/shine/",
-    "date": 1524132003,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "readymag",
-      "katyauzienko"
     ]
   }
 ]

@@ -1,5 +1,25 @@
 [
   {
+    "id": 400,
+    "title": "Третьяковская галерея: Уроки Куинджи",
+    "image": "data/images/400.jpg",
+    "tags": [
+      "спецпроект",
+      "мероприятие",
+      "artlebedev"
+    ],
+    "url": "https://kuindzhi.tretyakov.ru/",
+    "date": 1545818431,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "meropriyatie",
+      "artlebedev"
+    ]
+  },
+  {
     "id": 399,
     "title": "Бренд Рамблер",
     "caption": "Бренд Рамблер\nhttps://brand.rambler.ru/\n\n#брендинг #дизайн #гайд",
@@ -362,22 +382,6 @@
       "zhurnal",
       "nauka",
       "mamikhlapinatana"
-    ]
-  },
-  {
-    "id": 378,
-    "title": "Яндекс.Телефон",
-    "image": "data/images/378.jpg",
-    "tags": [
-      "промо"
-    ],
-    "url": "https://phone.yandex.ru/",
-    "date": 1544003657,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo"
     ]
   }
 ]

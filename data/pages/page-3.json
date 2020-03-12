@@ -1,5 +1,25 @@
 [
   {
+    "id": 638,
+    "title": "Женщины в дизайне",
+    "image": "data/images/638.jpg",
+    "tags": [
+      "подкаст",
+      "промо",
+      "readymag"
+    ],
+    "url": "https://designingwomen.readymag.com/podcast/",
+    "date": 1576663258,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "podkast",
+      "promo",
+      "readymag"
+    ]
+  },
+  {
     "id": 637,
     "title": "Благотворительный фонд «‎Шалаш»‎",
     "image": "data/images/637.jpg",
@@ -363,26 +383,6 @@
       "spetsproekt",
       "muzika",
       "yandeks"
-    ]
-  },
-  {
-    "id": 618,
-    "title": "Как читать Набокова",
-    "image": "data/images/618.jpg",
-    "tags": [
-      "спецпроект",
-      "readymag",
-      "азбукааттикус"
-    ],
-    "url": "https://nabokov.azbooka.ru/",
-    "date": 1572343260,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "readymag",
-      "azbukaattikus"
     ]
   }
 ]

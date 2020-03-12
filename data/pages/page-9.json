@@ -1,5 +1,25 @@
 [
   {
+    "id": 509,
+    "title": "АБУК",
+    "image": "data/images/509.jpg",
+    "tags": [
+      "промо",
+      "приложение",
+      "сервис"
+    ],
+    "url": "https://abuk.com.ua/",
+    "date": 1558173659,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "prilozhenie",
+      "servis"
+    ]
+  },
+  {
     "id": 508,
     "title": "Meduza",
     "image": "data/images/508.jpg",
@@ -358,22 +378,6 @@
       "finansi",
       "bank",
       "roketbank"
-    ]
-  },
-  {
-    "id": 486,
-    "title": "GLYF",
-    "image": "data/images/486.jpg",
-    "tags": [
-      "портфолио"
-    ],
-    "url": "https://glyf.ru/",
-    "date": 1554026422,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio"
     ]
   }
 ]

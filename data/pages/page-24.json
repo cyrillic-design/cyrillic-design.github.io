@@ -1,5 +1,23 @@
 [
   {
+    "id": 191,
+    "title": "Олег Герт",
+    "image": "data/images/191.jpg",
+    "tags": [
+      "портфолио",
+      "дизайн"
+    ],
+    "url": "http://oleggert.ru/",
+    "date": 1527760811,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "dizain"
+    ]
+  },
+  {
     "id": 190,
     "title": "Decta",
     "image": "data/images/190.jpg",
@@ -374,28 +392,6 @@
     "isRemoved": false,
     "slugs": [
       "magazin"
-    ]
-  },
-  {
-    "id": 171,
-    "title": "Legacy",
-    "image": "data/images/171.jpg",
-    "tags": [
-      "фонд",
-      "бизнес",
-      "финансы",
-      "сибирикс"
-    ],
-    "url": "http://legacy-ef.com/",
-    "date": 1526032809,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "fond",
-      "biznes",
-      "finansi",
-      "sibiriks"
     ]
   }
 ]

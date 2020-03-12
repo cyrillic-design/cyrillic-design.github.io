@@ -1,5 +1,23 @@
 [
   {
+    "id": 293,
+    "title": "The Orator Club",
+    "image": "data/images/293.jpg",
+    "tags": [
+      "образование",
+      "wonderwork"
+    ],
+    "url": "http://orator.club/",
+    "date": 1536426971,
+    "edit_date": 1583185435,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "wonderwork"
+    ]
+  },
+  {
     "id": 292,
     "title": "Greensight",
     "image": "data/images/292.jpg",
@@ -370,24 +388,6 @@
     "slugs": [
       "promo",
       "proizvodstvo"
-    ]
-  },
-  {
-    "id": 272,
-    "title": "INMYROOM",
-    "image": "data/images/272.jpg",
-    "tags": [
-      "магазин",
-      "журнал"
-    ],
-    "url": "https://www.inmyroom.ru/",
-    "date": 1534672809,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "zhurnal"
     ]
   }
 ]
