@@ -1,5 +1,23 @@
 [
   {
+    "id": 294,
+    "title": "Яндекс.Еда",
+    "image": "data/images/294.jpg",
+    "tags": [
+      "доставка",
+      "яндекс"
+    ],
+    "url": "https://eda.yandex/",
+    "date": 1536487217,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "dostavka",
+      "yandeks"
+    ]
+  },
+  {
     "id": 293,
     "title": "The Orator Club",
     "image": "data/images/293.jpg",
@@ -370,24 +388,6 @@
       "bank",
       "finansi",
       "magazin"
-    ]
-  },
-  {
-    "id": 274,
-    "title": "Экомилк",
-    "image": "data/images/274.jpg",
-    "tags": [
-      "промо",
-      "производство"
-    ],
-    "url": "http://ecomilk.ru/",
-    "date": 1534759210,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "proizvodstvo"
     ]
   }
 ]

@@ -1,5 +1,25 @@
 [
   {
+    "id": 532,
+    "title": "Молния",
+    "image": "data/images/532.jpg",
+    "tags": [
+      "сервис",
+      "заглушка",
+      "приложение"
+    ],
+    "url": "https://molnia.me/",
+    "date": 1560506435,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "zaglushka",
+      "prilozhenie"
+    ]
+  },
+  {
     "id": 531,
     "title": "SHU",
     "image": "data/images/531.jpg",
@@ -349,26 +369,6 @@
     "slugs": [
       "studiya",
       "portfolio"
-    ]
-  },
-  {
-    "id": 510,
-    "title": "Медисорб",
-    "image": "data/images/510.jpg",
-    "tags": [
-      "здоровье",
-      "производство",
-      "redcollar"
-    ],
-    "url": "https://www.medisorb.ru/",
-    "date": 1558260061,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "zdorove",
-      "proizvodstvo",
-      "redcollar"
     ]
   }
 ]

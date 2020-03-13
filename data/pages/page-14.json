@@ -1,5 +1,26 @@
 [
   {
+    "id": 401,
+    "title": "Сделай свой Выборг",
+    "caption": "Сделай свой Выборг\nhttps://vyborg.me/\n\n#брендинг #город #setters",
+    "image": "data/images/401.jpg",
+    "tags": [
+      "брендинг",
+      "город",
+      "setters"
+    ],
+    "url": "https://vyborg.me/",
+    "date": 1545904829,
+    "edit_date": 1583687860,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "brending",
+      "gorod",
+      "setters"
+    ]
+  },
+  {
     "id": 400,
     "title": "Третьяковская галерея: Уроки Куинджи",
     "image": "data/images/400.jpg",
@@ -362,26 +383,6 @@
       "iskusstvo",
       "kino",
       "charmer"
-    ]
-  },
-  {
-    "id": 379,
-    "title": "Ology",
-    "image": "data/images/379.jpg",
-    "tags": [
-      "журнал",
-      "наука",
-      "мамихлапинатана"
-    ],
-    "url": "https://ology.sh/",
-    "date": 1544090409,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "zhurnal",
-      "nauka",
-      "mamikhlapinatana"
     ]
   }
 ]

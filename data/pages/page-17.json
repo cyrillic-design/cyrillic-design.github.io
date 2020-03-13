@@ -1,5 +1,25 @@
 [
   {
+    "id": 334,
+    "title": "SOLO",
+    "image": "data/images/334.jpg",
+    "tags": [
+      "сервис",
+      "доставка",
+      "еда"
+    ],
+    "url": "https://solofood.ru/",
+    "date": 1540461619,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "dostavka",
+      "yeda"
+    ]
+  },
+  {
     "id": 333,
     "title": "TIMELESS",
     "image": "data/images/333.jpg",
@@ -371,26 +391,6 @@
       "dizain",
       "gosudarstvo",
       "sistema"
-    ]
-  },
-  {
-    "id": 314,
-    "title": "Блог Амплифера",
-    "image": "data/images/314.jpg",
-    "tags": [
-      "сервис",
-      "блог",
-      "социальныесети"
-    ],
-    "url": "https://amplifr.com/blog/ru/",
-    "date": 1538215220,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "blog",
-      "sotsialnieseti"
     ]
   }
 ]

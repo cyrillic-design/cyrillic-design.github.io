@@ -1,5 +1,25 @@
 [
   {
+    "id": 619,
+    "title": "Планетроника",
+    "image": "data/images/619.jpg",
+    "tags": [
+      "спецпроект",
+      "музыка",
+      "яндекс"
+    ],
+    "url": "https://planetronica.ru/",
+    "date": 1572688818,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "muzika",
+      "yandeks"
+    ]
+  },
+  {
     "id": 618,
     "title": "Как читать Набокова",
     "image": "data/images/618.jpg",
@@ -356,26 +376,6 @@
     "slugs": [
       "agentstvo",
       "portfolio"
-    ]
-  },
-  {
-    "id": 599,
-    "title": "Birds Records",
-    "image": "data/images/599.jpg",
-    "tags": [
-      "спецпроект",
-      "музыка",
-      "яндекс"
-    ],
-    "url": "https://birdsrecords.ru/",
-    "date": 1570701649,
-    "edit_date": 1583183812,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "muzika",
-      "yandeks"
     ]
   }
 ]

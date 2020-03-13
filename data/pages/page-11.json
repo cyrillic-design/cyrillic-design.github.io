@@ -1,5 +1,25 @@
 [
   {
+    "id": 465,
+    "title": "AZBUKA",
+    "image": "data/images/465.jpg",
+    "tags": [
+      "выставка",
+      "спецпроект",
+      "дворулица"
+    ],
+    "url": "http://azbuka.dvorulitsa.moscow/",
+    "date": 1552125620,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "vistavka",
+      "spetsproekt",
+      "dvorulitsa"
+    ]
+  },
+  {
     "id": 464,
     "title": "Камчатка",
     "caption": "Камчатка\nhttps://kamchatka.camp/\n\n#образование #мероприятие",
@@ -354,29 +374,6 @@
     "slugs": [
       "muzei",
       "laska"
-    ]
-  },
-  {
-    "id": 441,
-    "title": "Яндекс.Практикум",
-    "caption": "Яндекс.Практикум\nhttps://praktikum.yandex.ru/\n\n#образование #сервис #шад #яндекс",
-    "image": "data/images/441.jpg",
-    "tags": [
-      "образование",
-      "сервис",
-      "шад",
-      "яндекс"
-    ],
-    "url": "https://praktikum.yandex.ru/",
-    "date": 1550397618,
-    "edit_date": 1583687248,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "servis",
-      "shad",
-      "yandeks"
     ]
   }
 ]

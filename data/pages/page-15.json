@@ -1,5 +1,25 @@
 [
   {
+    "id": 379,
+    "title": "Ology",
+    "image": "data/images/379.jpg",
+    "tags": [
+      "журнал",
+      "наука",
+      "мамихлапинатана"
+    ],
+    "url": "https://ology.sh/",
+    "date": 1544090409,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "nauka",
+      "mamikhlapinatana"
+    ]
+  },
+  {
     "id": 378,
     "title": "Яндекс.Телефон",
     "image": "data/images/378.jpg",
@@ -355,26 +375,6 @@
     "slugs": [
       "zhurnal",
       "whiterussianstudio"
-    ]
-  },
-  {
-    "id": 355,
-    "title": "Bauhaus Imaginista",
-    "image": "data/images/355.jpg",
-    "tags": [
-      "образование",
-      "garage",
-      "readymag"
-    ],
-    "url": "https://bauhaus-imaginista.garagemca.org",
-    "date": 1542276018,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "garage",
-      "readymag"
     ]
   }
 ]

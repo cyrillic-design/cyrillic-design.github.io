@@ -1,5 +1,23 @@
 [
   {
+    "id": 213,
+    "title": "Нож",
+    "image": "data/images/213.jpg",
+    "tags": [
+      "журнал",
+      "медиа"
+    ],
+    "url": "https://knife.media/",
+    "date": 1529575224,
+    "edit_date": 1583185435,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "media"
+    ]
+  },
+  {
     "id": 212,
     "title": "Невозможное неизбежно",
     "image": "data/images/212.jpg",
@@ -369,26 +387,6 @@
       "uslugi",
       "servis",
       "konstruktor"
-    ]
-  },
-  {
-    "id": 192,
-    "title": "45/60",
-    "image": "data/images/192.jpg",
-    "tags": [
-      "промо",
-      "ресторан",
-      "еда"
-    ],
-    "url": "http://45-60.ru/",
-    "date": 1527847218,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "restoran",
-      "yeda"
     ]
   }
 ]

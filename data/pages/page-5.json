@@ -1,5 +1,25 @@
 [
   {
+    "id": 599,
+    "title": "Birds Records",
+    "image": "data/images/599.jpg",
+    "tags": [
+      "спецпроект",
+      "музыка",
+      "яндекс"
+    ],
+    "url": "https://birdsrecords.ru/",
+    "date": 1570701649,
+    "edit_date": 1583183812,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "muzika",
+      "yandeks"
+    ]
+  },
+  {
     "id": 598,
     "title": "FGA",
     "image": "data/images/598.jpg",
@@ -343,24 +363,6 @@
       "spetsproekt",
       "readymag",
       "lisitskii"
-    ]
-  },
-  {
-    "id": 574,
-    "title": "NYLON ORCHID by P.Y.E X FKSHM",
-    "image": "data/images/574.jpg",
-    "tags": [
-      "магазин",
-      "breadhead"
-    ],
-    "url": "https://nylonorchid.pyeoptics.com/",
-    "date": 1566640851,
-    "edit_date": 1583183812,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "breadhead"
     ]
   }
 ]

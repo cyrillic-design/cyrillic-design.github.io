@@ -1,5 +1,25 @@
 [
   {
+    "id": 639,
+    "title": "Future Book 202X от Кухни на районе и друзей",
+    "image": "data/images/639.jpg",
+    "tags": [
+      "спецпроект",
+      "тренды",
+      "презентация"
+    ],
+    "url": "https://202x.localkitchen.ru/",
+    "date": 1576749663,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "trendi",
+      "prezentatsiya"
+    ]
+  },
+  {
     "id": 638,
     "title": "Женщины в дизайне",
     "image": "data/images/638.jpg",
@@ -363,26 +383,6 @@
     "slugs": [
       "spetsproekt",
       "sovet"
-    ]
-  },
-  {
-    "id": 619,
-    "title": "Планетроника",
-    "image": "data/images/619.jpg",
-    "tags": [
-      "спецпроект",
-      "музыка",
-      "яндекс"
-    ],
-    "url": "https://planetronica.ru/",
-    "date": 1572688818,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "muzika",
-      "yandeks"
     ]
   }
 ]

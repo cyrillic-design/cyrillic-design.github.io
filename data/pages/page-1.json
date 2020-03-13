@@ -1,5 +1,23 @@
 [
   {
+    "id": 686,
+    "title": "plotnik design",
+    "caption": "plotnik design\nhttps://plotnik.design/\n\n☆ #портфолио #readymag",
+    "image": "data/images/686.jpg",
+    "tags": [
+      "портфолио",
+      "readymag"
+    ],
+    "url": "https://plotnik.design/",
+    "date": 1584093614,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "readymag"
+    ]
+  },
+  {
     "id": 685,
     "title": "Sloy Design",
     "caption": "Sloy Design\nhttps://sloy.design/ru\n\n☆ #приложение #брендинг #cargo",
@@ -385,24 +403,6 @@
       "promo",
       "buking",
       "videinfra"
-    ]
-  },
-  {
-    "id": 660,
-    "title": "International Digital Retail Forum 2020",
-    "image": "data/images/660.jpg",
-    "tags": [
-      "мероприятие",
-      "24ttl"
-    ],
-    "url": "https://www.idrf.online/",
-    "date": 1580983260,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "meropriyatie",
-      "24ttl"
     ]
   }
 ]
