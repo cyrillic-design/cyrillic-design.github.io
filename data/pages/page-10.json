@@ -1,5 +1,23 @@
 [
   {
+    "id": 488,
+    "title": "LukaPizza",
+    "image": "data/images/488.jpg",
+    "tags": [
+      "доставка",
+      "еда"
+    ],
+    "url": "https://lukapizza.ru",
+    "date": 1554199227,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "dostavka",
+      "yeda"
+    ]
+  },
+  {
     "id": 487,
     "title": "Работяга",
     "image": "data/images/487.jpg",
@@ -362,24 +380,6 @@
     "slugs": [
       "promo",
       "prominado"
-    ]
-  },
-  {
-    "id": 466,
-    "title": "РЖД Экспресс",
-    "image": "data/images/466.jpg",
-    "tags": [
-      "сервис",
-      "chulakov"
-    ],
-    "url": "https://rzdexpress.ru/",
-    "date": 1552212004,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "chulakov"
     ]
   }
 ]

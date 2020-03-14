@@ -1,5 +1,25 @@
 [
   {
+    "id": 335,
+    "title": "Глюкометр Сателлит Экспресс",
+    "image": "data/images/335.jpg",
+    "tags": [
+      "промо",
+      "здоровье",
+      "creativepeople"
+    ],
+    "url": "http://satellite-express.ru/",
+    "date": 1540548005,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "zdorove",
+      "creativepeople"
+    ]
+  },
+  {
     "id": 334,
     "title": "SOLO",
     "image": "data/images/334.jpg",
@@ -369,28 +389,6 @@
       "it",
       "novosti",
       "skdo"
-    ]
-  },
-  {
-    "id": 315,
-    "title": "Дизайн государственных систем России",
-    "image": "data/images/315.jpg",
-    "tags": [
-      "update",
-      "дизайн",
-      "государство",
-      "система"
-    ],
-    "url": "https://design.gov.ru/",
-    "date": 1538301603,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "update",
-      "dizain",
-      "gosudarstvo",
-      "sistema"
     ]
   }
 ]

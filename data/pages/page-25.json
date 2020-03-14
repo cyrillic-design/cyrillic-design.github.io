@@ -1,5 +1,25 @@
 [
   {
+    "id": 173,
+    "title": "Хайтек",
+    "image": "data/images/173.jpg",
+    "tags": [
+      "медиа",
+      "новости",
+      "технологии"
+    ],
+    "url": "https://hightech.fm/",
+    "date": 1526205609,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "media",
+      "novosti",
+      "tekhnologii"
+    ]
+  },
+  {
     "id": 172,
     "title": "re:Store",
     "image": "data/images/172.jpg",
@@ -373,26 +393,6 @@
     "slugs": [
       "promo",
       "magazin"
-    ]
-  },
-  {
-    "id": 153,
-    "title": "Мастер и Маргарита. Я там был",
-    "image": "data/images/153.jpg",
-    "tags": [
-      "спецпроект",
-      "культура",
-      "google"
-    ],
-    "url": "https://masterimargarita.withgoogle.com/explore",
-    "date": 1524304820,
-    "edit_date": 1583185536,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "kultura",
-      "google"
     ]
   }
 ]

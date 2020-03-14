@@ -1,5 +1,25 @@
 [
   {
+    "id": 193,
+    "title": "Сделано",
+    "image": "data/images/193.jpg",
+    "tags": [
+      "услуги",
+      "сервис",
+      "конструктор"
+    ],
+    "url": "https://sdelano.ru/",
+    "date": 1527933601,
+    "edit_date": 1583185536,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "uslugi",
+      "servis",
+      "konstruktor"
+    ]
+  },
+  {
     "id": 192,
     "title": "45/60",
     "image": "data/images/192.jpg",
@@ -376,26 +396,6 @@
       "bank",
       "finansi",
       "aic"
-    ]
-  },
-  {
-    "id": 173,
-    "title": "Хайтек",
-    "image": "data/images/173.jpg",
-    "tags": [
-      "медиа",
-      "новости",
-      "технологии"
-    ],
-    "url": "https://hightech.fm/",
-    "date": 1526205609,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "media",
-      "novosti",
-      "tekhnologii"
     ]
   }
 ]

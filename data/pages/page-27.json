@@ -1,5 +1,25 @@
 [
   {
+    "id": 132,
+    "title": "Эра-Глонасс",
+    "image": "data/images/132.jpg",
+    "tags": [
+      "промо",
+      "глонасс",
+      "hyundai"
+    ],
+    "url": "https://era.hyundai.ru/",
+    "date": 1522589719,
+    "edit_date": 1583185535,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "glonass",
+      "hyundai"
+    ]
+  },
+  {
     "id": 131,
     "title": "Locals",
     "image": "data/images/131.jpg",
@@ -376,28 +396,6 @@
       "promo",
       "obrazovanie",
       "kruzhok"
-    ]
-  },
-  {
-    "id": 112,
-    "title": "Williams Et Oliver",
-    "image": "data/images/112.jpg",
-    "tags": [
-      "магазин",
-      "спецпроект",
-      "гастрономия",
-      "дзендизайн"
-    ],
-    "url": "https://williams-oliver.ru/tours/",
-    "date": 1520841943,
-    "edit_date": 1583185535,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "spetsproekt",
-      "gastronomiya",
-      "dzendizain"
     ]
   }
 ]

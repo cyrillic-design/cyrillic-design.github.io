@@ -1,5 +1,27 @@
 [
   {
+    "id": 380,
+    "title": "Искусство кино",
+    "image": "data/images/380.jpg",
+    "tags": [
+      "журнал",
+      "искусство",
+      "кино",
+      "charmer"
+    ],
+    "url": "https://kinoart.ru/",
+    "date": 1544176818,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "iskusstvo",
+      "kino",
+      "charmer"
+    ]
+  },
+  {
     "id": 379,
     "title": "Ology",
     "image": "data/images/379.jpg",
@@ -357,24 +379,6 @@
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ]
-  },
-  {
-    "id": 356,
-    "title": "Москвич Mag",
-    "image": "data/images/356.jpg",
-    "tags": [
-      "журнал",
-      "whiterussianstudio"
-    ],
-    "url": "https://moskvichmag.ru/",
-    "date": 1542362440,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "zhurnal",
-      "whiterussianstudio"
     ]
   }
 ]

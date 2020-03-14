@@ -1,5 +1,25 @@
 [
   {
+    "id": 153,
+    "title": "Мастер и Маргарита. Я там был",
+    "image": "data/images/153.jpg",
+    "tags": [
+      "спецпроект",
+      "культура",
+      "google"
+    ],
+    "url": "https://masterimargarita.withgoogle.com/explore",
+    "date": 1524304820,
+    "edit_date": 1583185536,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "kultura",
+      "google"
+    ]
+  },
+  {
     "id": 152,
     "title": "VI международный форум по е-коммерции",
     "image": "data/images/152.jpg",
@@ -372,26 +392,6 @@
       "biznes",
       "uslugi",
       "ideil"
-    ]
-  },
-  {
-    "id": 132,
-    "title": "Эра-Глонасс",
-    "image": "data/images/132.jpg",
-    "tags": [
-      "промо",
-      "глонасс",
-      "hyundai"
-    ],
-    "url": "https://era.hyundai.ru/",
-    "date": 1522589719,
-    "edit_date": 1583185535,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "glonass",
-      "hyundai"
     ]
   }
 ]

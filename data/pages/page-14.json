@@ -1,5 +1,23 @@
 [
   {
+    "id": 402,
+    "title": "Рейтинги РВК 2018",
+    "image": "data/images/402.jpg",
+    "tags": [
+      "финансы",
+      "бизнес"
+    ],
+    "url": "http://ratings.rvc.ru/",
+    "date": 1545991205,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "finansi",
+      "biznes"
+    ]
+  },
+  {
     "id": 401,
     "title": "Сделай свой Выборг",
     "caption": "Сделай свой Выборг\nhttps://vyborg.me/\n\n#брендинг #город #setters",
@@ -361,28 +379,6 @@
       "podkast",
       "glagolevfm",
       "memorial"
-    ]
-  },
-  {
-    "id": 380,
-    "title": "Искусство кино",
-    "image": "data/images/380.jpg",
-    "tags": [
-      "журнал",
-      "искусство",
-      "кино",
-      "charmer"
-    ],
-    "url": "https://kinoart.ru/",
-    "date": 1544176818,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "zhurnal",
-      "iskusstvo",
-      "kino",
-      "charmer"
     ]
   }
 ]
