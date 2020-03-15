@@ -17,7 +17,8 @@
       "zhurnal",
       "nauka",
       "mamikhlapinatana"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 302,
@@ -39,7 +40,8 @@
       "servis",
       "nauka",
       "artlebedev"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 124,
@@ -59,6 +61,7 @@
       "obrazovanie",
       "media",
       "nauka"
-    ]
+    ],
+    "awards": []
   }
 ]

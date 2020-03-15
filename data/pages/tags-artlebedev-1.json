@@ -18,7 +18,8 @@
       "gorod",
       "servis",
       "artlebedev"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 580,
@@ -39,7 +40,8 @@
       "magazin",
       "servis",
       "artlebedev"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 400,
@@ -59,7 +61,8 @@
       "spetsproekt",
       "meropriyatie",
       "artlebedev"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 368,
@@ -79,7 +82,8 @@
       "iskusstvo",
       "spetsproekt",
       "artlebedev"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 353,
@@ -99,7 +103,8 @@
       "bank",
       "finansi",
       "artlebedev"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 302,
@@ -121,7 +126,8 @@
       "servis",
       "nauka",
       "artlebedev"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 237,
@@ -140,7 +146,8 @@
     "slugs": [
       "proizvodstvo",
       "artlebedev"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 127,
@@ -160,6 +167,7 @@
       "novosti",
       "sport",
       "artlebedev"
-    ]
+    ],
+    "awards": []
   }
 ]

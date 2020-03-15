@@ -1,5 +1,117 @@
 [
   {
+    "id": 556,
+    "title": "Койот",
+    "image": "data/images/556.jpg",
+    "tags": [
+      "производство",
+      "магазин",
+      "aiwin"
+    ],
+    "url": "https://coyote-ekb.ru/",
+    "date": 1563962419,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "magazin",
+      "aiwin"
+    ],
+    "awards": []
+  },
+  {
+    "id": 555,
+    "title": "shishki collective",
+    "image": "data/images/555.jpg",
+    "tags": [
+      "портфолио"
+    ],
+    "url": "https://ru.shishki.co/",
+    "date": 1563888344,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio"
+    ],
+    "awards": []
+  },
+  {
+    "id": 554,
+    "title": "Золотое яблоко",
+    "image": "data/images/554.jpg",
+    "tags": [
+      "магазин",
+      "красота",
+      "мода"
+    ],
+    "url": "https://goldapple.ru/",
+    "date": 1563530416,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "krasota",
+      "moda"
+    ],
+    "awards": []
+  },
+  {
+    "id": 553,
+    "title": "Пётр Юшин",
+    "image": "data/images/553.jpg",
+    "tags": [
+      "портфолио",
+      "perushevandkhmelev"
+    ],
+    "url": "https://yushinpetr.com/ru/",
+    "date": 1563444011,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "perushevandkhmelev"
+    ],
+    "awards": []
+  },
+  {
+    "id": 552,
+    "title": "COLLIDER",
+    "image": "data/images/552.jpg",
+    "tags": [
+      "промо"
+    ],
+    "url": "https://collider.ru/",
+    "date": 1563357625,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo"
+    ],
+    "awards": []
+  },
+  {
+    "id": 551,
+    "title": "БюроБюро",
+    "image": "data/images/551.jpg",
+    "tags": [
+      "портфолио"
+    ],
+    "url": "https://buroburo.ru/",
+    "date": 1563271211,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio"
+    ],
+    "awards": []
+  },
+  {
     "id": 550,
     "title": "Татцентр.ру",
     "image": "data/images/550.jpg",
@@ -15,7 +127,8 @@
     "slugs": [
       "izdanie",
       "stride"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 548,
@@ -33,7 +146,8 @@
     "slugs": [
       "proizvodstvo",
       "studiyaevgeniyayarovogo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 547,
@@ -51,7 +165,8 @@
     "slugs": [
       "meropriyatie",
       "sovet"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 546,
@@ -67,7 +182,8 @@
     "isRemoved": false,
     "slugs": [
       "promo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 545,
@@ -84,7 +200,8 @@
     "isRemoved": false,
     "slugs": [
       "servis"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 544,
@@ -102,7 +219,8 @@
     "slugs": [
       "meropriyatie",
       "promo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 542,
@@ -120,7 +238,8 @@
     "slugs": [
       "obrazovanie",
       "yandeks"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 541,
@@ -136,7 +255,8 @@
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 540,
@@ -152,7 +272,8 @@
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 539,
@@ -170,7 +291,8 @@
     "slugs": [
       "proizvodstvo",
       "levelup"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 538,
@@ -190,7 +312,8 @@
       "servis",
       "platforma",
       "byurobyuro"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 537,
@@ -210,7 +333,8 @@
       "servis",
       "muzika",
       "stride"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 536,
@@ -226,7 +350,8 @@
     "isRemoved": false,
     "slugs": [
       "obrazovanie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 535,
@@ -244,116 +369,7 @@
     "slugs": [
       "promo",
       "sovet"
-    ]
-  },
-  {
-    "id": 534,
-    "title": "Worki",
-    "image": "data/images/534.jpg",
-    "tags": [
-      "сервис"
     ],
-    "url": "https://worki.ru",
-    "date": 1560852037,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis"
-    ]
-  },
-  {
-    "id": 533,
-    "title": "Великая суббота",
-    "image": "data/images/533.jpg",
-    "tags": [
-      "vr",
-      "религия"
-    ],
-    "url": "https://gigarama.ru/holyfire/",
-    "date": 1560592834,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "vr",
-      "religiya"
-    ]
-  },
-  {
-    "id": 532,
-    "title": "Молния",
-    "image": "data/images/532.jpg",
-    "tags": [
-      "сервис",
-      "заглушка",
-      "приложение"
-    ],
-    "url": "https://molnia.me/",
-    "date": 1560506435,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "zaglushka",
-      "prilozhenie"
-    ]
-  },
-  {
-    "id": 531,
-    "title": "SHU",
-    "image": "data/images/531.jpg",
-    "tags": [
-      "одежда",
-      "магазин"
-    ],
-    "url": "https://shuclothes.com/ru/",
-    "date": 1560420033,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "odezhda",
-      "magazin"
-    ]
-  },
-  {
-    "id": 530,
-    "title": "TheQuestion",
-    "image": "data/images/530.jpg",
-    "tags": [
-      "сервис"
-    ],
-    "url": "https://thequestion.ru/",
-    "date": 1560333631,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis"
-    ]
-  },
-  {
-    "id": 529,
-    "title": "Sloy",
-    "image": "data/images/529.jpg",
-    "tags": [
-      "приложение",
-      "промо",
-      "мода",
-      "заглушка"
-    ],
-    "url": "https://sloy.com/",
-    "date": 1560260683,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "prilozhenie",
-      "promo",
-      "moda",
-      "zaglushka"
-    ]
+    "awards": []
   }
 ]

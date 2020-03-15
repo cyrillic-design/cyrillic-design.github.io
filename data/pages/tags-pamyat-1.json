@@ -15,7 +15,8 @@
     "slugs": [
       "pamyat",
       "spetsproekt"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 480,
@@ -33,7 +34,8 @@
     "slugs": [
       "pamyat",
       "takiedela"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 304,
@@ -55,7 +57,8 @@
       "pamyat",
       "garazh",
       "promo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 215,
@@ -77,7 +80,8 @@
       "muzika",
       "pamyat",
       "netlab"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 86,
@@ -101,7 +105,8 @@
       "pamyat",
       "lyudi",
       "takiedela"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 80,
@@ -125,7 +130,8 @@
       "muzika",
       "pamyat",
       "coda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 62,
@@ -147,6 +153,7 @@
       "spetsproekt",
       "pamyat",
       "dianadubina"
-    ]
+    ],
+    "awards": []
   }
 ]

@@ -17,7 +17,8 @@
       "uslugi",
       "servis",
       "puteshestviya"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 143,
@@ -35,7 +36,8 @@
     "slugs": [
       "uslugi",
       "servis"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 140,
@@ -51,7 +53,8 @@
     "isRemoved": false,
     "slugs": [
       "uslugi"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 139,
@@ -69,7 +72,8 @@
     "slugs": [
       "provaider",
       "uslugi"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 134,
@@ -89,7 +93,8 @@
       "aviakompaniya",
       "uslugi",
       "puteshestviya"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 133,
@@ -110,7 +115,8 @@
       "biznes",
       "uslugi",
       "ideil"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 131,
@@ -132,7 +138,8 @@
       "arenda",
       "uslugi",
       "genue"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 129,
@@ -148,7 +155,8 @@
     "isRemoved": false,
     "slugs": [
       "uslugi"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 125,
@@ -168,7 +176,8 @@
       "aviakompaniya",
       "uslugi",
       "puteshestviya"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 120,
@@ -190,7 +199,8 @@
       "provaider",
       "uslugi",
       "ony"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 111,
@@ -210,6 +220,7 @@
       "gosudarstvo",
       "uslugi",
       "rossiya"
-    ]
+    ],
+    "awards": []
   }
 ]

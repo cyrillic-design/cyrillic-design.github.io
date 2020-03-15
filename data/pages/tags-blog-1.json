@@ -17,7 +17,8 @@
       "blog",
       "finansi",
       "bank"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 458,
@@ -37,7 +38,8 @@
       "blog",
       "zdorove",
       "docplus"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 438,
@@ -55,7 +57,8 @@
     "slugs": [
       "blog",
       "brending"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 406,
@@ -75,7 +78,8 @@
       "servis",
       "itogi",
       "blog"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 341,
@@ -97,7 +101,8 @@
       "blog",
       "novosti",
       "onesoil"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 314,
@@ -117,6 +122,7 @@
       "servis",
       "blog",
       "sotsialnieseti"
-    ]
+    ],
+    "awards": []
   }
 ]

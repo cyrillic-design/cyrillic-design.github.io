@@ -1,5 +1,129 @@
 [
   {
+    "id": 621,
+    "title": "Bank UA",
+    "image": "data/images/621.jpg",
+    "tags": [
+      "медиа",
+      "финансы",
+      "инвестиции",
+      "hexagon"
+    ],
+    "url": "https://bank.ua/",
+    "date": 1573207269,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "media",
+      "finansi",
+      "investitsii",
+      "hexagon"
+    ],
+    "awards": []
+  },
+  {
+    "id": 620,
+    "title": "Лаишево — через прошлое в настоящее",
+    "image": "data/images/620.jpg",
+    "tags": [
+      "спецпроект",
+      "совет"
+    ],
+    "url": "https://laish.tatar/",
+    "date": 1572948056,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "sovet"
+    ],
+    "awards": []
+  },
+  {
+    "id": 619,
+    "title": "Планетроника",
+    "image": "data/images/619.jpg",
+    "tags": [
+      "спецпроект",
+      "музыка",
+      "яндекс"
+    ],
+    "url": "https://planetronica.ru/",
+    "date": 1572688818,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "muzika",
+      "yandeks"
+    ],
+    "awards": []
+  },
+  {
+    "id": 618,
+    "title": "Как читать Набокова",
+    "image": "data/images/618.jpg",
+    "tags": [
+      "спецпроект",
+      "readymag",
+      "азбукааттикус"
+    ],
+    "url": "https://nabokov.azbooka.ru/",
+    "date": 1572343260,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "readymag",
+      "azbukaattikus"
+    ],
+    "awards": []
+  },
+  {
+    "id": 617,
+    "title": "NETTO",
+    "image": "data/images/617.jpg",
+    "tags": [
+      "портфолио",
+      "спецпроект",
+      "the23",
+      "tilda"
+    ],
+    "url": "https://netto.the23.design/",
+    "date": 1572256855,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "spetsproekt",
+      "the23",
+      "tilda"
+    ],
+    "awards": []
+  },
+  {
+    "id": 616,
+    "title": "SkyUp Airlines",
+    "image": "data/images/616.jpg",
+    "tags": [
+      "сервис"
+    ],
+    "url": "https://skyup.aero/uk/",
+    "date": 1572170448,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis"
+    ],
+    "awards": []
+  },
+  {
     "id": 615,
     "title": "Weekend-курс актёрского мастерства",
     "image": "data/images/615.jpg",
@@ -15,7 +139,8 @@
     "slugs": [
       "obrazovanie",
       "tilda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 614,
@@ -37,7 +162,8 @@
       "media",
       "zhurnal",
       "charmer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 613,
@@ -59,7 +185,8 @@
       "yeda",
       "promo",
       "platforma"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 612,
@@ -77,7 +204,8 @@
     "slugs": [
       "zhurnal",
       "pure"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 611,
@@ -99,7 +227,8 @@
       "readymag",
       "garage",
       "vasiliipodryadchikov"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 610,
@@ -121,7 +250,8 @@
       "proizvodstvo",
       "yeda",
       "nimax"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 609,
@@ -139,7 +269,8 @@
     "slugs": [
       "spetsproekt",
       "qmrktng"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 608,
@@ -157,7 +288,8 @@
     "slugs": [
       "obrazovanie",
       "numo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 607,
@@ -175,7 +307,8 @@
     "slugs": [
       "meropriyatie",
       "designworkout"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 606,
@@ -191,7 +324,8 @@
     "isRemoved": false,
     "slugs": [
       "obrazovanie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 605,
@@ -207,7 +341,8 @@
     "isRemoved": false,
     "slugs": [
       "meropriyatie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 604,
@@ -225,7 +360,8 @@
     "slugs": [
       "servis",
       "eshgruppa"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 603,
@@ -243,7 +379,8 @@
     "slugs": [
       "meropriyatie",
       "groznovco"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 602,
@@ -261,115 +398,7 @@
     "slugs": [
       "zaglushka",
       "meropriyatie"
-    ]
-  },
-  {
-    "id": 601,
-    "title": "Исаак Левитан",
-    "image": "data/images/601.jpg",
-    "tags": [
-      "спецпроект",
-      "netlab"
     ],
-    "url": "http://levitanart.ru/",
-    "date": 1570874429,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "netlab"
-    ]
-  },
-  {
-    "id": 600,
-    "title": "РА «ВОСХОД»",
-    "caption": "РА «ВОСХОД»\nhttps://voskhod.agency/\n\n#агентство #портфолио",
-    "image": "data/images/600.jpg",
-    "tags": [
-      "агентство",
-      "портфолио"
-    ],
-    "url": "https://voskhod.agency/",
-    "date": 1570788023,
-    "edit_date": 1583340469,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "agentstvo",
-      "portfolio"
-    ]
-  },
-  {
-    "id": 599,
-    "title": "Birds Records",
-    "image": "data/images/599.jpg",
-    "tags": [
-      "спецпроект",
-      "музыка",
-      "яндекс"
-    ],
-    "url": "https://birdsrecords.ru/",
-    "date": 1570701649,
-    "edit_date": 1583183812,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "muzika",
-      "yandeks"
-    ]
-  },
-  {
-    "id": 598,
-    "title": "FGA",
-    "image": "data/images/598.jpg",
-    "tags": [
-      "портфолио",
-      "groznovco"
-    ],
-    "url": "http://fga.art/",
-    "date": 1570607452,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio",
-      "groznovco"
-    ]
-  },
-  {
-    "id": 597,
-    "title": "Электронный архив работ художника Соломона Телингатера",
-    "image": "data/images/597.jpg",
-    "tags": [
-      "спецпроект",
-      "ильястарков"
-    ],
-    "url": "http://telingater.togdazine.ru/",
-    "date": 1570022721,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "ilyastarkov"
-    ]
-  },
-  {
-    "id": 596,
-    "title": "GaidLine",
-    "image": "data/images/596.jpg",
-    "tags": [
-      "журнал"
-    ],
-    "url": "http://justice.gaidline.media/",
-    "date": 1569943902,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "zhurnal"
-    ]
+    "awards": []
   }
 ]

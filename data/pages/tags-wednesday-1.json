@@ -15,7 +15,8 @@
     "slugs": [
       "izdanie",
       "wednesday"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 76,
@@ -37,6 +38,7 @@
       "media",
       "zhurnal",
       "wednesday"
-    ]
+    ],
+    "awards": []
   }
 ]

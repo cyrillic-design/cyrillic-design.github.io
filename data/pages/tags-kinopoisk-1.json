@@ -19,7 +19,8 @@
       "kinopoisk",
       "yandeks",
       "embacy"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 243,
@@ -39,7 +40,8 @@
       "servis",
       "kino",
       "kinopoisk"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 227,
@@ -57,6 +59,7 @@
     "slugs": [
       "promo",
       "kinopoisk"
-    ]
+    ],
+    "awards": []
   }
 ]

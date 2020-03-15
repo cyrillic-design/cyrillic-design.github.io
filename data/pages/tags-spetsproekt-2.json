@@ -1,5 +1,24 @@
 [
   {
+    "id": 586,
+    "title": "Без Меня Егору Летову — 55 лет",
+    "image": "data/images/586.jpg",
+    "tags": [
+      "спецпроект",
+      "медуза"
+    ],
+    "url": "https://meduza.io/specials/letov",
+    "date": 1568368834,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "meduza"
+    ],
+    "awards": []
+  },
+  {
     "id": 578,
     "title": "Письма врагов народа",
     "image": "data/images/578.jpg",
@@ -17,7 +36,8 @@
       "spetsproekt",
       "readymag",
       "takiedela"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 575,
@@ -37,7 +57,8 @@
       "spetsproekt",
       "readymag",
       "lisitskii"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 565,
@@ -55,7 +76,8 @@
     "slugs": [
       "spetsproekt",
       "kruzhok"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 561,
@@ -74,7 +96,8 @@
     "slugs": [
       "spetsproekt",
       "ria"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 560,
@@ -99,7 +122,8 @@
       "spetsproekt",
       "readymag",
       "aic"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 558,
@@ -115,7 +139,8 @@
     "isRemoved": false,
     "slugs": [
       "spetsproekt"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 514,
@@ -137,7 +162,8 @@
       "spetsproekt",
       "belarus",
       "alekseicherenkevich"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 505,
@@ -155,7 +181,8 @@
     "slugs": [
       "pamyat",
       "spetsproekt"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 499,
@@ -173,7 +200,8 @@
     "slugs": [
       "spetsproekt",
       "kruzhok"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 484,
@@ -193,7 +221,8 @@
       "spetsproekt",
       "muzika",
       "vono"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 476,
@@ -213,7 +242,8 @@
       "spetsproekt",
       "promo",
       "rbk"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 465,
@@ -233,7 +263,8 @@
       "vistavka",
       "spetsproekt",
       "dvorulitsa"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 456,
@@ -253,7 +284,8 @@
       "spetsproekt",
       "zdorove",
       "mamikhlapinatana"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 432,
@@ -273,7 +305,8 @@
       "portfolio",
       "spetsproekt",
       "studiya"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 431,
@@ -293,7 +326,8 @@
       "spetsproekt",
       "ukraina",
       "evne"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 413,
@@ -314,7 +348,8 @@
       "spetsproekt",
       "lyudi",
       "kruzhok"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 400,
@@ -334,7 +369,8 @@
       "spetsproekt",
       "meropriyatie",
       "artlebedev"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 396,
@@ -354,7 +390,8 @@
       "spetsproekt",
       "istoriya",
       "itechgroup"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 389,
@@ -374,28 +411,7 @@
       "izdanie",
       "spetsproekt",
       "vono"
-    ]
-  },
-  {
-    "id": 381,
-    "title": "Подкаст «Остарбайтеры»",
-    "image": "data/images/381.jpg",
-    "tags": [
-      "спецпроект",
-      "подкаст",
-      "glagolevfm",
-      "мемориал"
     ],
-    "url": "https://ost.glagolev.fm/",
-    "date": 1544263253,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "podkast",
-      "glagolevfm",
-      "memorial"
-    ]
+    "awards": []
   }
 ]

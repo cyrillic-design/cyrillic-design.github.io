@@ -19,7 +19,8 @@
       "tekhnologii",
       "biznes",
       "redcollar"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 190,
@@ -39,7 +40,8 @@
       "finansi",
       "uslugi",
       "tekhnologii"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 173,
@@ -59,6 +61,7 @@
       "media",
       "novosti",
       "tekhnologii"
-    ]
+    ],
+    "awards": []
   }
 ]

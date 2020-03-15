@@ -1,18 +1,42 @@
 [
   {
+    "id": 686,
+    "title": "plotnik design",
+    "caption": "plotnik design\nhttps://plotnik.design/\n\n☆ #портфолио #readymag",
+    "image": "data/images/686.jpg",
+    "tags": [
+      "портфолио",
+      "readymag"
+    ],
+    "url": "https://plotnik.design/",
+    "date": 1584093614,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 666,
     "title": "Redo Bureau",
+    "caption": "Redo Bureau\nhttps://redobureau.com/ru\n\n☆ #портфолио",
     "image": "data/images/666.jpg",
     "tags": [
       "портфолио"
     ],
     "url": "https://redobureau.com/ru",
     "date": 1582279214,
-    "edit_date": 1583183700,
+    "edit_date": 1584296887,
+    "isMonth": true,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
       "portfolio"
+    ],
+    "awards": [
+      "month"
     ]
   },
   {
@@ -29,7 +53,8 @@
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 646,
@@ -45,7 +70,8 @@
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 644,
@@ -61,7 +87,8 @@
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 630,
@@ -81,7 +108,8 @@
       "promo",
       "portfolio",
       "voskhoddigital"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 628,
@@ -97,7 +125,8 @@
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 627,
@@ -116,7 +145,8 @@
     "slugs": [
       "portfolio",
       "whiterussianstudio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 625,
@@ -132,7 +162,8 @@
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 617,
@@ -154,7 +185,8 @@
       "spetsproekt",
       "the23",
       "tilda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 600,
@@ -173,7 +205,8 @@
     "slugs": [
       "agentstvo",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 598,
@@ -191,7 +224,8 @@
     "slugs": [
       "portfolio",
       "groznovco"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 590,
@@ -209,7 +243,8 @@
     "slugs": [
       "hr",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 587,
@@ -229,7 +264,8 @@
       "magazin",
       "portfolio",
       "designworkout"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 585,
@@ -245,7 +281,8 @@
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 568,
@@ -261,7 +298,8 @@
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 564,
@@ -279,7 +317,8 @@
     "slugs": [
       "portfolio",
       "whiterussianstudio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 562,
@@ -297,7 +336,8 @@
     "slugs": [
       "portfolio",
       "zaglushka"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 555,
@@ -313,7 +353,8 @@
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 553,
@@ -331,22 +372,7 @@
     "slugs": [
       "portfolio",
       "perushevandkhmelev"
-    ]
-  },
-  {
-    "id": 551,
-    "title": "БюроБюро",
-    "image": "data/images/551.jpg",
-    "tags": [
-      "портфолио"
     ],
-    "url": "https://buroburo.ru/",
-    "date": 1563271211,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio"
-    ]
+    "awards": []
   }
 ]

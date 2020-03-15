@@ -252,10 +252,6 @@
     "slug": "antonandirene"
   },
   {
-    "title": "chamer",
-    "slug": "chamer"
-  },
-  {
     "title": "comence",
     "slug": "comence"
   },
@@ -1218,5 +1214,13 @@
   {
     "title": "кухнянарайоне",
     "slug": "kukhnyanaraione"
+  },
+  {
+    "title": "cargo",
+    "slug": "cargo"
+  },
+  {
+    "title": "анастасиябурякова",
+    "slug": "anastasiyaburyakova"
   }
 ]

@@ -1,5 +1,28 @@
 [
   {
+    "id": 688,
+    "title": "hochiminh",
+    "caption": "hochiminh\nhttps://readymag.com/u64480371/1549696/\n\n☆ #спецпроект #культура #readymag #анастасиябурякова",
+    "image": "data/images/688.jpg",
+    "tags": [
+      "спецпроект",
+      "культура",
+      "readymag",
+      "анастасиябурякова"
+    ],
+    "url": "https://readymag.com/u64480371/1549696/",
+    "date": 1584266458,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "kultura",
+      "readymag",
+      "anastasiyaburyakova"
+    ],
+    "awards": []
+  },
+  {
     "id": 663,
     "title": "Я себя люблю",
     "image": "data/images/663.jpg",
@@ -17,7 +40,8 @@
       "spetsproekt",
       "readymag",
       "tatyanaegoshina"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 657,
@@ -39,7 +63,8 @@
       "readymag",
       "alanalikov",
       "sashakats"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 651,
@@ -57,7 +82,8 @@
     "slugs": [
       "spetsproekt",
       "smena"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 648,
@@ -77,7 +103,8 @@
       "spetsproekt",
       "promo",
       "obrazovanie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 639,
@@ -97,7 +124,8 @@
       "spetsproekt",
       "trendi",
       "prezentatsiya"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 636,
@@ -117,7 +145,8 @@
       "spetsproekt",
       "lyudi",
       "kruzhok"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 634,
@@ -135,7 +164,8 @@
     "slugs": [
       "spetsproekt",
       "ony"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 624,
@@ -153,7 +183,8 @@
     "slugs": [
       "spetsproekt",
       "artelutkina"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 620,
@@ -171,7 +202,8 @@
     "slugs": [
       "spetsproekt",
       "sovet"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 619,
@@ -191,7 +223,8 @@
       "spetsproekt",
       "muzika",
       "yandeks"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 618,
@@ -211,7 +244,8 @@
       "spetsproekt",
       "readymag",
       "azbukaattikus"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 617,
@@ -233,7 +267,8 @@
       "spetsproekt",
       "the23",
       "tilda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 613,
@@ -255,7 +290,8 @@
       "yeda",
       "promo",
       "platforma"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 611,
@@ -277,7 +313,8 @@
       "readymag",
       "garage",
       "vasiliipodryadchikov"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 609,
@@ -295,7 +332,8 @@
     "slugs": [
       "spetsproekt",
       "qmrktng"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 601,
@@ -313,7 +351,8 @@
     "slugs": [
       "spetsproekt",
       "netlab"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 599,
@@ -333,7 +372,8 @@
       "spetsproekt",
       "muzika",
       "yandeks"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 597,
@@ -351,7 +391,8 @@
     "slugs": [
       "spetsproekt",
       "ilyastarkov"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 592,
@@ -372,24 +413,7 @@
       "spetsproekt",
       "advokatskayagazeta",
       "artperformance"
-    ]
-  },
-  {
-    "id": 586,
-    "title": "Без Меня Егору Летову — 55 лет",
-    "image": "data/images/586.jpg",
-    "tags": [
-      "спецпроект",
-      "медуза"
     ],
-    "url": "https://meduza.io/specials/letov",
-    "date": 1568368834,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "meduza"
-    ]
+    "awards": []
   }
 ]

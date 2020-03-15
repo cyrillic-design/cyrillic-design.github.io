@@ -1,5 +1,49 @@
 [
   {
+    "id": 685,
+    "title": "Sloy Design",
+    "caption": "Sloy Design\nhttps://sloy.design/ru\n\n☆ #приложение #брендинг #cargo",
+    "image": "data/images/685.jpg",
+    "tags": [
+      "приложение",
+      "брендинг",
+      "cargo"
+    ],
+    "url": "https://sloy.design/ru",
+    "date": 1584007225,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "prilozhenie",
+      "brending",
+      "cargo"
+    ],
+    "awards": []
+  },
+  {
+    "id": 684,
+    "title": "Яндекс.Заправки",
+    "caption": "Яндекс.Заправки\nhttps://zapravki.yandex.ru/\n\n☆ #приложение #сервис #промо #яндекс",
+    "image": "data/images/684.jpg",
+    "tags": [
+      "приложение",
+      "сервис",
+      "промо",
+      "яндекс"
+    ],
+    "url": "https://zapravki.yandex.ru/",
+    "date": 1583920822,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "prilozhenie",
+      "servis",
+      "promo",
+      "yandeks"
+    ],
+    "awards": []
+  },
+  {
     "id": 532,
     "title": "Молния",
     "image": "data/images/532.jpg",
@@ -17,7 +61,8 @@
       "servis",
       "zaglushka",
       "prilozhenie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 529,
@@ -39,7 +84,8 @@
       "promo",
       "moda",
       "zaglushka"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 509,
@@ -59,7 +105,8 @@
       "promo",
       "prilozhenie",
       "servis"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 470,
@@ -81,6 +128,7 @@
       "prilozhenie",
       "bank",
       "finansi"
-    ]
+    ],
+    "awards": []
   }
 ]

@@ -1,5 +1,22 @@
 [
   {
+    "id": 551,
+    "title": "БюроБюро",
+    "image": "data/images/551.jpg",
+    "tags": [
+      "портфолио"
+    ],
+    "url": "https://buroburo.ru/",
+    "date": 1563271211,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio"
+    ],
+    "awards": []
+  },
+  {
     "id": 541,
     "title": "Stride",
     "image": "data/images/541.jpg",
@@ -13,7 +30,8 @@
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 540,
@@ -29,7 +47,8 @@
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 525,
@@ -47,7 +66,8 @@
     "slugs": [
       "portfolio",
       "sever"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 522,
@@ -63,7 +83,8 @@
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 511,
@@ -81,7 +102,8 @@
     "slugs": [
       "studiya",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 497,
@@ -101,7 +123,8 @@
       "portfolio",
       "readymag",
       "sulliwan"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 493,
@@ -117,7 +140,8 @@
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 486,
@@ -133,7 +157,8 @@
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 483,
@@ -151,7 +176,8 @@
     "slugs": [
       "portfolio",
       "sulliwan"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 482,
@@ -170,7 +196,8 @@
     "slugs": [
       "portfolio",
       "tilda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 479,
@@ -187,7 +214,8 @@
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 477,
@@ -203,7 +231,8 @@
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 447,
@@ -221,7 +250,8 @@
     "slugs": [
       "portfolio",
       "agentstvo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 444,
@@ -239,7 +269,8 @@
     "slugs": [
       "studiya",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 432,
@@ -259,7 +290,8 @@
       "portfolio",
       "spetsproekt",
       "studiya"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 430,
@@ -279,7 +311,8 @@
       "portfolio",
       "studiya",
       "flat12"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 420,
@@ -297,7 +330,8 @@
     "slugs": [
       "portfolio",
       "agentstvo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 416,
@@ -315,7 +349,8 @@
     "slugs": [
       "portfolio",
       "studiya"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 409,
@@ -331,24 +366,7 @@
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ]
-  },
-  {
-    "id": 404,
-    "title": "Banda agency",
-    "image": "data/images/404.jpg",
-    "tags": [
-      "агентство",
-      "портфолио"
     ],
-    "url": "http://banda.agency/",
-    "date": 1546164010,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "agentstvo",
-      "portfolio"
-    ]
+    "awards": []
   }
 ]

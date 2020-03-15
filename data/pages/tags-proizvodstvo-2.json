@@ -17,7 +17,8 @@
       "uslugi",
       "proizvodstvo",
       "astroshok"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 221,
@@ -37,7 +38,8 @@
       "proizvodstvo",
       "promo",
       "xdesign"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 217,
@@ -57,7 +59,8 @@
       "proizvodstvo",
       "promo",
       "chipsa"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 210,
@@ -79,7 +82,8 @@
       "fabrika",
       "magazin",
       "okcmedia"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 206,
@@ -99,7 +103,8 @@
       "proizvodstvo",
       "yeda",
       "chipsa"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 203,
@@ -119,7 +124,8 @@
       "proizvodstvo",
       "uslugi",
       "manufaktura"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 198,
@@ -139,7 +145,8 @@
       "proizvodstvo",
       "uslugi",
       "facility"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 185,
@@ -163,7 +170,8 @@
       "odezhda",
       "moda",
       "icrea"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 146,
@@ -185,6 +193,7 @@
       "odezhda",
       "proizvodstvo",
       "dzendizain"
-    ]
+    ],
+    "awards": []
   }
 ]

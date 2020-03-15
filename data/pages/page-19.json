@@ -1,5 +1,104 @@
 [
   {
+    "id": 296,
+    "title": "Литературный конкурс «Будущее время»",
+    "image": "data/images/296.jpg",
+    "tags": [
+      "мероприятие",
+      "система"
+    ],
+    "url": "http://bf.sistema.ru/futuretense/",
+    "date": 1536660017,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "sistema"
+    ],
+    "awards": []
+  },
+  {
+    "id": 295,
+    "title": "Тинькофф Финтех",
+    "image": "data/images/295.jpg",
+    "tags": [
+      "образование",
+      "финансы",
+      "банк",
+      "тинькофф"
+    ],
+    "url": "https://fintech.tinkoff.ru/",
+    "date": 1536573613,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "finansi",
+      "bank",
+      "tinkoff"
+    ],
+    "awards": []
+  },
+  {
+    "id": 294,
+    "title": "Яндекс.Еда",
+    "image": "data/images/294.jpg",
+    "tags": [
+      "доставка",
+      "яндекс"
+    ],
+    "url": "https://eda.yandex/",
+    "date": 1536487217,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "dostavka",
+      "yandeks"
+    ],
+    "awards": []
+  },
+  {
+    "id": 293,
+    "title": "The Orator Club",
+    "image": "data/images/293.jpg",
+    "tags": [
+      "образование",
+      "wonderwork"
+    ],
+    "url": "http://orator.club/",
+    "date": 1536426971,
+    "edit_date": 1583185435,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "wonderwork"
+    ],
+    "awards": []
+  },
+  {
+    "id": 292,
+    "title": "Greensight",
+    "image": "data/images/292.jpg",
+    "tags": [
+      "агентство",
+      "портфолио"
+    ],
+    "url": "https://greensight.ru/",
+    "date": 1536314405,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "agentstvo",
+      "portfolio"
+    ],
+    "awards": []
+  },
+  {
     "id": 291,
     "title": "ONY",
     "caption": "ONY\nhttps://ony.ru/\n\n#агентство #дизайн #портфолио",
@@ -18,7 +117,8 @@
       "agentstvo",
       "dizain",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 290,
@@ -38,7 +138,8 @@
       "magazin",
       "dostavka",
       "moda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 289,
@@ -56,7 +157,8 @@
     "slugs": [
       "meropriyatie",
       "obrazovanie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 288,
@@ -76,7 +178,8 @@
       "servis",
       "dostavka",
       "zdorove"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 287,
@@ -96,7 +199,8 @@
       "meropriyatie",
       "festival",
       "muzika"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 286,
@@ -114,7 +218,8 @@
     "slugs": [
       "novosti",
       "smi"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 285,
@@ -136,7 +241,8 @@
       "sistema",
       "aic",
       "labag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 284,
@@ -158,7 +264,8 @@
       "festival",
       "gorod",
       "readymag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 283,
@@ -182,7 +289,8 @@
       "bank",
       "finansi",
       "alfabank"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 282,
@@ -200,7 +308,8 @@
     "slugs": [
       "spetsproekt",
       "batenkadavitransformer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 281,
@@ -220,7 +329,8 @@
       "provaider",
       "uslugi",
       "house"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 280,
@@ -238,7 +348,8 @@
     "slugs": [
       "studiya",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 279,
@@ -258,7 +369,8 @@
       "magazin",
       "moda",
       "facility"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 278,
@@ -276,7 +388,8 @@
     "slugs": [
       "promo",
       "magazin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 277,
@@ -294,101 +407,7 @@
     "slugs": [
       "servis",
       "orientir"
-    ]
-  },
-  {
-    "id": 276,
-    "title": "MATRONA",
-    "image": "data/images/276.jpg",
-    "tags": [
-      "производство",
-      "мода",
-      "магазин"
     ],
-    "url": "http://matrona.me/",
-    "date": 1534932016,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "proizvodstvo",
-      "moda",
-      "magazin"
-    ]
-  },
-  {
-    "id": 275,
-    "title": "Первоапрельский Рокетшоп",
-    "image": "data/images/275.jpg",
-    "tags": [
-      "банк",
-      "финансы",
-      "магазин"
-    ],
-    "url": "https://shop.rocketbank.ru/old/",
-    "date": 1534845612,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "bank",
-      "finansi",
-      "magazin"
-    ]
-  },
-  {
-    "id": 274,
-    "title": "Экомилк",
-    "image": "data/images/274.jpg",
-    "tags": [
-      "промо",
-      "производство"
-    ],
-    "url": "http://ecomilk.ru/",
-    "date": 1534759210,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "proizvodstvo"
-    ]
-  },
-  {
-    "id": 272,
-    "title": "INMYROOM",
-    "image": "data/images/272.jpg",
-    "tags": [
-      "магазин",
-      "журнал"
-    ],
-    "url": "https://www.inmyroom.ru/",
-    "date": 1534672809,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "zhurnal"
-    ]
-  },
-  {
-    "id": 271,
-    "title": "Pixonic",
-    "caption": "Pixonic\nhttps://pixonic.com/ru\n\n#игра #charmer",
-    "image": "data/images/271.jpg",
-    "tags": [
-      "игра",
-      "charmer"
-    ],
-    "url": "https://pixonic.com/ru",
-    "date": 1534586408,
-    "edit_date": 1583439624,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "igra",
-      "charmer"
-    ]
+    "awards": []
   }
 ]

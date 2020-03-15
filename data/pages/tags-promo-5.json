@@ -1,5 +1,47 @@
 [
   {
+    "id": 159,
+    "title": "Servermall",
+    "image": "data/images/159.jpg",
+    "tags": [
+      "магазин",
+      "промо"
+    ],
+    "url": "https://servermall.ru/",
+    "date": 1524823212,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "promo"
+    ],
+    "awards": []
+  },
+  {
+    "id": 156,
+    "title": "Rocket Home Pig",
+    "image": "data/images/156.jpg",
+    "tags": [
+      "промо",
+      "банк",
+      "финансы",
+      "readymag"
+    ],
+    "url": "http://homepig.rocketbank.ru/",
+    "date": 1524564005,
+    "edit_date": 1583185536,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "bank",
+      "finansi",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 155,
     "title": "Airbnb Plus",
     "image": "data/images/155.jpg",
@@ -15,7 +57,8 @@
     "slugs": [
       "promo",
       "buking"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 154,
@@ -33,7 +76,8 @@
     "slugs": [
       "promo",
       "magazin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 152,
@@ -53,7 +97,8 @@
       "meropriyatie",
       "promo",
       "buking"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 132,
@@ -73,7 +118,8 @@
       "promo",
       "glonass",
       "hyundai"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 126,
@@ -93,7 +139,8 @@
       "promo",
       "magazin",
       "redcollar"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 113,
@@ -113,7 +160,8 @@
       "promo",
       "obrazovanie",
       "kruzhok"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 104,
@@ -133,7 +181,8 @@
       "promo",
       "yeda",
       "zero"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 89,
@@ -156,7 +205,8 @@
       "promo",
       "samsung",
       "rbk"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 75,
@@ -174,7 +224,8 @@
     "slugs": [
       "magazin",
       "promo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 64,
@@ -192,6 +243,7 @@
     "slugs": [
       "promo",
       "creativepeople"
-    ]
+    ],
+    "awards": []
   }
 ]

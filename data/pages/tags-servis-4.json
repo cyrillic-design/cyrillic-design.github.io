@@ -1,5 +1,47 @@
 [
   {
+    "id": 222,
+    "title": "Яндекс.Касса",
+    "image": "data/images/222.jpg",
+    "tags": [
+      "финансы",
+      "бизнес",
+      "сервис"
+    ],
+    "url": "https://kassa.yandex.ru/",
+    "date": 1530352817,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "finansi",
+      "biznes",
+      "servis"
+    ],
+    "awards": []
+  },
+  {
+    "id": 220,
+    "title": "Fins",
+    "image": "data/images/220.jpg",
+    "tags": [
+      "финансы",
+      "сервис",
+      "бкс"
+    ],
+    "url": "https://fins.money/",
+    "date": 1530180010,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "finansi",
+      "servis",
+      "bks"
+    ],
+    "awards": []
+  },
+  {
     "id": 218,
     "title": "ДомКлик",
     "image": "data/images/218.jpg",
@@ -17,7 +59,8 @@
       "nedvizhimost",
       "servis",
       "sberbank"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 202,
@@ -33,7 +76,8 @@
     "isRemoved": false,
     "slugs": [
       "servis"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 199,
@@ -49,7 +93,8 @@
     "isRemoved": false,
     "slugs": [
       "servis"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 195,
@@ -69,7 +114,8 @@
       "servis",
       "dostavka",
       "yeda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 193,
@@ -89,7 +135,8 @@
       "uslugi",
       "servis",
       "konstruktor"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 189,
@@ -109,7 +156,8 @@
       "servis",
       "uslugi",
       "promo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 186,
@@ -127,7 +175,8 @@
     "slugs": [
       "finansi",
       "servis"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 181,
@@ -147,7 +196,8 @@
       "servis",
       "uslugi",
       "setka"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 167,
@@ -167,7 +217,8 @@
       "servis",
       "uslugi",
       "promo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 147,
@@ -187,7 +238,8 @@
       "uslugi",
       "servis",
       "puteshestviya"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 143,
@@ -205,7 +257,8 @@
     "slugs": [
       "uslugi",
       "servis"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 137,
@@ -223,7 +276,8 @@
     "slugs": [
       "obrazovanie",
       "servis"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 101,
@@ -243,6 +297,7 @@
       "servis",
       "doskaobyavlenii",
       "mailru"
-    ]
+    ],
+    "awards": []
   }
 ]

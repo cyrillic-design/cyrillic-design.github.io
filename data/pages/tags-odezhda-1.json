@@ -15,7 +15,8 @@
     "slugs": [
       "odezhda",
       "magazin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 371,
@@ -35,7 +36,8 @@
       "moda",
       "odezhda",
       "magazin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 326,
@@ -53,7 +55,8 @@
     "slugs": [
       "odezhda",
       "magazin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 253,
@@ -71,7 +74,8 @@
     "slugs": [
       "magazin",
       "odezhda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 185,
@@ -95,7 +99,8 @@
       "odezhda",
       "moda",
       "icrea"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 146,
@@ -117,7 +122,8 @@
       "odezhda",
       "proizvodstvo",
       "dzendizain"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 61,
@@ -139,6 +145,7 @@
       "arenda",
       "zolteco",
       "vintage"
-    ]
+    ],
+    "awards": []
   }
 ]

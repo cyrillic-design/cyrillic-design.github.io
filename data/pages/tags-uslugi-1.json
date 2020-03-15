@@ -17,7 +17,8 @@
       "uslugi",
       "promo",
       "only"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 640,
@@ -39,7 +40,8 @@
       "uslugi",
       "tilda",
       "personagency"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 478,
@@ -59,7 +61,8 @@
       "pomoshch",
       "uslugi",
       "verks"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 460,
@@ -79,7 +82,8 @@
       "zdorove",
       "uslugi",
       "bureausector"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 450,
@@ -99,7 +103,8 @@
       "uslugi",
       "promo",
       "only"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 449,
@@ -119,7 +124,8 @@
       "uslugi",
       "promo",
       "otherland"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 423,
@@ -139,7 +145,8 @@
       "uslugi",
       "provaider",
       "apusagency"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 281,
@@ -159,7 +166,8 @@
       "provaider",
       "uslugi",
       "house"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 265,
@@ -179,7 +187,8 @@
       "promo",
       "uslugi",
       "redcollar"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 234,
@@ -199,7 +208,8 @@
       "uslugi",
       "proizvodstvo",
       "astroshok"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 203,
@@ -219,7 +229,8 @@
       "proizvodstvo",
       "uslugi",
       "manufaktura"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 198,
@@ -239,7 +250,8 @@
       "proizvodstvo",
       "uslugi",
       "facility"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 193,
@@ -259,7 +271,8 @@
       "uslugi",
       "servis",
       "konstruktor"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 190,
@@ -279,7 +292,8 @@
       "finansi",
       "uslugi",
       "tekhnologii"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 189,
@@ -299,7 +313,8 @@
       "servis",
       "uslugi",
       "promo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 187,
@@ -321,7 +336,8 @@
       "uslugi",
       "portfolio",
       "dizain"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 184,
@@ -344,7 +360,8 @@
       "portfolio",
       "uslugi",
       "agentstvo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 181,
@@ -364,7 +381,8 @@
       "servis",
       "uslugi",
       "setka"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 175,
@@ -386,7 +404,8 @@
       "uslugi",
       "razvlecheniya",
       "cloudmill"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 167,
@@ -406,6 +425,7 @@
       "servis",
       "uslugi",
       "promo"
-    ]
+    ],
+    "awards": []
   }
 ]

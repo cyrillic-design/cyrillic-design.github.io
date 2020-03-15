@@ -1,5 +1,26 @@
 [
   {
+    "id": 685,
+    "title": "Sloy Design",
+    "caption": "Sloy Design\nhttps://sloy.design/ru\n\n☆ #приложение #брендинг #cargo",
+    "image": "data/images/685.jpg",
+    "tags": [
+      "приложение",
+      "брендинг",
+      "cargo"
+    ],
+    "url": "https://sloy.design/ru",
+    "date": 1584007225,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "prilozhenie",
+      "brending",
+      "cargo"
+    ],
+    "awards": []
+  },
+  {
     "id": 438,
     "title": "Блог о дизайне в РБК",
     "image": "data/images/438.jpg",
@@ -15,7 +36,8 @@
     "slugs": [
       "blog",
       "brending"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 401,
@@ -36,7 +58,8 @@
       "brending",
       "gorod",
       "setters"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 399,
@@ -57,7 +80,8 @@
       "brending",
       "dizain",
       "gaid"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 313,
@@ -77,6 +101,7 @@
       "dizain",
       "brending",
       "fedoriv"
-    ]
+    ],
+    "awards": []
   }
 ]

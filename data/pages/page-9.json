@@ -1,5 +1,125 @@
 [
   {
+    "id": 512,
+    "title": "Верблюд в огне",
+    "image": "data/images/512.jpg",
+    "tags": [
+      "издание",
+      "новости"
+    ],
+    "url": "https://verbludvogne.ru/",
+    "date": 1558432804,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "izdanie",
+      "novosti"
+    ],
+    "awards": []
+  },
+  {
+    "id": 511,
+    "title": "KOTSIUBA",
+    "image": "data/images/511.jpg",
+    "tags": [
+      "студия",
+      "портфолио"
+    ],
+    "url": "https://kotsiuba.com/",
+    "date": 1558346402,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "studiya",
+      "portfolio"
+    ],
+    "awards": []
+  },
+  {
+    "id": 510,
+    "title": "Медисорб",
+    "image": "data/images/510.jpg",
+    "tags": [
+      "здоровье",
+      "производство",
+      "redcollar"
+    ],
+    "url": "https://www.medisorb.ru/",
+    "date": 1558260061,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zdorove",
+      "proizvodstvo",
+      "redcollar"
+    ],
+    "awards": []
+  },
+  {
+    "id": 509,
+    "title": "АБУК",
+    "image": "data/images/509.jpg",
+    "tags": [
+      "промо",
+      "приложение",
+      "сервис"
+    ],
+    "url": "https://abuk.com.ua/",
+    "date": 1558173659,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "prilozhenie",
+      "servis"
+    ],
+    "awards": []
+  },
+  {
+    "id": 508,
+    "title": "Meduza",
+    "image": "data/images/508.jpg",
+    "tags": [
+      "издание",
+      "новости"
+    ],
+    "url": "https://meduza.io/",
+    "date": 1558087259,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "izdanie",
+      "novosti"
+    ],
+    "awards": []
+  },
+  {
+    "id": 507,
+    "title": "Институт Музыкальных Инициатив",
+    "image": "data/images/507.jpg",
+    "tags": [
+      "музыка",
+      "мероприятие",
+      "sulliwan"
+    ],
+    "url": "https://i-m-i.ru/",
+    "date": 1558000856,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "muzika",
+      "meropriyatie",
+      "sulliwan"
+    ],
+    "awards": []
+  },
+  {
     "id": 506,
     "title": "BestDoctor",
     "image": "data/images/506.jpg",
@@ -15,7 +135,8 @@
     "slugs": [
       "servis",
       "zdorove"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 505,
@@ -33,7 +154,8 @@
     "slugs": [
       "pamyat",
       "spetsproekt"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 502,
@@ -51,7 +173,8 @@
     "slugs": [
       "meropriyatie",
       "yandeks"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 501,
@@ -69,7 +192,8 @@
     "slugs": [
       "nedvizhimost",
       "advancedteam"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 500,
@@ -89,7 +213,8 @@
       "obrazovanie",
       "zhurnal",
       "yandeks"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 499,
@@ -107,7 +232,8 @@
     "slugs": [
       "spetsproekt",
       "kruzhok"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 498,
@@ -130,7 +256,8 @@
       "dostavka",
       "yuliyazass",
       "tilda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 497,
@@ -150,7 +277,8 @@
       "portfolio",
       "readymag",
       "sulliwan"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 496,
@@ -168,7 +296,8 @@
     "slugs": [
       "nedvizhimost",
       "promo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 495,
@@ -186,7 +315,8 @@
     "slugs": [
       "izdanie",
       "wednesday"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 493,
@@ -202,7 +332,8 @@
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 492,
@@ -222,7 +353,8 @@
       "magazin",
       "proizvodstvo",
       "krasota"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 491,
@@ -238,7 +370,8 @@
     "isRemoved": false,
     "slugs": [
       "media"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 490,
@@ -256,124 +389,7 @@
     "slugs": [
       "yeda",
       "promo"
-    ]
-  },
-  {
-    "id": 489,
-    "title": "DataFork",
-    "image": "data/images/489.jpg",
-    "tags": [
-      "данные",
-      "аналитика",
-      "финансы",
-      "pinkman"
     ],
-    "url": "http://dataf.org",
-    "date": 1554285626,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "dannie",
-      "analitika",
-      "finansi",
-      "pinkman"
-    ]
-  },
-  {
-    "id": 488,
-    "title": "LukaPizza",
-    "image": "data/images/488.jpg",
-    "tags": [
-      "доставка",
-      "еда"
-    ],
-    "url": "https://lukapizza.ru",
-    "date": 1554199227,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "dostavka",
-      "yeda"
-    ]
-  },
-  {
-    "id": 487,
-    "title": "Работяга",
-    "image": "data/images/487.jpg",
-    "tags": [
-      "промо",
-      "игра",
-      "финансы",
-      "банк",
-      "рокетбанк"
-    ],
-    "url": "https://rabotyaga.rocketbank.ru/",
-    "date": 1554112835,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "igra",
-      "finansi",
-      "bank",
-      "roketbank"
-    ]
-  },
-  {
-    "id": 486,
-    "title": "GLYF",
-    "image": "data/images/486.jpg",
-    "tags": [
-      "портфолио"
-    ],
-    "url": "https://glyf.ru/",
-    "date": 1554026422,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio"
-    ]
-  },
-  {
-    "id": 485,
-    "title": "UXPUB",
-    "image": "data/images/485.jpg",
-    "tags": [
-      "журнал",
-      "дизайн"
-    ],
-    "url": "https://ux.pub/",
-    "date": 1553940023,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "zhurnal",
-      "dizain"
-    ]
-  },
-  {
-    "id": 484,
-    "title": "ВОНО — Свободный Пульт",
-    "image": "data/images/484.jpg",
-    "tags": [
-      "спецпроект",
-      "музыка",
-      "воно"
-    ],
-    "url": "http://svobodnypult.vonopaper.com",
-    "date": 1553853668,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "muzika",
-      "vono"
-    ]
+    "awards": []
   }
 ]

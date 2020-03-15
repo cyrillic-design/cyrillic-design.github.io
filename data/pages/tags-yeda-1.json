@@ -19,7 +19,8 @@
       "yeda",
       "promo",
       "platforma"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 610,
@@ -41,7 +42,8 @@
       "proizvodstvo",
       "yeda",
       "nimax"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 572,
@@ -61,7 +63,8 @@
       "servis",
       "yeda",
       "dostavka"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 490,
@@ -79,7 +82,8 @@
     "slugs": [
       "yeda",
       "promo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 488,
@@ -97,7 +101,8 @@
     "slugs": [
       "dostavka",
       "yeda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 472,
@@ -115,7 +120,8 @@
     "slugs": [
       "dostavka",
       "yeda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 352,
@@ -135,7 +141,8 @@
       "yeda",
       "dostavka",
       "adndigitalstudio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 344,
@@ -155,7 +162,8 @@
       "dostavka",
       "yeda",
       "kilo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 338,
@@ -175,7 +183,8 @@
       "promo",
       "yeda",
       "thefirstthelast"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 334,
@@ -195,7 +204,8 @@
       "servis",
       "dostavka",
       "yeda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 324,
@@ -213,7 +223,8 @@
     "slugs": [
       "yeda",
       "dostavka"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 206,
@@ -233,7 +244,8 @@
       "proizvodstvo",
       "yeda",
       "chipsa"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 200,
@@ -253,7 +265,8 @@
       "yeda",
       "promo",
       "zero"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 195,
@@ -273,7 +286,8 @@
       "servis",
       "dostavka",
       "yeda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 192,
@@ -293,7 +307,8 @@
       "promo",
       "restoran",
       "yeda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 114,
@@ -311,7 +326,8 @@
     "slugs": [
       "dostavka",
       "yeda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 104,
@@ -331,7 +347,8 @@
       "promo",
       "yeda",
       "zero"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 98,
@@ -349,7 +366,8 @@
     "slugs": [
       "magazin",
       "yeda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 87,
@@ -371,7 +389,8 @@
       "dostavka",
       "yeda",
       "solardigital"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 83,
@@ -393,6 +412,7 @@
       "dostavka",
       "yeda",
       "breadhead"
-    ]
+    ],
+    "awards": []
   }
 ]

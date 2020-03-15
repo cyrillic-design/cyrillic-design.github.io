@@ -17,7 +17,8 @@
       "magazin",
       "krasota",
       "moda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 492,
@@ -37,7 +38,8 @@
       "magazin",
       "proizvodstvo",
       "krasota"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 366,
@@ -57,6 +59,7 @@
       "krasota",
       "magazin",
       "loremipsumlab"
-    ]
+    ],
+    "awards": []
   }
 ]

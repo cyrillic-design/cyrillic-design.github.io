@@ -1,5 +1,106 @@
 [
   {
+    "id": 154,
+    "title": "Zoomanity",
+    "image": "data/images/154.jpg",
+    "tags": [
+      "промо",
+      "магазин"
+    ],
+    "url": "http://zoomanity.land/ru/",
+    "date": 1524391208,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "magazin"
+    ],
+    "awards": []
+  },
+  {
+    "id": 153,
+    "title": "Мастер и Маргарита. Я там был",
+    "image": "data/images/153.jpg",
+    "tags": [
+      "спецпроект",
+      "культура",
+      "google"
+    ],
+    "url": "https://masterimargarita.withgoogle.com/explore",
+    "date": 1524304820,
+    "edit_date": 1583185536,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "kultura",
+      "google"
+    ],
+    "awards": []
+  },
+  {
+    "id": 152,
+    "title": "VI международный форум по е-коммерции",
+    "image": "data/images/152.jpg",
+    "tags": [
+      "мероприятие",
+      "промо",
+      "букинг"
+    ],
+    "url": "https://ecom21.com/ru",
+    "date": 1524218414,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "promo",
+      "buking"
+    ],
+    "awards": []
+  },
+  {
+    "id": 151,
+    "title": "Свет изнутри",
+    "image": "data/images/151.jpg",
+    "tags": [
+      "спецпроект",
+      "readymag",
+      "катяузиенко"
+    ],
+    "url": "https://readymag.com/kaatisha/shine/",
+    "date": 1524132003,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "readymag",
+      "katyauzienko"
+    ],
+    "awards": []
+  },
+  {
+    "id": 150,
+    "title": "Стадион «Санкт-Петербург»",
+    "image": "data/images/150.jpg",
+    "tags": [
+      "спорт",
+      "букинг"
+    ],
+    "url": "http://arena.fc-zenit.ru/",
+    "date": 1524045618,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "sport",
+      "buking"
+    ],
+    "awards": []
+  },
+  {
     "id": 149,
     "title": "Выпуск 90",
     "image": "data/images/149.jpg",
@@ -13,7 +114,8 @@
     "isRemoved": false,
     "slugs": [
       "spetsproekt"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 148,
@@ -37,7 +139,8 @@
       "biznes",
       "finansi",
       "charmer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 147,
@@ -57,7 +160,8 @@
       "uslugi",
       "servis",
       "puteshestviya"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 146,
@@ -79,7 +183,8 @@
       "odezhda",
       "proizvodstvo",
       "dzendizain"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 145,
@@ -97,7 +202,8 @@
     "slugs": [
       "finansi",
       "bank"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 144,
@@ -121,7 +227,8 @@
       "biznes",
       "gosudarstvo",
       "obrazovanie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 143,
@@ -139,7 +246,8 @@
     "slugs": [
       "uslugi",
       "servis"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 142,
@@ -159,7 +267,8 @@
       "kultura",
       "iskusstvo",
       "ony"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 140,
@@ -175,7 +284,8 @@
     "isRemoved": false,
     "slugs": [
       "uslugi"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 139,
@@ -193,7 +303,8 @@
     "slugs": [
       "provaider",
       "uslugi"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 138,
@@ -215,7 +326,8 @@
       "portal",
       "obrazovanie",
       "biznes"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 137,
@@ -233,7 +345,8 @@
     "slugs": [
       "obrazovanie",
       "servis"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 136,
@@ -253,7 +366,8 @@
       "obrazovanie",
       "kultura",
       "charmer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 135,
@@ -273,7 +387,8 @@
       "spetsproekt",
       "strelka",
       "zhurnal"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 134,
@@ -293,105 +408,7 @@
       "aviakompaniya",
       "uslugi",
       "puteshestviya"
-    ]
-  },
-  {
-    "id": 133,
-    "title": "BERNÍK & partneri",
-    "caption": "BERNÍK & partneri\nhttps://www.bernik-partneri.sk/ru\n\n#бизнес #услуги #ideil",
-    "image": "data/images/133.jpg",
-    "tags": [
-      "бизнес",
-      "услуги",
-      "ideil"
     ],
-    "url": "https://www.bernik-partneri.sk/ru",
-    "date": 1522662082,
-    "edit_date": 1583415893,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "biznes",
-      "uslugi",
-      "ideil"
-    ]
-  },
-  {
-    "id": 132,
-    "title": "Эра-Глонасс",
-    "image": "data/images/132.jpg",
-    "tags": [
-      "промо",
-      "глонасс",
-      "hyundai"
-    ],
-    "url": "https://era.hyundai.ru/",
-    "date": 1522589719,
-    "edit_date": 1583185535,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "glonass",
-      "hyundai"
-    ]
-  },
-  {
-    "id": 131,
-    "title": "Locals",
-    "image": "data/images/131.jpg",
-    "tags": [
-      "недвижимость",
-      "аренда",
-      "услуги",
-      "genue"
-    ],
-    "url": "https://thelocals.ru/",
-    "date": 1522490411,
-    "edit_date": 1583185535,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "nedvizhimost",
-      "arenda",
-      "uslugi",
-      "genue"
-    ]
-  },
-  {
-    "id": 130,
-    "title": "Новая газета",
-    "image": "data/images/130.jpg",
-    "tags": [
-      "медиа",
-      "новости",
-      "charmer"
-    ],
-    "url": "https://www.novayagazeta.ru/",
-    "date": 1522404020,
-    "edit_date": 1583185535,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "media",
-      "novosti",
-      "charmer"
-    ]
-  },
-  {
-    "id": 129,
-    "title": "Рабочая Станция",
-    "image": "data/images/129.jpg",
-    "tags": [
-      "услуги"
-    ],
-    "url": "http://coworkstation.ru/",
-    "date": 1522323342,
-    "edit_date": 1583185535,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "uslugi"
-    ]
+    "awards": []
   }
 ]

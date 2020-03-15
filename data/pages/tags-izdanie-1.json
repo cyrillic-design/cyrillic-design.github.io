@@ -15,7 +15,8 @@
     "slugs": [
       "izdanie",
       "charmer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 550,
@@ -33,7 +34,8 @@
     "slugs": [
       "izdanie",
       "stride"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 512,
@@ -51,7 +53,8 @@
     "slugs": [
       "izdanie",
       "novosti"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 508,
@@ -69,7 +72,8 @@
     "slugs": [
       "izdanie",
       "novosti"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 495,
@@ -87,7 +91,8 @@
     "slugs": [
       "izdanie",
       "wednesday"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 437,
@@ -103,7 +108,8 @@
     "isRemoved": false,
     "slugs": [
       "izdanie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 389,
@@ -123,7 +129,8 @@
       "izdanie",
       "spetsproekt",
       "vono"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 370,
@@ -139,7 +146,8 @@
     "isRemoved": false,
     "slugs": [
       "izdanie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 362,
@@ -159,7 +167,8 @@
       "izdanie",
       "finansi",
       "bank"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 254,
@@ -179,7 +188,8 @@
       "izdanie",
       "moda",
       "kultura"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 246,
@@ -197,7 +207,8 @@
     "slugs": [
       "zhurnal",
       "izdanie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 224,
@@ -216,7 +227,8 @@
     "slugs": [
       "media",
       "izdanie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 165,
@@ -240,7 +252,8 @@
       "obrazovanie",
       "platforma",
       "setka"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 162,
@@ -259,7 +272,8 @@
     "slugs": [
       "magazin",
       "izdanie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 160,
@@ -277,6 +291,7 @@
     "slugs": [
       "izdanie",
       "iskusstvo"
-    ]
+    ],
+    "awards": []
   }
 ]

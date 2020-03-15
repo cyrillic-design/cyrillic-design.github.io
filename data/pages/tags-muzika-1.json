@@ -20,7 +20,8 @@
       "muzika",
       "readymag",
       "zholud"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 656,
@@ -40,7 +41,8 @@
       "muzika",
       "readymag",
       "artemlepilin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 619,
@@ -60,7 +62,8 @@
       "spetsproekt",
       "muzika",
       "yandeks"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 599,
@@ -80,7 +83,8 @@
       "spetsproekt",
       "muzika",
       "yandeks"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 566,
@@ -100,7 +104,8 @@
       "muzika",
       "lyudi",
       "staspolyakov"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 537,
@@ -120,7 +125,8 @@
       "servis",
       "muzika",
       "stride"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 521,
@@ -138,7 +144,8 @@
     "slugs": [
       "zhurnal",
       "muzika"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 507,
@@ -158,7 +165,8 @@
       "muzika",
       "meropriyatie",
       "sulliwan"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 484,
@@ -178,7 +186,8 @@
       "spetsproekt",
       "muzika",
       "vono"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 481,
@@ -197,7 +206,8 @@
     "slugs": [
       "muzika",
       "meropriyatie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 419,
@@ -216,7 +226,8 @@
     "slugs": [
       "muzika",
       "meropriyatie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 390,
@@ -234,7 +245,8 @@
     "slugs": [
       "muzika",
       "whiterussianstudio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 386,
@@ -254,7 +266,8 @@
       "muzika",
       "portfolio",
       "sk41"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 375,
@@ -274,7 +287,8 @@
       "muzika",
       "spetsproekt",
       "cherenkevich"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 309,
@@ -294,7 +308,8 @@
       "zhurnal",
       "muzika",
       "dizain"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 287,
@@ -314,7 +329,8 @@
       "meropriyatie",
       "festival",
       "muzika"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 268,
@@ -334,7 +350,8 @@
       "spetsproekt",
       "istoriya",
       "muzika"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 215,
@@ -356,7 +373,8 @@
       "muzika",
       "pamyat",
       "netlab"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 214,
@@ -376,7 +394,8 @@
       "muzika",
       "festival",
       "promo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 166,
@@ -398,6 +417,7 @@
       "muzika",
       "lyudi",
       "bosco"
-    ]
+    ],
+    "awards": []
   }
 ]

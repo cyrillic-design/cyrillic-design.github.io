@@ -15,7 +15,8 @@
     "slugs": [
       "servis",
       "itogi"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 406,
@@ -35,6 +36,7 @@
       "servis",
       "itogi",
       "blog"
-    ]
+    ],
+    "awards": []
   }
 ]

@@ -19,7 +19,8 @@
       "lyudi",
       "pomoshch",
       "sulliwan"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 636,
@@ -39,7 +40,8 @@
       "spetsproekt",
       "lyudi",
       "kruzhok"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 633,
@@ -61,7 +63,8 @@
       "gorod",
       "lyudi",
       "smena"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 629,
@@ -83,7 +86,8 @@
       "lyudi",
       "promo",
       "voskhoddigital"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 566,
@@ -103,7 +107,8 @@
       "muzika",
       "lyudi",
       "staspolyakov"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 413,
@@ -124,7 +129,8 @@
       "spetsproekt",
       "lyudi",
       "kruzhok"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 382,
@@ -144,7 +150,8 @@
       "lyudi",
       "religiya",
       "itechgroup"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 348,
@@ -164,7 +171,8 @@
       "gorod",
       "lyudi",
       "kruzhok"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 343,
@@ -186,7 +194,8 @@
       "kultura",
       "lyudi",
       "sberbank"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 321,
@@ -206,7 +215,8 @@
       "iskusstvo",
       "lyudi",
       "meropriyatie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 319,
@@ -226,7 +236,8 @@
       "lyudi",
       "pomoshch",
       "airbnb"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 310,
@@ -246,7 +257,8 @@
       "soobshchestvo",
       "lyudi",
       "kultura"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 228,
@@ -267,7 +279,8 @@
       "obrazovanie",
       "lyudi",
       "biznes"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 212,
@@ -287,7 +300,8 @@
       "kultura",
       "lyudi",
       "sulliwan"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 201,
@@ -307,7 +321,8 @@
       "zhurnal",
       "novosti",
       "lyudi"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 197,
@@ -329,7 +344,8 @@
       "promo",
       "lyudi",
       "mustapp"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 196,
@@ -351,7 +367,8 @@
       "lyudi",
       "novosti",
       "moda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 179,
@@ -373,7 +390,8 @@
       "obrazovanie",
       "lyudi",
       "the23"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 166,
@@ -395,7 +413,8 @@
       "muzika",
       "lyudi",
       "bosco"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 144,
@@ -419,6 +438,7 @@
       "biznes",
       "gosudarstvo",
       "obrazovanie"
-    ]
+    ],
+    "awards": []
   }
 ]

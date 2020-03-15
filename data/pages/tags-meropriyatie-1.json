@@ -1,5 +1,29 @@
 [
   {
+    "id": 683,
+    "title": "В моем репертуаре",
+    "caption": "В моем репертуаре\nhttps://truetoform.me/\n\n☆ #сервис #промо #мероприятие #readymag",
+    "image": "data/images/683.jpg",
+    "tags": [
+      "сервис",
+      "промо",
+      "мероприятие",
+      "readymag"
+    ],
+    "url": "https://truetoform.me/",
+    "date": 1583834419,
+    "edit_date": 1583834486,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "promo",
+      "meropriyatie",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 676,
     "title": "LUXENGLISH",
     "caption": "LUXENGLISH\nhttps://luxenglish.ru/\n\n☆ #образование #мероприятие #readymag",
@@ -18,7 +42,8 @@
       "obrazovanie",
       "meropriyatie",
       "readymag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 675,
@@ -39,11 +64,13 @@
       "obrazovanie",
       "meropriyatie",
       "tilda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 667,
     "title": "Книги у моря — Петербургский книжный фестиваль",
+    "caption": "Книги у моря — Петербургский книжный фестиваль\nhttp://booksandsea.ru/\n\n☆ #мероприятие #readymag #aidapacheva",
     "image": "data/images/667.jpg",
     "tags": [
       "мероприятие",
@@ -52,13 +79,17 @@
     ],
     "url": "http://booksandsea.ru/",
     "date": 1582642963,
-    "edit_date": 1583183700,
+    "edit_date": 1584296887,
+    "isMonth": true,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
       "meropriyatie",
       "readymag",
       "aidapacheva"
+    ],
+    "awards": [
+      "month"
     ]
   },
   {
@@ -77,7 +108,8 @@
     "slugs": [
       "meropriyatie",
       "24ttl"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 658,
@@ -100,7 +132,8 @@
       "muzika",
       "readymag",
       "zholud"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 655,
@@ -123,7 +156,8 @@
       "yandeks",
       "viktorakifev",
       "tilda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 650,
@@ -141,7 +175,8 @@
     "slugs": [
       "obrazovanie",
       "meropriyatie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 632,
@@ -162,7 +197,8 @@
       "media",
       "iskusstvo",
       "meropriyatie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 607,
@@ -180,7 +216,8 @@
     "slugs": [
       "meropriyatie",
       "designworkout"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 605,
@@ -196,7 +233,8 @@
     "isRemoved": false,
     "slugs": [
       "meropriyatie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 603,
@@ -214,7 +252,8 @@
     "slugs": [
       "meropriyatie",
       "groznovco"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 602,
@@ -232,7 +271,8 @@
     "slugs": [
       "zaglushka",
       "meropriyatie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 577,
@@ -248,7 +288,8 @@
     "isRemoved": false,
     "slugs": [
       "meropriyatie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 560,
@@ -273,7 +314,8 @@
       "spetsproekt",
       "readymag",
       "aic"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 547,
@@ -291,7 +333,8 @@
     "slugs": [
       "meropriyatie",
       "sovet"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 544,
@@ -309,7 +352,8 @@
     "slugs": [
       "meropriyatie",
       "promo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 524,
@@ -327,7 +371,8 @@
     "slugs": [
       "meropriyatie",
       "paratype"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 523,
@@ -343,7 +388,8 @@
     "isRemoved": false,
     "slugs": [
       "meropriyatie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 507,
@@ -363,24 +409,7 @@
       "muzika",
       "meropriyatie",
       "sulliwan"
-    ]
-  },
-  {
-    "id": 502,
-    "title": "Летняя стажировка для дизайнеров в Яндекс.Маркете",
-    "image": "data/images/502.jpg",
-    "tags": [
-      "мероприятие",
-      "яндекс"
     ],
-    "url": "http://designsummer.ru/",
-    "date": 1556654536,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "meropriyatie",
-      "yandeks"
-    ]
+    "awards": []
   }
 ]

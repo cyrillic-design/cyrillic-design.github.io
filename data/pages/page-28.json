@@ -1,5 +1,112 @@
 [
   {
+    "id": 113,
+    "title": "Кружок — Тур Россия",
+    "image": "data/images/113.jpg",
+    "tags": [
+      "промо",
+      "образование",
+      "кружок"
+    ],
+    "url": "https://russia.kruzhok.io/",
+    "date": 1520935226,
+    "edit_date": 1583185535,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "obrazovanie",
+      "kruzhok"
+    ],
+    "awards": []
+  },
+  {
+    "id": 112,
+    "title": "Williams Et Oliver",
+    "image": "data/images/112.jpg",
+    "tags": [
+      "магазин",
+      "спецпроект",
+      "гастрономия",
+      "дзендизайн"
+    ],
+    "url": "https://williams-oliver.ru/tours/",
+    "date": 1520841943,
+    "edit_date": 1583185535,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "spetsproekt",
+      "gastronomiya",
+      "dzendizain"
+    ],
+    "awards": []
+  },
+  {
+    "id": 111,
+    "title": "Почта России",
+    "image": "data/images/111.jpg",
+    "tags": [
+      "государство",
+      "услуги",
+      "россия"
+    ],
+    "url": "https://www.pochta.ru/",
+    "date": 1520762408,
+    "edit_date": 1583185535,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "gosudarstvo",
+      "uslugi",
+      "rossiya"
+    ],
+    "awards": []
+  },
+  {
+    "id": 110,
+    "title": "Телеканал Супер",
+    "image": "data/images/110.jpg",
+    "tags": [
+      "тв",
+      "медиа"
+    ],
+    "url": "http://superkanal.ru/",
+    "date": 1520676013,
+    "edit_date": 1583185535,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "tv",
+      "media"
+    ],
+    "awards": []
+  },
+  {
+    "id": 109,
+    "title": "Пастырь",
+    "image": "data/images/109.jpg",
+    "tags": [
+      "сообщество",
+      "медиа",
+      "образование",
+      "культура"
+    ],
+    "url": "http://priest.today/",
+    "date": 1520589607,
+    "edit_date": 1583185563,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "soobshchestvo",
+      "media",
+      "obrazovanie",
+      "kultura"
+    ],
+    "awards": []
+  },
+  {
     "id": 107,
     "title": "Cтудии Евгения Ярового",
     "image": "data/images/107.jpg",
@@ -15,7 +122,8 @@
     "slugs": [
       "studiya",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 106,
@@ -35,7 +143,8 @@
       "marketpleis",
       "magazin",
       "mvideo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 104,
@@ -55,7 +164,8 @@
       "promo",
       "yeda",
       "zero"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 103,
@@ -75,7 +185,8 @@
       "zhurnal",
       "media",
       "biznes"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 102,
@@ -93,7 +204,8 @@
     "slugs": [
       "portfolio",
       "studiya"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 101,
@@ -113,7 +225,8 @@
       "servis",
       "doskaobyavlenii",
       "mailru"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 100,
@@ -133,7 +246,8 @@
       "moda",
       "barbershop",
       "whiterussianstudio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 99,
@@ -153,7 +267,8 @@
       "finansi",
       "zhurnal",
       "media"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 98,
@@ -171,7 +286,8 @@
     "slugs": [
       "magazin",
       "yeda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 97,
@@ -191,7 +307,8 @@
       "moda",
       "barbershop",
       "amades"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 92,
@@ -214,7 +331,8 @@
       "strana",
       "rossiya",
       "labag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 90,
@@ -236,7 +354,8 @@
       "fond",
       "lyudi",
       "charmer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 89,
@@ -259,7 +378,8 @@
       "promo",
       "samsung",
       "rbk"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 88,
@@ -279,7 +399,8 @@
       "bank",
       "finansi",
       "aic"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 87,
@@ -301,116 +422,7 @@
       "dostavka",
       "yeda",
       "solardigital"
-    ]
-  },
-  {
-    "id": 86,
-    "title": "Жили | были",
-    "image": "data/images/86.jpg",
-    "tags": [
-      "спецпроект",
-      "благотворительность",
-      "память",
-      "люди",
-      "такиедела"
     ],
-    "url": "https://takiedela.ru/homeless/",
-    "date": 1519120816,
-    "edit_date": 1583185563,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "blagotvoritelnost",
-      "pamyat",
-      "lyudi",
-      "takiedela"
-    ]
-  },
-  {
-    "id": 85,
-    "title": "Официальный сайт Швеции",
-    "image": "data/images/85.jpg",
-    "tags": [
-      "государство",
-      "страна",
-      "люди",
-      "швеция"
-    ],
-    "url": "https://sweden.ru/",
-    "date": 1519034406,
-    "edit_date": 1583185563,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "gosudarstvo",
-      "strana",
-      "lyudi",
-      "shvetsiya"
-    ]
-  },
-  {
-    "id": 84,
-    "title": "Тинькофф",
-    "image": "data/images/84.jpg",
-    "tags": [
-      "банк",
-      "финансы"
-    ],
-    "url": "https://www.tinkoff.ru/",
-    "date": 1518948017,
-    "edit_date": 1583185563,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "bank",
-      "finansi"
-    ]
-  },
-  {
-    "id": 83,
-    "title": "YAMI YAMI",
-    "image": "data/images/83.jpg",
-    "tags": [
-      "магазин",
-      "доставка",
-      "еда",
-      "breadhead"
-    ],
-    "url": "https://yamiyami.ru/",
-    "date": 1518864039,
-    "edit_date": 1583185563,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "dostavka",
-      "yeda",
-      "breadhead"
-    ]
-  },
-  {
-    "id": 80,
-    "title": "Памяти Юрия Верменича",
-    "image": "data/images/80.jpg",
-    "tags": [
-      "культура",
-      "спецпроект",
-      "музыка",
-      "память",
-      "coda"
-    ],
-    "url": "http://vermenich.jazzprovince.ru/",
-    "date": 1518775229,
-    "edit_date": 1583185563,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "kultura",
-      "spetsproekt",
-      "muzika",
-      "pamyat",
-      "coda"
-    ]
+    "awards": []
   }
 ]

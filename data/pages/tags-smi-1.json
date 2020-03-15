@@ -17,7 +17,8 @@
       "novosti",
       "smi",
       "charmer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 286,
@@ -35,7 +36,8 @@
     "slugs": [
       "novosti",
       "smi"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 236,
@@ -55,6 +57,7 @@
       "media",
       "smi",
       "novosti"
-    ]
+    ],
+    "awards": []
   }
 ]

@@ -17,7 +17,8 @@
       "sport",
       "meropriyatie",
       "chulakov"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 150,
@@ -35,7 +36,8 @@
     "slugs": [
       "sport",
       "buking"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 127,
@@ -55,6 +57,7 @@
       "novosti",
       "sport",
       "artlebedev"
-    ]
+    ],
+    "awards": []
   }
 ]

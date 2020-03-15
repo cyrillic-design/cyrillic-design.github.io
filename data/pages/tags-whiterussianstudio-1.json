@@ -16,7 +16,8 @@
     "slugs": [
       "korporativniisait",
       "whiterussianstudio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 662,
@@ -37,7 +38,8 @@
       "tv",
       "promo",
       "whiterussianstudio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 627,
@@ -56,7 +58,8 @@
     "slugs": [
       "portfolio",
       "whiterussianstudio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 564,
@@ -74,7 +77,8 @@
     "slugs": [
       "portfolio",
       "whiterussianstudio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 557,
@@ -93,7 +97,8 @@
     "slugs": [
       "promo",
       "whiterussianstudio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 459,
@@ -111,7 +116,8 @@
     "slugs": [
       "blagotvoritelnost",
       "whiterussianstudio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 390,
@@ -129,7 +135,8 @@
     "slugs": [
       "muzika",
       "whiterussianstudio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 356,
@@ -147,7 +154,8 @@
     "slugs": [
       "zhurnal",
       "whiterussianstudio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 318,
@@ -165,7 +173,8 @@
     "slugs": [
       "obrazovanie",
       "whiterussianstudio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 299,
@@ -183,7 +192,8 @@
     "slugs": [
       "promo",
       "whiterussianstudio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 100,
@@ -203,6 +213,7 @@
       "moda",
       "barbershop",
       "whiterussianstudio"
-    ]
+    ],
+    "awards": []
   }
 ]

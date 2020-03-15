@@ -17,7 +17,8 @@
       "magazin",
       "proizvodstvo",
       "max"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 433,
@@ -37,7 +38,8 @@
       "servis",
       "dostavka",
       "max"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 422,
@@ -57,6 +59,7 @@
       "servis",
       "magazin",
       "max"
-    ]
+    ],
+    "awards": []
   }
 ]

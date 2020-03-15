@@ -22,7 +22,8 @@
       "spetsproekt",
       "readymag",
       "aic"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 429,
@@ -42,7 +43,8 @@
       "finansi",
       "bank",
       "aic"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 345,
@@ -62,7 +64,8 @@
       "promo",
       "magazin",
       "aic"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 285,
@@ -84,7 +87,8 @@
       "sistema",
       "aic",
       "labag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 238,
@@ -104,7 +108,8 @@
       "bank",
       "finansi",
       "aic"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 177,
@@ -124,7 +129,8 @@
       "meditsina",
       "zdorove",
       "aic"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 174,
@@ -144,7 +150,8 @@
       "bank",
       "finansi",
       "aic"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 168,
@@ -164,7 +171,8 @@
       "magazin",
       "dostavka",
       "aic"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 158,
@@ -184,7 +192,8 @@
       "nedvizhimost",
       "finansi",
       "aic"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 88,
@@ -204,6 +213,7 @@
       "bank",
       "finansi",
       "aic"
-    ]
+    ],
+    "awards": []
   }
 ]

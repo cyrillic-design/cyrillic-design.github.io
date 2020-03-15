@@ -15,7 +15,8 @@
     "slugs": [
       "spetsproekt",
       "smena"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 633,
@@ -37,6 +38,7 @@
       "gorod",
       "lyudi",
       "smena"
-    ]
+    ],
+    "awards": []
   }
 ]

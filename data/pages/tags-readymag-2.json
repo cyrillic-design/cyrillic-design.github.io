@@ -1,5 +1,70 @@
 [
   {
+    "id": 412,
+    "title": "Виртуальный русский павильон",
+    "image": "data/images/412.jpg",
+    "tags": [
+      "мероприятие",
+      "промо",
+      "readymag"
+    ],
+    "url": "https://readymag.com/u90533425/1065619/",
+    "date": 1547632858,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "promo",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
+    "id": 408,
+    "title": "Краткая история дизайна",
+    "image": "data/images/408.jpg",
+    "tags": [
+      "история",
+      "дизайн",
+      "readymag",
+      "dmitriikuchev"
+    ],
+    "url": "https://readymag.com/kuchev/design-history-1/",
+    "date": 1547287208,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "istoriya",
+      "dizain",
+      "readymag",
+      "dmitriikuchev"
+    ],
+    "awards": []
+  },
+  {
+    "id": 355,
+    "title": "Bauhaus Imaginista",
+    "image": "data/images/355.jpg",
+    "tags": [
+      "образование",
+      "garage",
+      "readymag"
+    ],
+    "url": "https://bauhaus-imaginista.garagemca.org",
+    "date": 1542276018,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "garage",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 327,
     "title": "Тестовое задание для Mail ru",
     "image": "data/images/327.jpg",
@@ -21,7 +86,8 @@
       "readymag",
       "ivansemkin",
       "mailru"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 320,
@@ -43,7 +109,8 @@
       "iskusstvo",
       "yevreiskiimuzei",
       "readymag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 284,
@@ -65,7 +132,8 @@
       "festival",
       "gorod",
       "readymag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 263,
@@ -86,7 +154,8 @@
       "spetsproekt",
       "zhurnalshrift",
       "readymag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 156,
@@ -108,7 +177,8 @@
       "bank",
       "finansi",
       "readymag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 151,
@@ -128,7 +198,8 @@
       "spetsproekt",
       "readymag",
       "katyauzienko"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 122,
@@ -146,6 +217,7 @@
     "slugs": [
       "obrazovanie",
       "readymag"
-    ]
+    ],
+    "awards": []
   }
 ]

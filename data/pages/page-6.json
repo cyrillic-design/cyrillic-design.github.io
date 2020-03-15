@@ -1,5 +1,121 @@
 [
   {
+    "id": 577,
+    "title": "Фестиваль Petshop Days",
+    "image": "data/images/577.jpg",
+    "tags": [
+      "мероприятие"
+    ],
+    "url": "https://petshopdays.ru/",
+    "date": 1567764010,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie"
+    ],
+    "awards": []
+  },
+  {
+    "id": 575,
+    "title": "Современные российские дизайнеры шрифта",
+    "image": "data/images/575.jpg",
+    "tags": [
+      "спецпроект",
+      "readymag",
+      "лисицкий"
+    ],
+    "url": "https://readymag.com/deedandreward/russiandesigners/",
+    "date": 1567677608,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "readymag",
+      "lisitskii"
+    ],
+    "awards": []
+  },
+  {
+    "id": 574,
+    "title": "NYLON ORCHID by P.Y.E X FKSHM",
+    "image": "data/images/574.jpg",
+    "tags": [
+      "магазин",
+      "breadhead"
+    ],
+    "url": "https://nylonorchid.pyeoptics.com/",
+    "date": 1566640851,
+    "edit_date": 1583183812,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "breadhead"
+    ],
+    "awards": []
+  },
+  {
+    "id": 573,
+    "title": "Справочная",
+    "image": "data/images/573.jpg",
+    "tags": [
+      "блог",
+      "финансы",
+      "банк"
+    ],
+    "url": "https://allo.tochka.com/",
+    "date": 1566381674,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "blog",
+      "finansi",
+      "bank"
+    ],
+    "awards": []
+  },
+  {
+    "id": 572,
+    "title": "Elementaree",
+    "image": "data/images/572.jpg",
+    "tags": [
+      "сервис",
+      "еда",
+      "доставка"
+    ],
+    "url": "https://elementaree.ru/",
+    "date": 1566295257,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "yeda",
+      "dostavka"
+    ],
+    "awards": []
+  },
+  {
+    "id": 571,
+    "title": "Valve Index",
+    "image": "data/images/571.jpg",
+    "tags": [
+      "промо"
+    ],
+    "url": "https://www.valvesoftware.com/ru/index",
+    "date": 1566210899,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo"
+    ],
+    "awards": []
+  },
+  {
     "id": 570,
     "title": "Rehabshop",
     "image": "data/images/570.jpg",
@@ -17,7 +133,8 @@
       "magazin",
       "roky",
       "orientir"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 569,
@@ -33,7 +150,8 @@
     "isRemoved": false,
     "slugs": [
       "servis"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 568,
@@ -49,7 +167,8 @@
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 567,
@@ -65,7 +184,8 @@
     "isRemoved": false,
     "slugs": [
       "keynetstudio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 566,
@@ -85,7 +205,8 @@
       "muzika",
       "lyudi",
       "staspolyakov"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 565,
@@ -103,7 +224,8 @@
     "slugs": [
       "spetsproekt",
       "kruzhok"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 564,
@@ -121,7 +243,8 @@
     "slugs": [
       "portfolio",
       "whiterussianstudio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 563,
@@ -139,7 +262,8 @@
     "slugs": [
       "izdanie",
       "charmer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 562,
@@ -157,7 +281,8 @@
     "slugs": [
       "portfolio",
       "zaglushka"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 561,
@@ -176,7 +301,8 @@
     "slugs": [
       "spetsproekt",
       "ria"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 560,
@@ -201,7 +327,8 @@
       "spetsproekt",
       "readymag",
       "aic"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 559,
@@ -219,7 +346,8 @@
     "slugs": [
       "obrazovanie",
       "crevv"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 558,
@@ -235,7 +363,8 @@
     "isRemoved": false,
     "slugs": [
       "spetsproekt"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 557,
@@ -254,112 +383,7 @@
     "slugs": [
       "promo",
       "whiterussianstudio"
-    ]
-  },
-  {
-    "id": 556,
-    "title": "Койот",
-    "image": "data/images/556.jpg",
-    "tags": [
-      "производство",
-      "магазин",
-      "aiwin"
     ],
-    "url": "https://coyote-ekb.ru/",
-    "date": 1563962419,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "proizvodstvo",
-      "magazin",
-      "aiwin"
-    ]
-  },
-  {
-    "id": 555,
-    "title": "shishki collective",
-    "image": "data/images/555.jpg",
-    "tags": [
-      "портфолио"
-    ],
-    "url": "https://ru.shishki.co/",
-    "date": 1563888344,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio"
-    ]
-  },
-  {
-    "id": 554,
-    "title": "Золотое яблоко",
-    "image": "data/images/554.jpg",
-    "tags": [
-      "магазин",
-      "красота",
-      "мода"
-    ],
-    "url": "https://goldapple.ru/",
-    "date": 1563530416,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "krasota",
-      "moda"
-    ]
-  },
-  {
-    "id": 553,
-    "title": "Пётр Юшин",
-    "image": "data/images/553.jpg",
-    "tags": [
-      "портфолио",
-      "perushevandkhmelev"
-    ],
-    "url": "https://yushinpetr.com/ru/",
-    "date": 1563444011,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio",
-      "perushevandkhmelev"
-    ]
-  },
-  {
-    "id": 552,
-    "title": "COLLIDER",
-    "image": "data/images/552.jpg",
-    "tags": [
-      "промо"
-    ],
-    "url": "https://collider.ru/",
-    "date": 1563357625,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo"
-    ]
-  },
-  {
-    "id": 551,
-    "title": "БюроБюро",
-    "image": "data/images/551.jpg",
-    "tags": [
-      "портфолио"
-    ],
-    "url": "https://buroburo.ru/",
-    "date": 1563271211,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio"
-    ]
+    "awards": []
   }
 ]

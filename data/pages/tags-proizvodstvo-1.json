@@ -19,7 +19,8 @@
       "proizvodstvo",
       "yeda",
       "nimax"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 556,
@@ -39,7 +40,8 @@
       "proizvodstvo",
       "magazin",
       "aiwin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 548,
@@ -57,7 +59,8 @@
     "slugs": [
       "proizvodstvo",
       "studiyaevgeniyayarovogo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 539,
@@ -75,7 +78,8 @@
     "slugs": [
       "proizvodstvo",
       "levelup"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 527,
@@ -95,7 +99,8 @@
       "proizvodstvo",
       "promo",
       "servis"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 526,
@@ -113,7 +118,8 @@
     "slugs": [
       "proizvodstvo",
       "studiyaevgeniyayarovogo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 517,
@@ -131,7 +137,8 @@
     "slugs": [
       "proizvodstvo",
       "magazin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 516,
@@ -151,7 +158,8 @@
       "magazin",
       "proizvodstvo",
       "max"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 515,
@@ -171,7 +179,8 @@
       "proizvodstvo",
       "kholding",
       "meik"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 510,
@@ -191,7 +200,8 @@
       "zdorove",
       "proizvodstvo",
       "redcollar"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 492,
@@ -211,7 +221,8 @@
       "magazin",
       "proizvodstvo",
       "krasota"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 446,
@@ -231,7 +242,8 @@
       "magazin",
       "proizvodstvo",
       "brainylab"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 428,
@@ -249,7 +261,8 @@
     "slugs": [
       "proizvodstvo",
       "negativelabs"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 373,
@@ -269,7 +282,8 @@
       "magazin",
       "proizvodstvo",
       "greensight"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 347,
@@ -289,7 +303,8 @@
       "promo",
       "magazin",
       "proizvodstvo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 307,
@@ -307,7 +322,8 @@
     "slugs": [
       "promo",
       "proizvodstvo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 276,
@@ -327,7 +343,8 @@
       "proizvodstvo",
       "moda",
       "magazin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 274,
@@ -345,7 +362,8 @@
     "slugs": [
       "promo",
       "proizvodstvo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 260,
@@ -365,7 +383,8 @@
       "proizvodstvo",
       "moda",
       "xdesign"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 237,
@@ -384,6 +403,7 @@
     "slugs": [
       "proizvodstvo",
       "artlebedev"
-    ]
+    ],
+    "awards": []
   }
 ]

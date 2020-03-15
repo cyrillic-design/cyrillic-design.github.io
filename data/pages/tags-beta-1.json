@@ -17,7 +17,8 @@
       "nedvizhimost",
       "promo",
       "beta"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 392,
@@ -35,7 +36,8 @@
     "slugs": [
       "nedvizhimost",
       "beta"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 365,
@@ -55,6 +57,7 @@
       "servis",
       "aviakompaniya",
       "beta"
-    ]
+    ],
+    "awards": []
   }
 ]

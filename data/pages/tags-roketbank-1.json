@@ -19,7 +19,8 @@
       "bank",
       "promo",
       "roketbank"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 487,
@@ -43,7 +44,8 @@
       "finansi",
       "bank",
       "roketbank"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 239,
@@ -61,6 +63,7 @@
     "slugs": [
       "magazin",
       "roketbank"
-    ]
+    ],
+    "awards": []
   }
 ]

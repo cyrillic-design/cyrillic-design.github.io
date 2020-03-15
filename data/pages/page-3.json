@@ -1,5 +1,133 @@
 [
   {
+    "id": 641,
+    "title": "Архитекторы РФ",
+    "image": "data/images/641.jpg",
+    "tags": [
+      "образование",
+      "sulliwan"
+    ],
+    "url": "https://xn--80akijuiemcz7e.xn--p1ai/",
+    "date": 1576922409,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "sulliwan"
+    ],
+    "awards": []
+  },
+  {
+    "id": 640,
+    "title": "Airsecurity",
+    "image": "data/images/640.jpg",
+    "tags": [
+      "промо",
+      "услуги",
+      "tilda",
+      "personagency"
+    ],
+    "url": "http://airsecurity.ru/",
+    "date": 1576836009,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "uslugi",
+      "tilda",
+      "personagency"
+    ],
+    "awards": []
+  },
+  {
+    "id": 639,
+    "title": "Future Book 202X от Кухни на районе и друзей",
+    "image": "data/images/639.jpg",
+    "tags": [
+      "спецпроект",
+      "тренды",
+      "презентация"
+    ],
+    "url": "https://202x.localkitchen.ru/",
+    "date": 1576749663,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "trendi",
+      "prezentatsiya"
+    ],
+    "awards": []
+  },
+  {
+    "id": 638,
+    "title": "Женщины в дизайне",
+    "image": "data/images/638.jpg",
+    "tags": [
+      "подкаст",
+      "промо",
+      "readymag"
+    ],
+    "url": "https://designingwomen.readymag.com/podcast/",
+    "date": 1576663258,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "podkast",
+      "promo",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
+    "id": 637,
+    "title": "Благотворительный фонд «‎Шалаш»‎",
+    "image": "data/images/637.jpg",
+    "tags": [
+      "фонд",
+      "люди",
+      "помощь",
+      "sulliwan"
+    ],
+    "url": "https://shalash.academy/",
+    "date": 1576231245,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "fond",
+      "lyudi",
+      "pomoshch",
+      "sulliwan"
+    ],
+    "awards": []
+  },
+  {
+    "id": 636,
+    "title": "Шапша",
+    "image": "data/images/636.jpg",
+    "tags": [
+      "спецпроект",
+      "люди",
+      "кружок"
+    ],
+    "url": "https://shapsha.io/",
+    "date": 1575626449,
+    "edit_date": 1583183700,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "lyudi",
+      "kruzhok"
+    ],
+    "awards": []
+  },
+  {
     "id": 635,
     "title": "Самокат",
     "image": "data/images/635.jpg",
@@ -15,7 +143,8 @@
     "slugs": [
       "servis",
       "dostavka"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 634,
@@ -33,7 +162,8 @@
     "slugs": [
       "spetsproekt",
       "ony"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 633,
@@ -55,7 +185,8 @@
       "gorod",
       "lyudi",
       "smena"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 632,
@@ -76,7 +207,8 @@
       "media",
       "iskusstvo",
       "meropriyatie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 631,
@@ -94,7 +226,8 @@
     "slugs": [
       "promo",
       "magazin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 630,
@@ -114,7 +247,8 @@
       "promo",
       "portfolio",
       "voskhoddigital"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 629,
@@ -136,7 +270,8 @@
       "lyudi",
       "promo",
       "voskhoddigital"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 628,
@@ -152,7 +287,8 @@
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 627,
@@ -171,7 +307,8 @@
     "slugs": [
       "portfolio",
       "whiterussianstudio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 626,
@@ -187,7 +324,8 @@
     "isRemoved": false,
     "slugs": [
       "iskusstvo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 625,
@@ -203,7 +341,8 @@
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 624,
@@ -221,7 +360,8 @@
     "slugs": [
       "spetsproekt",
       "artelutkina"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 623,
@@ -243,7 +383,8 @@
       "nedvizhimost",
       "yekaterinamoroshilova",
       "videinfra"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 622,
@@ -261,124 +402,7 @@
     "slugs": [
       "magazin",
       "promo"
-    ]
-  },
-  {
-    "id": 621,
-    "title": "Bank UA",
-    "image": "data/images/621.jpg",
-    "tags": [
-      "медиа",
-      "финансы",
-      "инвестиции",
-      "hexagon"
     ],
-    "url": "https://bank.ua/",
-    "date": 1573207269,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "media",
-      "finansi",
-      "investitsii",
-      "hexagon"
-    ]
-  },
-  {
-    "id": 620,
-    "title": "Лаишево — через прошлое в настоящее",
-    "image": "data/images/620.jpg",
-    "tags": [
-      "спецпроект",
-      "совет"
-    ],
-    "url": "https://laish.tatar/",
-    "date": 1572948056,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "sovet"
-    ]
-  },
-  {
-    "id": 619,
-    "title": "Планетроника",
-    "image": "data/images/619.jpg",
-    "tags": [
-      "спецпроект",
-      "музыка",
-      "яндекс"
-    ],
-    "url": "https://planetronica.ru/",
-    "date": 1572688818,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "muzika",
-      "yandeks"
-    ]
-  },
-  {
-    "id": 618,
-    "title": "Как читать Набокова",
-    "image": "data/images/618.jpg",
-    "tags": [
-      "спецпроект",
-      "readymag",
-      "азбукааттикус"
-    ],
-    "url": "https://nabokov.azbooka.ru/",
-    "date": 1572343260,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "readymag",
-      "azbukaattikus"
-    ]
-  },
-  {
-    "id": 617,
-    "title": "NETTO",
-    "image": "data/images/617.jpg",
-    "tags": [
-      "портфолио",
-      "спецпроект",
-      "the23",
-      "tilda"
-    ],
-    "url": "https://netto.the23.design/",
-    "date": 1572256855,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio",
-      "spetsproekt",
-      "the23",
-      "tilda"
-    ]
-  },
-  {
-    "id": 616,
-    "title": "SkyUp Airlines",
-    "image": "data/images/616.jpg",
-    "tags": [
-      "сервис"
-    ],
-    "url": "https://skyup.aero/uk/",
-    "date": 1572170448,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis"
-    ]
+    "awards": []
   }
 ]

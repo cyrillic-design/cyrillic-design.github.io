@@ -17,7 +17,8 @@
       "zhurnal",
       "avto",
       "yandeks"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 424,
@@ -35,7 +36,8 @@
     "slugs": [
       "avto",
       "magazin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 333,
@@ -55,6 +57,7 @@
       "promo",
       "istoriya",
       "avto"
-    ]
+    ],
+    "awards": []
   }
 ]

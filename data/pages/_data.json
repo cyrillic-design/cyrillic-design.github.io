@@ -581,15 +581,16 @@
   "117": {
     "id": 117,
     "title": "Такие Дела",
+    "caption": "Такие Дела\nhttps://takiedela.ru/\n\n#медиа #благотворительность #charmer",
     "image": "117.jpg",
     "tags": [
       "медиа",
       "благотворительность",
-      "chamer"
+      "charmer"
     ],
     "url": "https://takiedela.ru/",
     "date": 1521280809,
-    "edit_date": 1583185535,
+    "edit_date": 1583919708,
     "isHighlighted": false,
     "isRemoved": false
   },
@@ -4587,9 +4588,9 @@
     ],
     "url": "https://new.sovcombank.ru/",
     "date": 1545567524,
-    "edit_date": 1583247305,
+    "edit_date": 1583915644,
     "isHighlighted": false,
-    "isRemoved": false
+    "isRemoved": true
   },
   "398": {
     "id": 398,
@@ -8199,19 +8200,22 @@
   "666": {
     "id": 666,
     "title": "Redo Bureau",
+    "caption": "Redo Bureau\nhttps://redobureau.com/ru\n\n☆ #портфолио",
     "image": "666.jpg",
     "tags": [
       "портфолио"
     ],
     "url": "https://redobureau.com/ru",
     "date": 1582279214,
-    "edit_date": 1583183700,
+    "edit_date": 1584296887,
+    "isMonth": true,
     "isHighlighted": false,
     "isRemoved": false
   },
   "667": {
     "id": 667,
     "title": "Книги у моря — Петербургский книжный фестиваль",
+    "caption": "Книги у моря — Петербургский книжный фестиваль\nhttp://booksandsea.ru/\n\n☆ #мероприятие #readymag #aidapacheva",
     "image": "667.jpg",
     "tags": [
       "мероприятие",
@@ -8220,7 +8224,8 @@
     ],
     "url": "http://booksandsea.ru/",
     "date": 1582642963,
-    "edit_date": 1583183700,
+    "edit_date": 1584296887,
+    "isMonth": true,
     "isHighlighted": false,
     "isRemoved": false
   },
@@ -8352,17 +8357,112 @@
   "681": {
     "id": 681,
     "title": "Накормим весь малый бизнес",
-    "caption": "Накормим весь малый бизнес\nhttps://sfera.ru/landing/localkitchen/\n\n☆ #сервис #промо #банк #кухнянарайоне #бкс",
+    "caption": "Накормим весь малый бизнес\nhttps://sfera.ru/landing/localkitchen/\n\n☆ #сервис #промо #банк #бкс #кухнянарайоне",
     "image": "681.jpg",
     "tags": [
       "сервис",
       "промо",
       "банк",
-      "кухнянарайоне",
-      "бкс"
+      "бкс",
+      "кухнянарайоне"
     ],
     "url": "https://sfera.ru/landing/localkitchen/",
     "date": 1583748019,
+    "edit_date": 1583750685,
+    "isHighlighted": false,
+    "isRemoved": false
+  },
+  "683": {
+    "id": 683,
+    "title": "В моем репертуаре",
+    "caption": "В моем репертуаре\nhttps://truetoform.me/\n\n☆ #сервис #промо #мероприятие #readymag",
+    "image": "683.jpg",
+    "tags": [
+      "сервис",
+      "промо",
+      "мероприятие",
+      "readymag"
+    ],
+    "url": "https://truetoform.me/",
+    "date": 1583834419,
+    "edit_date": 1583834486,
+    "isHighlighted": false,
+    "isRemoved": false
+  },
+  "684": {
+    "id": 684,
+    "title": "Яндекс.Заправки",
+    "caption": "Яндекс.Заправки\nhttps://zapravki.yandex.ru/\n\n☆ #приложение #сервис #промо #яндекс",
+    "image": "684.jpg",
+    "tags": [
+      "приложение",
+      "сервис",
+      "промо",
+      "яндекс"
+    ],
+    "url": "https://zapravki.yandex.ru/",
+    "date": 1583920822,
+    "isHighlighted": false,
+    "isRemoved": false
+  },
+  "685": {
+    "id": 685,
+    "title": "Sloy Design",
+    "caption": "Sloy Design\nhttps://sloy.design/ru\n\n☆ #приложение #брендинг #cargo",
+    "image": "685.jpg",
+    "tags": [
+      "приложение",
+      "брендинг",
+      "cargo"
+    ],
+    "url": "https://sloy.design/ru",
+    "date": 1584007225,
+    "isHighlighted": false,
+    "isRemoved": false
+  },
+  "686": {
+    "id": 686,
+    "title": "plotnik design",
+    "caption": "plotnik design\nhttps://plotnik.design/\n\n☆ #портфолио #readymag",
+    "image": "686.jpg",
+    "tags": [
+      "портфолио",
+      "readymag"
+    ],
+    "url": "https://plotnik.design/",
+    "date": 1584093614,
+    "isHighlighted": false,
+    "isRemoved": false
+  },
+  "687": {
+    "id": 687,
+    "title": "Объединение",
+    "caption": "Объединение\nhttps://obdn.ru/\n\n☆ #журнал #магазин #искусство #redo\n♡ @AndyAbramov",
+    "image": "687.jpg",
+    "tags": [
+      "журнал",
+      "магазин",
+      "искусство",
+      "redo"
+    ],
+    "url": "https://obdn.ru/",
+    "date": 1584180023,
+    "isHighlighted": false,
+    "isRemoved": false
+  },
+  "688": {
+    "id": 688,
+    "title": "hochiminh",
+    "caption": "hochiminh\nhttps://readymag.com/u64480371/1549696/\n\n☆ #спецпроект #культура #readymag #анастасиябурякова",
+    "image": "688.jpg",
+    "tags": [
+      "спецпроект",
+      "культура",
+      "readymag",
+      "анастасиябурякова"
+    ],
+    "url": "https://readymag.com/u64480371/1549696/",
+    "date": 1584266458,
     "isHighlighted": false,
     "isRemoved": false
   }

@@ -19,7 +19,8 @@
       "spetsproekt",
       "the23",
       "tilda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 330,
@@ -39,7 +40,8 @@
       "gorod",
       "promo",
       "the23"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 262,
@@ -61,7 +63,8 @@
       "zhurnal",
       "dizain",
       "the23"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 179,
@@ -83,6 +86,7 @@
       "obrazovanie",
       "lyudi",
       "the23"
-    ]
+    ],
+    "awards": []
   }
 ]

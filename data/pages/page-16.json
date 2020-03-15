@@ -1,5 +1,104 @@
 [
   {
+    "id": 357,
+    "title": "Юрий Нарвин",
+    "image": "data/images/357.jpg",
+    "tags": [
+      "портфолио"
+    ],
+    "url": "https://ru.narvin.co",
+    "date": 1542448821,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio"
+    ],
+    "awards": []
+  },
+  {
+    "id": 356,
+    "title": "Москвич Mag",
+    "image": "data/images/356.jpg",
+    "tags": [
+      "журнал",
+      "whiterussianstudio"
+    ],
+    "url": "https://moskvichmag.ru/",
+    "date": 1542362440,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "whiterussianstudio"
+    ],
+    "awards": []
+  },
+  {
+    "id": 355,
+    "title": "Bauhaus Imaginista",
+    "image": "data/images/355.jpg",
+    "tags": [
+      "образование",
+      "garage",
+      "readymag"
+    ],
+    "url": "https://bauhaus-imaginista.garagemca.org",
+    "date": 1542276018,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "garage",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
+    "id": 354,
+    "title": "Вакансии Simple",
+    "image": "data/images/354.jpg",
+    "tags": [
+      "каталог",
+      "simple",
+      "pinkman"
+    ],
+    "url": "http://careers.simple.ru/",
+    "date": 1542189650,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "katalog",
+      "simple",
+      "pinkman"
+    ],
+    "awards": []
+  },
+  {
+    "id": 353,
+    "title": "Orient Finans Bank",
+    "image": "data/images/353.jpg",
+    "tags": [
+      "банк",
+      "финансы",
+      "artlebedev"
+    ],
+    "url": "https://ofb.uz/",
+    "date": 1542103221,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "bank",
+      "finansi",
+      "artlebedev"
+    ],
+    "awards": []
+  },
+  {
     "id": 352,
     "title": "Теремок",
     "image": "data/images/352.jpg",
@@ -17,7 +116,8 @@
       "yeda",
       "dostavka",
       "adndigitalstudio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 351,
@@ -35,7 +135,8 @@
     "slugs": [
       "obrazovanie",
       "kosmos"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 349,
@@ -55,7 +156,8 @@
       "otchet",
       "spetsproekt",
       "sergeiandronov"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 348,
@@ -75,7 +177,8 @@
       "gorod",
       "lyudi",
       "kruzhok"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 347,
@@ -95,7 +198,8 @@
       "promo",
       "magazin",
       "proizvodstvo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 346,
@@ -115,7 +219,8 @@
       "nedvizhimost",
       "promo",
       "greencow"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 345,
@@ -135,7 +240,8 @@
       "promo",
       "magazin",
       "aic"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 344,
@@ -155,7 +261,8 @@
       "dostavka",
       "yeda",
       "kilo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 343,
@@ -177,7 +284,8 @@
       "kultura",
       "lyudi",
       "sberbank"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 342,
@@ -193,7 +301,8 @@
     "isRemoved": false,
     "slugs": [
       "zhurnal"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 341,
@@ -215,7 +324,8 @@
       "blog",
       "novosti",
       "onesoil"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 340,
@@ -235,7 +345,8 @@
       "nedvizhimost",
       "promo",
       "greencow"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 339,
@@ -251,7 +362,8 @@
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 338,
@@ -271,7 +383,8 @@
       "promo",
       "yeda",
       "thefirstthelast"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 337,
@@ -289,104 +402,7 @@
     "slugs": [
       "spetsproekt",
       "lentaru"
-    ]
-  },
-  {
-    "id": 336,
-    "title": "Блог Tilda Publishing",
-    "image": "data/images/336.jpg",
-    "tags": [
-      "новости",
-      "сервис",
-      "tilda"
     ],
-    "url": "http://blog.tilda.cc/",
-    "date": 1540634406,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "novosti",
-      "servis",
-      "tilda"
-    ]
-  },
-  {
-    "id": 335,
-    "title": "Глюкометр Сателлит Экспресс",
-    "image": "data/images/335.jpg",
-    "tags": [
-      "промо",
-      "здоровье",
-      "creativepeople"
-    ],
-    "url": "http://satellite-express.ru/",
-    "date": 1540548005,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "zdorove",
-      "creativepeople"
-    ]
-  },
-  {
-    "id": 334,
-    "title": "SOLO",
-    "image": "data/images/334.jpg",
-    "tags": [
-      "сервис",
-      "доставка",
-      "еда"
-    ],
-    "url": "https://solofood.ru/",
-    "date": 1540461619,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "dostavka",
-      "yeda"
-    ]
-  },
-  {
-    "id": 333,
-    "title": "TIMELESS",
-    "image": "data/images/333.jpg",
-    "tags": [
-      "промо",
-      "история",
-      "авто"
-    ],
-    "url": "https://www.timeless.ee/?lang=rus",
-    "date": 1540375216,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "istoriya",
-      "avto"
-    ]
-  },
-  {
-    "id": 332,
-    "title": "ТАСС",
-    "image": "data/images/332.jpg",
-    "tags": [
-      "новости",
-      "агентство"
-    ],
-    "url": "https://tass.ru/",
-    "date": 1540288814,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "novosti",
-      "agentstvo"
-    ]
+    "awards": []
   }
 ]

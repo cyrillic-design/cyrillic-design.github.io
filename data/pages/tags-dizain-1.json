@@ -15,7 +15,8 @@
     "slugs": [
       "zhurnal",
       "dizain"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 473,
@@ -37,7 +38,8 @@
       "dizain",
       "readymag",
       "antonbalakin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 408,
@@ -59,7 +61,8 @@
       "dizain",
       "readymag",
       "dmitriikuchev"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 399,
@@ -80,7 +83,8 @@
       "brending",
       "dizain",
       "gaid"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 315,
@@ -102,7 +106,8 @@
       "dizain",
       "gosudarstvo",
       "sistema"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 313,
@@ -122,7 +127,8 @@
       "dizain",
       "brending",
       "fedoriv"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 309,
@@ -142,7 +148,8 @@
       "zhurnal",
       "muzika",
       "dizain"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 291,
@@ -163,7 +170,8 @@
       "agentstvo",
       "dizain",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 285,
@@ -185,7 +193,8 @@
       "sistema",
       "aic",
       "labag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 283,
@@ -209,7 +218,8 @@
       "bank",
       "finansi",
       "alfabank"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 262,
@@ -231,7 +241,8 @@
       "zhurnal",
       "dizain",
       "the23"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 258,
@@ -249,7 +260,8 @@
     "slugs": [
       "servis",
       "dizain"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 241,
@@ -269,7 +281,8 @@
       "studiya",
       "dizain",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 229,
@@ -289,7 +302,8 @@
       "obrazovanie",
       "dizain",
       "bangbangeducation"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 211,
@@ -307,7 +321,8 @@
     "slugs": [
       "portfolio",
       "dizain"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 207,
@@ -327,7 +342,8 @@
       "obrazovanie",
       "dizain",
       "masterskaya"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 191,
@@ -345,7 +361,8 @@
     "slugs": [
       "portfolio",
       "dizain"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 188,
@@ -365,7 +382,8 @@
       "studiya",
       "dizain",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 187,
@@ -387,6 +405,7 @@
       "uslugi",
       "portfolio",
       "dizain"
-    ]
+    ],
+    "awards": []
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "id": 242,
+    "title": "Русские машины на страже смерти",
+    "image": "data/images/242.jpg",
+    "tags": [
+      "спецпроект",
+      "батенькадавытрансформер",
+      "alfred"
+    ],
+    "url": "http://21093.batenka.ru/",
+    "date": 1532080820,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "batenkadavitransformer",
+      "alfred"
+    ],
+    "awards": []
+  },
+  {
     "id": 232,
     "title": "Обитель чёрного дьявола",
     "image": "data/images/232.jpg",
@@ -15,7 +36,8 @@
     "slugs": [
       "spetsproekt",
       "batenkadavitransformer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 215,
@@ -37,7 +59,8 @@
       "muzika",
       "pamyat",
       "netlab"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 153,
@@ -57,7 +80,8 @@
       "spetsproekt",
       "kultura",
       "google"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 151,
@@ -77,7 +101,8 @@
       "spetsproekt",
       "readymag",
       "katyauzienko"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 149,
@@ -93,7 +118,8 @@
     "isRemoved": false,
     "slugs": [
       "spetsproekt"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 144,
@@ -117,7 +143,8 @@
       "biznes",
       "gosudarstvo",
       "obrazovanie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 135,
@@ -137,7 +164,8 @@
       "spetsproekt",
       "strelka",
       "zhurnal"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 119,
@@ -161,7 +189,8 @@
       "lyudi",
       "istoriya",
       "google"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 112,
@@ -183,7 +212,8 @@
       "spetsproekt",
       "gastronomiya",
       "dzendizain"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 89,
@@ -206,7 +236,8 @@
       "promo",
       "samsung",
       "rbk"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 86,
@@ -230,7 +261,8 @@
       "pamyat",
       "lyudi",
       "takiedela"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 80,
@@ -254,7 +286,8 @@
       "muzika",
       "pamyat",
       "coda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 62,
@@ -276,6 +309,7 @@
       "spetsproekt",
       "pamyat",
       "dianadubina"
-    ]
+    ],
+    "awards": []
   }
 ]

@@ -1,5 +1,108 @@
 [
   {
+    "id": 195,
+    "title": "FRUIT UP",
+    "image": "data/images/195.jpg",
+    "tags": [
+      "сервис",
+      "доставка",
+      "еда"
+    ],
+    "url": "http://www.fruitup.ru/",
+    "date": 1528020007,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "dostavka",
+      "yeda"
+    ],
+    "awards": []
+  },
+  {
+    "id": 193,
+    "title": "Сделано",
+    "image": "data/images/193.jpg",
+    "tags": [
+      "услуги",
+      "сервис",
+      "конструктор"
+    ],
+    "url": "https://sdelano.ru/",
+    "date": 1527933601,
+    "edit_date": 1583185536,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "uslugi",
+      "servis",
+      "konstruktor"
+    ],
+    "awards": []
+  },
+  {
+    "id": 192,
+    "title": "45/60",
+    "image": "data/images/192.jpg",
+    "tags": [
+      "промо",
+      "ресторан",
+      "еда"
+    ],
+    "url": "http://45-60.ru/",
+    "date": 1527847218,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "restoran",
+      "yeda"
+    ],
+    "awards": []
+  },
+  {
+    "id": 191,
+    "title": "Олег Герт",
+    "image": "data/images/191.jpg",
+    "tags": [
+      "портфолио",
+      "дизайн"
+    ],
+    "url": "http://oleggert.ru/",
+    "date": 1527760811,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "dizain"
+    ],
+    "awards": []
+  },
+  {
+    "id": 190,
+    "title": "Decta",
+    "image": "data/images/190.jpg",
+    "tags": [
+      "финансы",
+      "услуги",
+      "технологии"
+    ],
+    "url": "https://decta.com/ru",
+    "date": 1527674411,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "finansi",
+      "uslugi",
+      "tekhnologii"
+    ],
+    "awards": []
+  },
+  {
     "id": 189,
     "title": "Яндекс Плюс",
     "image": "data/images/189.jpg",
@@ -17,7 +120,8 @@
       "servis",
       "uslugi",
       "promo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 188,
@@ -37,7 +141,8 @@
       "studiya",
       "dizain",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 187,
@@ -59,7 +164,8 @@
       "uslugi",
       "portfolio",
       "dizain"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 186,
@@ -77,7 +183,8 @@
     "slugs": [
       "finansi",
       "servis"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 185,
@@ -101,7 +208,8 @@
       "odezhda",
       "moda",
       "icrea"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 184,
@@ -124,7 +232,8 @@
       "portfolio",
       "uslugi",
       "agentstvo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 183,
@@ -142,7 +251,8 @@
     "slugs": [
       "media",
       "zhurnal"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 182,
@@ -162,7 +272,8 @@
       "magazin",
       "marketpleis",
       "yandeks"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 181,
@@ -182,7 +293,8 @@
       "servis",
       "uslugi",
       "setka"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 180,
@@ -200,7 +312,8 @@
     "slugs": [
       "magazin",
       "hellobarty"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 179,
@@ -222,7 +335,8 @@
       "obrazovanie",
       "lyudi",
       "the23"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 178,
@@ -240,7 +354,8 @@
     "slugs": [
       "magazin",
       "braind"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 177,
@@ -260,7 +375,8 @@
       "meditsina",
       "zdorove",
       "aic"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 176,
@@ -276,7 +392,8 @@
     "isRemoved": false,
     "slugs": [
       "magazin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 175,
@@ -298,102 +415,7 @@
       "uslugi",
       "razvlecheniya",
       "cloudmill"
-    ]
-  },
-  {
-    "id": 174,
-    "title": "РОСГОССТРАХ БАНК",
-    "image": "data/images/174.jpg",
-    "tags": [
-      "банк",
-      "финансы",
-      "aic"
     ],
-    "url": "https://www.rgsbank.ru/",
-    "date": 1526292021,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "bank",
-      "finansi",
-      "aic"
-    ]
-  },
-  {
-    "id": 173,
-    "title": "Хайтек",
-    "image": "data/images/173.jpg",
-    "tags": [
-      "медиа",
-      "новости",
-      "технологии"
-    ],
-    "url": "https://hightech.fm/",
-    "date": 1526205609,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "media",
-      "novosti",
-      "tekhnologii"
-    ]
-  },
-  {
-    "id": 172,
-    "title": "re:Store",
-    "image": "data/images/172.jpg",
-    "tags": [
-      "магазин"
-    ],
-    "url": "https://www.re-store.ru/",
-    "date": 1526119218,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin"
-    ]
-  },
-  {
-    "id": 171,
-    "title": "Legacy",
-    "image": "data/images/171.jpg",
-    "tags": [
-      "фонд",
-      "бизнес",
-      "финансы",
-      "сибирикс"
-    ],
-    "url": "http://legacy-ef.com/",
-    "date": 1526032809,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "fond",
-      "biznes",
-      "finansi",
-      "sibiriks"
-    ]
-  },
-  {
-    "id": 170,
-    "title": "HANDWERS",
-    "image": "data/images/170.jpg",
-    "tags": [
-      "магазин",
-      "доставка"
-    ],
-    "url": "https://handwers.com/ru/",
-    "date": 1525946421,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "dostavka"
-    ]
+    "awards": []
   }
 ]

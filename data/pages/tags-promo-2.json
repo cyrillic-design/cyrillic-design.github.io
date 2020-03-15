@@ -1,5 +1,47 @@
 [
   {
+    "id": 622,
+    "title": "New Wallet — Travel Kit",
+    "image": "data/images/622.jpg",
+    "tags": [
+      "магазин",
+      "промо"
+    ],
+    "url": "https://newwallet.ru/osobennosti/osobennosti-travel",
+    "date": 1573552837,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "promo"
+    ],
+    "awards": []
+  },
+  {
+    "id": 613,
+    "title": "Званий обід",
+    "image": "data/images/613.jpg",
+    "tags": [
+      "спецпроект",
+      "еда",
+      "промо",
+      "platforma"
+    ],
+    "url": "https://platfor.ma/specials/zvanyi-obid/",
+    "date": 1571911231,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "yeda",
+      "promo",
+      "platforma"
+    ],
+    "awards": []
+  },
+  {
     "id": 571,
     "title": "Valve Index",
     "image": "data/images/571.jpg",
@@ -13,7 +55,8 @@
     "isRemoved": false,
     "slugs": [
       "promo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 557,
@@ -32,7 +75,8 @@
     "slugs": [
       "promo",
       "whiterussianstudio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 552,
@@ -48,7 +92,8 @@
     "isRemoved": false,
     "slugs": [
       "promo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 546,
@@ -64,7 +109,8 @@
     "isRemoved": false,
     "slugs": [
       "promo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 544,
@@ -82,7 +128,8 @@
     "slugs": [
       "meropriyatie",
       "promo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 535,
@@ -100,7 +147,8 @@
     "slugs": [
       "promo",
       "sovet"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 529,
@@ -122,7 +170,8 @@
       "promo",
       "moda",
       "zaglushka"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 527,
@@ -142,7 +191,8 @@
       "proizvodstvo",
       "promo",
       "servis"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 509,
@@ -162,7 +212,8 @@
       "promo",
       "prilozhenie",
       "servis"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 496,
@@ -180,7 +231,8 @@
     "slugs": [
       "nedvizhimost",
       "promo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 490,
@@ -198,7 +250,8 @@
     "slugs": [
       "yeda",
       "promo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 487,
@@ -222,7 +275,8 @@
       "finansi",
       "bank",
       "roketbank"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 476,
@@ -242,7 +296,8 @@
       "spetsproekt",
       "promo",
       "rbk"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 471,
@@ -261,7 +316,8 @@
     "slugs": [
       "meropriyatie",
       "promo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 470,
@@ -283,7 +339,8 @@
       "prilozhenie",
       "bank",
       "finansi"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 467,
@@ -302,7 +359,8 @@
     "slugs": [
       "promo",
       "prominado"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 461,
@@ -322,7 +380,8 @@
       "nedvizhimost",
       "promo",
       "strangebrain"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 450,
@@ -342,44 +401,7 @@
       "uslugi",
       "promo",
       "only"
-    ]
-  },
-  {
-    "id": 449,
-    "title": "Pro et Contra",
-    "image": "data/images/449.jpg",
-    "tags": [
-      "услуги",
-      "промо",
-      "otherland"
     ],
-    "url": "http://pro-et-contra.com.ua/",
-    "date": 1551088809,
-    "edit_date": 1583185362,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "uslugi",
-      "promo",
-      "otherland"
-    ]
-  },
-  {
-    "id": 434,
-    "title": "Avito seller",
-    "image": "data/images/434.jpg",
-    "tags": [
-      "промо",
-      "chulakov"
-    ],
-    "url": "https://www.avito.ru/seller/",
-    "date": 1549792823,
-    "edit_date": 1583185362,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "chulakov"
-    ]
+    "awards": []
   }
 ]

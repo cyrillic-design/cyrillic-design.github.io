@@ -18,7 +18,8 @@
       "tv",
       "promo",
       "whiterussianstudio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 329,
@@ -38,7 +39,8 @@
       "tv",
       "video",
       "sts"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 110,
@@ -56,6 +58,7 @@
     "slugs": [
       "tv",
       "media"
-    ]
+    ],
+    "awards": []
   }
 ]

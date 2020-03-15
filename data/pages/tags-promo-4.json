@@ -1,5 +1,51 @@
 [
   {
+    "id": 330,
+    "title": "Інноваційний парк UNIT.City",
+    "image": "data/images/330.jpg",
+    "tags": [
+      "город",
+      "промо",
+      "the23"
+    ],
+    "url": "https://unit.city/",
+    "date": 1539857425,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "gorod",
+      "promo",
+      "the23"
+    ],
+    "awards": []
+  },
+  {
+    "id": 312,
+    "title": "Бунтарь. Воин. Атеист",
+    "image": "data/images/312.jpg",
+    "tags": [
+      "спецпроект",
+      "промо",
+      "искусство",
+      "lentaru",
+      "третьяковскаягалерея"
+    ],
+    "url": "https://vereshchagin.lenta.ru/",
+    "date": 1538041141,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "promo",
+      "iskusstvo",
+      "lentaru",
+      "tretyakovskayagalereya"
+    ],
+    "awards": []
+  },
+  {
     "id": 307,
     "title": "TEXX",
     "image": "data/images/307.jpg",
@@ -15,7 +61,8 @@
     "slugs": [
       "promo",
       "proizvodstvo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 304,
@@ -37,7 +84,8 @@
       "pamyat",
       "garazh",
       "promo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 299,
@@ -55,7 +103,8 @@
     "slugs": [
       "promo",
       "whiterussianstudio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 278,
@@ -73,7 +122,8 @@
     "slugs": [
       "promo",
       "magazin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 274,
@@ -91,7 +141,8 @@
     "slugs": [
       "promo",
       "proizvodstvo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 265,
@@ -111,7 +162,8 @@
       "promo",
       "uslugi",
       "redcollar"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 240,
@@ -131,7 +183,8 @@
       "nedvizhimost",
       "promo",
       "bquadro"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 227,
@@ -149,7 +202,8 @@
     "slugs": [
       "promo",
       "kinopoisk"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 221,
@@ -169,7 +223,8 @@
       "proizvodstvo",
       "promo",
       "xdesign"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 217,
@@ -189,7 +244,8 @@
       "proizvodstvo",
       "promo",
       "chipsa"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 214,
@@ -209,7 +265,8 @@
       "muzika",
       "festival",
       "promo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 205,
@@ -229,7 +286,8 @@
       "nedvizhimost",
       "promo",
       "its"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 200,
@@ -249,7 +307,8 @@
       "yeda",
       "promo",
       "zero"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 197,
@@ -271,7 +330,8 @@
       "promo",
       "lyudi",
       "mustapp"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 192,
@@ -291,7 +351,8 @@
       "promo",
       "restoran",
       "yeda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 189,
@@ -311,7 +372,8 @@
       "servis",
       "uslugi",
       "promo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 167,
@@ -331,7 +393,8 @@
       "servis",
       "uslugi",
       "promo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 161,
@@ -352,46 +415,7 @@
       "nedvizhimost",
       "finansi",
       "promo"
-    ]
-  },
-  {
-    "id": 159,
-    "title": "Servermall",
-    "image": "data/images/159.jpg",
-    "tags": [
-      "магазин",
-      "промо"
     ],
-    "url": "https://servermall.ru/",
-    "date": 1524823212,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "promo"
-    ]
-  },
-  {
-    "id": 156,
-    "title": "Rocket Home Pig",
-    "image": "data/images/156.jpg",
-    "tags": [
-      "промо",
-      "банк",
-      "финансы",
-      "readymag"
-    ],
-    "url": "http://homepig.rocketbank.ru/",
-    "date": 1524564005,
-    "edit_date": 1583185536,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "bank",
-      "finansi",
-      "readymag"
-    ]
+    "awards": []
   }
 ]

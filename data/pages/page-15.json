@@ -1,5 +1,110 @@
 [
   {
+    "id": 381,
+    "title": "Подкаст «Остарбайтеры»",
+    "image": "data/images/381.jpg",
+    "tags": [
+      "спецпроект",
+      "подкаст",
+      "glagolevfm",
+      "мемориал"
+    ],
+    "url": "https://ost.glagolev.fm/",
+    "date": 1544263253,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "podkast",
+      "glagolevfm",
+      "memorial"
+    ],
+    "awards": []
+  },
+  {
+    "id": 380,
+    "title": "Искусство кино",
+    "image": "data/images/380.jpg",
+    "tags": [
+      "журнал",
+      "искусство",
+      "кино",
+      "charmer"
+    ],
+    "url": "https://kinoart.ru/",
+    "date": 1544176818,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "iskusstvo",
+      "kino",
+      "charmer"
+    ],
+    "awards": []
+  },
+  {
+    "id": 379,
+    "title": "Ology",
+    "image": "data/images/379.jpg",
+    "tags": [
+      "журнал",
+      "наука",
+      "мамихлапинатана"
+    ],
+    "url": "https://ology.sh/",
+    "date": 1544090409,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "nauka",
+      "mamikhlapinatana"
+    ],
+    "awards": []
+  },
+  {
+    "id": 378,
+    "title": "Яндекс.Телефон",
+    "image": "data/images/378.jpg",
+    "tags": [
+      "промо"
+    ],
+    "url": "https://phone.yandex.ru/",
+    "date": 1544003657,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo"
+    ],
+    "awards": []
+  },
+  {
+    "id": 375,
+    "title": "60 беларускамоўных гітоў сучаснасьці",
+    "image": "data/images/375.jpg",
+    "tags": [
+      "музыка",
+      "спецпроект",
+      "cherenkevich"
+    ],
+    "url": "http://tuzin.letapis.by/",
+    "date": 1543917619,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "muzika",
+      "spetsproekt",
+      "cherenkevich"
+    ],
+    "awards": []
+  },
+  {
     "id": 374,
     "title": "Larne",
     "image": "data/images/374.jpg",
@@ -17,7 +122,8 @@
       "moda",
       "magazin",
       "itsagency"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 373,
@@ -37,7 +143,8 @@
       "magazin",
       "proizvodstvo",
       "greensight"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 372,
@@ -55,7 +162,8 @@
     "slugs": [
       "agentstvo",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 371,
@@ -75,7 +183,8 @@
       "moda",
       "odezhda",
       "magazin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 370,
@@ -91,7 +200,8 @@
     "isRemoved": false,
     "slugs": [
       "izdanie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 369,
@@ -109,7 +219,8 @@
     "slugs": [
       "spetsproekt",
       "istoriya"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 368,
@@ -129,7 +240,8 @@
       "iskusstvo",
       "spetsproekt",
       "artlebedev"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 367,
@@ -147,7 +259,8 @@
     "slugs": [
       "studiya",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 366,
@@ -167,7 +280,8 @@
       "krasota",
       "magazin",
       "loremipsumlab"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 365,
@@ -187,7 +301,8 @@
       "servis",
       "aviakompaniya",
       "beta"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 363,
@@ -207,7 +322,8 @@
       "promo",
       "meropriyatie",
       "kruzhok"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 362,
@@ -227,7 +343,8 @@
       "izdanie",
       "finansi",
       "bank"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 361,
@@ -247,7 +364,8 @@
       "promo",
       "yandeks",
       "romansazonov"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 359,
@@ -265,7 +383,8 @@
     "slugs": [
       "portfolio",
       "dropbox"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 358,
@@ -285,100 +404,7 @@
       "spetsproekt",
       "takiedela",
       "bookmate"
-    ]
-  },
-  {
-    "id": 357,
-    "title": "Юрий Нарвин",
-    "image": "data/images/357.jpg",
-    "tags": [
-      "портфолио"
     ],
-    "url": "https://ru.narvin.co",
-    "date": 1542448821,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio"
-    ]
-  },
-  {
-    "id": 356,
-    "title": "Москвич Mag",
-    "image": "data/images/356.jpg",
-    "tags": [
-      "журнал",
-      "whiterussianstudio"
-    ],
-    "url": "https://moskvichmag.ru/",
-    "date": 1542362440,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "zhurnal",
-      "whiterussianstudio"
-    ]
-  },
-  {
-    "id": 355,
-    "title": "Bauhaus Imaginista",
-    "image": "data/images/355.jpg",
-    "tags": [
-      "образование",
-      "garage",
-      "readymag"
-    ],
-    "url": "https://bauhaus-imaginista.garagemca.org",
-    "date": 1542276018,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "garage",
-      "readymag"
-    ]
-  },
-  {
-    "id": 354,
-    "title": "Вакансии Simple",
-    "image": "data/images/354.jpg",
-    "tags": [
-      "каталог",
-      "simple",
-      "pinkman"
-    ],
-    "url": "http://careers.simple.ru/",
-    "date": 1542189650,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "katalog",
-      "simple",
-      "pinkman"
-    ]
-  },
-  {
-    "id": 353,
-    "title": "Orient Finans Bank",
-    "image": "data/images/353.jpg",
-    "tags": [
-      "банк",
-      "финансы",
-      "artlebedev"
-    ],
-    "url": "https://ofb.uz/",
-    "date": 1542103221,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "bank",
-      "finansi",
-      "artlebedev"
-    ]
+    "awards": []
   }
 ]

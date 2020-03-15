@@ -15,7 +15,8 @@
     "slugs": [
       "studiya",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 444,
@@ -33,7 +34,8 @@
     "slugs": [
       "studiya",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 432,
@@ -53,7 +55,8 @@
       "portfolio",
       "spetsproekt",
       "studiya"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 430,
@@ -73,7 +76,8 @@
       "portfolio",
       "studiya",
       "flat12"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 416,
@@ -91,7 +95,8 @@
     "slugs": [
       "portfolio",
       "studiya"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 393,
@@ -109,7 +114,8 @@
     "slugs": [
       "studiya",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 367,
@@ -127,7 +133,8 @@
     "slugs": [
       "studiya",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 306,
@@ -145,7 +152,8 @@
     "slugs": [
       "studiya",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 280,
@@ -163,7 +171,8 @@
     "slugs": [
       "studiya",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 252,
@@ -181,7 +190,8 @@
     "slugs": [
       "studiya",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 248,
@@ -199,7 +209,8 @@
     "slugs": [
       "studiya",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 241,
@@ -219,7 +230,8 @@
       "studiya",
       "dizain",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 233,
@@ -237,7 +249,8 @@
     "slugs": [
       "portfolio",
       "studiya"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 225,
@@ -255,7 +268,8 @@
     "slugs": [
       "studiya",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 188,
@@ -275,7 +289,8 @@
       "studiya",
       "dizain",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 184,
@@ -298,7 +313,8 @@
       "portfolio",
       "uslugi",
       "agentstvo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 116,
@@ -318,7 +334,8 @@
       "studiya",
       "portfolio",
       "antonandirene"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 107,
@@ -336,7 +353,8 @@
     "slugs": [
       "studiya",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 102,
@@ -354,6 +372,7 @@
     "slugs": [
       "portfolio",
       "studiya"
-    ]
+    ],
+    "awards": []
   }
 ]

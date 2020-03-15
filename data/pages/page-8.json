@@ -1,5 +1,121 @@
 [
   {
+    "id": 534,
+    "title": "Worki",
+    "image": "data/images/534.jpg",
+    "tags": [
+      "сервис"
+    ],
+    "url": "https://worki.ru",
+    "date": 1560852037,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis"
+    ],
+    "awards": []
+  },
+  {
+    "id": 533,
+    "title": "Великая суббота",
+    "image": "data/images/533.jpg",
+    "tags": [
+      "vr",
+      "религия"
+    ],
+    "url": "https://gigarama.ru/holyfire/",
+    "date": 1560592834,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "vr",
+      "religiya"
+    ],
+    "awards": []
+  },
+  {
+    "id": 532,
+    "title": "Молния",
+    "image": "data/images/532.jpg",
+    "tags": [
+      "сервис",
+      "заглушка",
+      "приложение"
+    ],
+    "url": "https://molnia.me/",
+    "date": 1560506435,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "zaglushka",
+      "prilozhenie"
+    ],
+    "awards": []
+  },
+  {
+    "id": 531,
+    "title": "SHU",
+    "image": "data/images/531.jpg",
+    "tags": [
+      "одежда",
+      "магазин"
+    ],
+    "url": "https://shuclothes.com/ru/",
+    "date": 1560420033,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "odezhda",
+      "magazin"
+    ],
+    "awards": []
+  },
+  {
+    "id": 530,
+    "title": "TheQuestion",
+    "image": "data/images/530.jpg",
+    "tags": [
+      "сервис"
+    ],
+    "url": "https://thequestion.ru/",
+    "date": 1560333631,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis"
+    ],
+    "awards": []
+  },
+  {
+    "id": 529,
+    "title": "Sloy",
+    "image": "data/images/529.jpg",
+    "tags": [
+      "приложение",
+      "промо",
+      "мода",
+      "заглушка"
+    ],
+    "url": "https://sloy.com/",
+    "date": 1560260683,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "prilozhenie",
+      "promo",
+      "moda",
+      "zaglushka"
+    ],
+    "awards": []
+  },
+  {
     "id": 528,
     "title": "Квартиротека ИКЕА",
     "image": "data/images/528.jpg",
@@ -17,7 +133,8 @@
       "magazin",
       "dostavka",
       "servis"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 527,
@@ -37,7 +154,8 @@
       "proizvodstvo",
       "promo",
       "servis"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 526,
@@ -55,7 +173,8 @@
     "slugs": [
       "proizvodstvo",
       "studiyaevgeniyayarovogo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 525,
@@ -73,7 +192,8 @@
     "slugs": [
       "portfolio",
       "sever"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 524,
@@ -91,7 +211,8 @@
     "slugs": [
       "meropriyatie",
       "paratype"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 523,
@@ -107,7 +228,8 @@
     "isRemoved": false,
     "slugs": [
       "meropriyatie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 522,
@@ -123,7 +245,8 @@
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 521,
@@ -141,7 +264,8 @@
     "slugs": [
       "zhurnal",
       "muzika"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 518,
@@ -159,7 +283,8 @@
     "slugs": [
       "magazin",
       "yarmarka"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 517,
@@ -177,7 +302,8 @@
     "slugs": [
       "proizvodstvo",
       "magazin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 516,
@@ -197,7 +323,8 @@
       "magazin",
       "proizvodstvo",
       "max"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 515,
@@ -217,7 +344,8 @@
       "proizvodstvo",
       "kholding",
       "meik"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 514,
@@ -239,7 +367,8 @@
       "spetsproekt",
       "belarus",
       "alekseicherenkevich"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 513,
@@ -257,120 +386,7 @@
     "slugs": [
       "zhurnal",
       "pik"
-    ]
-  },
-  {
-    "id": 512,
-    "title": "Верблюд в огне",
-    "image": "data/images/512.jpg",
-    "tags": [
-      "издание",
-      "новости"
     ],
-    "url": "https://verbludvogne.ru/",
-    "date": 1558432804,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "izdanie",
-      "novosti"
-    ]
-  },
-  {
-    "id": 511,
-    "title": "KOTSIUBA",
-    "image": "data/images/511.jpg",
-    "tags": [
-      "студия",
-      "портфолио"
-    ],
-    "url": "https://kotsiuba.com/",
-    "date": 1558346402,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "studiya",
-      "portfolio"
-    ]
-  },
-  {
-    "id": 510,
-    "title": "Медисорб",
-    "image": "data/images/510.jpg",
-    "tags": [
-      "здоровье",
-      "производство",
-      "redcollar"
-    ],
-    "url": "https://www.medisorb.ru/",
-    "date": 1558260061,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "zdorove",
-      "proizvodstvo",
-      "redcollar"
-    ]
-  },
-  {
-    "id": 509,
-    "title": "АБУК",
-    "image": "data/images/509.jpg",
-    "tags": [
-      "промо",
-      "приложение",
-      "сервис"
-    ],
-    "url": "https://abuk.com.ua/",
-    "date": 1558173659,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "prilozhenie",
-      "servis"
-    ]
-  },
-  {
-    "id": 508,
-    "title": "Meduza",
-    "image": "data/images/508.jpg",
-    "tags": [
-      "издание",
-      "новости"
-    ],
-    "url": "https://meduza.io/",
-    "date": 1558087259,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "izdanie",
-      "novosti"
-    ]
-  },
-  {
-    "id": 507,
-    "title": "Институт Музыкальных Инициатив",
-    "image": "data/images/507.jpg",
-    "tags": [
-      "музыка",
-      "мероприятие",
-      "sulliwan"
-    ],
-    "url": "https://i-m-i.ru/",
-    "date": 1558000856,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "muzika",
-      "meropriyatie",
-      "sulliwan"
-    ]
+    "awards": []
   }
 ]

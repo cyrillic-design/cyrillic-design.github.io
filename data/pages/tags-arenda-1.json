@@ -17,7 +17,8 @@
       "servis",
       "puteshestvie",
       "arenda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 131,
@@ -39,7 +40,8 @@
       "arenda",
       "uslugi",
       "genue"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 61,
@@ -61,6 +63,7 @@
       "arenda",
       "zolteco",
       "vintage"
-    ]
+    ],
+    "awards": []
   }
 ]

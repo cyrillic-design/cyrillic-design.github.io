@@ -1,5 +1,71 @@
 [
   {
+    "id": 688,
+    "title": "hochiminh",
+    "caption": "hochiminh\nhttps://readymag.com/u64480371/1549696/\n\n☆ #спецпроект #культура #readymag #анастасиябурякова",
+    "image": "data/images/688.jpg",
+    "tags": [
+      "спецпроект",
+      "культура",
+      "readymag",
+      "анастасиябурякова"
+    ],
+    "url": "https://readymag.com/u64480371/1549696/",
+    "date": 1584266458,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "kultura",
+      "readymag",
+      "anastasiyaburyakova"
+    ],
+    "awards": []
+  },
+  {
+    "id": 686,
+    "title": "plotnik design",
+    "caption": "plotnik design\nhttps://plotnik.design/\n\n☆ #портфолио #readymag",
+    "image": "data/images/686.jpg",
+    "tags": [
+      "портфолио",
+      "readymag"
+    ],
+    "url": "https://plotnik.design/",
+    "date": 1584093614,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
+    "id": 683,
+    "title": "В моем репертуаре",
+    "caption": "В моем репертуаре\nhttps://truetoform.me/\n\n☆ #сервис #промо #мероприятие #readymag",
+    "image": "data/images/683.jpg",
+    "tags": [
+      "сервис",
+      "промо",
+      "мероприятие",
+      "readymag"
+    ],
+    "url": "https://truetoform.me/",
+    "date": 1583834419,
+    "edit_date": 1583834486,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "promo",
+      "meropriyatie",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 676,
     "title": "LUXENGLISH",
     "caption": "LUXENGLISH\nhttps://luxenglish.ru/\n\n☆ #образование #мероприятие #readymag",
@@ -18,11 +84,13 @@
       "obrazovanie",
       "meropriyatie",
       "readymag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 667,
     "title": "Книги у моря — Петербургский книжный фестиваль",
+    "caption": "Книги у моря — Петербургский книжный фестиваль\nhttp://booksandsea.ru/\n\n☆ #мероприятие #readymag #aidapacheva",
     "image": "data/images/667.jpg",
     "tags": [
       "мероприятие",
@@ -31,13 +99,17 @@
     ],
     "url": "http://booksandsea.ru/",
     "date": 1582642963,
-    "edit_date": 1583183700,
+    "edit_date": 1584296887,
+    "isMonth": true,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
       "meropriyatie",
       "readymag",
       "aidapacheva"
+    ],
+    "awards": [
+      "month"
     ]
   },
   {
@@ -56,7 +128,8 @@
     "slugs": [
       "promo",
       "readymag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 663,
@@ -76,7 +149,8 @@
       "spetsproekt",
       "readymag",
       "tatyanaegoshina"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 658,
@@ -99,7 +173,8 @@
       "muzika",
       "readymag",
       "zholud"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 657,
@@ -121,7 +196,8 @@
       "readymag",
       "alanalikov",
       "sashakats"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 656,
@@ -141,7 +217,8 @@
       "muzika",
       "readymag",
       "artemlepilin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 638,
@@ -161,7 +238,8 @@
       "podkast",
       "promo",
       "readymag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 618,
@@ -181,7 +259,8 @@
       "spetsproekt",
       "readymag",
       "azbukaattikus"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 611,
@@ -203,7 +282,8 @@
       "readymag",
       "garage",
       "vasiliipodryadchikov"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 578,
@@ -223,7 +303,8 @@
       "spetsproekt",
       "readymag",
       "takiedela"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 575,
@@ -243,7 +324,8 @@
       "spetsproekt",
       "readymag",
       "lisitskii"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 560,
@@ -268,7 +350,8 @@
       "spetsproekt",
       "readymag",
       "aic"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 497,
@@ -288,7 +371,8 @@
       "portfolio",
       "readymag",
       "sulliwan"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 475,
@@ -308,7 +392,8 @@
       "istoriya",
       "readymag",
       "dashapochekueva"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 473,
@@ -330,7 +415,8 @@
       "dizain",
       "readymag",
       "antonbalakin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 421,
@@ -348,68 +434,7 @@
     "slugs": [
       "promo",
       "readymag"
-    ]
-  },
-  {
-    "id": 412,
-    "title": "Виртуальный русский павильон",
-    "image": "data/images/412.jpg",
-    "tags": [
-      "мероприятие",
-      "промо",
-      "readymag"
     ],
-    "url": "https://readymag.com/u90533425/1065619/",
-    "date": 1547632858,
-    "edit_date": 1583185362,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "meropriyatie",
-      "promo",
-      "readymag"
-    ]
-  },
-  {
-    "id": 408,
-    "title": "Краткая история дизайна",
-    "image": "data/images/408.jpg",
-    "tags": [
-      "история",
-      "дизайн",
-      "readymag",
-      "dmitriikuchev"
-    ],
-    "url": "https://readymag.com/kuchev/design-history-1/",
-    "date": 1547287208,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "istoriya",
-      "dizain",
-      "readymag",
-      "dmitriikuchev"
-    ]
-  },
-  {
-    "id": 355,
-    "title": "Bauhaus Imaginista",
-    "image": "data/images/355.jpg",
-    "tags": [
-      "образование",
-      "garage",
-      "readymag"
-    ],
-    "url": "https://bauhaus-imaginista.garagemca.org",
-    "date": 1542276018,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "garage",
-      "readymag"
-    ]
+    "awards": []
   }
 ]

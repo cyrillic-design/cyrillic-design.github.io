@@ -17,7 +17,8 @@
       "zdorove",
       "proizvodstvo",
       "redcollar"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 506,
@@ -35,7 +36,8 @@
     "slugs": [
       "servis",
       "zdorove"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 460,
@@ -55,7 +57,8 @@
       "zdorove",
       "uslugi",
       "bureausector"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 458,
@@ -75,7 +78,8 @@
       "blog",
       "zdorove",
       "docplus"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 456,
@@ -95,7 +99,8 @@
       "spetsproekt",
       "zdorove",
       "mamikhlapinatana"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 391,
@@ -115,7 +120,8 @@
       "servis",
       "zdorove",
       "breadhead"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 335,
@@ -135,7 +141,8 @@
       "promo",
       "zdorove",
       "creativepeople"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 288,
@@ -155,7 +162,8 @@
       "servis",
       "dostavka",
       "zdorove"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 177,
@@ -175,6 +183,7 @@
       "meditsina",
       "zdorove",
       "aic"
-    ]
+    ],
+    "awards": []
   }
 ]

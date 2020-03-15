@@ -19,7 +19,8 @@
       "promo",
       "buking",
       "videinfra"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 175,
@@ -41,7 +42,8 @@
       "uslugi",
       "razvlecheniya",
       "cloudmill"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 155,
@@ -59,7 +61,8 @@
     "slugs": [
       "promo",
       "buking"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 152,
@@ -79,7 +82,8 @@
       "meropriyatie",
       "promo",
       "buking"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 150,
@@ -97,6 +101,7 @@
     "slugs": [
       "sport",
       "buking"
-    ]
+    ],
+    "awards": []
   }
 ]

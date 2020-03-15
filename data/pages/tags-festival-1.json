@@ -17,7 +17,8 @@
       "meropriyatie",
       "festival",
       "muzika"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 284,
@@ -39,7 +40,8 @@
       "festival",
       "gorod",
       "readymag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 214,
@@ -59,7 +61,8 @@
       "muzika",
       "festival",
       "promo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 166,
@@ -81,6 +84,7 @@
       "muzika",
       "lyudi",
       "bosco"
-    ]
+    ],
+    "awards": []
   }
 ]
