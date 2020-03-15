@@ -19,7 +19,8 @@
       "magazin",
       "iskusstvo",
       "redo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 614,
@@ -41,7 +42,8 @@
       "media",
       "zhurnal",
       "charmer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 612,
@@ -59,7 +61,8 @@
     "slugs": [
       "zhurnal",
       "pure"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 610,
@@ -81,7 +84,8 @@
       "proizvodstvo",
       "yeda",
       "nimax"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 596,
@@ -97,7 +101,8 @@
     "isRemoved": false,
     "slugs": [
       "zhurnal"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 589,
@@ -115,7 +120,8 @@
     "slugs": [
       "zhurnal",
       "ony"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 521,
@@ -133,7 +139,8 @@
     "slugs": [
       "zhurnal",
       "muzika"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 513,
@@ -151,7 +158,8 @@
     "slugs": [
       "zhurnal",
       "pik"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 500,
@@ -171,7 +179,8 @@
       "obrazovanie",
       "zhurnal",
       "yandeks"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 485,
@@ -189,7 +198,8 @@
     "slugs": [
       "zhurnal",
       "dizain"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 463,
@@ -209,7 +219,8 @@
       "zhurnal",
       "avto",
       "yandeks"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 436,
@@ -227,7 +238,8 @@
     "slugs": [
       "zhurnal",
       "otherland"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 380,
@@ -249,7 +261,8 @@
       "iskusstvo",
       "kino",
       "charmer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 379,
@@ -269,7 +282,8 @@
       "zhurnal",
       "nauka",
       "mamikhlapinatana"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 356,
@@ -287,7 +301,8 @@
     "slugs": [
       "zhurnal",
       "whiterussianstudio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 342,
@@ -303,7 +318,8 @@
     "isRemoved": false,
     "slugs": [
       "zhurnal"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 328,
@@ -323,7 +339,8 @@
       "zhurnal",
       "spetsproekt",
       "politika"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 309,
@@ -343,7 +360,8 @@
       "zhurnal",
       "muzika",
       "dizain"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 272,
@@ -361,7 +379,8 @@
     "slugs": [
       "magazin",
       "zhurnal"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 270,
@@ -379,6 +398,7 @@
     "slugs": [
       "zhurnal",
       "obrazovanie"
-    ]
+    ],
+    "awards": []
   }
 ]

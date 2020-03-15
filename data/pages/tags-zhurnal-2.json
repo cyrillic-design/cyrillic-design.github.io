@@ -19,7 +19,8 @@
       "zhurnal",
       "dizain",
       "the23"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 246,
@@ -37,7 +38,8 @@
     "slugs": [
       "zhurnal",
       "izdanie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 213,
@@ -55,7 +57,8 @@
     "slugs": [
       "zhurnal",
       "media"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 204,
@@ -73,7 +76,8 @@
     "slugs": [
       "zhurnal",
       "moda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 201,
@@ -93,7 +97,8 @@
       "zhurnal",
       "novosti",
       "lyudi"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 196,
@@ -115,7 +120,8 @@
       "lyudi",
       "novosti",
       "moda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 183,
@@ -133,7 +139,8 @@
     "slugs": [
       "media",
       "zhurnal"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 179,
@@ -155,7 +162,8 @@
       "obrazovanie",
       "lyudi",
       "the23"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 135,
@@ -175,7 +183,8 @@
       "spetsproekt",
       "strelka",
       "zhurnal"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 123,
@@ -193,7 +202,8 @@
     "slugs": [
       "magazin",
       "zhurnal"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 103,
@@ -213,7 +223,8 @@
       "zhurnal",
       "media",
       "biznes"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 99,
@@ -233,7 +244,8 @@
       "finansi",
       "zhurnal",
       "media"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 76,
@@ -255,6 +267,7 @@
       "media",
       "zhurnal",
       "wednesday"
-    ]
+    ],
+    "awards": []
   }
 ]

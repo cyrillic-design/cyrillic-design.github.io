@@ -17,7 +17,8 @@
       "zdorove",
       "proizvodstvo",
       "redcollar"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 265,
@@ -37,7 +38,8 @@
       "promo",
       "uslugi",
       "redcollar"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 255,
@@ -59,7 +61,8 @@
       "tekhnologii",
       "biznes",
       "redcollar"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 126,
@@ -79,6 +82,7 @@
       "promo",
       "magazin",
       "redcollar"
-    ]
+    ],
+    "awards": []
   }
 ]

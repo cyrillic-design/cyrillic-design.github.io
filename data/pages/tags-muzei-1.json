@@ -19,7 +19,8 @@
       "lyudi",
       "promo",
       "voskhoddigital"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 442,
@@ -37,7 +38,8 @@
     "slugs": [
       "muzei",
       "laska"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 60,
@@ -57,6 +59,7 @@
       "kultura",
       "muzei",
       "charmer"
-    ]
+    ],
+    "awards": []
   }
 ]

@@ -15,7 +15,8 @@
     "slugs": [
       "zaglushka",
       "meropriyatie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 562,
@@ -33,7 +34,8 @@
     "slugs": [
       "portfolio",
       "zaglushka"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 532,
@@ -53,7 +55,8 @@
       "servis",
       "zaglushka",
       "prilozhenie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 529,
@@ -75,6 +78,7 @@
       "promo",
       "moda",
       "zaglushka"
-    ]
+    ],
+    "awards": []
   }
 ]

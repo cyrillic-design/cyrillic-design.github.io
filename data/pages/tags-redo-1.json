@@ -19,7 +19,8 @@
       "magazin",
       "iskusstvo",
       "redo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 414,
@@ -37,6 +38,7 @@
     "slugs": [
       "promo",
       "redo"
-    ]
+    ],
+    "awards": []
   }
 ]

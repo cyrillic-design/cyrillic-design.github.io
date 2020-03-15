@@ -17,7 +17,8 @@
       "zhurnal",
       "media",
       "biznes"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 99,
@@ -37,7 +38,8 @@
       "finansi",
       "zhurnal",
       "media"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 76,
@@ -59,7 +61,8 @@
       "media",
       "zhurnal",
       "wednesday"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 56,
@@ -77,6 +80,7 @@
     "slugs": [
       "media",
       "jetstyle"
-    ]
+    ],
+    "awards": []
   }
 ]

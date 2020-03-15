@@ -19,7 +19,8 @@
       "kultura",
       "readymag",
       "anastasiyaburyakova"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 663,
@@ -39,7 +40,8 @@
       "spetsproekt",
       "readymag",
       "tatyanaegoshina"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 657,
@@ -61,7 +63,8 @@
       "readymag",
       "alanalikov",
       "sashakats"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 651,
@@ -79,7 +82,8 @@
     "slugs": [
       "spetsproekt",
       "smena"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 648,
@@ -99,7 +103,8 @@
       "spetsproekt",
       "promo",
       "obrazovanie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 639,
@@ -119,7 +124,8 @@
       "spetsproekt",
       "trendi",
       "prezentatsiya"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 636,
@@ -139,7 +145,8 @@
       "spetsproekt",
       "lyudi",
       "kruzhok"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 634,
@@ -157,7 +164,8 @@
     "slugs": [
       "spetsproekt",
       "ony"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 624,
@@ -175,7 +183,8 @@
     "slugs": [
       "spetsproekt",
       "artelutkina"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 620,
@@ -193,7 +202,8 @@
     "slugs": [
       "spetsproekt",
       "sovet"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 619,
@@ -213,7 +223,8 @@
       "spetsproekt",
       "muzika",
       "yandeks"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 618,
@@ -233,7 +244,8 @@
       "spetsproekt",
       "readymag",
       "azbukaattikus"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 617,
@@ -255,7 +267,8 @@
       "spetsproekt",
       "the23",
       "tilda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 613,
@@ -277,7 +290,8 @@
       "yeda",
       "promo",
       "platforma"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 611,
@@ -299,7 +313,8 @@
       "readymag",
       "garage",
       "vasiliipodryadchikov"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 609,
@@ -317,7 +332,8 @@
     "slugs": [
       "spetsproekt",
       "qmrktng"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 601,
@@ -335,7 +351,8 @@
     "slugs": [
       "spetsproekt",
       "netlab"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 599,
@@ -355,7 +372,8 @@
       "spetsproekt",
       "muzika",
       "yandeks"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 597,
@@ -373,7 +391,8 @@
     "slugs": [
       "spetsproekt",
       "ilyastarkov"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 592,
@@ -394,6 +413,7 @@
       "spetsproekt",
       "advokatskayagazeta",
       "artperformance"
-    ]
+    ],
+    "awards": []
   }
 ]

@@ -18,7 +18,8 @@
       "tv",
       "promo",
       "whiterussianstudio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 661,
@@ -40,7 +41,8 @@
       "promo",
       "buking",
       "videinfra"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 660,
@@ -58,7 +60,8 @@
     "slugs": [
       "meropriyatie",
       "24ttl"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 659,
@@ -78,7 +81,8 @@
       "nedvizhimost",
       "promo",
       "whitemark"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 658,
@@ -101,7 +105,8 @@
       "muzika",
       "readymag",
       "zholud"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 657,
@@ -123,7 +128,8 @@
       "readymag",
       "alanalikov",
       "sashakats"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 656,
@@ -143,7 +149,8 @@
       "muzika",
       "readymag",
       "artemlepilin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 655,
@@ -166,7 +173,8 @@
       "yandeks",
       "viktorakifev",
       "tilda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 654,
@@ -182,7 +190,8 @@
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 653,
@@ -202,7 +211,8 @@
       "uslugi",
       "promo",
       "only"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 651,
@@ -220,7 +230,8 @@
     "slugs": [
       "spetsproekt",
       "smena"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 650,
@@ -238,7 +249,8 @@
     "slugs": [
       "obrazovanie",
       "meropriyatie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 649,
@@ -256,7 +268,8 @@
     "slugs": [
       "magazin",
       "thepromotion"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 648,
@@ -276,7 +289,8 @@
       "spetsproekt",
       "promo",
       "obrazovanie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 647,
@@ -298,7 +312,8 @@
       "bank",
       "promo",
       "roketbank"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 646,
@@ -314,7 +329,8 @@
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 645,
@@ -334,7 +350,8 @@
       "promo",
       "nedvizhimost",
       "art3d"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 644,
@@ -350,7 +367,8 @@
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 643,
@@ -372,7 +390,8 @@
       "kinopoisk",
       "yandeks",
       "embacy"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 642,
@@ -392,6 +411,7 @@
       "podkast",
       "promo",
       "tilda"
-    ]
+    ],
+    "awards": []
   }
 ]

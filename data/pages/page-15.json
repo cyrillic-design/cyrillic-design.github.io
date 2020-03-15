@@ -19,7 +19,8 @@
       "podkast",
       "glagolevfm",
       "memorial"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 380,
@@ -41,7 +42,8 @@
       "iskusstvo",
       "kino",
       "charmer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 379,
@@ -61,7 +63,8 @@
       "zhurnal",
       "nauka",
       "mamikhlapinatana"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 378,
@@ -77,7 +80,8 @@
     "isRemoved": false,
     "slugs": [
       "promo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 375,
@@ -97,7 +101,8 @@
       "muzika",
       "spetsproekt",
       "cherenkevich"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 374,
@@ -117,7 +122,8 @@
       "moda",
       "magazin",
       "itsagency"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 373,
@@ -137,7 +143,8 @@
       "magazin",
       "proizvodstvo",
       "greensight"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 372,
@@ -155,7 +162,8 @@
     "slugs": [
       "agentstvo",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 371,
@@ -175,7 +183,8 @@
       "moda",
       "odezhda",
       "magazin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 370,
@@ -191,7 +200,8 @@
     "isRemoved": false,
     "slugs": [
       "izdanie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 369,
@@ -209,7 +219,8 @@
     "slugs": [
       "spetsproekt",
       "istoriya"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 368,
@@ -229,7 +240,8 @@
       "iskusstvo",
       "spetsproekt",
       "artlebedev"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 367,
@@ -247,7 +259,8 @@
     "slugs": [
       "studiya",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 366,
@@ -267,7 +280,8 @@
       "krasota",
       "magazin",
       "loremipsumlab"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 365,
@@ -287,7 +301,8 @@
       "servis",
       "aviakompaniya",
       "beta"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 363,
@@ -307,7 +322,8 @@
       "promo",
       "meropriyatie",
       "kruzhok"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 362,
@@ -327,7 +343,8 @@
       "izdanie",
       "finansi",
       "bank"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 361,
@@ -347,7 +364,8 @@
       "promo",
       "yandeks",
       "romansazonov"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 359,
@@ -365,7 +383,8 @@
     "slugs": [
       "portfolio",
       "dropbox"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 358,
@@ -385,6 +404,7 @@
       "spetsproekt",
       "takiedela",
       "bookmate"
-    ]
+    ],
+    "awards": []
   }
 ]

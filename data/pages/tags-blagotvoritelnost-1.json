@@ -15,7 +15,8 @@
     "slugs": [
       "blagotvoritelnost",
       "whiterussianstudio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 117,
@@ -36,7 +37,8 @@
       "media",
       "blagotvoritelnost",
       "charmer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 90,
@@ -58,7 +60,8 @@
       "fond",
       "lyudi",
       "charmer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 86,
@@ -82,6 +85,7 @@
       "pamyat",
       "lyudi",
       "takiedela"
-    ]
+    ],
+    "awards": []
   }
 ]

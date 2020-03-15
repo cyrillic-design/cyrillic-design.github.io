@@ -13,7 +13,8 @@
     "isRemoved": false,
     "slugs": [
       "servis"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 528,
@@ -33,7 +34,8 @@
       "magazin",
       "dostavka",
       "servis"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 527,
@@ -53,7 +55,8 @@
       "proizvodstvo",
       "promo",
       "servis"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 509,
@@ -73,7 +76,8 @@
       "promo",
       "prilozhenie",
       "servis"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 506,
@@ -91,7 +95,8 @@
     "slugs": [
       "servis",
       "zdorove"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 466,
@@ -109,7 +114,8 @@
     "slugs": [
       "servis",
       "chulakov"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 448,
@@ -125,7 +131,8 @@
     "isRemoved": false,
     "slugs": [
       "servis"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 441,
@@ -148,7 +155,8 @@
       "servis",
       "shad",
       "yandeks"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 440,
@@ -168,7 +176,8 @@
       "dannie",
       "servis",
       "urbica"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 439,
@@ -188,7 +197,8 @@
       "finansi",
       "servis",
       "shuka"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 433,
@@ -208,7 +218,8 @@
       "servis",
       "dostavka",
       "max"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 422,
@@ -228,7 +239,8 @@
       "servis",
       "magazin",
       "max"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 417,
@@ -246,7 +258,8 @@
     "slugs": [
       "servis",
       "chulakov"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 415,
@@ -264,7 +277,8 @@
     "slugs": [
       "servis",
       "uplab"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 410,
@@ -282,7 +296,8 @@
     "slugs": [
       "servis",
       "itogi"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 407,
@@ -302,7 +317,8 @@
       "promo",
       "servis",
       "rostelekom"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 406,
@@ -322,7 +338,8 @@
       "servis",
       "itogi",
       "blog"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 398,
@@ -342,7 +359,8 @@
       "servis",
       "biznes",
       "finansi"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 395,
@@ -360,7 +378,8 @@
     "slugs": [
       "obrazovanie",
       "servis"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 391,
@@ -380,6 +399,7 @@
       "servis",
       "zdorove",
       "breadhead"
-    ]
+    ],
+    "awards": []
   }
 ]

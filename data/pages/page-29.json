@@ -21,7 +21,8 @@
       "pamyat",
       "lyudi",
       "takiedela"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 85,
@@ -43,7 +44,8 @@
       "strana",
       "lyudi",
       "shvetsiya"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 84,
@@ -61,7 +63,8 @@
     "slugs": [
       "bank",
       "finansi"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 83,
@@ -83,7 +86,8 @@
       "dostavka",
       "yeda",
       "breadhead"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 80,
@@ -107,7 +111,8 @@
       "muzika",
       "pamyat",
       "coda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 76,
@@ -129,7 +134,8 @@
       "media",
       "zhurnal",
       "wednesday"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 75,
@@ -147,7 +153,8 @@
     "slugs": [
       "magazin",
       "promo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 64,
@@ -165,7 +172,8 @@
     "slugs": [
       "promo",
       "creativepeople"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 63,
@@ -185,7 +193,8 @@
       "agentstvo",
       "portfolio",
       "shchuka"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 62,
@@ -207,7 +216,8 @@
       "spetsproekt",
       "pamyat",
       "dianadubina"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 61,
@@ -229,7 +239,8 @@
       "arenda",
       "zolteco",
       "vintage"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 60,
@@ -249,7 +260,8 @@
       "kultura",
       "muzei",
       "charmer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 59,
@@ -267,7 +279,8 @@
     "slugs": [
       "nedvizhimost",
       "pik"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 56,
@@ -285,6 +298,7 @@
     "slugs": [
       "media",
       "jetstyle"
-    ]
+    ],
+    "awards": []
   }
 ]

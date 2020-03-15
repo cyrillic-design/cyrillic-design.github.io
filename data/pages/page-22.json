@@ -16,7 +16,8 @@
     "slugs": [
       "agentstvo",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 234,
@@ -36,7 +37,8 @@
       "uslugi",
       "proizvodstvo",
       "astroshok"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 233,
@@ -54,7 +56,8 @@
     "slugs": [
       "portfolio",
       "studiya"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 232,
@@ -72,7 +75,8 @@
     "slugs": [
       "spetsproekt",
       "batenkadavitransformer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 231,
@@ -90,7 +94,8 @@
     "slugs": [
       "obrazovanie",
       "sulliwan"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 230,
@@ -112,7 +117,8 @@
       "finansi",
       "biznes",
       "bks"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 229,
@@ -132,7 +138,8 @@
       "obrazovanie",
       "dizain",
       "bangbangeducation"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 228,
@@ -153,7 +160,8 @@
       "obrazovanie",
       "lyudi",
       "biznes"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 227,
@@ -171,7 +179,8 @@
     "slugs": [
       "promo",
       "kinopoisk"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 226,
@@ -189,7 +198,8 @@
     "slugs": [
       "agentstvo",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 225,
@@ -207,7 +217,8 @@
     "slugs": [
       "studiya",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 224,
@@ -226,7 +237,8 @@
     "slugs": [
       "media",
       "izdanie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 223,
@@ -244,7 +256,8 @@
     "slugs": [
       "servis",
       "kino"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 222,
@@ -264,7 +277,8 @@
       "finansi",
       "biznes",
       "servis"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 221,
@@ -284,7 +298,8 @@
       "proizvodstvo",
       "promo",
       "xdesign"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 220,
@@ -304,7 +319,8 @@
       "finansi",
       "servis",
       "bks"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 219,
@@ -322,7 +338,8 @@
     "slugs": [
       "agentstvo",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 218,
@@ -342,7 +359,8 @@
       "nedvizhimost",
       "servis",
       "sberbank"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 217,
@@ -362,7 +380,8 @@
       "proizvodstvo",
       "promo",
       "chipsa"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 216,
@@ -380,6 +399,7 @@
     "slugs": [
       "agentstvo",
       "portfolio"
-    ]
+    ],
+    "awards": []
   }
 ]

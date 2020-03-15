@@ -19,7 +19,8 @@
       "spetsproekt",
       "gastronomiya",
       "dzendizain"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 106,
@@ -39,7 +40,8 @@
       "marketpleis",
       "magazin",
       "mvideo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 98,
@@ -57,7 +59,8 @@
     "slugs": [
       "magazin",
       "yeda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 87,
@@ -79,7 +82,8 @@
       "dostavka",
       "yeda",
       "solardigital"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 83,
@@ -101,7 +105,8 @@
       "dostavka",
       "yeda",
       "breadhead"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 75,
@@ -119,6 +124,7 @@
     "slugs": [
       "magazin",
       "promo"
-    ]
+    ],
+    "awards": []
   }
 ]

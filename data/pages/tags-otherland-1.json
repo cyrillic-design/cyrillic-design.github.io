@@ -17,7 +17,8 @@
       "media",
       "obrazovanie",
       "otherland"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 449,
@@ -37,7 +38,8 @@
       "uslugi",
       "promo",
       "otherland"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 436,
@@ -55,6 +57,7 @@
     "slugs": [
       "zhurnal",
       "otherland"
-    ]
+    ],
+    "awards": []
   }
 ]

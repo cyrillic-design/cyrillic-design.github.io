@@ -19,7 +19,8 @@
       "sistema",
       "aic",
       "labag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 164,
@@ -41,7 +42,8 @@
       "media",
       "rossiya",
       "labag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 115,
@@ -63,7 +65,8 @@
       "media",
       "rossiya",
       "labag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 92,
@@ -86,6 +89,7 @@
       "strana",
       "rossiya",
       "labag"
-    ]
+    ],
+    "awards": []
   }
 ]

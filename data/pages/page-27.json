@@ -18,7 +18,8 @@
       "biznes",
       "uslugi",
       "ideil"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 132,
@@ -38,7 +39,8 @@
       "promo",
       "glonass",
       "hyundai"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 131,
@@ -60,7 +62,8 @@
       "arenda",
       "uslugi",
       "genue"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 130,
@@ -80,7 +83,8 @@
       "media",
       "novosti",
       "charmer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 129,
@@ -96,7 +100,8 @@
     "isRemoved": false,
     "slugs": [
       "uslugi"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 128,
@@ -114,7 +119,8 @@
     "slugs": [
       "magazin",
       "ony"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 127,
@@ -134,7 +140,8 @@
       "novosti",
       "sport",
       "artlebedev"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 126,
@@ -154,7 +161,8 @@
       "promo",
       "magazin",
       "redcollar"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 125,
@@ -174,7 +182,8 @@
       "aviakompaniya",
       "uslugi",
       "puteshestviya"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 124,
@@ -194,7 +203,8 @@
       "obrazovanie",
       "media",
       "nauka"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 123,
@@ -212,7 +222,8 @@
     "slugs": [
       "magazin",
       "zhurnal"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 122,
@@ -230,7 +241,8 @@
     "slugs": [
       "obrazovanie",
       "readymag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 121,
@@ -252,7 +264,8 @@
       "media",
       "kultura",
       "charmer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 120,
@@ -274,7 +287,8 @@
       "provaider",
       "uslugi",
       "ony"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 119,
@@ -298,7 +312,8 @@
       "lyudi",
       "istoriya",
       "google"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 118,
@@ -316,7 +331,8 @@
     "slugs": [
       "magazin",
       "comence"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 117,
@@ -337,7 +353,8 @@
       "media",
       "blagotvoritelnost",
       "charmer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 116,
@@ -357,7 +374,8 @@
       "studiya",
       "portfolio",
       "antonandirene"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 115,
@@ -379,7 +397,8 @@
       "media",
       "rossiya",
       "labag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 114,
@@ -397,6 +416,7 @@
     "slugs": [
       "dostavka",
       "yeda"
-    ]
+    ],
+    "awards": []
   }
 ]

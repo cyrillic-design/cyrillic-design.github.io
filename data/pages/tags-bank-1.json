@@ -22,7 +22,8 @@
       "bank",
       "bks",
       "kukhnyanaraione"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 647,
@@ -44,7 +45,8 @@
       "bank",
       "promo",
       "roketbank"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 573,
@@ -64,7 +66,8 @@
       "blog",
       "finansi",
       "bank"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 487,
@@ -88,7 +91,8 @@
       "finansi",
       "bank",
       "roketbank"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 470,
@@ -110,7 +114,8 @@
       "prilozhenie",
       "bank",
       "finansi"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 429,
@@ -130,7 +135,8 @@
       "finansi",
       "bank",
       "aic"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 362,
@@ -150,7 +156,8 @@
       "izdanie",
       "finansi",
       "bank"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 353,
@@ -170,7 +177,8 @@
       "bank",
       "finansi",
       "artlebedev"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 295,
@@ -192,7 +200,8 @@
       "finansi",
       "bank",
       "tinkoff"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 283,
@@ -216,7 +225,8 @@
       "bank",
       "finansi",
       "alfabank"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 275,
@@ -236,7 +246,8 @@
       "bank",
       "finansi",
       "magazin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 238,
@@ -256,7 +267,8 @@
       "bank",
       "finansi",
       "aic"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 230,
@@ -278,7 +290,8 @@
       "finansi",
       "biznes",
       "bks"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 208,
@@ -298,7 +311,8 @@
       "finansi",
       "bank",
       "chulakov"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 174,
@@ -318,7 +332,8 @@
       "bank",
       "finansi",
       "aic"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 163,
@@ -336,7 +351,8 @@
     "slugs": [
       "bank",
       "finansi"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 156,
@@ -358,7 +374,8 @@
       "bank",
       "finansi",
       "readymag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 145,
@@ -376,7 +393,8 @@
     "slugs": [
       "finansi",
       "bank"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 88,
@@ -396,7 +414,8 @@
       "bank",
       "finansi",
       "aic"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 84,
@@ -414,6 +433,7 @@
     "slugs": [
       "bank",
       "finansi"
-    ]
+    ],
+    "awards": []
   }
 ]

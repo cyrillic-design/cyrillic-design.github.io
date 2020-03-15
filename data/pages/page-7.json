@@ -17,7 +17,8 @@
       "proizvodstvo",
       "magazin",
       "aiwin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 555,
@@ -33,7 +34,8 @@
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 554,
@@ -53,7 +55,8 @@
       "magazin",
       "krasota",
       "moda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 553,
@@ -71,7 +74,8 @@
     "slugs": [
       "portfolio",
       "perushevandkhmelev"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 552,
@@ -87,7 +91,8 @@
     "isRemoved": false,
     "slugs": [
       "promo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 551,
@@ -103,7 +108,8 @@
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 550,
@@ -121,7 +127,8 @@
     "slugs": [
       "izdanie",
       "stride"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 548,
@@ -139,7 +146,8 @@
     "slugs": [
       "proizvodstvo",
       "studiyaevgeniyayarovogo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 547,
@@ -157,7 +165,8 @@
     "slugs": [
       "meropriyatie",
       "sovet"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 546,
@@ -173,7 +182,8 @@
     "isRemoved": false,
     "slugs": [
       "promo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 545,
@@ -190,7 +200,8 @@
     "isRemoved": false,
     "slugs": [
       "servis"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 544,
@@ -208,7 +219,8 @@
     "slugs": [
       "meropriyatie",
       "promo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 542,
@@ -226,7 +238,8 @@
     "slugs": [
       "obrazovanie",
       "yandeks"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 541,
@@ -242,7 +255,8 @@
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 540,
@@ -258,7 +272,8 @@
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 539,
@@ -276,7 +291,8 @@
     "slugs": [
       "proizvodstvo",
       "levelup"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 538,
@@ -296,7 +312,8 @@
       "servis",
       "platforma",
       "byurobyuro"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 537,
@@ -316,7 +333,8 @@
       "servis",
       "muzika",
       "stride"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 536,
@@ -332,7 +350,8 @@
     "isRemoved": false,
     "slugs": [
       "obrazovanie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 535,
@@ -350,6 +369,7 @@
     "slugs": [
       "promo",
       "sovet"
-    ]
+    ],
+    "awards": []
   }
 ]

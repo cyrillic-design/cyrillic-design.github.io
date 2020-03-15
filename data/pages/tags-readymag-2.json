@@ -17,7 +17,8 @@
       "meropriyatie",
       "promo",
       "readymag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 408,
@@ -39,7 +40,8 @@
       "dizain",
       "readymag",
       "dmitriikuchev"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 355,
@@ -59,7 +61,8 @@
       "obrazovanie",
       "garage",
       "readymag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 327,
@@ -83,7 +86,8 @@
       "readymag",
       "ivansemkin",
       "mailru"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 320,
@@ -105,7 +109,8 @@
       "iskusstvo",
       "yevreiskiimuzei",
       "readymag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 284,
@@ -127,7 +132,8 @@
       "festival",
       "gorod",
       "readymag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 263,
@@ -148,7 +154,8 @@
       "spetsproekt",
       "zhurnalshrift",
       "readymag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 156,
@@ -170,7 +177,8 @@
       "bank",
       "finansi",
       "readymag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 151,
@@ -190,7 +198,8 @@
       "spetsproekt",
       "readymag",
       "katyauzienko"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 122,
@@ -208,6 +217,7 @@
     "slugs": [
       "obrazovanie",
       "readymag"
-    ]
+    ],
+    "awards": []
   }
 ]

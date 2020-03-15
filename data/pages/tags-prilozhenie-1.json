@@ -17,7 +17,8 @@
       "prilozhenie",
       "brending",
       "cargo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 684,
@@ -39,7 +40,8 @@
       "servis",
       "promo",
       "yandeks"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 532,
@@ -59,7 +61,8 @@
       "servis",
       "zaglushka",
       "prilozhenie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 529,
@@ -81,7 +84,8 @@
       "promo",
       "moda",
       "zaglushka"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 509,
@@ -101,7 +105,8 @@
       "promo",
       "prilozhenie",
       "servis"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 470,
@@ -123,6 +128,7 @@
       "prilozhenie",
       "bank",
       "finansi"
-    ]
+    ],
+    "awards": []
   }
 ]

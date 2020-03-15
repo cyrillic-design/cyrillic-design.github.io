@@ -20,7 +20,8 @@
       "promo",
       "meropriyatie",
       "readymag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 676,
@@ -41,7 +42,8 @@
       "obrazovanie",
       "meropriyatie",
       "readymag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 675,
@@ -62,11 +64,13 @@
       "obrazovanie",
       "meropriyatie",
       "tilda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 667,
     "title": "Книги у моря — Петербургский книжный фестиваль",
+    "caption": "Книги у моря — Петербургский книжный фестиваль\nhttp://booksandsea.ru/\n\n☆ #мероприятие #readymag #aidapacheva",
     "image": "data/images/667.jpg",
     "tags": [
       "мероприятие",
@@ -75,14 +79,15 @@
     ],
     "url": "http://booksandsea.ru/",
     "date": 1582642963,
-    "edit_date": 1583183700,
+    "edit_date": 1584296862,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
       "meropriyatie",
       "readymag",
       "aidapacheva"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 660,
@@ -100,7 +105,8 @@
     "slugs": [
       "meropriyatie",
       "24ttl"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 658,
@@ -123,7 +129,8 @@
       "muzika",
       "readymag",
       "zholud"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 655,
@@ -146,7 +153,8 @@
       "yandeks",
       "viktorakifev",
       "tilda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 650,
@@ -164,7 +172,8 @@
     "slugs": [
       "obrazovanie",
       "meropriyatie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 632,
@@ -185,7 +194,8 @@
       "media",
       "iskusstvo",
       "meropriyatie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 607,
@@ -203,7 +213,8 @@
     "slugs": [
       "meropriyatie",
       "designworkout"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 605,
@@ -219,7 +230,8 @@
     "isRemoved": false,
     "slugs": [
       "meropriyatie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 603,
@@ -237,7 +249,8 @@
     "slugs": [
       "meropriyatie",
       "groznovco"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 602,
@@ -255,7 +268,8 @@
     "slugs": [
       "zaglushka",
       "meropriyatie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 577,
@@ -271,7 +285,8 @@
     "isRemoved": false,
     "slugs": [
       "meropriyatie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 560,
@@ -296,7 +311,8 @@
       "spetsproekt",
       "readymag",
       "aic"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 547,
@@ -314,7 +330,8 @@
     "slugs": [
       "meropriyatie",
       "sovet"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 544,
@@ -332,7 +349,8 @@
     "slugs": [
       "meropriyatie",
       "promo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 524,
@@ -350,7 +368,8 @@
     "slugs": [
       "meropriyatie",
       "paratype"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 523,
@@ -366,7 +385,8 @@
     "isRemoved": false,
     "slugs": [
       "meropriyatie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 507,
@@ -386,6 +406,7 @@
       "muzika",
       "meropriyatie",
       "sulliwan"
-    ]
+    ],
+    "awards": []
   }
 ]

@@ -21,7 +21,8 @@
       "obrazovanie",
       "platforma",
       "setka"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 144,
@@ -45,7 +46,8 @@
       "biznes",
       "gosudarstvo",
       "obrazovanie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 138,
@@ -67,7 +69,8 @@
       "portal",
       "obrazovanie",
       "biznes"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 137,
@@ -85,7 +88,8 @@
     "slugs": [
       "obrazovanie",
       "servis"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 136,
@@ -105,7 +109,8 @@
       "obrazovanie",
       "kultura",
       "charmer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 124,
@@ -125,7 +130,8 @@
       "obrazovanie",
       "media",
       "nauka"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 122,
@@ -143,7 +149,8 @@
     "slugs": [
       "obrazovanie",
       "readymag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 121,
@@ -165,7 +172,8 @@
       "media",
       "kultura",
       "charmer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 113,
@@ -185,7 +193,8 @@
       "promo",
       "obrazovanie",
       "kruzhok"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 109,
@@ -207,6 +216,7 @@
       "media",
       "obrazovanie",
       "kultura"
-    ]
+    ],
+    "awards": []
   }
 ]

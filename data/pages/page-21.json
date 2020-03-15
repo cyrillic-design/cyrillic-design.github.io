@@ -19,7 +19,8 @@
       "tekhnologii",
       "biznes",
       "redcollar"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 254,
@@ -39,7 +40,8 @@
       "izdanie",
       "moda",
       "kultura"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 253,
@@ -57,7 +59,8 @@
     "slugs": [
       "magazin",
       "odezhda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 252,
@@ -75,7 +78,8 @@
     "slugs": [
       "studiya",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 251,
@@ -93,7 +97,8 @@
     "slugs": [
       "spetsproekt",
       "batenkadavitransformer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 250,
@@ -111,7 +116,8 @@
     "slugs": [
       "obrazovanie",
       "spiilka"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 249,
@@ -127,7 +133,8 @@
     "isRemoved": false,
     "slugs": [
       "magazin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 248,
@@ -145,7 +152,8 @@
     "slugs": [
       "studiya",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 247,
@@ -165,7 +173,8 @@
       "servis",
       "puteshestvie",
       "arenda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 246,
@@ -183,7 +192,8 @@
     "slugs": [
       "zhurnal",
       "izdanie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 245,
@@ -201,7 +211,8 @@
     "slugs": [
       "agentstvo",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 244,
@@ -219,7 +230,8 @@
     "slugs": [
       "servis",
       "soobshchestvo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 243,
@@ -239,7 +251,8 @@
       "servis",
       "kino",
       "kinopoisk"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 242,
@@ -259,7 +272,8 @@
       "spetsproekt",
       "batenkadavitransformer",
       "alfred"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 241,
@@ -279,7 +293,8 @@
       "studiya",
       "dizain",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 240,
@@ -299,7 +314,8 @@
       "nedvizhimost",
       "promo",
       "bquadro"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 239,
@@ -317,7 +333,8 @@
     "slugs": [
       "magazin",
       "roketbank"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 238,
@@ -337,7 +354,8 @@
       "bank",
       "finansi",
       "aic"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 237,
@@ -356,7 +374,8 @@
     "slugs": [
       "proizvodstvo",
       "artlebedev"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 236,
@@ -376,6 +395,7 @@
       "media",
       "smi",
       "novosti"
-    ]
+    ],
+    "awards": []
   }
 ]

@@ -15,7 +15,8 @@
     "slugs": [
       "izdanie",
       "novosti"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 511,
@@ -33,7 +34,8 @@
     "slugs": [
       "studiya",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 510,
@@ -53,7 +55,8 @@
       "zdorove",
       "proizvodstvo",
       "redcollar"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 509,
@@ -73,7 +76,8 @@
       "promo",
       "prilozhenie",
       "servis"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 508,
@@ -91,7 +95,8 @@
     "slugs": [
       "izdanie",
       "novosti"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 507,
@@ -111,7 +116,8 @@
       "muzika",
       "meropriyatie",
       "sulliwan"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 506,
@@ -129,7 +135,8 @@
     "slugs": [
       "servis",
       "zdorove"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 505,
@@ -147,7 +154,8 @@
     "slugs": [
       "pamyat",
       "spetsproekt"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 502,
@@ -165,7 +173,8 @@
     "slugs": [
       "meropriyatie",
       "yandeks"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 501,
@@ -183,7 +192,8 @@
     "slugs": [
       "nedvizhimost",
       "advancedteam"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 500,
@@ -203,7 +213,8 @@
       "obrazovanie",
       "zhurnal",
       "yandeks"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 499,
@@ -221,7 +232,8 @@
     "slugs": [
       "spetsproekt",
       "kruzhok"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 498,
@@ -244,7 +256,8 @@
       "dostavka",
       "yuliyazass",
       "tilda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 497,
@@ -264,7 +277,8 @@
       "portfolio",
       "readymag",
       "sulliwan"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 496,
@@ -282,7 +296,8 @@
     "slugs": [
       "nedvizhimost",
       "promo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 495,
@@ -300,7 +315,8 @@
     "slugs": [
       "izdanie",
       "wednesday"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 493,
@@ -316,7 +332,8 @@
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 492,
@@ -336,7 +353,8 @@
       "magazin",
       "proizvodstvo",
       "krasota"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 491,
@@ -352,7 +370,8 @@
     "isRemoved": false,
     "slugs": [
       "media"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 490,
@@ -370,6 +389,7 @@
     "slugs": [
       "yeda",
       "promo"
-    ]
+    ],
+    "awards": []
   }
 ]

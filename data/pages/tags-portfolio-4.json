@@ -16,7 +16,8 @@
     "slugs": [
       "agentstvo",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 233,
@@ -34,7 +35,8 @@
     "slugs": [
       "portfolio",
       "studiya"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 226,
@@ -52,7 +54,8 @@
     "slugs": [
       "agentstvo",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 225,
@@ -70,7 +73,8 @@
     "slugs": [
       "studiya",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 219,
@@ -88,7 +92,8 @@
     "slugs": [
       "agentstvo",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 216,
@@ -106,7 +111,8 @@
     "slugs": [
       "agentstvo",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 211,
@@ -124,7 +130,8 @@
     "slugs": [
       "portfolio",
       "dizain"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 209,
@@ -142,7 +149,8 @@
     "slugs": [
       "agentstvo",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 191,
@@ -160,7 +168,8 @@
     "slugs": [
       "portfolio",
       "dizain"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 188,
@@ -180,7 +189,8 @@
       "studiya",
       "dizain",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 187,
@@ -202,7 +212,8 @@
       "uslugi",
       "portfolio",
       "dizain"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 184,
@@ -225,7 +236,8 @@
       "portfolio",
       "uslugi",
       "agentstvo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 116,
@@ -245,7 +257,8 @@
       "studiya",
       "portfolio",
       "antonandirene"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 107,
@@ -263,7 +276,8 @@
     "slugs": [
       "studiya",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 102,
@@ -281,7 +295,8 @@
     "slugs": [
       "portfolio",
       "studiya"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 63,
@@ -301,6 +316,7 @@
       "agentstvo",
       "portfolio",
       "shchuka"
-    ]
+    ],
+    "awards": []
   }
 ]

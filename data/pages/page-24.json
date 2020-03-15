@@ -17,7 +17,8 @@
       "servis",
       "dostavka",
       "yeda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 193,
@@ -37,7 +38,8 @@
       "uslugi",
       "servis",
       "konstruktor"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 192,
@@ -57,7 +59,8 @@
       "promo",
       "restoran",
       "yeda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 191,
@@ -75,7 +78,8 @@
     "slugs": [
       "portfolio",
       "dizain"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 190,
@@ -95,7 +99,8 @@
       "finansi",
       "uslugi",
       "tekhnologii"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 189,
@@ -115,7 +120,8 @@
       "servis",
       "uslugi",
       "promo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 188,
@@ -135,7 +141,8 @@
       "studiya",
       "dizain",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 187,
@@ -157,7 +164,8 @@
       "uslugi",
       "portfolio",
       "dizain"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 186,
@@ -175,7 +183,8 @@
     "slugs": [
       "finansi",
       "servis"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 185,
@@ -199,7 +208,8 @@
       "odezhda",
       "moda",
       "icrea"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 184,
@@ -222,7 +232,8 @@
       "portfolio",
       "uslugi",
       "agentstvo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 183,
@@ -240,7 +251,8 @@
     "slugs": [
       "media",
       "zhurnal"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 182,
@@ -260,7 +272,8 @@
       "magazin",
       "marketpleis",
       "yandeks"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 181,
@@ -280,7 +293,8 @@
       "servis",
       "uslugi",
       "setka"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 180,
@@ -298,7 +312,8 @@
     "slugs": [
       "magazin",
       "hellobarty"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 179,
@@ -320,7 +335,8 @@
       "obrazovanie",
       "lyudi",
       "the23"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 178,
@@ -338,7 +354,8 @@
     "slugs": [
       "magazin",
       "braind"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 177,
@@ -358,7 +375,8 @@
       "meditsina",
       "zdorove",
       "aic"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 176,
@@ -374,7 +392,8 @@
     "isRemoved": false,
     "slugs": [
       "magazin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 175,
@@ -396,6 +415,7 @@
       "uslugi",
       "razvlecheniya",
       "cloudmill"
-    ]
+    ],
+    "awards": []
   }
 ]

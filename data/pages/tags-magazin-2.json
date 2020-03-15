@@ -17,7 +17,8 @@
       "magazin",
       "proizvodstvo",
       "krasota"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 446,
@@ -37,7 +38,8 @@
       "magazin",
       "proizvodstvo",
       "brainylab"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 443,
@@ -55,7 +57,8 @@
     "slugs": [
       "magazin",
       "nikitavasilevskiy"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 427,
@@ -71,7 +74,8 @@
     "isRemoved": false,
     "slugs": [
       "magazin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 424,
@@ -89,7 +93,8 @@
     "slugs": [
       "avto",
       "magazin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 422,
@@ -109,7 +114,8 @@
       "servis",
       "magazin",
       "max"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 374,
@@ -129,7 +135,8 @@
       "moda",
       "magazin",
       "itsagency"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 373,
@@ -149,7 +156,8 @@
       "magazin",
       "proizvodstvo",
       "greensight"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 371,
@@ -169,7 +177,8 @@
       "moda",
       "odezhda",
       "magazin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 366,
@@ -189,7 +198,8 @@
       "krasota",
       "magazin",
       "loremipsumlab"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 347,
@@ -209,7 +219,8 @@
       "promo",
       "magazin",
       "proizvodstvo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 345,
@@ -229,7 +240,8 @@
       "promo",
       "magazin",
       "aic"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 326,
@@ -247,7 +259,8 @@
     "slugs": [
       "odezhda",
       "magazin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 290,
@@ -267,7 +280,8 @@
       "magazin",
       "dostavka",
       "moda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 279,
@@ -287,7 +301,8 @@
       "magazin",
       "moda",
       "facility"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 278,
@@ -305,7 +320,8 @@
     "slugs": [
       "promo",
       "magazin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 276,
@@ -325,7 +341,8 @@
       "proizvodstvo",
       "moda",
       "magazin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 275,
@@ -345,7 +362,8 @@
       "bank",
       "finansi",
       "magazin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 272,
@@ -363,7 +381,8 @@
     "slugs": [
       "magazin",
       "zhurnal"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 253,
@@ -381,6 +400,7 @@
     "slugs": [
       "magazin",
       "odezhda"
-    ]
+    ],
+    "awards": []
   }
 ]

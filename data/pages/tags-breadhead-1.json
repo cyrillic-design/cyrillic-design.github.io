@@ -15,7 +15,8 @@
     "slugs": [
       "magazin",
       "breadhead"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 391,
@@ -35,7 +36,8 @@
       "servis",
       "zdorove",
       "breadhead"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 83,
@@ -57,6 +59,7 @@
       "dostavka",
       "yeda",
       "breadhead"
-    ]
+    ],
+    "awards": []
   }
 ]

@@ -15,7 +15,8 @@
     "slugs": [
       "servis",
       "gosudarstvo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 315,
@@ -37,7 +38,8 @@
       "dizain",
       "gosudarstvo",
       "sistema"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 169,
@@ -57,7 +59,8 @@
       "gosudarstvo",
       "media",
       "rossiya"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 164,
@@ -79,7 +82,8 @@
       "media",
       "rossiya",
       "labag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 144,
@@ -103,7 +107,8 @@
       "biznes",
       "gosudarstvo",
       "obrazovanie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 119,
@@ -127,7 +132,8 @@
       "lyudi",
       "istoriya",
       "google"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 115,
@@ -149,7 +155,8 @@
       "media",
       "rossiya",
       "labag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 111,
@@ -169,7 +176,8 @@
       "gosudarstvo",
       "uslugi",
       "rossiya"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 92,
@@ -192,7 +200,8 @@
       "strana",
       "rossiya",
       "labag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 85,
@@ -214,6 +223,7 @@
       "strana",
       "lyudi",
       "shvetsiya"
-    ]
+    ],
+    "awards": []
   }
 ]

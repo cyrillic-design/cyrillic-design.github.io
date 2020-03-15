@@ -19,7 +19,8 @@
       "kultura",
       "readymag",
       "anastasiyaburyakova"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 686,
@@ -37,7 +38,8 @@
     "slugs": [
       "portfolio",
       "readymag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 683,
@@ -60,7 +62,8 @@
       "promo",
       "meropriyatie",
       "readymag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 676,
@@ -81,11 +84,13 @@
       "obrazovanie",
       "meropriyatie",
       "readymag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 667,
     "title": "Книги у моря — Петербургский книжный фестиваль",
+    "caption": "Книги у моря — Петербургский книжный фестиваль\nhttp://booksandsea.ru/\n\n☆ #мероприятие #readymag #aidapacheva",
     "image": "data/images/667.jpg",
     "tags": [
       "мероприятие",
@@ -94,14 +99,15 @@
     ],
     "url": "http://booksandsea.ru/",
     "date": 1582642963,
-    "edit_date": 1583183700,
+    "edit_date": 1584296862,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
       "meropriyatie",
       "readymag",
       "aidapacheva"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 664,
@@ -119,7 +125,8 @@
     "slugs": [
       "promo",
       "readymag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 663,
@@ -139,7 +146,8 @@
       "spetsproekt",
       "readymag",
       "tatyanaegoshina"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 658,
@@ -162,7 +170,8 @@
       "muzika",
       "readymag",
       "zholud"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 657,
@@ -184,7 +193,8 @@
       "readymag",
       "alanalikov",
       "sashakats"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 656,
@@ -204,7 +214,8 @@
       "muzika",
       "readymag",
       "artemlepilin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 638,
@@ -224,7 +235,8 @@
       "podkast",
       "promo",
       "readymag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 618,
@@ -244,7 +256,8 @@
       "spetsproekt",
       "readymag",
       "azbukaattikus"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 611,
@@ -266,7 +279,8 @@
       "readymag",
       "garage",
       "vasiliipodryadchikov"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 578,
@@ -286,7 +300,8 @@
       "spetsproekt",
       "readymag",
       "takiedela"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 575,
@@ -306,7 +321,8 @@
       "spetsproekt",
       "readymag",
       "lisitskii"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 560,
@@ -331,7 +347,8 @@
       "spetsproekt",
       "readymag",
       "aic"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 497,
@@ -351,7 +368,8 @@
       "portfolio",
       "readymag",
       "sulliwan"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 475,
@@ -371,7 +389,8 @@
       "istoriya",
       "readymag",
       "dashapochekueva"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 473,
@@ -393,7 +412,8 @@
       "dizain",
       "readymag",
       "antonbalakin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 421,
@@ -411,6 +431,7 @@
     "slugs": [
       "promo",
       "readymag"
-    ]
+    ],
+    "awards": []
   }
 ]

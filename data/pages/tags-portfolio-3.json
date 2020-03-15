@@ -15,7 +15,8 @@
     "slugs": [
       "agentstvo",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 393,
@@ -33,7 +34,8 @@
     "slugs": [
       "studiya",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 386,
@@ -53,7 +55,8 @@
       "muzika",
       "portfolio",
       "sk41"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 383,
@@ -71,7 +74,8 @@
     "slugs": [
       "agentstvo",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 372,
@@ -89,7 +93,8 @@
     "slugs": [
       "agentstvo",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 367,
@@ -107,7 +112,8 @@
     "slugs": [
       "studiya",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 359,
@@ -125,7 +131,8 @@
     "slugs": [
       "portfolio",
       "dropbox"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 357,
@@ -141,7 +148,8 @@
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 339,
@@ -157,7 +165,8 @@
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 306,
@@ -175,7 +184,8 @@
     "slugs": [
       "studiya",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 298,
@@ -193,7 +203,8 @@
     "slugs": [
       "agentstvo",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 292,
@@ -211,7 +222,8 @@
     "slugs": [
       "agentstvo",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 291,
@@ -232,7 +244,8 @@
       "agentstvo",
       "dizain",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 280,
@@ -250,7 +263,8 @@
     "slugs": [
       "studiya",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 269,
@@ -266,7 +280,8 @@
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 266,
@@ -284,7 +299,8 @@
     "slugs": [
       "agentstvo",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 252,
@@ -302,7 +318,8 @@
     "slugs": [
       "studiya",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 248,
@@ -320,7 +337,8 @@
     "slugs": [
       "studiya",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 245,
@@ -338,7 +356,8 @@
     "slugs": [
       "agentstvo",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 241,
@@ -358,6 +377,7 @@
       "studiya",
       "dizain",
       "portfolio"
-    ]
+    ],
+    "awards": []
   }
 ]

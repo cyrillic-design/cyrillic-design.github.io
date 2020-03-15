@@ -13,7 +13,8 @@
     "isRemoved": false,
     "slugs": [
       "obrazovanie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 355,
@@ -33,7 +34,8 @@
       "obrazovanie",
       "garage",
       "readymag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 351,
@@ -51,7 +53,8 @@
     "slugs": [
       "obrazovanie",
       "kosmos"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 325,
@@ -71,7 +74,8 @@
       "konkurs",
       "obrazovanie",
       "google"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 323,
@@ -91,7 +95,8 @@
       "update",
       "obrazovanie",
       "cherepukhin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 318,
@@ -109,7 +114,8 @@
     "slugs": [
       "obrazovanie",
       "whiterussianstudio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 308,
@@ -127,7 +133,8 @@
     "slugs": [
       "spetsproekt",
       "obrazovanie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 302,
@@ -149,7 +156,8 @@
       "servis",
       "nauka",
       "artlebedev"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 295,
@@ -171,7 +179,8 @@
       "finansi",
       "bank",
       "tinkoff"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 293,
@@ -189,7 +198,8 @@
     "slugs": [
       "obrazovanie",
       "wonderwork"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 289,
@@ -207,7 +217,8 @@
     "slugs": [
       "meropriyatie",
       "obrazovanie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 270,
@@ -225,7 +236,8 @@
     "slugs": [
       "zhurnal",
       "obrazovanie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 267,
@@ -243,7 +255,8 @@
     "slugs": [
       "spetsproekt",
       "obrazovanie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 256,
@@ -259,7 +272,8 @@
     "isRemoved": false,
     "slugs": [
       "obrazovanie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 250,
@@ -277,7 +291,8 @@
     "slugs": [
       "obrazovanie",
       "spiilka"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 231,
@@ -295,7 +310,8 @@
     "slugs": [
       "obrazovanie",
       "sulliwan"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 229,
@@ -315,7 +331,8 @@
       "obrazovanie",
       "dizain",
       "bangbangeducation"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 228,
@@ -336,7 +353,8 @@
       "obrazovanie",
       "lyudi",
       "biznes"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 207,
@@ -356,7 +374,8 @@
       "obrazovanie",
       "dizain",
       "masterskaya"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 179,
@@ -378,6 +397,7 @@
       "obrazovanie",
       "lyudi",
       "the23"
-    ]
+    ],
+    "awards": []
   }
 ]

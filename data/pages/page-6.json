@@ -13,7 +13,8 @@
     "isRemoved": false,
     "slugs": [
       "meropriyatie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 575,
@@ -33,7 +34,8 @@
       "spetsproekt",
       "readymag",
       "lisitskii"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 574,
@@ -51,7 +53,8 @@
     "slugs": [
       "magazin",
       "breadhead"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 573,
@@ -71,7 +74,8 @@
       "blog",
       "finansi",
       "bank"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 572,
@@ -91,7 +95,8 @@
       "servis",
       "yeda",
       "dostavka"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 571,
@@ -107,7 +112,8 @@
     "isRemoved": false,
     "slugs": [
       "promo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 570,
@@ -127,7 +133,8 @@
       "magazin",
       "roky",
       "orientir"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 569,
@@ -143,7 +150,8 @@
     "isRemoved": false,
     "slugs": [
       "servis"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 568,
@@ -159,7 +167,8 @@
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 567,
@@ -175,7 +184,8 @@
     "isRemoved": false,
     "slugs": [
       "keynetstudio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 566,
@@ -195,7 +205,8 @@
       "muzika",
       "lyudi",
       "staspolyakov"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 565,
@@ -213,7 +224,8 @@
     "slugs": [
       "spetsproekt",
       "kruzhok"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 564,
@@ -231,7 +243,8 @@
     "slugs": [
       "portfolio",
       "whiterussianstudio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 563,
@@ -249,7 +262,8 @@
     "slugs": [
       "izdanie",
       "charmer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 562,
@@ -267,7 +281,8 @@
     "slugs": [
       "portfolio",
       "zaglushka"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 561,
@@ -286,7 +301,8 @@
     "slugs": [
       "spetsproekt",
       "ria"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 560,
@@ -311,7 +327,8 @@
       "spetsproekt",
       "readymag",
       "aic"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 559,
@@ -329,7 +346,8 @@
     "slugs": [
       "obrazovanie",
       "crevv"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 558,
@@ -345,7 +363,8 @@
     "isRemoved": false,
     "slugs": [
       "spetsproekt"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 557,
@@ -364,6 +383,7 @@
     "slugs": [
       "promo",
       "whiterussianstudio"
-    ]
+    ],
+    "awards": []
   }
 ]

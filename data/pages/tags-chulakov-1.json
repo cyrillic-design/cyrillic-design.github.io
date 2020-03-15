@@ -15,7 +15,8 @@
     "slugs": [
       "servis",
       "chulakov"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 434,
@@ -33,7 +34,8 @@
     "slugs": [
       "promo",
       "chulakov"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 417,
@@ -51,7 +53,8 @@
     "slugs": [
       "servis",
       "chulakov"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 264,
@@ -69,7 +72,8 @@
     "slugs": [
       "nedvizhimost",
       "chulakov"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 257,
@@ -89,7 +93,8 @@
       "sport",
       "meropriyatie",
       "chulakov"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 208,
@@ -109,6 +114,7 @@
       "finansi",
       "bank",
       "chulakov"
-    ]
+    ],
+    "awards": []
   }
 ]

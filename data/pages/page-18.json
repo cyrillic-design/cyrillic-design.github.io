@@ -17,7 +17,8 @@
       "it",
       "novosti",
       "skdo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 315,
@@ -39,7 +40,8 @@
       "dizain",
       "gosudarstvo",
       "sistema"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 314,
@@ -59,7 +61,8 @@
       "servis",
       "blog",
       "sotsialnieseti"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 313,
@@ -79,7 +82,8 @@
       "dizain",
       "brending",
       "fedoriv"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 312,
@@ -103,7 +107,8 @@
       "iskusstvo",
       "lentaru",
       "tretyakovskayagalereya"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 311,
@@ -123,7 +128,8 @@
       "novosti",
       "politika",
       "biznes"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 310,
@@ -143,7 +149,8 @@
       "soobshchestvo",
       "lyudi",
       "kultura"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 309,
@@ -163,7 +170,8 @@
       "zhurnal",
       "muzika",
       "dizain"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 308,
@@ -181,7 +189,8 @@
     "slugs": [
       "spetsproekt",
       "obrazovanie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 307,
@@ -199,7 +208,8 @@
     "slugs": [
       "promo",
       "proizvodstvo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 306,
@@ -217,7 +227,8 @@
     "slugs": [
       "studiya",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 305,
@@ -235,7 +246,8 @@
     "slugs": [
       "provaider",
       "skdo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 304,
@@ -257,7 +269,8 @@
       "pamyat",
       "garazh",
       "promo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 303,
@@ -275,7 +288,8 @@
     "slugs": [
       "servis",
       "biznes"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 302,
@@ -297,7 +311,8 @@
       "servis",
       "nauka",
       "artlebedev"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 301,
@@ -321,7 +336,8 @@
       "servis",
       "finansi",
       "biznes"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 300,
@@ -339,7 +355,8 @@
     "slugs": [
       "servis",
       "dostavka"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 299,
@@ -357,7 +374,8 @@
     "slugs": [
       "promo",
       "whiterussianstudio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 298,
@@ -375,7 +393,8 @@
     "slugs": [
       "agentstvo",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 297,
@@ -393,6 +412,7 @@
     "slugs": [
       "spetsproekt",
       "batenkadavitransformer"
-    ]
+    ],
+    "awards": []
   }
 ]

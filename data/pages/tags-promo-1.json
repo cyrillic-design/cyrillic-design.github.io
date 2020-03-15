@@ -19,7 +19,8 @@
       "servis",
       "promo",
       "yandeks"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 683,
@@ -42,7 +43,8 @@
       "promo",
       "meropriyatie",
       "readymag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 681,
@@ -67,7 +69,8 @@
       "bank",
       "bks",
       "kukhnyanaraione"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 680,
@@ -88,7 +91,8 @@
       "trendi",
       "promo",
       "mikhailverbitskii"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 678,
@@ -109,7 +113,8 @@
       "nedvizhimost",
       "promo",
       "videinfra"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 664,
@@ -127,7 +132,8 @@
     "slugs": [
       "promo",
       "readymag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 662,
@@ -148,7 +154,8 @@
       "tv",
       "promo",
       "whiterussianstudio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 661,
@@ -170,7 +177,8 @@
       "promo",
       "buking",
       "videinfra"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 659,
@@ -190,7 +198,8 @@
       "nedvizhimost",
       "promo",
       "whitemark"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 653,
@@ -210,7 +219,8 @@
       "uslugi",
       "promo",
       "only"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 648,
@@ -230,7 +240,8 @@
       "spetsproekt",
       "promo",
       "obrazovanie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 647,
@@ -252,7 +263,8 @@
       "bank",
       "promo",
       "roketbank"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 645,
@@ -272,7 +284,8 @@
       "promo",
       "nedvizhimost",
       "art3d"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 642,
@@ -292,7 +305,8 @@
       "podkast",
       "promo",
       "tilda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 640,
@@ -314,7 +328,8 @@
       "uslugi",
       "tilda",
       "personagency"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 638,
@@ -334,7 +349,8 @@
       "podkast",
       "promo",
       "readymag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 631,
@@ -352,7 +368,8 @@
     "slugs": [
       "promo",
       "magazin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 630,
@@ -372,7 +389,8 @@
       "promo",
       "portfolio",
       "voskhoddigital"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 629,
@@ -394,7 +412,8 @@
       "lyudi",
       "promo",
       "voskhoddigital"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 623,
@@ -416,6 +435,7 @@
       "nedvizhimost",
       "yekaterinamoroshilova",
       "videinfra"
-    ]
+    ],
+    "awards": []
   }
 ]

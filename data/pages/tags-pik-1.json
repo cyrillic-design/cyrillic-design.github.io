@@ -15,7 +15,8 @@
     "slugs": [
       "zhurnal",
       "pik"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 59,
@@ -33,6 +34,7 @@
     "slugs": [
       "nedvizhimost",
       "pik"
-    ]
+    ],
+    "awards": []
   }
 ]

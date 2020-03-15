@@ -17,7 +17,8 @@
       "finansi",
       "bank",
       "chulakov"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 190,
@@ -37,7 +38,8 @@
       "finansi",
       "uslugi",
       "tekhnologii"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 186,
@@ -55,7 +57,8 @@
     "slugs": [
       "finansi",
       "servis"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 174,
@@ -75,7 +78,8 @@
       "bank",
       "finansi",
       "aic"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 171,
@@ -97,7 +101,8 @@
       "biznes",
       "finansi",
       "sibiriks"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 163,
@@ -115,7 +120,8 @@
     "slugs": [
       "bank",
       "finansi"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 161,
@@ -136,7 +142,8 @@
       "nedvizhimost",
       "finansi",
       "promo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 158,
@@ -156,7 +163,8 @@
       "nedvizhimost",
       "finansi",
       "aic"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 156,
@@ -178,7 +186,8 @@
       "bank",
       "finansi",
       "readymag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 148,
@@ -202,7 +211,8 @@
       "biznes",
       "finansi",
       "charmer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 145,
@@ -220,7 +230,8 @@
     "slugs": [
       "finansi",
       "bank"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 99,
@@ -240,7 +251,8 @@
       "finansi",
       "zhurnal",
       "media"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 88,
@@ -260,7 +272,8 @@
       "bank",
       "finansi",
       "aic"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 84,
@@ -278,6 +291,7 @@
     "slugs": [
       "bank",
       "finansi"
-    ]
+    ],
+    "awards": []
   }
 ]

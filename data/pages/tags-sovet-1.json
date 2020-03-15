@@ -15,7 +15,8 @@
     "slugs": [
       "spetsproekt",
       "sovet"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 547,
@@ -33,7 +34,8 @@
     "slugs": [
       "meropriyatie",
       "sovet"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 535,
@@ -51,6 +53,7 @@
     "slugs": [
       "promo",
       "sovet"
-    ]
+    ],
+    "awards": []
   }
 ]

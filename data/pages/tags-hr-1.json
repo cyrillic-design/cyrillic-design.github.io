@@ -15,7 +15,8 @@
     "slugs": [
       "hr",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 455,
@@ -31,6 +32,7 @@
     "isRemoved": false,
     "slugs": [
       "hr"
-    ]
+    ],
+    "awards": []
   }
 ]

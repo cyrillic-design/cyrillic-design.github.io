@@ -17,7 +17,8 @@
       "uslugi",
       "provaider",
       "apusagency"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 305,
@@ -35,7 +36,8 @@
     "slugs": [
       "provaider",
       "skdo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 281,
@@ -55,7 +57,8 @@
       "provaider",
       "uslugi",
       "house"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 139,
@@ -73,7 +76,8 @@
     "slugs": [
       "provaider",
       "uslugi"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 120,
@@ -95,6 +99,7 @@
       "provaider",
       "uslugi",
       "ony"
-    ]
+    ],
+    "awards": []
   }
 ]

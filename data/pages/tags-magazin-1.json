@@ -19,7 +19,8 @@
       "magazin",
       "iskusstvo",
       "redo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 672,
@@ -38,7 +39,8 @@
     "slugs": [
       "magazin",
       "dostavka"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 649,
@@ -56,7 +58,8 @@
     "slugs": [
       "magazin",
       "thepromotion"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 631,
@@ -74,7 +77,8 @@
     "slugs": [
       "promo",
       "magazin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 622,
@@ -92,7 +96,8 @@
     "slugs": [
       "magazin",
       "promo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 587,
@@ -112,7 +117,8 @@
       "magazin",
       "portfolio",
       "designworkout"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 583,
@@ -128,7 +134,8 @@
     "isRemoved": false,
     "slugs": [
       "magazin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 581,
@@ -146,7 +153,8 @@
     "slugs": [
       "magazin",
       "facultative"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 580,
@@ -167,7 +175,8 @@
       "magazin",
       "servis",
       "artlebedev"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 579,
@@ -183,7 +192,8 @@
     "isRemoved": false,
     "slugs": [
       "magazin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 574,
@@ -201,7 +211,8 @@
     "slugs": [
       "magazin",
       "breadhead"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 570,
@@ -221,7 +232,8 @@
       "magazin",
       "roky",
       "orientir"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 556,
@@ -241,7 +253,8 @@
       "proizvodstvo",
       "magazin",
       "aiwin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 554,
@@ -261,7 +274,8 @@
       "magazin",
       "krasota",
       "moda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 531,
@@ -279,7 +293,8 @@
     "slugs": [
       "odezhda",
       "magazin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 528,
@@ -299,7 +314,8 @@
       "magazin",
       "dostavka",
       "servis"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 518,
@@ -317,7 +333,8 @@
     "slugs": [
       "magazin",
       "yarmarka"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 517,
@@ -335,7 +352,8 @@
     "slugs": [
       "proizvodstvo",
       "magazin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 516,
@@ -355,7 +373,8 @@
       "magazin",
       "proizvodstvo",
       "max"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 498,
@@ -378,6 +397,7 @@
       "dostavka",
       "yuliyazass",
       "tilda"
-    ]
+    ],
+    "awards": []
   }
 ]

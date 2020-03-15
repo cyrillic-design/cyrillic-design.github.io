@@ -13,7 +13,8 @@
     "isRemoved": false,
     "slugs": [
       "servis"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 533,
@@ -31,7 +32,8 @@
     "slugs": [
       "vr",
       "religiya"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 532,
@@ -51,7 +53,8 @@
       "servis",
       "zaglushka",
       "prilozhenie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 531,
@@ -69,7 +72,8 @@
     "slugs": [
       "odezhda",
       "magazin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 530,
@@ -85,7 +89,8 @@
     "isRemoved": false,
     "slugs": [
       "servis"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 529,
@@ -107,7 +112,8 @@
       "promo",
       "moda",
       "zaglushka"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 528,
@@ -127,7 +133,8 @@
       "magazin",
       "dostavka",
       "servis"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 527,
@@ -147,7 +154,8 @@
       "proizvodstvo",
       "promo",
       "servis"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 526,
@@ -165,7 +173,8 @@
     "slugs": [
       "proizvodstvo",
       "studiyaevgeniyayarovogo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 525,
@@ -183,7 +192,8 @@
     "slugs": [
       "portfolio",
       "sever"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 524,
@@ -201,7 +211,8 @@
     "slugs": [
       "meropriyatie",
       "paratype"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 523,
@@ -217,7 +228,8 @@
     "isRemoved": false,
     "slugs": [
       "meropriyatie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 522,
@@ -233,7 +245,8 @@
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 521,
@@ -251,7 +264,8 @@
     "slugs": [
       "zhurnal",
       "muzika"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 518,
@@ -269,7 +283,8 @@
     "slugs": [
       "magazin",
       "yarmarka"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 517,
@@ -287,7 +302,8 @@
     "slugs": [
       "proizvodstvo",
       "magazin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 516,
@@ -307,7 +323,8 @@
       "magazin",
       "proizvodstvo",
       "max"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 515,
@@ -327,7 +344,8 @@
       "proizvodstvo",
       "kholding",
       "meik"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 514,
@@ -349,7 +367,8 @@
       "spetsproekt",
       "belarus",
       "alekseicherenkevich"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 513,
@@ -367,6 +386,7 @@
     "slugs": [
       "zhurnal",
       "pik"
-    ]
+    ],
+    "awards": []
   }
 ]

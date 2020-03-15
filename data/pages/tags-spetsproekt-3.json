@@ -19,7 +19,8 @@
       "podkast",
       "glagolevfm",
       "memorial"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 375,
@@ -39,7 +40,8 @@
       "muzika",
       "spetsproekt",
       "cherenkevich"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 369,
@@ -57,7 +59,8 @@
     "slugs": [
       "spetsproekt",
       "istoriya"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 368,
@@ -77,7 +80,8 @@
       "iskusstvo",
       "spetsproekt",
       "artlebedev"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 358,
@@ -97,7 +101,8 @@
       "spetsproekt",
       "takiedela",
       "bookmate"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 349,
@@ -117,7 +122,8 @@
       "otchet",
       "spetsproekt",
       "sergeiandronov"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 343,
@@ -139,7 +145,8 @@
       "kultura",
       "lyudi",
       "sberbank"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 337,
@@ -157,7 +164,8 @@
     "slugs": [
       "spetsproekt",
       "lentaru"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 328,
@@ -177,7 +185,8 @@
       "zhurnal",
       "spetsproekt",
       "politika"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 320,
@@ -199,7 +208,8 @@
       "iskusstvo",
       "yevreiskiimuzei",
       "readymag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 317,
@@ -217,7 +227,8 @@
     "slugs": [
       "spetsproekt",
       "lentaru"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 312,
@@ -241,7 +252,8 @@
       "iskusstvo",
       "lentaru",
       "tretyakovskayagalereya"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 308,
@@ -259,7 +271,8 @@
     "slugs": [
       "spetsproekt",
       "obrazovanie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 297,
@@ -277,7 +290,8 @@
     "slugs": [
       "spetsproekt",
       "batenkadavitransformer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 282,
@@ -295,7 +309,8 @@
     "slugs": [
       "spetsproekt",
       "batenkadavitransformer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 268,
@@ -315,7 +330,8 @@
       "spetsproekt",
       "istoriya",
       "muzika"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 267,
@@ -333,7 +349,8 @@
     "slugs": [
       "spetsproekt",
       "obrazovanie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 263,
@@ -354,7 +371,8 @@
       "spetsproekt",
       "zhurnalshrift",
       "readymag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 259,
@@ -372,7 +390,8 @@
     "slugs": [
       "spetsproekt",
       "batenkadavitransformer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 251,
@@ -390,6 +409,7 @@
     "slugs": [
       "spetsproekt",
       "batenkadavitransformer"
-    ]
+    ],
+    "awards": []
   }
 ]

@@ -19,7 +19,8 @@
       "magazin",
       "iskusstvo",
       "redo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 632,
@@ -40,7 +41,8 @@
       "media",
       "iskusstvo",
       "meropriyatie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 626,
@@ -56,7 +58,8 @@
     "isRemoved": false,
     "slugs": [
       "iskusstvo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 560,
@@ -81,7 +84,8 @@
       "spetsproekt",
       "readymag",
       "aic"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 380,
@@ -103,7 +107,8 @@
       "iskusstvo",
       "kino",
       "charmer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 368,
@@ -123,7 +128,8 @@
       "iskusstvo",
       "spetsproekt",
       "artlebedev"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 321,
@@ -143,7 +149,8 @@
       "iskusstvo",
       "lyudi",
       "meropriyatie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 320,
@@ -165,7 +172,8 @@
       "iskusstvo",
       "yevreiskiimuzei",
       "readymag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 312,
@@ -189,7 +197,8 @@
       "iskusstvo",
       "lentaru",
       "tretyakovskayagalereya"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 160,
@@ -207,7 +216,8 @@
     "slugs": [
       "izdanie",
       "iskusstvo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 142,
@@ -227,6 +237,7 @@
       "kultura",
       "iskusstvo",
       "ony"
-    ]
+    ],
+    "awards": []
   }
 ]

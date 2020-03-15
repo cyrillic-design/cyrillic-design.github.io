@@ -19,7 +19,8 @@
       "media",
       "zhurnal",
       "charmer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 594,
@@ -39,7 +40,8 @@
       "novosti",
       "smi",
       "charmer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 563,
@@ -57,7 +59,8 @@
     "slugs": [
       "izdanie",
       "charmer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 380,
@@ -79,7 +82,8 @@
       "iskusstvo",
       "kino",
       "charmer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 271,
@@ -98,7 +102,8 @@
     "slugs": [
       "igra",
       "charmer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 157,
@@ -118,7 +123,8 @@
       "kultura",
       "teatr",
       "charmer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 148,
@@ -142,7 +148,8 @@
       "biznes",
       "finansi",
       "charmer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 136,
@@ -162,7 +169,8 @@
       "obrazovanie",
       "kultura",
       "charmer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 130,
@@ -182,7 +190,8 @@
       "media",
       "novosti",
       "charmer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 121,
@@ -204,7 +213,8 @@
       "media",
       "kultura",
       "charmer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 117,
@@ -225,7 +235,8 @@
       "media",
       "blagotvoritelnost",
       "charmer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 90,
@@ -247,7 +258,8 @@
       "fond",
       "lyudi",
       "charmer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 60,
@@ -267,6 +279,7 @@
       "kultura",
       "muzei",
       "charmer"
-    ]
+    ],
+    "awards": []
   }
 ]

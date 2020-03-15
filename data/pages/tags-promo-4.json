@@ -17,7 +17,8 @@
       "gorod",
       "promo",
       "the23"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 312,
@@ -41,7 +42,8 @@
       "iskusstvo",
       "lentaru",
       "tretyakovskayagalereya"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 307,
@@ -59,7 +61,8 @@
     "slugs": [
       "promo",
       "proizvodstvo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 304,
@@ -81,7 +84,8 @@
       "pamyat",
       "garazh",
       "promo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 299,
@@ -99,7 +103,8 @@
     "slugs": [
       "promo",
       "whiterussianstudio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 278,
@@ -117,7 +122,8 @@
     "slugs": [
       "promo",
       "magazin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 274,
@@ -135,7 +141,8 @@
     "slugs": [
       "promo",
       "proizvodstvo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 265,
@@ -155,7 +162,8 @@
       "promo",
       "uslugi",
       "redcollar"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 240,
@@ -175,7 +183,8 @@
       "nedvizhimost",
       "promo",
       "bquadro"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 227,
@@ -193,7 +202,8 @@
     "slugs": [
       "promo",
       "kinopoisk"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 221,
@@ -213,7 +223,8 @@
       "proizvodstvo",
       "promo",
       "xdesign"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 217,
@@ -233,7 +244,8 @@
       "proizvodstvo",
       "promo",
       "chipsa"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 214,
@@ -253,7 +265,8 @@
       "muzika",
       "festival",
       "promo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 205,
@@ -273,7 +286,8 @@
       "nedvizhimost",
       "promo",
       "its"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 200,
@@ -293,7 +307,8 @@
       "yeda",
       "promo",
       "zero"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 197,
@@ -315,7 +330,8 @@
       "promo",
       "lyudi",
       "mustapp"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 192,
@@ -335,7 +351,8 @@
       "promo",
       "restoran",
       "yeda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 189,
@@ -355,7 +372,8 @@
       "servis",
       "uslugi",
       "promo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 167,
@@ -375,7 +393,8 @@
       "servis",
       "uslugi",
       "promo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 161,
@@ -396,6 +415,7 @@
       "nedvizhimost",
       "finansi",
       "promo"
-    ]
+    ],
+    "awards": []
   }
 ]

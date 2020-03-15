@@ -17,7 +17,8 @@
       "finansi",
       "biznes",
       "servis"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 220,
@@ -37,7 +38,8 @@
       "finansi",
       "servis",
       "bks"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 218,
@@ -57,7 +59,8 @@
       "nedvizhimost",
       "servis",
       "sberbank"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 202,
@@ -73,7 +76,8 @@
     "isRemoved": false,
     "slugs": [
       "servis"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 199,
@@ -89,7 +93,8 @@
     "isRemoved": false,
     "slugs": [
       "servis"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 195,
@@ -109,7 +114,8 @@
       "servis",
       "dostavka",
       "yeda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 193,
@@ -129,7 +135,8 @@
       "uslugi",
       "servis",
       "konstruktor"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 189,
@@ -149,7 +156,8 @@
       "servis",
       "uslugi",
       "promo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 186,
@@ -167,7 +175,8 @@
     "slugs": [
       "finansi",
       "servis"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 181,
@@ -187,7 +196,8 @@
       "servis",
       "uslugi",
       "setka"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 167,
@@ -207,7 +217,8 @@
       "servis",
       "uslugi",
       "promo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 147,
@@ -227,7 +238,8 @@
       "uslugi",
       "servis",
       "puteshestviya"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 143,
@@ -245,7 +257,8 @@
     "slugs": [
       "uslugi",
       "servis"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 137,
@@ -263,7 +276,8 @@
     "slugs": [
       "obrazovanie",
       "servis"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 101,
@@ -283,6 +297,7 @@
       "servis",
       "doskaobyavlenii",
       "mailru"
-    ]
+    ],
+    "awards": []
   }
 ]

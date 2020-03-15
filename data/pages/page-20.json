@@ -17,7 +17,8 @@
       "proizvodstvo",
       "moda",
       "magazin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 275,
@@ -37,7 +38,8 @@
       "bank",
       "finansi",
       "magazin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 274,
@@ -55,7 +57,8 @@
     "slugs": [
       "promo",
       "proizvodstvo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 272,
@@ -73,7 +76,8 @@
     "slugs": [
       "magazin",
       "zhurnal"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 271,
@@ -92,7 +96,8 @@
     "slugs": [
       "igra",
       "charmer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 270,
@@ -110,7 +115,8 @@
     "slugs": [
       "zhurnal",
       "obrazovanie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 269,
@@ -126,7 +132,8 @@
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 268,
@@ -146,7 +153,8 @@
       "spetsproekt",
       "istoriya",
       "muzika"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 267,
@@ -164,7 +172,8 @@
     "slugs": [
       "spetsproekt",
       "obrazovanie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 266,
@@ -182,7 +191,8 @@
     "slugs": [
       "agentstvo",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 265,
@@ -202,7 +212,8 @@
       "promo",
       "uslugi",
       "redcollar"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 264,
@@ -220,7 +231,8 @@
     "slugs": [
       "nedvizhimost",
       "chulakov"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 263,
@@ -241,7 +253,8 @@
       "spetsproekt",
       "zhurnalshrift",
       "readymag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 262,
@@ -263,7 +276,8 @@
       "zhurnal",
       "dizain",
       "the23"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 261,
@@ -283,7 +297,8 @@
       "soprt",
       "istoriya",
       "megafon"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 260,
@@ -303,7 +318,8 @@
       "proizvodstvo",
       "moda",
       "xdesign"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 259,
@@ -321,7 +337,8 @@
     "slugs": [
       "spetsproekt",
       "batenkadavitransformer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 258,
@@ -339,7 +356,8 @@
     "slugs": [
       "servis",
       "dizain"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 257,
@@ -359,7 +377,8 @@
       "sport",
       "meropriyatie",
       "chulakov"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 256,
@@ -375,6 +394,7 @@
     "isRemoved": false,
     "slugs": [
       "obrazovanie"
-    ]
+    ],
+    "awards": []
   }
 ]

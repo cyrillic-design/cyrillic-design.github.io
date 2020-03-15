@@ -19,7 +19,8 @@
       "arenda",
       "uslugi",
       "genue"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 59,
@@ -37,6 +38,7 @@
     "slugs": [
       "nedvizhimost",
       "pik"
-    ]
+    ],
+    "awards": []
   }
 ]

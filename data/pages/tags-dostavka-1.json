@@ -16,7 +16,8 @@
     "slugs": [
       "magazin",
       "dostavka"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 635,
@@ -34,7 +35,8 @@
     "slugs": [
       "servis",
       "dostavka"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 572,
@@ -54,7 +56,8 @@
       "servis",
       "yeda",
       "dostavka"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 528,
@@ -74,7 +77,8 @@
       "magazin",
       "dostavka",
       "servis"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 498,
@@ -97,7 +101,8 @@
       "dostavka",
       "yuliyazass",
       "tilda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 488,
@@ -115,7 +120,8 @@
     "slugs": [
       "dostavka",
       "yeda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 472,
@@ -133,7 +139,8 @@
     "slugs": [
       "dostavka",
       "yeda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 433,
@@ -153,7 +160,8 @@
       "servis",
       "dostavka",
       "max"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 352,
@@ -173,7 +181,8 @@
       "yeda",
       "dostavka",
       "adndigitalstudio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 344,
@@ -193,7 +202,8 @@
       "dostavka",
       "yeda",
       "kilo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 334,
@@ -213,7 +223,8 @@
       "servis",
       "dostavka",
       "yeda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 324,
@@ -231,7 +242,8 @@
     "slugs": [
       "yeda",
       "dostavka"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 300,
@@ -249,7 +261,8 @@
     "slugs": [
       "servis",
       "dostavka"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 294,
@@ -267,7 +280,8 @@
     "slugs": [
       "dostavka",
       "yandeks"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 290,
@@ -287,7 +301,8 @@
       "magazin",
       "dostavka",
       "moda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 288,
@@ -307,7 +322,8 @@
       "servis",
       "dostavka",
       "zdorove"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 195,
@@ -327,7 +343,8 @@
       "servis",
       "dostavka",
       "yeda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 170,
@@ -345,7 +362,8 @@
     "slugs": [
       "magazin",
       "dostavka"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 168,
@@ -365,7 +383,8 @@
       "magazin",
       "dostavka",
       "aic"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 114,
@@ -383,6 +402,7 @@
     "slugs": [
       "dostavka",
       "yeda"
-    ]
+    ],
+    "awards": []
   }
 ]

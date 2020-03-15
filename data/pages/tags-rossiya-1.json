@@ -17,7 +17,8 @@
       "gosudarstvo",
       "media",
       "rossiya"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 164,
@@ -39,7 +40,8 @@
       "media",
       "rossiya",
       "labag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 115,
@@ -61,7 +63,8 @@
       "media",
       "rossiya",
       "labag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 111,
@@ -81,7 +84,8 @@
       "gosudarstvo",
       "uslugi",
       "rossiya"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 92,
@@ -104,6 +108,7 @@
       "strana",
       "rossiya",
       "labag"
-    ]
+    ],
+    "awards": []
   }
 ]

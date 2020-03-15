@@ -17,7 +17,8 @@
       "soobshchestvo",
       "lyudi",
       "kultura"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 244,
@@ -35,7 +36,8 @@
     "slugs": [
       "servis",
       "soobshchestvo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 109,
@@ -57,6 +59,7 @@
       "media",
       "obrazovanie",
       "kultura"
-    ]
+    ],
+    "awards": []
   }
 ]

@@ -17,7 +17,8 @@
       "spetsproekt",
       "lyudi",
       "kruzhok"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 565,
@@ -35,7 +36,8 @@
     "slugs": [
       "spetsproekt",
       "kruzhok"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 499,
@@ -53,7 +55,8 @@
     "slugs": [
       "spetsproekt",
       "kruzhok"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 462,
@@ -71,7 +74,8 @@
     "slugs": [
       "gorod",
       "kruzhok"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 413,
@@ -92,7 +96,8 @@
       "spetsproekt",
       "lyudi",
       "kruzhok"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 363,
@@ -112,7 +117,8 @@
       "promo",
       "meropriyatie",
       "kruzhok"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 348,
@@ -132,7 +138,8 @@
       "gorod",
       "lyudi",
       "kruzhok"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 113,
@@ -152,6 +159,7 @@
       "promo",
       "obrazovanie",
       "kruzhok"
-    ]
+    ],
+    "awards": []
   }
 ]

@@ -19,7 +19,8 @@
       "lyudi",
       "pomoshch",
       "sulliwan"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 478,
@@ -39,7 +40,8 @@
       "pomoshch",
       "uslugi",
       "verks"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 319,
@@ -59,6 +61,7 @@
       "lyudi",
       "pomoshch",
       "airbnb"
-    ]
+    ],
+    "awards": []
   }
 ]

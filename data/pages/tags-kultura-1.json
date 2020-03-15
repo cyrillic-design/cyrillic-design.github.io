@@ -19,7 +19,8 @@
       "kultura",
       "readymag",
       "anastasiyaburyakova"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 514,
@@ -41,7 +42,8 @@
       "spetsproekt",
       "belarus",
       "alekseicherenkevich"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 343,
@@ -63,7 +65,8 @@
       "kultura",
       "lyudi",
       "sberbank"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 310,
@@ -83,7 +86,8 @@
       "soobshchestvo",
       "lyudi",
       "kultura"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 254,
@@ -103,7 +107,8 @@
       "izdanie",
       "moda",
       "kultura"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 212,
@@ -123,7 +128,8 @@
       "kultura",
       "lyudi",
       "sulliwan"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 157,
@@ -143,7 +149,8 @@
       "kultura",
       "teatr",
       "charmer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 153,
@@ -163,7 +170,8 @@
       "spetsproekt",
       "kultura",
       "google"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 142,
@@ -183,7 +191,8 @@
       "kultura",
       "iskusstvo",
       "ony"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 136,
@@ -203,7 +212,8 @@
       "obrazovanie",
       "kultura",
       "charmer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 121,
@@ -225,7 +235,8 @@
       "media",
       "kultura",
       "charmer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 109,
@@ -247,7 +258,8 @@
       "media",
       "obrazovanie",
       "kultura"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 80,
@@ -271,7 +283,8 @@
       "muzika",
       "pamyat",
       "coda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 62,
@@ -293,7 +306,8 @@
       "spetsproekt",
       "pamyat",
       "dianadubina"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 60,
@@ -313,6 +327,7 @@
       "kultura",
       "muzei",
       "charmer"
-    ]
+    ],
+    "awards": []
   }
 ]

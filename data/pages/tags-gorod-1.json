@@ -18,7 +18,8 @@
       "gorod",
       "servis",
       "artlebedev"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 633,
@@ -40,7 +41,8 @@
       "gorod",
       "lyudi",
       "smena"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 462,
@@ -58,7 +60,8 @@
     "slugs": [
       "gorod",
       "kruzhok"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 401,
@@ -79,7 +82,8 @@
       "brending",
       "gorod",
       "setters"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 348,
@@ -99,7 +103,8 @@
       "gorod",
       "lyudi",
       "kruzhok"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 330,
@@ -119,7 +124,8 @@
       "gorod",
       "promo",
       "the23"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 284,
@@ -141,6 +147,7 @@
       "festival",
       "gorod",
       "readymag"
-    ]
+    ],
+    "awards": []
   }
 ]

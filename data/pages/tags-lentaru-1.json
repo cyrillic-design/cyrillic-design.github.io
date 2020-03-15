@@ -15,7 +15,8 @@
     "slugs": [
       "spetsproekt",
       "lentaru"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 317,
@@ -33,7 +34,8 @@
     "slugs": [
       "spetsproekt",
       "lentaru"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 312,
@@ -57,6 +59,7 @@
       "iskusstvo",
       "lentaru",
       "tretyakovskayagalereya"
-    ]
+    ],
+    "awards": []
   }
 ]

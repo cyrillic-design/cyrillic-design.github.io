@@ -2,6 +2,7 @@
   {
     "id": 667,
     "title": "Книги у моря — Петербургский книжный фестиваль",
+    "caption": "Книги у моря — Петербургский книжный фестиваль\nhttp://booksandsea.ru/\n\n☆ #мероприятие #readymag #aidapacheva",
     "image": "data/images/667.jpg",
     "tags": [
       "мероприятие",
@@ -10,13 +11,14 @@
     ],
     "url": "http://booksandsea.ru/",
     "date": 1582642963,
-    "edit_date": 1583183700,
+    "edit_date": 1584296862,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
       "meropriyatie",
       "readymag",
       "aidapacheva"
-    ]
+    ],
+    "awards": []
   }
 ]

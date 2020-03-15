@@ -17,7 +17,8 @@
       "magazin",
       "moda",
       "facility"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 198,
@@ -37,6 +38,7 @@
       "proizvodstvo",
       "uslugi",
       "facility"
-    ]
+    ],
+    "awards": []
   }
 ]

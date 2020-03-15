@@ -15,7 +15,8 @@
     "slugs": [
       "meropriyatie",
       "sistema"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 295,
@@ -37,7 +38,8 @@
       "finansi",
       "bank",
       "tinkoff"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 294,
@@ -55,7 +57,8 @@
     "slugs": [
       "dostavka",
       "yandeks"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 293,
@@ -73,7 +76,8 @@
     "slugs": [
       "obrazovanie",
       "wonderwork"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 292,
@@ -91,7 +95,8 @@
     "slugs": [
       "agentstvo",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 291,
@@ -112,7 +117,8 @@
       "agentstvo",
       "dizain",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 290,
@@ -132,7 +138,8 @@
       "magazin",
       "dostavka",
       "moda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 289,
@@ -150,7 +157,8 @@
     "slugs": [
       "meropriyatie",
       "obrazovanie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 288,
@@ -170,7 +178,8 @@
       "servis",
       "dostavka",
       "zdorove"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 287,
@@ -190,7 +199,8 @@
       "meropriyatie",
       "festival",
       "muzika"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 286,
@@ -208,7 +218,8 @@
     "slugs": [
       "novosti",
       "smi"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 285,
@@ -230,7 +241,8 @@
       "sistema",
       "aic",
       "labag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 284,
@@ -252,7 +264,8 @@
       "festival",
       "gorod",
       "readymag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 283,
@@ -276,7 +289,8 @@
       "bank",
       "finansi",
       "alfabank"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 282,
@@ -294,7 +308,8 @@
     "slugs": [
       "spetsproekt",
       "batenkadavitransformer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 281,
@@ -314,7 +329,8 @@
       "provaider",
       "uslugi",
       "house"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 280,
@@ -332,7 +348,8 @@
     "slugs": [
       "studiya",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 279,
@@ -352,7 +369,8 @@
       "magazin",
       "moda",
       "facility"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 278,
@@ -370,7 +388,8 @@
     "slugs": [
       "promo",
       "magazin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 277,
@@ -388,6 +407,7 @@
     "slugs": [
       "servis",
       "orientir"
-    ]
+    ],
+    "awards": []
   }
 ]

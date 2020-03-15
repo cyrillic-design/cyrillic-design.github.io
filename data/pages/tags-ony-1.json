@@ -15,7 +15,8 @@
     "slugs": [
       "spetsproekt",
       "ony"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 589,
@@ -33,7 +34,8 @@
     "slugs": [
       "zhurnal",
       "ony"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 142,
@@ -53,7 +55,8 @@
       "kultura",
       "iskusstvo",
       "ony"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 128,
@@ -71,7 +74,8 @@
     "slugs": [
       "magazin",
       "ony"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 120,
@@ -93,6 +97,7 @@
       "provaider",
       "uslugi",
       "ony"
-    ]
+    ],
+    "awards": []
   }
 ]

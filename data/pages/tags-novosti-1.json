@@ -17,7 +17,8 @@
       "novosti",
       "smi",
       "charmer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 512,
@@ -35,7 +36,8 @@
     "slugs": [
       "izdanie",
       "novosti"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 508,
@@ -53,7 +55,8 @@
     "slugs": [
       "izdanie",
       "novosti"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 341,
@@ -75,7 +78,8 @@
       "blog",
       "novosti",
       "onesoil"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 336,
@@ -95,7 +99,8 @@
       "novosti",
       "servis",
       "tilda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 332,
@@ -113,7 +118,8 @@
     "slugs": [
       "novosti",
       "agentstvo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 316,
@@ -133,7 +139,8 @@
       "it",
       "novosti",
       "skdo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 311,
@@ -153,7 +160,8 @@
       "novosti",
       "politika",
       "biznes"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 286,
@@ -171,7 +179,8 @@
     "slugs": [
       "novosti",
       "smi"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 236,
@@ -191,7 +200,8 @@
       "media",
       "smi",
       "novosti"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 201,
@@ -211,7 +221,8 @@
       "zhurnal",
       "novosti",
       "lyudi"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 196,
@@ -233,7 +244,8 @@
       "lyudi",
       "novosti",
       "moda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 173,
@@ -253,7 +265,8 @@
       "media",
       "novosti",
       "tekhnologii"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 148,
@@ -277,7 +290,8 @@
       "biznes",
       "finansi",
       "charmer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 130,
@@ -297,7 +311,8 @@
       "media",
       "novosti",
       "charmer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 127,
@@ -317,7 +332,8 @@
       "novosti",
       "sport",
       "artlebedev"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 76,
@@ -339,6 +355,7 @@
       "media",
       "zhurnal",
       "wednesday"
-    ]
+    ],
+    "awards": []
   }
 ]

@@ -17,7 +17,8 @@
       "promo",
       "obrazovanie",
       "kruzhok"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 112,
@@ -39,7 +40,8 @@
       "spetsproekt",
       "gastronomiya",
       "dzendizain"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 111,
@@ -59,7 +61,8 @@
       "gosudarstvo",
       "uslugi",
       "rossiya"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 110,
@@ -77,7 +80,8 @@
     "slugs": [
       "tv",
       "media"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 109,
@@ -99,7 +103,8 @@
       "media",
       "obrazovanie",
       "kultura"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 107,
@@ -117,7 +122,8 @@
     "slugs": [
       "studiya",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 106,
@@ -137,7 +143,8 @@
       "marketpleis",
       "magazin",
       "mvideo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 104,
@@ -157,7 +164,8 @@
       "promo",
       "yeda",
       "zero"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 103,
@@ -177,7 +185,8 @@
       "zhurnal",
       "media",
       "biznes"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 102,
@@ -195,7 +204,8 @@
     "slugs": [
       "portfolio",
       "studiya"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 101,
@@ -215,7 +225,8 @@
       "servis",
       "doskaobyavlenii",
       "mailru"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 100,
@@ -235,7 +246,8 @@
       "moda",
       "barbershop",
       "whiterussianstudio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 99,
@@ -255,7 +267,8 @@
       "finansi",
       "zhurnal",
       "media"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 98,
@@ -273,7 +286,8 @@
     "slugs": [
       "magazin",
       "yeda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 97,
@@ -293,7 +307,8 @@
       "moda",
       "barbershop",
       "amades"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 92,
@@ -316,7 +331,8 @@
       "strana",
       "rossiya",
       "labag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 90,
@@ -338,7 +354,8 @@
       "fond",
       "lyudi",
       "charmer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 89,
@@ -361,7 +378,8 @@
       "promo",
       "samsung",
       "rbk"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 88,
@@ -381,7 +399,8 @@
       "bank",
       "finansi",
       "aic"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 87,
@@ -403,6 +422,7 @@
       "dostavka",
       "yeda",
       "solardigital"
-    ]
+    ],
+    "awards": []
   }
 ]

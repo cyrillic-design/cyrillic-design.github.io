@@ -21,7 +21,8 @@
       "lyudi",
       "istoriya",
       "google"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 90,
@@ -43,7 +44,8 @@
       "fond",
       "lyudi",
       "charmer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 86,
@@ -67,7 +69,8 @@
       "pamyat",
       "lyudi",
       "takiedela"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 85,
@@ -89,6 +92,7 @@
       "strana",
       "lyudi",
       "shvetsiya"
-    ]
+    ],
+    "awards": []
   }
 ]

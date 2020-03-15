@@ -19,7 +19,8 @@
       "dizain",
       "gosudarstvo",
       "sistema"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 296,
@@ -37,7 +38,8 @@
     "slugs": [
       "meropriyatie",
       "sistema"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 285,
@@ -59,7 +61,8 @@
       "sistema",
       "aic",
       "labag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 283,
@@ -83,6 +86,7 @@
       "bank",
       "finansi",
       "alfabank"
-    ]
+    ],
+    "awards": []
   }
 ]

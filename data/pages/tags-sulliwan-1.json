@@ -15,7 +15,8 @@
     "slugs": [
       "obrazovanie",
       "sulliwan"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 637,
@@ -37,7 +38,8 @@
       "lyudi",
       "pomoshch",
       "sulliwan"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 507,
@@ -57,7 +59,8 @@
       "muzika",
       "meropriyatie",
       "sulliwan"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 497,
@@ -77,7 +80,8 @@
       "portfolio",
       "readymag",
       "sulliwan"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 483,
@@ -95,7 +99,8 @@
     "slugs": [
       "portfolio",
       "sulliwan"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 231,
@@ -113,7 +118,8 @@
     "slugs": [
       "obrazovanie",
       "sulliwan"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 212,
@@ -133,6 +139,7 @@
       "kultura",
       "lyudi",
       "sulliwan"
-    ]
+    ],
+    "awards": []
   }
 ]

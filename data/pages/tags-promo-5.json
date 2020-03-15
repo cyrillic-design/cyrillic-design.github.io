@@ -15,7 +15,8 @@
     "slugs": [
       "magazin",
       "promo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 156,
@@ -37,7 +38,8 @@
       "bank",
       "finansi",
       "readymag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 155,
@@ -55,7 +57,8 @@
     "slugs": [
       "promo",
       "buking"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 154,
@@ -73,7 +76,8 @@
     "slugs": [
       "promo",
       "magazin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 152,
@@ -93,7 +97,8 @@
       "meropriyatie",
       "promo",
       "buking"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 132,
@@ -113,7 +118,8 @@
       "promo",
       "glonass",
       "hyundai"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 126,
@@ -133,7 +139,8 @@
       "promo",
       "magazin",
       "redcollar"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 113,
@@ -153,7 +160,8 @@
       "promo",
       "obrazovanie",
       "kruzhok"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 104,
@@ -173,7 +181,8 @@
       "promo",
       "yeda",
       "zero"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 89,
@@ -196,7 +205,8 @@
       "promo",
       "samsung",
       "rbk"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 75,
@@ -214,7 +224,8 @@
     "slugs": [
       "magazin",
       "promo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 64,
@@ -232,6 +243,7 @@
     "slugs": [
       "promo",
       "creativepeople"
-    ]
+    ],
+    "awards": []
   }
 ]

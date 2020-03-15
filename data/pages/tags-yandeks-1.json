@@ -19,7 +19,8 @@
       "servis",
       "promo",
       "yandeks"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 655,
@@ -42,7 +43,8 @@
       "yandeks",
       "viktorakifev",
       "tilda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 643,
@@ -64,7 +66,8 @@
       "kinopoisk",
       "yandeks",
       "embacy"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 619,
@@ -84,7 +87,8 @@
       "spetsproekt",
       "muzika",
       "yandeks"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 599,
@@ -104,7 +108,8 @@
       "spetsproekt",
       "muzika",
       "yandeks"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 542,
@@ -122,7 +127,8 @@
     "slugs": [
       "obrazovanie",
       "yandeks"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 502,
@@ -140,7 +146,8 @@
     "slugs": [
       "meropriyatie",
       "yandeks"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 500,
@@ -160,7 +167,8 @@
       "obrazovanie",
       "zhurnal",
       "yandeks"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 463,
@@ -180,7 +188,8 @@
       "zhurnal",
       "avto",
       "yandeks"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 441,
@@ -203,7 +212,8 @@
       "servis",
       "shad",
       "yandeks"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 361,
@@ -223,7 +233,8 @@
       "promo",
       "yandeks",
       "romansazonov"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 301,
@@ -247,7 +258,8 @@
       "servis",
       "finansi",
       "biznes"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 294,
@@ -265,7 +277,8 @@
     "slugs": [
       "dostavka",
       "yandeks"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 182,
@@ -285,6 +298,7 @@
       "magazin",
       "marketpleis",
       "yandeks"
-    ]
+    ],
+    "awards": []
   }
 ]

@@ -15,7 +15,8 @@
     "slugs": [
       "finansi",
       "biznes"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 398,
@@ -35,7 +36,8 @@
       "servis",
       "biznes",
       "finansi"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 384,
@@ -55,7 +57,8 @@
       "meropriyatie",
       "biznes",
       "plusone"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 311,
@@ -75,7 +78,8 @@
       "novosti",
       "politika",
       "biznes"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 303,
@@ -93,7 +97,8 @@
     "slugs": [
       "servis",
       "biznes"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 301,
@@ -117,7 +122,8 @@
       "servis",
       "finansi",
       "biznes"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 255,
@@ -139,7 +145,8 @@
       "tekhnologii",
       "biznes",
       "redcollar"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 230,
@@ -161,7 +168,8 @@
       "finansi",
       "biznes",
       "bks"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 228,
@@ -182,7 +190,8 @@
       "obrazovanie",
       "lyudi",
       "biznes"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 222,
@@ -202,7 +211,8 @@
       "finansi",
       "biznes",
       "servis"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 171,
@@ -224,7 +234,8 @@
       "biznes",
       "finansi",
       "sibiriks"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 148,
@@ -248,7 +259,8 @@
       "biznes",
       "finansi",
       "charmer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 144,
@@ -272,7 +284,8 @@
       "biznes",
       "gosudarstvo",
       "obrazovanie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 138,
@@ -294,7 +307,8 @@
       "portal",
       "obrazovanie",
       "biznes"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 133,
@@ -315,7 +329,8 @@
       "biznes",
       "uslugi",
       "ideil"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 103,
@@ -335,6 +350,7 @@
       "zhurnal",
       "media",
       "biznes"
-    ]
+    ],
+    "awards": []
   }
 ]

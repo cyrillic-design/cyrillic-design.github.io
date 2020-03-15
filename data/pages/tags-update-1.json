@@ -16,7 +16,8 @@
     "slugs": [
       "obrazovanie",
       "update"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 323,
@@ -36,7 +37,8 @@
       "update",
       "obrazovanie",
       "cherepukhin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 315,
@@ -58,7 +60,8 @@
       "dizain",
       "gosudarstvo",
       "sistema"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 301,
@@ -82,7 +85,8 @@
       "servis",
       "finansi",
       "biznes"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 262,
@@ -104,6 +108,7 @@
       "zhurnal",
       "dizain",
       "the23"
-    ]
+    ],
+    "awards": []
   }
 ]

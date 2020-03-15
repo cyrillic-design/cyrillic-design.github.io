@@ -17,7 +17,8 @@
       "konkurs",
       "obrazovanie",
       "google"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 153,
@@ -37,7 +38,8 @@
       "spetsproekt",
       "kultura",
       "google"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 119,
@@ -61,6 +63,7 @@
       "lyudi",
       "istoriya",
       "google"
-    ]
+    ],
+    "awards": []
   }
 ]

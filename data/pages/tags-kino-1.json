@@ -19,7 +19,8 @@
       "iskusstvo",
       "kino",
       "charmer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 304,
@@ -41,7 +42,8 @@
       "pamyat",
       "garazh",
       "promo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 243,
@@ -61,7 +63,8 @@
       "servis",
       "kino",
       "kinopoisk"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 223,
@@ -79,7 +82,8 @@
     "slugs": [
       "servis",
       "kino"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 197,
@@ -101,6 +105,7 @@
       "promo",
       "lyudi",
       "mustapp"
-    ]
+    ],
+    "awards": []
   }
 ]

@@ -17,7 +17,8 @@
       "magazin",
       "krasota",
       "moda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 529,
@@ -39,7 +40,8 @@
       "promo",
       "moda",
       "zaglushka"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 374,
@@ -59,7 +61,8 @@
       "moda",
       "magazin",
       "itsagency"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 371,
@@ -79,7 +82,8 @@
       "moda",
       "odezhda",
       "magazin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 290,
@@ -99,7 +103,8 @@
       "magazin",
       "dostavka",
       "moda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 279,
@@ -119,7 +124,8 @@
       "magazin",
       "moda",
       "facility"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 276,
@@ -139,7 +145,8 @@
       "proizvodstvo",
       "moda",
       "magazin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 260,
@@ -159,7 +166,8 @@
       "proizvodstvo",
       "moda",
       "xdesign"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 254,
@@ -179,7 +187,8 @@
       "izdanie",
       "moda",
       "kultura"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 204,
@@ -197,7 +206,8 @@
     "slugs": [
       "zhurnal",
       "moda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 196,
@@ -219,7 +229,8 @@
       "lyudi",
       "novosti",
       "moda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 185,
@@ -243,7 +254,8 @@
       "odezhda",
       "moda",
       "icrea"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 100,
@@ -263,7 +275,8 @@
       "moda",
       "barbershop",
       "whiterussianstudio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 97,
@@ -283,6 +296,7 @@
       "moda",
       "barbershop",
       "amades"
-    ]
+    ],
+    "awards": []
   }
 ]

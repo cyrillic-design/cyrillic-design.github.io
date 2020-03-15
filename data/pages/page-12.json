@@ -15,7 +15,8 @@
     "slugs": [
       "magazin",
       "nikitavasilevskiy"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 442,
@@ -33,7 +34,8 @@
     "slugs": [
       "muzei",
       "laska"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 441,
@@ -56,7 +58,8 @@
       "servis",
       "shad",
       "yandeks"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 440,
@@ -76,7 +79,8 @@
       "dannie",
       "servis",
       "urbica"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 439,
@@ -96,7 +100,8 @@
       "finansi",
       "servis",
       "shuka"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 438,
@@ -114,7 +119,8 @@
     "slugs": [
       "blog",
       "brending"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 437,
@@ -130,7 +136,8 @@
     "isRemoved": false,
     "slugs": [
       "izdanie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 436,
@@ -148,7 +155,8 @@
     "slugs": [
       "zhurnal",
       "otherland"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 435,
@@ -169,7 +177,8 @@
       "meropriyatie",
       "afisha",
       "teatr"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 434,
@@ -187,7 +196,8 @@
     "slugs": [
       "promo",
       "chulakov"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 433,
@@ -207,7 +217,8 @@
       "servis",
       "dostavka",
       "max"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 432,
@@ -227,7 +238,8 @@
       "portfolio",
       "spetsproekt",
       "studiya"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 431,
@@ -247,7 +259,8 @@
       "spetsproekt",
       "ukraina",
       "evne"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 430,
@@ -267,7 +280,8 @@
       "portfolio",
       "studiya",
       "flat12"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 429,
@@ -287,7 +301,8 @@
       "finansi",
       "bank",
       "aic"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 428,
@@ -305,7 +320,8 @@
     "slugs": [
       "proizvodstvo",
       "negativelabs"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 427,
@@ -321,7 +337,8 @@
     "isRemoved": false,
     "slugs": [
       "magazin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 426,
@@ -339,7 +356,8 @@
     "slugs": [
       "obrazovanie",
       "tilda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 425,
@@ -359,7 +377,8 @@
       "nedvizhimost",
       "promo",
       "kelnik"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 424,
@@ -377,6 +396,7 @@
     "slugs": [
       "avto",
       "magazin"
-    ]
+    ],
+    "awards": []
   }
 ]

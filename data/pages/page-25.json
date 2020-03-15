@@ -17,7 +17,8 @@
       "bank",
       "finansi",
       "aic"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 173,
@@ -37,7 +38,8 @@
       "media",
       "novosti",
       "tekhnologii"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 172,
@@ -53,7 +55,8 @@
     "isRemoved": false,
     "slugs": [
       "magazin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 171,
@@ -75,7 +78,8 @@
       "biznes",
       "finansi",
       "sibiriks"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 170,
@@ -93,7 +97,8 @@
     "slugs": [
       "magazin",
       "dostavka"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 169,
@@ -113,7 +118,8 @@
       "gosudarstvo",
       "media",
       "rossiya"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 168,
@@ -133,7 +139,8 @@
       "magazin",
       "dostavka",
       "aic"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 167,
@@ -153,7 +160,8 @@
       "servis",
       "uslugi",
       "promo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 166,
@@ -175,7 +183,8 @@
       "muzika",
       "lyudi",
       "bosco"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 165,
@@ -199,7 +208,8 @@
       "obrazovanie",
       "platforma",
       "setka"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 164,
@@ -221,7 +231,8 @@
       "media",
       "rossiya",
       "labag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 163,
@@ -239,7 +250,8 @@
     "slugs": [
       "bank",
       "finansi"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 162,
@@ -258,7 +270,8 @@
     "slugs": [
       "magazin",
       "izdanie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 161,
@@ -279,7 +292,8 @@
       "nedvizhimost",
       "finansi",
       "promo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 160,
@@ -297,7 +311,8 @@
     "slugs": [
       "izdanie",
       "iskusstvo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 159,
@@ -315,7 +330,8 @@
     "slugs": [
       "magazin",
       "promo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 158,
@@ -335,7 +351,8 @@
       "nedvizhimost",
       "finansi",
       "aic"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 157,
@@ -355,7 +372,8 @@
       "kultura",
       "teatr",
       "charmer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 156,
@@ -377,7 +395,8 @@
       "bank",
       "finansi",
       "readymag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 155,
@@ -395,6 +414,7 @@
     "slugs": [
       "promo",
       "buking"
-    ]
+    ],
+    "awards": []
   }
 ]

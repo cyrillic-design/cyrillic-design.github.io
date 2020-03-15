@@ -18,7 +18,8 @@
       "nedvizhimost",
       "promo",
       "videinfra"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 661,
@@ -40,7 +41,8 @@
       "promo",
       "buking",
       "videinfra"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 623,
@@ -62,6 +64,7 @@
       "nedvizhimost",
       "yekaterinamoroshilova",
       "videinfra"
-    ]
+    ],
+    "awards": []
   }
 ]

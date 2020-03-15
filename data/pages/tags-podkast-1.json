@@ -17,7 +17,8 @@
       "podkast",
       "promo",
       "tilda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 638,
@@ -37,7 +38,8 @@
       "podkast",
       "promo",
       "readymag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 381,
@@ -59,6 +61,7 @@
       "podkast",
       "glagolevfm",
       "memorial"
-    ]
+    ],
+    "awards": []
   }
 ]

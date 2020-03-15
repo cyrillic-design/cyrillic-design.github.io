@@ -18,7 +18,8 @@
       "obrazovanie",
       "meropriyatie",
       "tilda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 655,
@@ -41,7 +42,8 @@
       "yandeks",
       "viktorakifev",
       "tilda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 642,
@@ -61,7 +63,8 @@
       "podkast",
       "promo",
       "tilda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 640,
@@ -83,7 +86,8 @@
       "uslugi",
       "tilda",
       "personagency"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 617,
@@ -105,7 +109,8 @@
       "spetsproekt",
       "the23",
       "tilda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 615,
@@ -123,7 +128,8 @@
     "slugs": [
       "obrazovanie",
       "tilda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 498,
@@ -146,7 +152,8 @@
       "dostavka",
       "yuliyazass",
       "tilda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 482,
@@ -165,7 +172,8 @@
     "slugs": [
       "portfolio",
       "tilda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 426,
@@ -183,7 +191,8 @@
     "slugs": [
       "obrazovanie",
       "tilda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 336,
@@ -203,6 +212,7 @@
       "novosti",
       "servis",
       "tilda"
-    ]
+    ],
+    "awards": []
   }
 ]

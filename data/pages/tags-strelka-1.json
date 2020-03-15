@@ -15,7 +15,8 @@
     "slugs": [
       "konferentsiya",
       "strelka"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 135,
@@ -35,6 +36,7 @@
       "spetsproekt",
       "strelka",
       "zhurnal"
-    ]
+    ],
+    "awards": []
   }
 ]

@@ -17,7 +17,8 @@
       "spetsproekt",
       "readymag",
       "takiedela"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 480,
@@ -35,7 +36,8 @@
     "slugs": [
       "pamyat",
       "takiedela"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 358,
@@ -55,7 +57,8 @@
       "spetsproekt",
       "takiedela",
       "bookmate"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 86,
@@ -79,6 +82,7 @@
       "pamyat",
       "lyudi",
       "takiedela"
-    ]
+    ],
+    "awards": []
   }
 ]

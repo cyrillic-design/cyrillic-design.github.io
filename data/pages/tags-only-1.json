@@ -17,7 +17,8 @@
       "uslugi",
       "promo",
       "only"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 450,
@@ -37,6 +38,7 @@
       "uslugi",
       "promo",
       "only"
-    ]
+    ],
+    "awards": []
   }
 ]

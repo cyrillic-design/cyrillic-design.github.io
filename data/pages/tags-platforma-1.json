@@ -19,7 +19,8 @@
       "yeda",
       "promo",
       "platforma"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 538,
@@ -39,7 +40,8 @@
       "servis",
       "platforma",
       "byurobyuro"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 165,
@@ -63,6 +65,7 @@
       "obrazovanie",
       "platforma",
       "setka"
-    ]
+    ],
+    "awards": []
   }
 ]

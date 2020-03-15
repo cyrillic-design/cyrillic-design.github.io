@@ -19,7 +19,8 @@
       "lyudi",
       "pomoshch",
       "sulliwan"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 171,
@@ -41,7 +42,8 @@
       "biznes",
       "finansi",
       "sibiriks"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 90,
@@ -63,6 +65,7 @@
       "fond",
       "lyudi",
       "charmer"
-    ]
+    ],
+    "awards": []
   }
 ]

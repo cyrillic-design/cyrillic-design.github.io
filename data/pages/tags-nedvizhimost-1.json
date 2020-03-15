@@ -18,7 +18,8 @@
       "nedvizhimost",
       "promo",
       "videinfra"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 659,
@@ -38,7 +39,8 @@
       "nedvizhimost",
       "promo",
       "whitemark"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 645,
@@ -58,7 +60,8 @@
       "promo",
       "nedvizhimost",
       "art3d"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 623,
@@ -80,7 +83,8 @@
       "nedvizhimost",
       "yekaterinamoroshilova",
       "videinfra"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 501,
@@ -98,7 +102,8 @@
     "slugs": [
       "nedvizhimost",
       "advancedteam"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 496,
@@ -116,7 +121,8 @@
     "slugs": [
       "nedvizhimost",
       "promo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 461,
@@ -136,7 +142,8 @@
       "nedvizhimost",
       "promo",
       "strangebrain"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 425,
@@ -156,7 +163,8 @@
       "nedvizhimost",
       "promo",
       "kelnik"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 411,
@@ -176,7 +184,8 @@
       "nedvizhimost",
       "promo",
       "beta"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 405,
@@ -196,7 +205,8 @@
       "promo",
       "nedvizhimost",
       "art3d"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 392,
@@ -214,7 +224,8 @@
     "slugs": [
       "nedvizhimost",
       "beta"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 346,
@@ -234,7 +245,8 @@
       "nedvizhimost",
       "promo",
       "greencow"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 340,
@@ -254,7 +266,8 @@
       "nedvizhimost",
       "promo",
       "greencow"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 331,
@@ -272,7 +285,8 @@
     "slugs": [
       "servis",
       "nedvizhimost"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 264,
@@ -290,7 +304,8 @@
     "slugs": [
       "nedvizhimost",
       "chulakov"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 240,
@@ -310,7 +325,8 @@
       "nedvizhimost",
       "promo",
       "bquadro"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 218,
@@ -330,7 +346,8 @@
       "nedvizhimost",
       "servis",
       "sberbank"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 205,
@@ -350,7 +367,8 @@
       "nedvizhimost",
       "promo",
       "its"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 161,
@@ -371,7 +389,8 @@
       "nedvizhimost",
       "finansi",
       "promo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 158,
@@ -391,6 +410,7 @@
       "nedvizhimost",
       "finansi",
       "aic"
-    ]
+    ],
+    "awards": []
   }
 ]

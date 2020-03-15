@@ -19,7 +19,8 @@
       "kultura",
       "readymag",
       "anastasiyaburyakova"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 687,
@@ -41,7 +42,8 @@
       "magazin",
       "iskusstvo",
       "redo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 686,
@@ -59,7 +61,8 @@
     "slugs": [
       "portfolio",
       "readymag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 685,
@@ -79,7 +82,8 @@
       "prilozhenie",
       "brending",
       "cargo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 684,
@@ -101,7 +105,8 @@
       "servis",
       "promo",
       "yandeks"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 683,
@@ -124,7 +129,8 @@
       "promo",
       "meropriyatie",
       "readymag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 681,
@@ -149,7 +155,8 @@
       "bank",
       "bks",
       "kukhnyanaraione"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 680,
@@ -170,7 +177,8 @@
       "trendi",
       "promo",
       "mikhailverbitskii"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 679,
@@ -191,7 +199,8 @@
       "servis",
       "dannie",
       "studiyaartemiyalebedeva"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 678,
@@ -212,7 +221,8 @@
       "nedvizhimost",
       "promo",
       "videinfra"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 676,
@@ -233,7 +243,8 @@
       "obrazovanie",
       "meropriyatie",
       "readymag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 675,
@@ -254,7 +265,8 @@
       "obrazovanie",
       "meropriyatie",
       "tilda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 672,
@@ -273,7 +285,8 @@
     "slugs": [
       "magazin",
       "dostavka"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 671,
@@ -290,7 +303,8 @@
     "isRemoved": false,
     "slugs": [
       "servis"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 670,
@@ -311,11 +325,13 @@
       "gorod",
       "servis",
       "artlebedev"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 667,
     "title": "Книги у моря — Петербургский книжный фестиваль",
+    "caption": "Книги у моря — Петербургский книжный фестиваль\nhttp://booksandsea.ru/\n\n☆ #мероприятие #readymag #aidapacheva",
     "image": "data/images/667.jpg",
     "tags": [
       "мероприятие",
@@ -324,30 +340,33 @@
     ],
     "url": "http://booksandsea.ru/",
     "date": 1582642963,
-    "edit_date": 1583183700,
+    "edit_date": 1584296862,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
       "meropriyatie",
       "readymag",
       "aidapacheva"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 666,
     "title": "Redo Bureau",
+    "caption": "Redo Bureau\nhttps://redobureau.com/ru\n\n☆ #портфолио",
     "image": "data/images/666.jpg",
     "tags": [
       "портфолио"
     ],
     "url": "https://redobureau.com/ru",
     "date": 1582279214,
-    "edit_date": 1583183700,
+    "edit_date": 1584296862,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 665,
@@ -366,7 +385,8 @@
     "slugs": [
       "korporativniisait",
       "whiterussianstudio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 664,
@@ -384,7 +404,8 @@
     "slugs": [
       "promo",
       "readymag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 663,
@@ -404,6 +425,7 @@
       "spetsproekt",
       "readymag",
       "tatyanaegoshina"
-    ]
+    ],
+    "awards": []
   }
 ]

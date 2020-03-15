@@ -17,7 +17,8 @@
       "istoriya",
       "readymag",
       "dashapochekueva"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 473,
@@ -39,7 +40,8 @@
       "dizain",
       "readymag",
       "antonbalakin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 457,
@@ -59,7 +61,8 @@
       "dannie",
       "istoriya",
       "urbica"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 408,
@@ -81,7 +84,8 @@
       "dizain",
       "readymag",
       "dmitriikuchev"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 396,
@@ -101,7 +105,8 @@
       "spetsproekt",
       "istoriya",
       "itechgroup"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 369,
@@ -119,7 +124,8 @@
     "slugs": [
       "spetsproekt",
       "istoriya"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 333,
@@ -139,7 +145,8 @@
       "promo",
       "istoriya",
       "avto"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 268,
@@ -159,7 +166,8 @@
       "spetsproekt",
       "istoriya",
       "muzika"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 261,
@@ -179,7 +187,8 @@
       "soprt",
       "istoriya",
       "megafon"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 119,
@@ -203,6 +212,7 @@
       "lyudi",
       "istoriya",
       "google"
-    ]
+    ],
+    "awards": []
   }
 ]

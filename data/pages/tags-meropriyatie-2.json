@@ -15,7 +15,8 @@
     "slugs": [
       "meropriyatie",
       "yandeks"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 481,
@@ -34,7 +35,8 @@
     "slugs": [
       "muzika",
       "meropriyatie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 471,
@@ -53,7 +55,8 @@
     "slugs": [
       "meropriyatie",
       "promo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 464,
@@ -72,7 +75,8 @@
     "slugs": [
       "obrazovanie",
       "meropriyatie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 445,
@@ -90,7 +94,8 @@
     "slugs": [
       "obrazovanie",
       "meropriyatie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 435,
@@ -111,7 +116,8 @@
       "meropriyatie",
       "afisha",
       "teatr"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 419,
@@ -130,7 +136,8 @@
     "slugs": [
       "muzika",
       "meropriyatie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 412,
@@ -150,7 +157,8 @@
       "meropriyatie",
       "promo",
       "readymag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 400,
@@ -170,7 +178,8 @@
       "spetsproekt",
       "meropriyatie",
       "artlebedev"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 384,
@@ -190,7 +199,8 @@
       "meropriyatie",
       "biznes",
       "plusone"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 363,
@@ -210,7 +220,8 @@
       "promo",
       "meropriyatie",
       "kruzhok"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 321,
@@ -230,7 +241,8 @@
       "iskusstvo",
       "lyudi",
       "meropriyatie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 296,
@@ -248,7 +260,8 @@
     "slugs": [
       "meropriyatie",
       "sistema"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 289,
@@ -266,7 +279,8 @@
     "slugs": [
       "meropriyatie",
       "obrazovanie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 287,
@@ -286,7 +300,8 @@
       "meropriyatie",
       "festival",
       "muzika"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 284,
@@ -308,7 +323,8 @@
       "festival",
       "gorod",
       "readymag"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 257,
@@ -328,7 +344,8 @@
       "sport",
       "meropriyatie",
       "chulakov"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 152,
@@ -348,6 +365,7 @@
       "meropriyatie",
       "promo",
       "buking"
-    ]
+    ],
+    "awards": []
   }
 ]

@@ -15,7 +15,8 @@
     "slugs": [
       "spetsproekt",
       "netlab"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 600,
@@ -34,7 +35,8 @@
     "slugs": [
       "agentstvo",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 599,
@@ -54,7 +56,8 @@
       "spetsproekt",
       "muzika",
       "yandeks"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 598,
@@ -72,7 +75,8 @@
     "slugs": [
       "portfolio",
       "groznovco"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 597,
@@ -90,7 +94,8 @@
     "slugs": [
       "spetsproekt",
       "ilyastarkov"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 596,
@@ -106,7 +111,8 @@
     "isRemoved": false,
     "slugs": [
       "zhurnal"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 595,
@@ -124,7 +130,8 @@
     "slugs": [
       "servis",
       "gosudarstvo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 594,
@@ -144,7 +151,8 @@
       "novosti",
       "smi",
       "charmer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 592,
@@ -165,7 +173,8 @@
       "spetsproekt",
       "advokatskayagazeta",
       "artperformance"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 591,
@@ -183,7 +192,8 @@
     "slugs": [
       "servis",
       "brights"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 590,
@@ -201,7 +211,8 @@
     "slugs": [
       "hr",
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 589,
@@ -219,7 +230,8 @@
     "slugs": [
       "zhurnal",
       "ony"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 587,
@@ -239,7 +251,8 @@
       "magazin",
       "portfolio",
       "designworkout"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 586,
@@ -257,7 +270,8 @@
     "slugs": [
       "spetsproekt",
       "meduza"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 585,
@@ -273,7 +287,8 @@
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 583,
@@ -289,7 +304,8 @@
     "isRemoved": false,
     "slugs": [
       "magazin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 581,
@@ -307,7 +323,8 @@
     "slugs": [
       "magazin",
       "facultative"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 580,
@@ -328,7 +345,8 @@
       "magazin",
       "servis",
       "artlebedev"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 579,
@@ -344,7 +362,8 @@
     "isRemoved": false,
     "slugs": [
       "magazin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 578,
@@ -364,6 +383,7 @@
       "spetsproekt",
       "readymag",
       "takiedela"
-    ]
+    ],
+    "awards": []
   }
 ]

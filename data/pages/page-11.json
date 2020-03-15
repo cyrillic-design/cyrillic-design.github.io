@@ -16,7 +16,8 @@
     "slugs": [
       "promo",
       "prominado"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 466,
@@ -34,7 +35,8 @@
     "slugs": [
       "servis",
       "chulakov"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 465,
@@ -54,7 +56,8 @@
       "vistavka",
       "spetsproekt",
       "dvorulitsa"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 464,
@@ -73,7 +76,8 @@
     "slugs": [
       "obrazovanie",
       "meropriyatie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 463,
@@ -93,7 +97,8 @@
       "zhurnal",
       "avto",
       "yandeks"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 462,
@@ -111,7 +116,8 @@
     "slugs": [
       "gorod",
       "kruzhok"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 461,
@@ -131,7 +137,8 @@
       "nedvizhimost",
       "promo",
       "strangebrain"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 460,
@@ -151,7 +158,8 @@
       "zdorove",
       "uslugi",
       "bureausector"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 459,
@@ -169,7 +177,8 @@
     "slugs": [
       "blagotvoritelnost",
       "whiterussianstudio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 458,
@@ -189,7 +198,8 @@
       "blog",
       "zdorove",
       "docplus"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 457,
@@ -209,7 +219,8 @@
       "dannie",
       "istoriya",
       "urbica"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 456,
@@ -229,7 +240,8 @@
       "spetsproekt",
       "zdorove",
       "mamikhlapinatana"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 455,
@@ -245,7 +257,8 @@
     "isRemoved": false,
     "slugs": [
       "hr"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 450,
@@ -265,7 +278,8 @@
       "uslugi",
       "promo",
       "only"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 449,
@@ -285,7 +299,8 @@
       "uslugi",
       "promo",
       "otherland"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 448,
@@ -301,7 +316,8 @@
     "isRemoved": false,
     "slugs": [
       "servis"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 447,
@@ -319,7 +335,8 @@
     "slugs": [
       "portfolio",
       "agentstvo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 446,
@@ -339,7 +356,8 @@
       "magazin",
       "proizvodstvo",
       "brainylab"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 445,
@@ -357,7 +375,8 @@
     "slugs": [
       "obrazovanie",
       "meropriyatie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 444,
@@ -375,6 +394,7 @@
     "slugs": [
       "studiya",
       "portfolio"
-    ]
+    ],
+    "awards": []
   }
 ]

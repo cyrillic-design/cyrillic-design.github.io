@@ -19,7 +19,8 @@
       "analitika",
       "finansi",
       "pinkman"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 488,
@@ -37,7 +38,8 @@
     "slugs": [
       "dostavka",
       "yeda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 487,
@@ -61,7 +63,8 @@
       "finansi",
       "bank",
       "roketbank"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 486,
@@ -77,7 +80,8 @@
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 485,
@@ -95,7 +99,8 @@
     "slugs": [
       "zhurnal",
       "dizain"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 484,
@@ -115,7 +120,8 @@
       "spetsproekt",
       "muzika",
       "vono"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 483,
@@ -133,7 +139,8 @@
     "slugs": [
       "portfolio",
       "sulliwan"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 482,
@@ -152,7 +159,8 @@
     "slugs": [
       "portfolio",
       "tilda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 481,
@@ -171,7 +179,8 @@
     "slugs": [
       "muzika",
       "meropriyatie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 480,
@@ -189,7 +198,8 @@
     "slugs": [
       "pamyat",
       "takiedela"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 479,
@@ -206,7 +216,8 @@
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 478,
@@ -226,7 +237,8 @@
       "pomoshch",
       "uslugi",
       "verks"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 477,
@@ -242,7 +254,8 @@
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 476,
@@ -262,7 +275,8 @@
       "spetsproekt",
       "promo",
       "rbk"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 475,
@@ -282,7 +296,8 @@
       "istoriya",
       "readymag",
       "dashapochekueva"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 473,
@@ -304,7 +319,8 @@
       "dizain",
       "readymag",
       "antonbalakin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 472,
@@ -322,7 +338,8 @@
     "slugs": [
       "dostavka",
       "yeda"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 471,
@@ -341,7 +358,8 @@
     "slugs": [
       "meropriyatie",
       "promo"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 470,
@@ -363,7 +381,8 @@
       "prilozhenie",
       "bank",
       "finansi"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 468,
@@ -383,6 +402,7 @@
       "media",
       "obrazovanie",
       "otherland"
-    ]
+    ],
+    "awards": []
   }
 ]

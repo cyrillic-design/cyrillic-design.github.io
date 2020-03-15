@@ -15,7 +15,8 @@
     "slugs": [
       "promo",
       "magazin"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 153,
@@ -35,7 +36,8 @@
       "spetsproekt",
       "kultura",
       "google"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 152,
@@ -55,7 +57,8 @@
       "meropriyatie",
       "promo",
       "buking"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 151,
@@ -75,7 +78,8 @@
       "spetsproekt",
       "readymag",
       "katyauzienko"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 150,
@@ -93,7 +97,8 @@
     "slugs": [
       "sport",
       "buking"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 149,
@@ -109,7 +114,8 @@
     "isRemoved": false,
     "slugs": [
       "spetsproekt"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 148,
@@ -133,7 +139,8 @@
       "biznes",
       "finansi",
       "charmer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 147,
@@ -153,7 +160,8 @@
       "uslugi",
       "servis",
       "puteshestviya"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 146,
@@ -175,7 +183,8 @@
       "odezhda",
       "proizvodstvo",
       "dzendizain"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 145,
@@ -193,7 +202,8 @@
     "slugs": [
       "finansi",
       "bank"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 144,
@@ -217,7 +227,8 @@
       "biznes",
       "gosudarstvo",
       "obrazovanie"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 143,
@@ -235,7 +246,8 @@
     "slugs": [
       "uslugi",
       "servis"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 142,
@@ -255,7 +267,8 @@
       "kultura",
       "iskusstvo",
       "ony"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 140,
@@ -271,7 +284,8 @@
     "isRemoved": false,
     "slugs": [
       "uslugi"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 139,
@@ -289,7 +303,8 @@
     "slugs": [
       "provaider",
       "uslugi"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 138,
@@ -311,7 +326,8 @@
       "portal",
       "obrazovanie",
       "biznes"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 137,
@@ -329,7 +345,8 @@
     "slugs": [
       "obrazovanie",
       "servis"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 136,
@@ -349,7 +366,8 @@
       "obrazovanie",
       "kultura",
       "charmer"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 135,
@@ -369,7 +387,8 @@
       "spetsproekt",
       "strelka",
       "zhurnal"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 134,
@@ -389,6 +408,7 @@
       "aviakompaniya",
       "uslugi",
       "puteshestviya"
-    ]
+    ],
+    "awards": []
   }
 ]

@@ -17,7 +17,8 @@
       "promo",
       "zdorove",
       "creativepeople"
-    ]
+    ],
+    "awards": []
   },
   {
     "id": 64,
@@ -35,6 +36,7 @@
     "slugs": [
       "promo",
       "creativepeople"
-    ]
+    ],
+    "awards": []
   }
 ]
