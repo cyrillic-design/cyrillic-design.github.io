@@ -11,7 +11,8 @@
     ],
     "url": "http://booksandsea.ru/",
     "date": 1582642963,
-    "edit_date": 1584296862,
+    "edit_date": 1584296887,
+    "isMonth": true,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
@@ -19,6 +20,8 @@
       "readymag",
       "aidapacheva"
     ],
-    "awards": []
+    "awards": [
+      "month"
+    ]
   }
 ]

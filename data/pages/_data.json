@@ -8207,7 +8207,8 @@
     ],
     "url": "https://redobureau.com/ru",
     "date": 1582279214,
-    "edit_date": 1584296862,
+    "edit_date": 1584296887,
+    "isMonth": true,
     "isHighlighted": false,
     "isRemoved": false
   },
@@ -8223,7 +8224,8 @@
     ],
     "url": "http://booksandsea.ru/",
     "date": 1582642963,
-    "edit_date": 1584296862,
+    "edit_date": 1584296887,
+    "isMonth": true,
     "isHighlighted": false,
     "isRemoved": false
   },
