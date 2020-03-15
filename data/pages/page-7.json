@@ -1,5 +1,25 @@
 [
   {
+    "id": 556,
+    "title": "Койот",
+    "image": "data/images/556.jpg",
+    "tags": [
+      "производство",
+      "магазин",
+      "aiwin"
+    ],
+    "url": "https://coyote-ekb.ru/",
+    "date": 1563962419,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "magazin",
+      "aiwin"
+    ]
+  },
+  {
     "id": 555,
     "title": "shishki collective",
     "image": "data/images/555.jpg",
@@ -330,22 +350,6 @@
     "slugs": [
       "promo",
       "sovet"
-    ]
-  },
-  {
-    "id": 534,
-    "title": "Worki",
-    "image": "data/images/534.jpg",
-    "tags": [
-      "сервис"
-    ],
-    "url": "https://worki.ru",
-    "date": 1560852037,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis"
     ]
   }
 ]

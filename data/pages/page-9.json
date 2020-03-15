@@ -1,5 +1,23 @@
 [
   {
+    "id": 512,
+    "title": "Верблюд в огне",
+    "image": "data/images/512.jpg",
+    "tags": [
+      "издание",
+      "новости"
+    ],
+    "url": "https://verbludvogne.ru/",
+    "date": 1558432804,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "izdanie",
+      "novosti"
+    ]
+  },
+  {
     "id": 511,
     "title": "KOTSIUBA",
     "image": "data/images/511.jpg",
@@ -352,28 +370,6 @@
     "slugs": [
       "yeda",
       "promo"
-    ]
-  },
-  {
-    "id": 489,
-    "title": "DataFork",
-    "image": "data/images/489.jpg",
-    "tags": [
-      "данные",
-      "аналитика",
-      "финансы",
-      "pinkman"
-    ],
-    "url": "http://dataf.org",
-    "date": 1554285626,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "dannie",
-      "analitika",
-      "finansi",
-      "pinkman"
     ]
   }
 ]

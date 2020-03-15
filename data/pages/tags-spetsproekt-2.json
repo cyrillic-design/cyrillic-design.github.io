@@ -1,5 +1,23 @@
 [
   {
+    "id": 586,
+    "title": "Без Меня Егору Летову — 55 лет",
+    "image": "data/images/586.jpg",
+    "tags": [
+      "спецпроект",
+      "медуза"
+    ],
+    "url": "https://meduza.io/specials/letov",
+    "date": 1568368834,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "meduza"
+    ]
+  },
+  {
     "id": 578,
     "title": "Письма врагов народа",
     "image": "data/images/578.jpg",
@@ -374,28 +392,6 @@
       "izdanie",
       "spetsproekt",
       "vono"
-    ]
-  },
-  {
-    "id": 381,
-    "title": "Подкаст «Остарбайтеры»",
-    "image": "data/images/381.jpg",
-    "tags": [
-      "спецпроект",
-      "подкаст",
-      "glagolevfm",
-      "мемориал"
-    ],
-    "url": "https://ost.glagolev.fm/",
-    "date": 1544263253,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "podkast",
-      "glagolevfm",
-      "memorial"
     ]
   }
 ]

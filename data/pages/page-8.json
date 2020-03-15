@@ -1,5 +1,21 @@
 [
   {
+    "id": 534,
+    "title": "Worki",
+    "image": "data/images/534.jpg",
+    "tags": [
+      "сервис"
+    ],
+    "url": "https://worki.ru",
+    "date": 1560852037,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis"
+    ]
+  },
+  {
     "id": 533,
     "title": "Великая суббота",
     "image": "data/images/533.jpg",
@@ -351,24 +367,6 @@
     "slugs": [
       "zhurnal",
       "pik"
-    ]
-  },
-  {
-    "id": 512,
-    "title": "Верблюд в огне",
-    "image": "data/images/512.jpg",
-    "tags": [
-      "издание",
-      "новости"
-    ],
-    "url": "https://verbludvogne.ru/",
-    "date": 1558432804,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "izdanie",
-      "novosti"
     ]
   }
 ]
