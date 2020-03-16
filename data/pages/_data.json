@@ -8431,6 +8431,8 @@
     ],
     "url": "https://plotnik.design/",
     "date": 1584093614,
+    "edit_date": 1584347694,
+    "isMonth": true,
     "isHighlighted": false,
     "isRemoved": false
   },
@@ -8447,6 +8449,8 @@
     ],
     "url": "https://obdn.ru/",
     "date": 1584180023,
+    "edit_date": 1584347694,
+    "isMonth": true,
     "isHighlighted": false,
     "isRemoved": false
   },
@@ -8463,6 +8467,8 @@
     ],
     "url": "https://readymag.com/u64480371/1549696/",
     "date": 1584266458,
+    "edit_date": 1584347694,
+    "isMonth": true,
     "isHighlighted": false,
     "isRemoved": false
   }
