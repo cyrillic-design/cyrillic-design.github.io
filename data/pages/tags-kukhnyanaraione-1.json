@@ -13,8 +13,8 @@
     ],
     "url": "https://breakfast.localkitchen.ru/",
     "date": 1584354235,
-    "edit_date": 1584360814,
-    "isMonth": true,
+    "edit_date": 1584360840,
+    "isMonth": false,
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false,
@@ -25,9 +25,7 @@
       "kukhnyanaraione",
       "readymag"
     ],
-    "awards": [
-      "month"
-    ]
+    "awards": []
   },
   {
     "id": 681,
