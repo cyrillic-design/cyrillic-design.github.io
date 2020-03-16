@@ -8017,13 +8017,15 @@
   "654": {
     "id": 654,
     "title": "Charmer",
+    "caption": "Charmer\nhttps://charmerstudio.com/ru\n\n☆ #портфолио\n♡ @glebrl",
     "image": "654.jpg",
     "tags": [
       "портфолио"
     ],
     "url": "https://charmerstudio.com/ru",
     "date": 1579168826,
-    "edit_date": 1583183700,
+    "edit_date": 1584374369,
+    "isMonth": true,
     "isHighlighted": false,
     "isRemoved": false
   },
@@ -8149,7 +8151,8 @@
     ],
     "url": "http://www.shot-tv.com/",
     "date": 1581510151,
-    "edit_date": 1583247356,
+    "edit_date": 1584374369,
+    "isMonth": true,
     "isHighlighted": false,
     "isRemoved": false
   },
