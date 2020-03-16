@@ -8449,8 +8449,9 @@
     ],
     "url": "https://obdn.ru/",
     "date": 1584180023,
-    "edit_date": 1584347694,
+    "edit_date": 1584347700,
     "isMonth": true,
+    "isYear": true,
     "isHighlighted": false,
     "isRemoved": false
   },
@@ -8467,8 +8468,9 @@
     ],
     "url": "https://readymag.com/u64480371/1549696/",
     "date": 1584266458,
-    "edit_date": 1584347694,
+    "edit_date": 1584347700,
     "isMonth": true,
+    "isYear": true,
     "isHighlighted": false,
     "isRemoved": false
   }
