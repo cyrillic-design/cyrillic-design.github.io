@@ -12,9 +12,9 @@
     ],
     "url": "https://readymag.com/u64480371/1549696/",
     "date": 1584266458,
-    "edit_date": 1584347782,
+    "edit_date": 1584347798,
     "isMonth": false,
-    "isYear": true,
+    "isYear": false,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
@@ -23,9 +23,7 @@
       "readymag",
       "anastasiyaburyakova"
     ],
-    "awards": [
-      "year"
-    ]
+    "awards": []
   },
   {
     "id": 687,
@@ -40,9 +38,9 @@
     ],
     "url": "https://obdn.ru/",
     "date": 1584180023,
-    "edit_date": 1584347782,
+    "edit_date": 1584347798,
     "isMonth": false,
-    "isYear": true,
+    "isYear": false,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
@@ -51,9 +49,7 @@
       "iskusstvo",
       "redo"
     ],
-    "awards": [
-      "year"
-    ]
+    "awards": []
   },
   {
     "id": 686,
