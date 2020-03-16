@@ -12,8 +12,8 @@
     ],
     "url": "https://obdn.ru/",
     "date": 1584180023,
-    "edit_date": 1584347700,
-    "isMonth": true,
+    "edit_date": 1584347782,
+    "isMonth": false,
     "isYear": true,
     "isHighlighted": false,
     "isRemoved": false,
@@ -24,7 +24,6 @@
       "redo"
     ],
     "awards": [
-      "month",
       "year"
     ]
   },

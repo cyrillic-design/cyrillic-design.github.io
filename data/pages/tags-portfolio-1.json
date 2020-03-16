@@ -10,17 +10,15 @@
     ],
     "url": "https://plotnik.design/",
     "date": 1584093614,
-    "edit_date": 1584347694,
-    "isMonth": true,
+    "edit_date": 1584347782,
+    "isMonth": false,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
       "portfolio",
       "readymag"
     ],
-    "awards": [
-      "month"
-    ]
+    "awards": []
   },
   {
     "id": 666,

@@ -12,8 +12,8 @@
     ],
     "url": "https://readymag.com/u64480371/1549696/",
     "date": 1584266458,
-    "edit_date": 1584347700,
-    "isMonth": true,
+    "edit_date": 1584347782,
+    "isMonth": false,
     "isYear": true,
     "isHighlighted": false,
     "isRemoved": false,
@@ -24,7 +24,6 @@
       "anastasiyaburyakova"
     ],
     "awards": [
-      "month",
       "year"
     ]
   }
