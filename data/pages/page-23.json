@@ -1,5 +1,24 @@
 [
   {
+    "id": 216,
+    "title": "The Mads",
+    "image": "data/images/216.jpg",
+    "tags": [
+      "агентство",
+      "портфолио"
+    ],
+    "url": "https://themads.ru/",
+    "date": 1529834409,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "agentstvo",
+      "portfolio"
+    ],
+    "awards": []
+  },
+  {
     "id": 215,
     "title": "Виктор Цой",
     "image": "data/images/215.jpg",
@@ -385,29 +404,6 @@
       "promo",
       "lyudi",
       "mustapp"
-    ],
-    "awards": []
-  },
-  {
-    "id": 196,
-    "title": "Esquire",
-    "image": "data/images/196.jpg",
-    "tags": [
-      "журнал",
-      "люди",
-      "новости",
-      "мода"
-    ],
-    "url": "https://esquire.ru/",
-    "date": 1528106414,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "zhurnal",
-      "lyudi",
-      "novosti",
-      "moda"
     ],
     "awards": []
   }

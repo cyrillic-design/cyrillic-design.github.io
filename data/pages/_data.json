@@ -8473,5 +8473,24 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "689": {
+    "id": 689,
+    "title": "НИИ ЗаЯ\n\n\n    \nСпасибо за ссылку",
+    "caption": "НИИ ЗаЯ\nhttps://breakfast.localkitchen.ru/\n\n#спецропект #доставка #eggsellent #кухнянарайоне #readymag\nСпасибо за ссылку @genue",
+    "image": "689.jpg",
+    "tags": [
+      "спецропект",
+      "доставка",
+      "eggsellent",
+      "кухнянарайоне",
+      "readymag"
+    ],
+    "url": "https://breakfast.localkitchen.ru/",
+    "date": 1584354235,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
