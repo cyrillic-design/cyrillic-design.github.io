@@ -30,16 +30,14 @@
     ],
     "url": "https://redobureau.com/ru",
     "date": 1582279214,
-    "edit_date": 1584346535,
-    "isMonth": true,
+    "edit_date": 1584347808,
+    "isMonth": false,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
       "portfolio"
     ],
-    "awards": [
-      "month"
-    ]
+    "awards": []
   },
   {
     "id": 654,
