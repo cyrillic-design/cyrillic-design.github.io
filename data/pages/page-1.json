@@ -340,8 +340,8 @@
     ],
     "url": "http://booksandsea.ru/",
     "date": 1582642963,
-    "edit_date": 1584296887,
-    "isMonth": true,
+    "edit_date": 1584344503,
+    "isMonth": false,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
@@ -349,9 +349,7 @@
       "readymag",
       "aidapacheva"
     ],
-    "awards": [
-      "month"
-    ]
+    "awards": []
   },
   {
     "id": 666,
@@ -363,16 +361,14 @@
     ],
     "url": "https://redobureau.com/ru",
     "date": 1582279214,
-    "edit_date": 1584296887,
-    "isMonth": true,
+    "edit_date": 1584344503,
+    "isMonth": false,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
       "portfolio"
     ],
-    "awards": [
-      "month"
-    ]
+    "awards": []
   },
   {
     "id": 665,
