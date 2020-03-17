@@ -10,6 +10,8 @@
     ],
     "url": "https://plotnik.design/",
     "date": 1584093614,
+    "edit_date": 1584347782,
+    "isMonth": false,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
@@ -28,7 +30,26 @@
     ],
     "url": "https://redobureau.com/ru",
     "date": 1582279214,
-    "edit_date": 1584296887,
+    "edit_date": 1584347808,
+    "isMonth": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio"
+    ],
+    "awards": []
+  },
+  {
+    "id": 654,
+    "title": "Charmer",
+    "caption": "Charmer\nhttps://charmerstudio.com/ru\n\n☆ #портфолио\n♡ @glebrl",
+    "image": "data/images/654.jpg",
+    "tags": [
+      "портфолио"
+    ],
+    "url": "https://charmerstudio.com/ru",
+    "date": 1579168826,
+    "edit_date": 1584374369,
     "isMonth": true,
     "isHighlighted": false,
     "isRemoved": false,
@@ -38,23 +59,6 @@
     "awards": [
       "month"
     ]
-  },
-  {
-    "id": 654,
-    "title": "Charmer",
-    "image": "data/images/654.jpg",
-    "tags": [
-      "портфолио"
-    ],
-    "url": "https://charmerstudio.com/ru",
-    "date": 1579168826,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio"
-    ],
-    "awards": []
   },
   {
     "id": 646,

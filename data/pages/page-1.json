@@ -1,5 +1,33 @@
 [
   {
+    "id": 689,
+    "title": "НИИ ЗаЯ",
+    "caption": "НИИ ЗаЯ\nhttps://breakfast.localkitchen.ru/\n\n#спецпроект #доставка #eggsellent #кухнянарайоне #readymag\nСпасибо за ссылку @genue",
+    "image": "data/images/689.jpg",
+    "tags": [
+      "спецпроект",
+      "доставка",
+      "eggsellent",
+      "кухнянарайоне",
+      "readymag"
+    ],
+    "url": "https://breakfast.localkitchen.ru/",
+    "date": 1584354235,
+    "edit_date": 1584360840,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "dostavka",
+      "eggsellent",
+      "kukhnyanaraione",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 688,
     "title": "hochiminh",
     "caption": "hochiminh\nhttps://readymag.com/u64480371/1549696/\n\n☆ #спецпроект #культура #readymag #анастасиябурякова",
@@ -12,6 +40,9 @@
     ],
     "url": "https://readymag.com/u64480371/1549696/",
     "date": 1584266458,
+    "edit_date": 1584347798,
+    "isMonth": false,
+    "isYear": false,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
@@ -35,6 +66,9 @@
     ],
     "url": "https://obdn.ru/",
     "date": 1584180023,
+    "edit_date": 1584347798,
+    "isMonth": false,
+    "isYear": false,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
@@ -56,6 +90,8 @@
     ],
     "url": "https://plotnik.design/",
     "date": 1584093614,
+    "edit_date": 1584347782,
+    "isMonth": false,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
@@ -340,8 +376,8 @@
     ],
     "url": "http://booksandsea.ru/",
     "date": 1582642963,
-    "edit_date": 1584296887,
-    "isMonth": true,
+    "edit_date": 1584344503,
+    "isMonth": false,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
@@ -349,9 +385,7 @@
       "readymag",
       "aidapacheva"
     ],
-    "awards": [
-      "month"
-    ]
+    "awards": []
   },
   {
     "id": 666,
@@ -363,16 +397,14 @@
     ],
     "url": "https://redobureau.com/ru",
     "date": 1582279214,
-    "edit_date": 1584296887,
-    "isMonth": true,
+    "edit_date": 1584347808,
+    "isMonth": false,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
       "portfolio"
     ],
-    "awards": [
-      "month"
-    ]
+    "awards": []
   },
   {
     "id": 665,
@@ -410,27 +442,6 @@
     "slugs": [
       "promo",
       "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 663,
-    "title": "Я себя люблю",
-    "image": "data/images/663.jpg",
-    "tags": [
-      "спецпроект",
-      "readymag",
-      "татьянаегошина"
-    ],
-    "url": "https://ilovemyself.kultrab.com/",
-    "date": 1582020052,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "readymag",
-      "tatyanaegoshina"
     ],
     "awards": []
   }
