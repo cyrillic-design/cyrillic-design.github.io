@@ -1,5 +1,26 @@
 [
   {
+    "id": 690,
+    "title": "type today — Журнал",
+    "caption": "type today — Журнал\nhttps://type.today/ru/journal\n\n#журнал #митясудаков",
+    "image": "data/images/690.jpg",
+    "tags": [
+      "журнал",
+      "митясудаков"
+    ],
+    "url": "https://type.today/ru/journal",
+    "date": 1584698457,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "mityasudakov"
+    ],
+    "awards": []
+  },
+  {
     "id": 689,
     "title": "НИИ ЗаЯ",
     "caption": "НИИ ЗаЯ\nhttps://breakfast.localkitchen.ru/\n\n#спецпроект #доставка #eggsellent #кухнянарайоне #readymag\nСпасибо за ссылку @genue",
@@ -423,25 +444,6 @@
     "slugs": [
       "korporativniisait",
       "whiterussianstudio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 664,
-    "title": "Дизайн-квартал Флакон",
-    "image": "data/images/664.jpg",
-    "tags": [
-      "промо",
-      "readymag"
-    ],
-    "url": "https://flacon.ru/",
-    "date": 1582112783,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "readymag"
     ],
     "awards": []
   }

@@ -1,5 +1,26 @@
 [
   {
+    "id": 690,
+    "title": "type today — Журнал",
+    "caption": "type today — Журнал\nhttps://type.today/ru/journal\n\n#журнал #митясудаков",
+    "image": "data/images/690.jpg",
+    "tags": [
+      "журнал",
+      "митясудаков"
+    ],
+    "url": "https://type.today/ru/journal",
+    "date": 1584698457,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "mityasudakov"
+    ],
+    "awards": []
+  },
+  {
     "id": 687,
     "title": "Объединение",
     "caption": "Объединение\nhttps://obdn.ru/\n\n☆ #журнал #магазин #искусство #redo\n♡ @AndyAbramov",
@@ -382,25 +403,6 @@
     "slugs": [
       "magazin",
       "zhurnal"
-    ],
-    "awards": []
-  },
-  {
-    "id": 270,
-    "title": "",
-    "image": "data/images/270.jpg",
-    "tags": [
-      "журнал",
-      "образование"
-    ],
-    "url": "https://platfor.ma/",
-    "date": 1534500003,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "zhurnal",
-      "obrazovanie"
     ],
     "awards": []
   }

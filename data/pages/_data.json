@@ -8496,5 +8496,21 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "690": {
+    "id": 690,
+    "title": "type today — Журнал",
+    "caption": "type today — Журнал\nhttps://type.today/ru/journal\n\n#журнал #митясудаков",
+    "image": "690.jpg",
+    "tags": [
+      "журнал",
+      "митясудаков"
+    ],
+    "url": "https://type.today/ru/journal",
+    "date": 1584698457,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
