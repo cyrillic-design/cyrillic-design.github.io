@@ -133,8 +133,8 @@
     ],
     "url": "https://sloy.design/ru",
     "date": 1584007225,
-    "edit_date": 1584910223,
-    "isMonth": true,
+    "edit_date": 1584910276,
+    "isMonth": false,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
@@ -142,9 +142,7 @@
       "brending",
       "cargo"
     ],
-    "awards": [
-      "month"
-    ]
+    "awards": []
   },
   {
     "id": 684,
