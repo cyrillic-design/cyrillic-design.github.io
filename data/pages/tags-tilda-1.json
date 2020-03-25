@@ -1,5 +1,26 @@
 [
   {
+    "id": 693,
+    "title": "LOVEGOODS",
+    "caption": "LOVEGOODS\nhttps://lovegoods.store/\n\n#магазин #tilda\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/693.jpg",
+    "tags": [
+      "магазин",
+      "tilda"
+    ],
+    "url": "https://lovegoods.store/",
+    "date": 1585130465,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "tilda"
+    ],
+    "awards": []
+  },
+  {
     "id": 675,
     "title": "Театральная школа Karavaev Lab",
     "caption": "Театральная школа Karavaev Lab\nhttps://karavaev-lab.ru/\n\n☆ #образование #мероприятие #tilda",
