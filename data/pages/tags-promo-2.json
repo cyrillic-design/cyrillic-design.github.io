@@ -1,5 +1,28 @@
 [
   {
+    "id": 623,
+    "title": "Astris",
+    "image": "data/images/623.jpg",
+    "tags": [
+      "промо",
+      "недвижимость",
+      "екатеринаморошилова",
+      "videinfra"
+    ],
+    "url": "http://kos21.ru/",
+    "date": 1573639218,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "nedvizhimost",
+      "yekaterinamoroshilova",
+      "videinfra"
+    ],
+    "awards": []
+  },
+  {
     "id": 622,
     "title": "New Wallet — Travel Kit",
     "image": "data/images/622.jpg",
@@ -380,27 +403,6 @@
       "nedvizhimost",
       "promo",
       "strangebrain"
-    ],
-    "awards": []
-  },
-  {
-    "id": 450,
-    "title": "Гостиница Ольга",
-    "image": "data/images/450.jpg",
-    "tags": [
-      "услуги",
-      "промо",
-      "only"
-    ],
-    "url": "http://olgahotel.site/",
-    "date": 1551175212,
-    "edit_date": 1583185362,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "uslugi",
-      "promo",
-      "only"
     ],
     "awards": []
   }

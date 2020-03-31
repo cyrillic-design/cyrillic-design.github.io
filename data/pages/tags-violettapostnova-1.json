@@ -1,0 +1,23 @@
+[
+  {
+    "id": 694,
+    "title": "Typical",
+    "caption": "Typical\nhttps://typical.company/\n\n#промо #violettapostnova\nСпасибо за ссылку @nowhow — обязательно подпишитесь на этих ребят, они также собирают красивые сайты, только на латинице.",
+    "image": "data/images/694.jpg",
+    "tags": [
+      "промо",
+      "violettapostnova"
+    ],
+    "url": "https://typical.company/",
+    "date": 1585648846,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "violettapostnova"
+    ],
+    "awards": []
+  }
+]
