@@ -10,7 +10,8 @@
     ],
     "url": "https://typical.company/",
     "date": 1585648846,
-    "isMonth": false,
+    "edit_date": 1585663335,
+    "isMonth": true,
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false,
@@ -18,7 +19,9 @@
       "promo",
       "violettapostnova"
     ],
-    "awards": []
+    "awards": [
+      "month"
+    ]
   },
   {
     "id": 684,
