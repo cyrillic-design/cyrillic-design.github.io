@@ -1,5 +1,26 @@
 [
   {
+    "id": 366,
+    "title": "Kto Tut Beauty",
+    "image": "data/images/366.jpg",
+    "tags": [
+      "красота",
+      "магазин",
+      "loremipsumlab"
+    ],
+    "url": "https://ktotutbeauty.com/",
+    "date": 1543140018,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "krasota",
+      "magazin",
+      "loremipsumlab"
+    ],
+    "awards": []
+  },
+  {
     "id": 365,
     "title": "Международный аэропорт Шереметьево",
     "image": "data/images/365.jpg",
@@ -385,29 +406,6 @@
       "dostavka",
       "yeda",
       "kilo"
-    ],
-    "awards": []
-  },
-  {
-    "id": 343,
-    "title": "Сбербанк 0411",
-    "image": "data/images/343.jpg",
-    "tags": [
-      "спецпроект",
-      "культура",
-      "люди",
-      "сбербанк"
-    ],
-    "url": "https://sberbank0411.ru/",
-    "date": 1541239211,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "kultura",
-      "lyudi",
-      "sberbank"
     ],
     "awards": []
   }

@@ -8582,5 +8582,21 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "695": {
+    "id": 695,
+    "title": "XXII CARAT",
+    "caption": "XXII CARAT\nhttps://www.22carat.ae/ru/\n\n#промо #pixies",
+    "image": "695.jpg",
+    "tags": [
+      "промо",
+      "pixies"
+    ],
+    "url": "https://www.22carat.ae/ru/",
+    "date": 1585724434,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

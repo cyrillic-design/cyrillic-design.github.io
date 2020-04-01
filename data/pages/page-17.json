@@ -1,5 +1,28 @@
 [
   {
+    "id": 343,
+    "title": "Сбербанк 0411",
+    "image": "data/images/343.jpg",
+    "tags": [
+      "спецпроект",
+      "культура",
+      "люди",
+      "сбербанк"
+    ],
+    "url": "https://sberbank0411.ru/",
+    "date": 1541239211,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "kultura",
+      "lyudi",
+      "sberbank"
+    ],
+    "awards": []
+  },
+  {
     "id": 342,
     "title": "Открытые 18+",
     "image": "data/images/342.jpg",
@@ -383,27 +406,6 @@
     "slugs": [
       "yeda",
       "dostavka"
-    ],
-    "awards": []
-  },
-  {
-    "id": 323,
-    "title": "The Orator Club",
-    "image": "data/images/323.jpg",
-    "tags": [
-      "update",
-      "образование",
-      "cherepukhin"
-    ],
-    "url": "https://orator.club/",
-    "date": 1539165606,
-    "edit_date": 1583185395,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "update",
-      "obrazovanie",
-      "cherepukhin"
     ],
     "awards": []
   }

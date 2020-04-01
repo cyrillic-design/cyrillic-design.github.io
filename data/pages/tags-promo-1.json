@@ -1,5 +1,26 @@
 [
   {
+    "id": 695,
+    "title": "XXII CARAT",
+    "caption": "XXII CARAT\nhttps://www.22carat.ae/ru/\n\n#промо #pixies",
+    "image": "data/images/695.jpg",
+    "tags": [
+      "промо",
+      "pixies"
+    ],
+    "url": "https://www.22carat.ae/ru/",
+    "date": 1585724434,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "pixies"
+    ],
+    "awards": []
+  },
+  {
     "id": 694,
     "title": "Typical",
     "caption": "Typical\nhttps://typical.company/\n\n#промо #violettapostnova\nСпасибо за ссылку @nowhow — обязательно подпишитесь на этих ребят, они также собирают красивые сайты, только на латинице.",
@@ -415,29 +436,6 @@
     "slugs": [
       "promo",
       "portfolio",
-      "voskhoddigital"
-    ],
-    "awards": []
-  },
-  {
-    "id": 629,
-    "title": "Путешествие в темноте",
-    "image": "data/images/629.jpg",
-    "tags": [
-      "музей",
-      "люди",
-      "промо",
-      "voskhoddigital"
-    ],
-    "url": "https://tripinthedark.ru/",
-    "date": 1574416892,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "muzei",
-      "lyudi",
-      "promo",
       "voskhoddigital"
     ],
     "awards": []

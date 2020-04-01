@@ -1,5 +1,28 @@
 [
   {
+    "id": 629,
+    "title": "Путешествие в темноте",
+    "image": "data/images/629.jpg",
+    "tags": [
+      "музей",
+      "люди",
+      "промо",
+      "voskhoddigital"
+    ],
+    "url": "https://tripinthedark.ru/",
+    "date": 1574416892,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "muzei",
+      "lyudi",
+      "promo",
+      "voskhoddigital"
+    ],
+    "awards": []
+  },
+  {
     "id": 623,
     "title": "Astris",
     "image": "data/images/623.jpg",
@@ -382,27 +405,6 @@
     "slugs": [
       "promo",
       "prominado"
-    ],
-    "awards": []
-  },
-  {
-    "id": 461,
-    "title": "Co loft",
-    "image": "data/images/461.jpg",
-    "tags": [
-      "недвижимость",
-      "промо",
-      "strangebrain"
-    ],
-    "url": "https://coloft.ru/",
-    "date": 1551780011,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "nedvizhimost",
-      "promo",
-      "strangebrain"
     ],
     "awards": []
   }
