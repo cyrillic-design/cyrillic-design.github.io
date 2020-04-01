@@ -1,5 +1,24 @@
 [
   {
+    "id": 597,
+    "title": "Электронный архив работ художника Соломона Телингатера",
+    "image": "data/images/597.jpg",
+    "tags": [
+      "спецпроект",
+      "ильястарков"
+    ],
+    "url": "http://telingater.togdazine.ru/",
+    "date": 1570022721,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "ilyastarkov"
+    ],
+    "awards": []
+  },
+  {
     "id": 592,
     "title": "Защитники, которых никто не защитил",
     "caption": "Защитники, которых никто не защитил\nhttps://www.advgazeta.ru/repressed-lawyers/\n\n#спецпроект #адвокатскаягазета #artperformance",
@@ -391,27 +410,6 @@
       "spetsproekt",
       "meropriyatie",
       "artlebedev"
-    ],
-    "awards": []
-  },
-  {
-    "id": 396,
-    "title": "Дом-музей Карамзиных на Венце",
-    "image": "data/images/396.jpg",
-    "tags": [
-      "спецпроект",
-      "история",
-      "itechgroup"
-    ],
-    "url": "http://www.karamzin.info/home/",
-    "date": 1545472806,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "istoriya",
-      "itechgroup"
     ],
     "awards": []
   }

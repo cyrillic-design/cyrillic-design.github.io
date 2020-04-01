@@ -1,5 +1,32 @@
 [
   {
+    "id": 696,
+    "title": "Гараж — Самоизоляция",
+    "caption": "Гараж — Самоизоляция\nhttps://self-isolation.garagemca.org/\n\n#спецпроект #образование #каталог #искусство #readymag\nСпасибо за ссылку @readymag_official",
+    "image": "data/images/696.jpg",
+    "tags": [
+      "спецпроект",
+      "образование",
+      "каталог",
+      "искусство",
+      "readymag"
+    ],
+    "url": "https://self-isolation.garagemca.org/",
+    "date": 1585724442,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "obrazovanie",
+      "katalog",
+      "iskusstvo",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 689,
     "title": "НИИ ЗаЯ",
     "caption": "НИИ ЗаЯ\nhttps://breakfast.localkitchen.ru/\n\n#спецпроект #доставка #eggsellent #кухнянарайоне #readymag\nСпасибо за ссылку @genue",
@@ -423,29 +450,6 @@
       "istoriya",
       "readymag",
       "dashapochekueva"
-    ],
-    "awards": []
-  },
-  {
-    "id": 473,
-    "title": "Soviet Design Timeline 1962 —1992",
-    "image": "data/images/473.jpg",
-    "tags": [
-      "история",
-      "дизайн",
-      "readymag",
-      "antonbalakin"
-    ],
-    "url": "http://sovietdesignstory.com/",
-    "date": 1552816802,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "istoriya",
-      "dizain",
-      "readymag",
-      "antonbalakin"
     ],
     "awards": []
   }

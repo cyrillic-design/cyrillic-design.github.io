@@ -1,5 +1,32 @@
 [
   {
+    "id": 696,
+    "title": "Гараж — Самоизоляция",
+    "caption": "Гараж — Самоизоляция\nhttps://self-isolation.garagemca.org/\n\n#спецпроект #образование #каталог #искусство #readymag\nСпасибо за ссылку @readymag_official",
+    "image": "data/images/696.jpg",
+    "tags": [
+      "спецпроект",
+      "образование",
+      "каталог",
+      "искусство",
+      "readymag"
+    ],
+    "url": "https://self-isolation.garagemca.org/",
+    "date": 1585724442,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "obrazovanie",
+      "katalog",
+      "iskusstvo",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 689,
     "title": "НИИ ЗаЯ",
     "caption": "НИИ ЗаЯ\nhttps://breakfast.localkitchen.ru/\n\n#спецпроект #доставка #eggsellent #кухнянарайоне #readymag\nСпасибо за ссылку @genue",
@@ -403,25 +430,6 @@
       "spetsproekt",
       "muzika",
       "yandeks"
-    ],
-    "awards": []
-  },
-  {
-    "id": 597,
-    "title": "Электронный архив работ художника Соломона Телингатера",
-    "image": "data/images/597.jpg",
-    "tags": [
-      "спецпроект",
-      "ильястарков"
-    ],
-    "url": "http://telingater.togdazine.ru/",
-    "date": 1570022721,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "ilyastarkov"
     ],
     "awards": []
   }
