@@ -1236,8 +1236,8 @@
     "slug": "onlain"
   },
   {
-    "title": "карантин",
-    "slug": "karantin"
+    "title": "лучшедома",
+    "slug": "luchshedoma"
   },
   {
     "title": "violettapostnova",
@@ -1246,9 +1246,5 @@
   {
     "title": "pixies",
     "slug": "pixies"
-  },
-  {
-    "title": "лучшедома",
-    "slug": "luchshedoma"
   }
 ]

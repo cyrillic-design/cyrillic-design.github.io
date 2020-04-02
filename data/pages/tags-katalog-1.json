@@ -32,17 +32,17 @@
   {
     "id": 692,
     "title": "ТРАКТОР",
-    "caption": "ТРАКТОР\nhttps://traktor.cc/\n\n#онлайн #каталог #карантин #the23\nСпасибо за ссылку @the23_design",
+    "caption": "ТРАКТОР\nhttps://traktor.cc/\n\n#онлайн #каталог #лучшедома #the23\nСпасибо за ссылку @the23_design",
     "image": "data/images/692.jpg",
     "tags": [
       "онлайн",
       "каталог",
-      "карантин",
+      "лучшедома",
       "the23"
     ],
     "url": "https://traktor.cc/",
     "date": 1585044016,
-    "edit_date": 1585816402,
+    "edit_date": 1585832283,
     "isMonth": false,
     "isYear": false,
     "isHighlighted": false,
@@ -50,7 +50,7 @@
     "slugs": [
       "onlain",
       "katalog",
-      "karantin",
+      "luchshedoma",
       "the23"
     ],
     "awards": []
