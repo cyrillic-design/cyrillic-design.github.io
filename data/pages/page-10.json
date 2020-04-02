@@ -1,5 +1,24 @@
 [
   {
+    "id": 499,
+    "title": "Таруса",
+    "image": "data/images/499.jpg",
+    "tags": [
+      "спецпроект",
+      "кружок"
+    ],
+    "url": "https://tarusa.city/",
+    "date": 1555495244,
+    "edit_date": 1583185363,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "kruzhok"
+    ],
+    "awards": []
+  },
+  {
     "id": 498,
     "title": "Алекс и Кэт",
     "caption": "Алекс и Кэт\nhttps://alexkatfood.ru/\n\n#магазин #доставка #юлиязасс #tilda",
@@ -373,27 +392,6 @@
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 478,
-    "title": "Алия: психологическая поддержка в перинатальной потере",
-    "image": "data/images/478.jpg",
-    "tags": [
-      "помощь",
-      "услуги",
-      "verks"
-    ],
-    "url": "https://babyloss.ru/",
-    "date": 1553248815,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "pomoshch",
-      "uslugi",
-      "verks"
     ],
     "awards": []
   }

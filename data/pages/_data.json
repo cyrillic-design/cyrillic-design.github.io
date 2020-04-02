@@ -8617,5 +8617,22 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "697": {
+    "id": 697,
+    "title": "SRSLY",
+    "caption": "SRSLY\nhttps://srsly.ru/\n\n#медиа #журнал #whiterussianstudio\nСпасибо за ссылку @AndyAbramov",
+    "image": "697.jpg",
+    "tags": [
+      "медиа",
+      "журнал",
+      "whiterussianstudio"
+    ],
+    "url": "https://srsly.ru/",
+    "date": 1585810842,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

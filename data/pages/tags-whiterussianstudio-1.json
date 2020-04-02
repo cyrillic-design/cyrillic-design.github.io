@@ -1,5 +1,28 @@
 [
   {
+    "id": 697,
+    "title": "SRSLY",
+    "caption": "SRSLY\nhttps://srsly.ru/\n\n#медиа #журнал #whiterussianstudio\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/697.jpg",
+    "tags": [
+      "медиа",
+      "журнал",
+      "whiterussianstudio"
+    ],
+    "url": "https://srsly.ru/",
+    "date": 1585810842,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "media",
+      "zhurnal",
+      "whiterussianstudio"
+    ],
+    "awards": []
+  },
+  {
     "id": 665,
     "title": "Кузнецов, Марисин и партнёры",
     "caption": "Кузнецов, Марисин и партнёры\nhttps://kmplaw.ru/\n\n☆ #корпоративныйсайт #whiterussianstudio",
