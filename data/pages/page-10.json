@@ -1,5 +1,26 @@
 [
   {
+    "id": 500,
+    "title": "Журнал «Код»",
+    "image": "data/images/500.jpg",
+    "tags": [
+      "образование",
+      "журнал",
+      "яндекс"
+    ],
+    "url": "https://thecode.media/",
+    "date": 1555927218,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "zhurnal",
+      "yandeks"
+    ],
+    "awards": []
+  },
+  {
     "id": 499,
     "title": "Таруса",
     "image": "data/images/499.jpg",
@@ -374,24 +395,6 @@
     "slugs": [
       "pamyat",
       "takiedela"
-    ],
-    "awards": []
-  },
-  {
-    "id": 479,
-    "title": "Masterskaya",
-    "caption": "Masterskaya\nhttps://masterskaya.pro/\n\n#портфолио",
-    "image": "data/images/479.jpg",
-    "tags": [
-      "портфолио"
-    ],
-    "url": "https://masterskaya.pro/",
-    "date": 1553335219,
-    "edit_date": 1583423555,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio"
     ],
     "awards": []
   }
