@@ -8536,15 +8536,17 @@
   "692": {
     "id": 692,
     "title": "ТРАКТОР",
-    "caption": "ТРАКТОР\nhttps://traktor.cc/\n\n#онлайн #каталог #the23\nСпасибо за ссылку @the23_design",
+    "caption": "ТРАКТОР\nhttps://traktor.cc/\n\n#онлайн #каталог #карантин #the23\nСпасибо за ссылку @the23_design",
     "image": "692.jpg",
     "tags": [
       "онлайн",
       "каталог",
+      "карантин",
       "the23"
     ],
     "url": "https://traktor.cc/",
     "date": 1585044016,
+    "edit_date": 1585816402,
     "isMonth": false,
     "isYear": false,
     "isHighlighted": false,
