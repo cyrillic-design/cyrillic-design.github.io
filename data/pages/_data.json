@@ -8656,5 +8656,23 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "699": {
+    "id": 699,
+    "title": "Место возможностей",
+    "caption": "Место возможностей\nhttps://homechallenge.ru/\n\n#каталог #образование #лучшедома #readymag\nСпасибо за ссылку @AndyAbramov",
+    "image": "699.jpg",
+    "tags": [
+      "каталог",
+      "образование",
+      "лучшедома",
+      "readymag"
+    ],
+    "url": "https://homechallenge.ru/",
+    "date": 1585897225,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

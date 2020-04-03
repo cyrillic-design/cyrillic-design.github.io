@@ -1,5 +1,30 @@
 [
   {
+    "id": 699,
+    "title": "Место возможностей",
+    "caption": "Место возможностей\nhttps://homechallenge.ru/\n\n#каталог #образование #лучшедома #readymag\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/699.jpg",
+    "tags": [
+      "каталог",
+      "образование",
+      "лучшедома",
+      "readymag"
+    ],
+    "url": "https://homechallenge.ru/",
+    "date": 1585897225,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "katalog",
+      "obrazovanie",
+      "luchshedoma",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 698,
     "title": "1 рубль — это много, когда нас много",
     "caption": "1 рубль — это много, когда нас много\nhttps://nuzhnapomosh.ru/crisis/\n\n#благотворительность #помощь #люди #лучшедома",

@@ -1,5 +1,30 @@
 [
   {
+    "id": 699,
+    "title": "Место возможностей",
+    "caption": "Место возможностей\nhttps://homechallenge.ru/\n\n#каталог #образование #лучшедома #readymag\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/699.jpg",
+    "tags": [
+      "каталог",
+      "образование",
+      "лучшедома",
+      "readymag"
+    ],
+    "url": "https://homechallenge.ru/",
+    "date": 1585897225,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "katalog",
+      "obrazovanie",
+      "luchshedoma",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 696,
     "title": "Гараж — Самоизоляция",
     "caption": "Гараж — Самоизоляция\nhttps://self-isolation.garagemca.org/\n\n#спецпроект #образование #каталог #искусство #лучшедома #readymag\nСпасибо за ссылку @readymag_official",
@@ -386,26 +411,6 @@
     "slugs": [
       "obrazovanie",
       "tilda"
-    ],
-    "awards": []
-  },
-  {
-    "id": 418,
-    "title": "DESIGNWORKOUT",
-    "caption": "DESIGNWORKOUT\nhttps://designworkout.ru/\n\n#образование #update",
-    "image": "data/images/418.jpg",
-    "tags": [
-      "образование",
-      "update"
-    ],
-    "url": "https://designworkout.ru/",
-    "date": 1548151224,
-    "edit_date": 1583423714,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "update"
     ],
     "awards": []
   }
