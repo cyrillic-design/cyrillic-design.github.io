@@ -1,5 +1,26 @@
 [
   {
+    "id": 247,
+    "title": "Airbnb",
+    "image": "data/images/247.jpg",
+    "tags": [
+      "сервис",
+      "путешествие",
+      "аренда"
+    ],
+    "url": "https://www.airbnb.ru/",
+    "date": 1532512815,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "puteshestvie",
+      "arenda"
+    ],
+    "awards": []
+  },
+  {
     "id": 246,
     "title": "Щи",
     "image": "data/images/246.jpg",
@@ -382,25 +403,6 @@
       "obrazovanie",
       "lyudi",
       "biznes"
-    ],
-    "awards": []
-  },
-  {
-    "id": 227,
-    "title": "Кинопоиск на SmartTV",
-    "image": "data/images/227.jpg",
-    "tags": [
-      "промо",
-      "кинопоиск"
-    ],
-    "url": "https://www.kinopoisk.ru/smart-tv/",
-    "date": 1530784816,
-    "edit_date": 1583185435,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "kinopoisk"
     ],
     "awards": []
   }

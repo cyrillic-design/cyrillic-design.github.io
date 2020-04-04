@@ -1,5 +1,24 @@
 [
   {
+    "id": 426,
+    "title": "Учебник по веб-анимации",
+    "image": "data/images/426.jpg",
+    "tags": [
+      "образование",
+      "tilda"
+    ],
+    "url": "http://tilda.education/web-animation-course",
+    "date": 1548842420,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "tilda"
+    ],
+    "awards": []
+  },
+  {
     "id": 418,
     "title": "DESIGNWORKOUT",
     "caption": "DESIGNWORKOUT\nhttps://designworkout.ru/\n\n#образование #update",
@@ -370,28 +389,6 @@
       "obrazovanie",
       "dizain",
       "bangbangeducation"
-    ],
-    "awards": []
-  },
-  {
-    "id": 228,
-    "title": "Dumb Startups",
-    "caption": "Dumb Startups\nhttp://dumbstartup.co/\n\n#образование #люди #бизнес",
-    "image": "data/images/228.jpg",
-    "tags": [
-      "образование",
-      "люди",
-      "бизнес"
-    ],
-    "url": "http://dumbstartup.co/",
-    "date": 1530871218,
-    "edit_date": 1583417729,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "lyudi",
-      "biznes"
     ],
     "awards": []
   }
