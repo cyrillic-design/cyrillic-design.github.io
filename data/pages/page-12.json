@@ -1,5 +1,26 @@
 [
   {
+    "id": 460,
+    "title": "Белая Радуга",
+    "image": "data/images/460.jpg",
+    "tags": [
+      "здоровье",
+      "услуги",
+      "bureausector"
+    ],
+    "url": "https://belayaraduga.ru/",
+    "date": 1551693622,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zdorove",
+      "uslugi",
+      "bureausector"
+    ],
+    "awards": []
+  },
+  {
     "id": 459,
     "title": "Meet For Charity",
     "image": "data/images/459.jpg",
@@ -372,25 +393,6 @@
     "isRemoved": false,
     "slugs": [
       "izdanie"
-    ],
-    "awards": []
-  },
-  {
-    "id": 436,
-    "title": "PRAGMATIKA MEDIA",
-    "image": "data/images/436.jpg",
-    "tags": [
-      "журнал",
-      "otherland"
-    ],
-    "url": "https://pragmatika.media/",
-    "date": 1549965608,
-    "edit_date": 1583185362,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "zhurnal",
-      "otherland"
     ],
     "awards": []
   }

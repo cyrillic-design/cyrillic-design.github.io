@@ -1,5 +1,26 @@
 [
   {
+    "id": 702,
+    "title": "Losko",
+    "caption": "Losko\nhttps://losko.ru/\n\n#журнал #люди",
+    "image": "data/images/702.jpg",
+    "tags": [
+      "журнал",
+      "люди"
+    ],
+    "url": "https://losko.ru/",
+    "date": 1586070011,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "lyudi"
+    ],
+    "awards": []
+  },
+  {
     "id": 698,
     "title": "1 рубль — это много, когда нас много",
     "caption": "1 рубль — это много, когда нас много\nhttps://nuzhnapomosh.ru/crisis/\n\n#благотворительность #помощь #люди #лучшедома",
@@ -415,29 +436,6 @@
       "obrazovanie",
       "lyudi",
       "the23"
-    ],
-    "awards": []
-  },
-  {
-    "id": 166,
-    "title": "BOSCO FRESH FEST 18",
-    "image": "data/images/166.jpg",
-    "tags": [
-      "фестиваль",
-      "музыка",
-      "люди",
-      "bosco"
-    ],
-    "url": "https://boscofreshfest18.com/",
-    "date": 1525619259,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "festival",
-      "muzika",
-      "lyudi",
-      "bosco"
     ],
     "awards": []
   }

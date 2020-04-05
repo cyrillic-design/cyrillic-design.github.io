@@ -8692,5 +8692,21 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "702": {
+    "id": 702,
+    "title": "Losko",
+    "caption": "Losko\nhttps://losko.ru/\n\n#журнал #люди",
+    "image": "702.jpg",
+    "tags": [
+      "журнал",
+      "люди"
+    ],
+    "url": "https://losko.ru/",
+    "date": 1586070011,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

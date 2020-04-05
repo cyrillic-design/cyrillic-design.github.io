@@ -1,5 +1,26 @@
 [
   {
+    "id": 702,
+    "title": "Losko",
+    "caption": "Losko\nhttps://losko.ru/\n\n#журнал #люди",
+    "image": "data/images/702.jpg",
+    "tags": [
+      "журнал",
+      "люди"
+    ],
+    "url": "https://losko.ru/",
+    "date": 1586070011,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "lyudi"
+    ],
+    "awards": []
+  },
+  {
     "id": 697,
     "title": "SRSLY",
     "caption": "SRSLY\nhttps://srsly.ru/\n\n#медиа #журнал #whiterussianstudio\nСпасибо за ссылку @AndyAbramov",
@@ -388,27 +409,6 @@
       "zhurnal",
       "spetsproekt",
       "politika"
-    ],
-    "awards": []
-  },
-  {
-    "id": 309,
-    "title": "TIGHT magazine",
-    "image": "data/images/309.jpg",
-    "tags": [
-      "журнал",
-      "музыка",
-      "дизайн"
-    ],
-    "url": "https://www.tight.media/",
-    "date": 1537783205,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "zhurnal",
-      "muzika",
-      "dizain"
     ],
     "awards": []
   }
