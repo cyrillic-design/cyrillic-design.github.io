@@ -1,5 +1,24 @@
 [
   {
+    "id": 631,
+    "title": "Staya",
+    "image": "data/images/631.jpg",
+    "tags": [
+      "промо",
+      "магазин"
+    ],
+    "url": "https://ru.staya.dog/",
+    "date": 1574676070,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "magazin"
+    ],
+    "awards": []
+  },
+  {
     "id": 630,
     "title": "Слава Самодуров",
     "image": "data/images/630.jpg",
@@ -383,29 +402,6 @@
     "slugs": [
       "meropriyatie",
       "promo"
-    ],
-    "awards": []
-  },
-  {
-    "id": 470,
-    "title": "Самое эмейзинг обновление Рокета!",
-    "image": "data/images/470.jpg",
-    "tags": [
-      "промо",
-      "приложение",
-      "банк",
-      "финансы"
-    ],
-    "url": "https://rocketbank.ru/new-app",
-    "date": 1552557616,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "prilozhenie",
-      "bank",
-      "finansi"
     ],
     "awards": []
   }
