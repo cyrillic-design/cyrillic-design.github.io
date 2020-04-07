@@ -1,5 +1,28 @@
 [
   {
+    "id": 704,
+    "title": "Reminder",
+    "caption": "Reminder\nhttps://reminder.media/\n\n#медиа #журнал #образование\nСпасибо за ссылку @blinklinks",
+    "image": "data/images/704.jpg",
+    "tags": [
+      "медиа",
+      "журнал",
+      "образование"
+    ],
+    "url": "https://reminder.media/",
+    "date": 1586242815,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "media",
+      "zhurnal",
+      "obrazovanie"
+    ],
+    "awards": []
+  },
+  {
     "id": 702,
     "title": "Losko",
     "caption": "Losko\nhttps://losko.ru/\n\n#журнал #люди",
@@ -388,27 +411,6 @@
     "isRemoved": false,
     "slugs": [
       "zhurnal"
-    ],
-    "awards": []
-  },
-  {
-    "id": 328,
-    "title": "Ведомости +1",
-    "image": "data/images/328.jpg",
-    "tags": [
-      "журнал",
-      "спецпроект",
-      "политика"
-    ],
-    "url": "http://plus-one.vedomosti.ru/",
-    "date": 1539684044,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "zhurnal",
-      "spetsproekt",
-      "politika"
     ],
     "awards": []
   }
