@@ -1,5 +1,26 @@
 [
   {
+    "id": 516,
+    "title": "Любава",
+    "image": "data/images/516.jpg",
+    "tags": [
+      "магазин",
+      "производство",
+      "max"
+    ],
+    "url": "http://xn--80aabf6b4g.xn--p1acf/",
+    "date": 1558778408,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "proizvodstvo",
+      "max"
+    ],
+    "awards": []
+  },
+  {
     "id": 498,
     "title": "Алекс и Кэт",
     "caption": "Алекс и Кэт\nhttps://alexkatfood.ru/\n\n#магазин #доставка #юлиязасс #tilda",
@@ -386,25 +407,6 @@
       "bank",
       "finansi",
       "magazin"
-    ],
-    "awards": []
-  },
-  {
-    "id": 272,
-    "title": "INMYROOM",
-    "image": "data/images/272.jpg",
-    "tags": [
-      "магазин",
-      "журнал"
-    ],
-    "url": "https://www.inmyroom.ru/",
-    "date": 1534672809,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "zhurnal"
     ],
     "awards": []
   }
