@@ -1,5 +1,28 @@
 [
   {
+    "id": 166,
+    "title": "BOSCO FRESH FEST 18",
+    "image": "data/images/166.jpg",
+    "tags": [
+      "фестиваль",
+      "музыка",
+      "люди",
+      "bosco"
+    ],
+    "url": "https://boscofreshfest18.com/",
+    "date": 1525619259,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "festival",
+      "muzika",
+      "lyudi",
+      "bosco"
+    ],
+    "awards": []
+  },
+  {
     "id": 80,
     "title": "Памяти Юрия Верменича",
     "image": "data/images/80.jpg",

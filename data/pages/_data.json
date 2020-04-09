@@ -8761,5 +8761,21 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "706": {
+    "id": 706,
+    "title": "Ableton — Learning Music",
+    "caption": "Ableton — Learning Music\nhttps://learningmusic.ableton.com/ru/\n\n#образование #музыка\nСпасибо за ссылку @privet_solnce",
+    "image": "706.jpg",
+    "tags": [
+      "образование",
+      "музыка"
+    ],
+    "url": "https://learningmusic.ableton.com/ru/",
+    "date": 1586426419,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

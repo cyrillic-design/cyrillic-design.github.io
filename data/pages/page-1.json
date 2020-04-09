@@ -1,5 +1,26 @@
 [
   {
+    "id": 706,
+    "title": "Ableton — Learning Music",
+    "caption": "Ableton — Learning Music\nhttps://learningmusic.ableton.com/ru/\n\n#образование #музыка\nСпасибо за ссылку @privet_solnce",
+    "image": "data/images/706.jpg",
+    "tags": [
+      "образование",
+      "музыка"
+    ],
+    "url": "https://learningmusic.ableton.com/ru/",
+    "date": 1586426419,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "muzika"
+    ],
+    "awards": []
+  },
+  {
     "id": 705,
     "title": "ZAMMI",
     "caption": "ZAMMI\nhttp://zammi.me/\n\n#магазин #доставка #сервис #tilda",
@@ -457,29 +478,6 @@
     "slugs": [
       "portfolio",
       "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 685,
-    "title": "Sloy Design",
-    "caption": "Sloy Design\nhttps://sloy.design/ru\n\n☆ #приложение #брендинг #cargo",
-    "image": "data/images/685.jpg",
-    "tags": [
-      "приложение",
-      "брендинг",
-      "cargo"
-    ],
-    "url": "https://sloy.design/ru",
-    "date": 1584007225,
-    "edit_date": 1584910276,
-    "isMonth": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "prilozhenie",
-      "brending",
-      "cargo"
     ],
     "awards": []
   }
