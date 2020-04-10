@@ -1,5 +1,28 @@
 [
   {
+    "id": 707,
+    "title": "EG 2020",
+    "caption": "EG 2020\nhttps://eg2020.ru/\n\n#спецпроект #телекоммуникации #люди\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/707.jpg",
+    "tags": [
+      "спецпроект",
+      "телекоммуникации",
+      "люди"
+    ],
+    "url": "https://eg2020.ru/",
+    "date": 1586512826,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "telekommunikatsii",
+      "lyudi"
+    ],
+    "awards": []
+  },
+  {
     "id": 702,
     "title": "Losko",
     "caption": "Losko\nhttps://losko.ru/\n\n#журнал #люди",
@@ -413,29 +436,6 @@
       "lyudi",
       "novosti",
       "moda"
-    ],
-    "awards": []
-  },
-  {
-    "id": 179,
-    "title": "Телеграф",
-    "image": "data/images/179.jpg",
-    "tags": [
-      "журнал",
-      "образование",
-      "люди",
-      "the23"
-    ],
-    "url": "http://telegraf.design/",
-    "date": 1526724012,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "zhurnal",
-      "obrazovanie",
-      "lyudi",
-      "the23"
     ],
     "awards": []
   }
