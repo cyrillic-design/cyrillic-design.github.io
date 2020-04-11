@@ -1,5 +1,32 @@
 [
   {
+    "id": 708,
+    "title": "Райффайзен-Лизинг",
+    "caption": "Райффайзен-Лизинг\nhttp://www.raiffeisen-leasing.ru/\n\n#авто #финансы #банк #лизинг #creativepeople",
+    "image": "data/images/708.jpg",
+    "tags": [
+      "авто",
+      "финансы",
+      "банк",
+      "лизинг",
+      "creativepeople"
+    ],
+    "url": "http://www.raiffeisen-leasing.ru/",
+    "date": 1586599217,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "avto",
+      "finansi",
+      "bank",
+      "lizing",
+      "creativepeople"
+    ],
+    "awards": []
+  },
+  {
     "id": 691,
     "title": "Банк России",
     "caption": "Банк России\nhttps://www.cbr.ru/\n\n#россия #финансы #банк #aic\nСпасибо за ссылку @AndyAbramov",
@@ -418,27 +445,6 @@
     "slugs": [
       "finansi",
       "bank"
-    ],
-    "awards": []
-  },
-  {
-    "id": 88,
-    "title": "РайффайзенБанк",
-    "image": "data/images/88.jpg",
-    "tags": [
-      "банк",
-      "финансы",
-      "aic"
-    ],
-    "url": "https://www.raiffeisen.ru/",
-    "date": 1519288519,
-    "edit_date": 1583185563,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "bank",
-      "finansi",
-      "aic"
     ],
     "awards": []
   }

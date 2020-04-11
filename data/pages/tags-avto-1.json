@@ -1,5 +1,32 @@
 [
   {
+    "id": 708,
+    "title": "Райффайзен-Лизинг",
+    "caption": "Райффайзен-Лизинг\nhttp://www.raiffeisen-leasing.ru/\n\n#авто #финансы #банк #лизинг #creativepeople",
+    "image": "data/images/708.jpg",
+    "tags": [
+      "авто",
+      "финансы",
+      "банк",
+      "лизинг",
+      "creativepeople"
+    ],
+    "url": "http://www.raiffeisen-leasing.ru/",
+    "date": 1586599217,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "avto",
+      "finansi",
+      "bank",
+      "lizing",
+      "creativepeople"
+    ],
+    "awards": []
+  },
+  {
     "id": 463,
     "title": "Журнал Авто.ру",
     "image": "data/images/463.jpg",
