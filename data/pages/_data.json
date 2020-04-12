@@ -8813,5 +8813,21 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "709": {
+    "id": 709,
+    "title": "Wanna be like Rozov",
+    "caption": "Wanna be like Rozov\nhttps://wannabelike.ru/rozov/\n\n#образование #мероприятие",
+    "image": "709.jpg",
+    "tags": [
+      "образование",
+      "мероприятие"
+    ],
+    "url": "https://wannabelike.ru/rozov/",
+    "date": 1586685615,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
