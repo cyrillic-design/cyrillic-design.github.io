@@ -2,19 +2,20 @@
   {
     "id": 261,
     "title": "ФК «Зенит» — История формы",
+    "caption": "ФК «Зенит» — История формы\nhttps://forma.fc-zenit.ru/ru\n\n#спорт #история #мегафон",
     "image": "data/images/261.jpg",
     "tags": [
-      "сопрт",
+      "спорт",
       "история",
       "мегафон"
     ],
     "url": "https://forma.fc-zenit.ru/ru",
     "date": 1533722417,
-    "edit_date": 1583185435,
+    "edit_date": 1586172531,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
-      "soprt",
+      "sport",
       "istoriya",
       "megafon"
     ],

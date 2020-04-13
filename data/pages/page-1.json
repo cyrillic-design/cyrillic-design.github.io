@@ -1,447 +1,480 @@
 [
   {
-    "id": 689,
-    "title": "НИИ ЗаЯ",
-    "caption": "НИИ ЗаЯ\nhttps://breakfast.localkitchen.ru/\n\n#спецпроект #доставка #eggsellent #кухнянарайоне #readymag\nСпасибо за ссылку @genue",
-    "image": "data/images/689.jpg",
+    "id": 710,
+    "title": "Personal Profiles – Just Talk / 20.03.2020",
+    "caption": "Personal Profiles – Just Talk / 20.03.2020\nhttps://profiles.taragraphy.com/\n\n#образование #люди #мероприятие #отчет #readymag #artemtarasov\nСпасибо за ссылку @designgest_live",
+    "image": "data/images/710.jpg",
+    "tags": [
+      "образование",
+      "люди",
+      "мероприятие",
+      "отчет",
+      "readymag",
+      "artemtarasov"
+    ],
+    "url": "https://profiles.taragraphy.com/",
+    "date": 1586772007,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "lyudi",
+      "meropriyatie",
+      "otchet",
+      "readymag",
+      "artemtarasov"
+    ],
+    "awards": []
+  },
+  {
+    "id": 709,
+    "title": "Wanna be like Rozov",
+    "caption": "Wanna be like Rozov\nhttps://wannabelike.ru/rozov/\n\n#образование #мероприятие",
+    "image": "data/images/709.jpg",
+    "tags": [
+      "образование",
+      "мероприятие"
+    ],
+    "url": "https://wannabelike.ru/rozov/",
+    "date": 1586685615,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "meropriyatie"
+    ],
+    "awards": []
+  },
+  {
+    "id": 708,
+    "title": "Райффайзен-Лизинг",
+    "caption": "Райффайзен-Лизинг\nhttp://www.raiffeisen-leasing.ru/\n\n#авто #финансы #банк #лизинг #creativepeople",
+    "image": "data/images/708.jpg",
+    "tags": [
+      "авто",
+      "финансы",
+      "банк",
+      "лизинг",
+      "creativepeople"
+    ],
+    "url": "http://www.raiffeisen-leasing.ru/",
+    "date": 1586599217,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "avto",
+      "finansi",
+      "bank",
+      "lizing",
+      "creativepeople"
+    ],
+    "awards": []
+  },
+  {
+    "id": 707,
+    "title": "EG 2020",
+    "caption": "EG 2020\nhttps://eg2020.ru/\n\n#спецпроект #телекоммуникации #люди\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/707.jpg",
     "tags": [
       "спецпроект",
+      "телекоммуникации",
+      "люди"
+    ],
+    "url": "https://eg2020.ru/",
+    "date": 1586512826,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "telekommunikatsii",
+      "lyudi"
+    ],
+    "awards": []
+  },
+  {
+    "id": 706,
+    "title": "Ableton — Learning Music",
+    "caption": "Ableton — Learning Music\nhttps://learningmusic.ableton.com/ru/\n\n#образование #музыка\nСпасибо за ссылку @privet_solnce",
+    "image": "data/images/706.jpg",
+    "tags": [
+      "образование",
+      "музыка"
+    ],
+    "url": "https://learningmusic.ableton.com/ru/",
+    "date": 1586426419,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "muzika"
+    ],
+    "awards": []
+  },
+  {
+    "id": 705,
+    "title": "ZAMMI",
+    "caption": "ZAMMI\nhttp://zammi.me/\n\n#магазин #доставка #сервис #tilda",
+    "image": "data/images/705.jpg",
+    "tags": [
+      "магазин",
       "доставка",
-      "eggsellent",
-      "кухнянарайоне",
-      "readymag"
+      "сервис",
+      "tilda"
     ],
-    "url": "https://breakfast.localkitchen.ru/",
-    "date": 1584354235,
-    "edit_date": 1584360840,
+    "url": "http://zammi.me/",
+    "date": 1586340018,
     "isMonth": false,
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
-      "spetsproekt",
+      "magazin",
       "dostavka",
-      "eggsellent",
-      "kukhnyanaraione",
-      "readymag"
+      "servis",
+      "tilda"
     ],
     "awards": []
   },
   {
-    "id": 688,
-    "title": "hochiminh",
-    "caption": "hochiminh\nhttps://readymag.com/u64480371/1549696/\n\n☆ #спецпроект #культура #readymag #анастасиябурякова",
-    "image": "data/images/688.jpg",
+    "id": 704,
+    "title": "Reminder",
+    "caption": "Reminder\nhttps://reminder.media/\n\n#медиа #журнал #образование\nСпасибо за ссылку @blinklinks",
+    "image": "data/images/704.jpg",
     "tags": [
-      "спецпроект",
-      "культура",
-      "readymag",
-      "анастасиябурякова"
+      "медиа",
+      "журнал",
+      "образование"
     ],
-    "url": "https://readymag.com/u64480371/1549696/",
-    "date": 1584266458,
-    "edit_date": 1584347798,
+    "url": "https://reminder.media/",
+    "date": 1586242815,
     "isMonth": false,
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
-      "spetsproekt",
-      "kultura",
-      "readymag",
-      "anastasiyaburyakova"
+      "media",
+      "zhurnal",
+      "obrazovanie"
     ],
     "awards": []
   },
   {
-    "id": 687,
-    "title": "Объединение",
-    "caption": "Объединение\nhttps://obdn.ru/\n\n☆ #журнал #магазин #искусство #redo\n♡ @AndyAbramov",
-    "image": "data/images/687.jpg",
+    "id": 703,
+    "title": "Helios",
+    "caption": "Helios\nhttp://heliosstroy.com/\n\n#промо #недвижимость #elenasharova",
+    "image": "data/images/703.jpg",
+    "tags": [
+      "промо",
+      "недвижимость",
+      "elenasharova"
+    ],
+    "url": "http://heliosstroy.com/",
+    "date": 1586156452,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "nedvizhimost",
+      "elenasharova"
+    ],
+    "awards": []
+  },
+  {
+    "id": 702,
+    "title": "Losko",
+    "caption": "Losko\nhttps://losko.ru/\n\n#журнал #люди",
+    "image": "data/images/702.jpg",
     "tags": [
       "журнал",
-      "магазин",
-      "искусство",
-      "redo"
+      "люди"
     ],
-    "url": "https://obdn.ru/",
-    "date": 1584180023,
-    "edit_date": 1584347798,
+    "url": "https://losko.ru/",
+    "date": 1586070011,
     "isMonth": false,
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
       "zhurnal",
-      "magazin",
-      "iskusstvo",
-      "redo"
+      "lyudi"
     ],
     "awards": []
   },
   {
-    "id": 686,
-    "title": "plotnik design",
-    "caption": "plotnik design\nhttps://plotnik.design/\n\n☆ #портфолио #readymag",
-    "image": "data/images/686.jpg",
+    "id": 700,
+    "title": "Reading clubs Skyeng",
+    "caption": "Reading clubs Skyeng\nhttps://readymag.com/u49498434/ReadingSkyeng/\n\n#промо #образование #otherland #readymag",
+    "image": "data/images/700.jpg",
     "tags": [
-      "портфолио",
+      "промо",
+      "образование",
+      "otherland",
       "readymag"
     ],
-    "url": "https://plotnik.design/",
-    "date": 1584093614,
-    "edit_date": 1584347782,
+    "url": "https://readymag.com/u49498434/ReadingSkyeng/",
+    "date": 1585983669,
     "isMonth": false,
+    "isYear": false,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
-      "portfolio",
-      "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 685,
-    "title": "Sloy Design",
-    "caption": "Sloy Design\nhttps://sloy.design/ru\n\n☆ #приложение #брендинг #cargo",
-    "image": "data/images/685.jpg",
-    "tags": [
-      "приложение",
-      "брендинг",
-      "cargo"
-    ],
-    "url": "https://sloy.design/ru",
-    "date": 1584007225,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "prilozhenie",
-      "brending",
-      "cargo"
-    ],
-    "awards": []
-  },
-  {
-    "id": 684,
-    "title": "Яндекс.Заправки",
-    "caption": "Яндекс.Заправки\nhttps://zapravki.yandex.ru/\n\n☆ #приложение #сервис #промо #яндекс",
-    "image": "data/images/684.jpg",
-    "tags": [
-      "приложение",
-      "сервис",
-      "промо",
-      "яндекс"
-    ],
-    "url": "https://zapravki.yandex.ru/",
-    "date": 1583920822,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "prilozhenie",
-      "servis",
       "promo",
-      "yandeks"
-    ],
-    "awards": []
-  },
-  {
-    "id": 683,
-    "title": "В моем репертуаре",
-    "caption": "В моем репертуаре\nhttps://truetoform.me/\n\n☆ #сервис #промо #мероприятие #readymag",
-    "image": "data/images/683.jpg",
-    "tags": [
-      "сервис",
-      "промо",
-      "мероприятие",
-      "readymag"
-    ],
-    "url": "https://truetoform.me/",
-    "date": 1583834419,
-    "edit_date": 1583834486,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "promo",
-      "meropriyatie",
-      "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 681,
-    "title": "Накормим весь малый бизнес",
-    "caption": "Накормим весь малый бизнес\nhttps://sfera.ru/landing/localkitchen/\n\n☆ #сервис #промо #банк #бкс #кухнянарайоне",
-    "image": "data/images/681.jpg",
-    "tags": [
-      "сервис",
-      "промо",
-      "банк",
-      "бкс",
-      "кухнянарайоне"
-    ],
-    "url": "https://sfera.ru/landing/localkitchen/",
-    "date": 1583748019,
-    "edit_date": 1583750685,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "promo",
-      "bank",
-      "bks",
-      "kukhnyanaraione"
-    ],
-    "awards": []
-  },
-  {
-    "id": 680,
-    "title": "Визуальные Тренды 2020",
-    "caption": "Визуальные Тренды 2020\nhttps://ru.depositphotos.com/trends2020\n\n☆ #тренды #промо #михаилвербицкий",
-    "image": "data/images/680.jpg",
-    "tags": [
-      "тренды",
-      "промо",
-      "михаилвербицкий"
-    ],
-    "url": "https://ru.depositphotos.com/trends2020",
-    "date": 1583661651,
-    "edit_date": 1583666142,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "trendi",
-      "promo",
-      "mikhailverbitskii"
-    ],
-    "awards": []
-  },
-  {
-    "id": 679,
-    "title": "Если быть точным",
-    "caption": "Если быть точным\nhttps://tochno.st/\n\n☆ #сервис #данные #студияартемиялебедева",
-    "image": "data/images/679.jpg",
-    "tags": [
-      "сервис",
-      "данные",
-      "студияартемиялебедева"
-    ],
-    "url": "https://tochno.st/",
-    "date": 1583575215,
-    "edit_date": 1583666170,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "dannie",
-      "studiyaartemiyalebedeva"
-    ],
-    "awards": []
-  },
-  {
-    "id": 678,
-    "title": "ЖК Композиция №24",
-    "caption": "ЖК Композиция №24\nhttps://k24moscow.ru/\n\n☆ #недвижимость #промо #videinfra",
-    "image": "data/images/678.jpg",
-    "tags": [
-      "недвижимость",
-      "промо",
-      "videinfra"
-    ],
-    "url": "https://k24moscow.ru/",
-    "date": 1583488809,
-    "edit_date": 1583666192,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "nedvizhimost",
-      "promo",
-      "videinfra"
-    ],
-    "awards": []
-  },
-  {
-    "id": 676,
-    "title": "LUXENGLISH",
-    "caption": "LUXENGLISH\nhttps://luxenglish.ru/\n\n☆ #образование #мероприятие #readymag",
-    "image": "data/images/676.jpg",
-    "tags": [
-      "образование",
-      "мероприятие",
-      "readymag"
-    ],
-    "url": "https://luxenglish.ru/",
-    "date": 1583402410,
-    "edit_date": 1583666034,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
       "obrazovanie",
-      "meropriyatie",
+      "otherland",
       "readymag"
     ],
     "awards": []
   },
   {
-    "id": 675,
-    "title": "Театральная школа Karavaev Lab",
-    "caption": "Театральная школа Karavaev Lab\nhttps://karavaev-lab.ru/\n\n☆ #образование #мероприятие #tilda",
-    "image": "data/images/675.jpg",
+    "id": 699,
+    "title": "Место возможностей",
+    "caption": "Место возможностей\nhttps://homechallenge.ru/\n\n#каталог #образование #лучшедома #readymag\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/699.jpg",
     "tags": [
+      "каталог",
       "образование",
-      "мероприятие",
-      "tilda"
+      "лучшедома",
+      "readymag"
     ],
-    "url": "https://karavaev-lab.ru/",
-    "date": 1583316024,
-    "edit_date": 1583524339,
+    "url": "https://homechallenge.ru/",
+    "date": 1585897225,
+    "isMonth": false,
+    "isYear": false,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
+      "katalog",
       "obrazovanie",
-      "meropriyatie",
-      "tilda"
+      "luchshedoma",
+      "readymag"
     ],
     "awards": []
   },
   {
-    "id": 672,
-    "title": "Street beat",
-    "caption": "Street beat\nhttps://street-beat.ru/\n\n☆ #магазин #доставка",
-    "image": "data/images/672.jpg",
+    "id": 698,
+    "title": "1 рубль — это много, когда нас много",
+    "caption": "1 рубль — это много, когда нас много\nhttps://nuzhnapomosh.ru/crisis/\n\n#благотворительность #помощь #люди #лучшедома",
+    "image": "data/images/698.jpg",
+    "tags": [
+      "благотворительность",
+      "помощь",
+      "люди",
+      "лучшедома"
+    ],
+    "url": "https://nuzhnapomosh.ru/crisis/",
+    "date": 1585833389,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "blagotvoritelnost",
+      "pomoshch",
+      "lyudi",
+      "luchshedoma"
+    ],
+    "awards": []
+  },
+  {
+    "id": 697,
+    "title": "SRSLY",
+    "caption": "SRSLY\nhttps://srsly.ru/\n\n#медиа #журнал #whiterussianstudio\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/697.jpg",
+    "tags": [
+      "медиа",
+      "журнал",
+      "whiterussianstudio"
+    ],
+    "url": "https://srsly.ru/",
+    "date": 1585810842,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "media",
+      "zhurnal",
+      "whiterussianstudio"
+    ],
+    "awards": []
+  },
+  {
+    "id": 696,
+    "title": "Гараж — Самоизоляция",
+    "caption": "Гараж — Самоизоляция\nhttps://self-isolation.garagemca.org/\n\n#спецпроект #образование #каталог #искусство #лучшедома #readymag\nСпасибо за ссылку @readymag_official",
+    "image": "data/images/696.jpg",
+    "tags": [
+      "спецпроект",
+      "образование",
+      "каталог",
+      "искусство",
+      "лучшедома",
+      "readymag"
+    ],
+    "url": "https://self-isolation.garagemca.org/",
+    "date": 1585724442,
+    "edit_date": 1585832256,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "obrazovanie",
+      "katalog",
+      "iskusstvo",
+      "luchshedoma",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
+    "id": 695,
+    "title": "XXII CARAT",
+    "caption": "XXII CARAT\nhttps://www.22carat.ae/ru/\n\n#промо #pixies",
+    "image": "data/images/695.jpg",
+    "tags": [
+      "промо",
+      "pixies"
+    ],
+    "url": "https://www.22carat.ae/ru/",
+    "date": 1585724434,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "pixies"
+    ],
+    "awards": []
+  },
+  {
+    "id": 694,
+    "title": "Typical",
+    "caption": "Typical\nhttps://typical.company/\n\n#промо #violettapostnova\nСпасибо за ссылку @nowhow — обязательно подпишитесь на этих ребят, они также собирают красивые сайты, только на латинице.",
+    "image": "data/images/694.jpg",
+    "tags": [
+      "промо",
+      "violettapostnova"
+    ],
+    "url": "https://typical.company/",
+    "date": 1585648846,
+    "edit_date": 1585663335,
+    "isMonth": true,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "violettapostnova"
+    ],
+    "awards": [
+      "month"
+    ]
+  },
+  {
+    "id": 693,
+    "title": "LOVEGOODS",
+    "caption": "LOVEGOODS\nhttps://lovegoods.store/\n\n#магазин #tilda\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/693.jpg",
     "tags": [
       "магазин",
-      "доставка"
+      "tilda"
     ],
-    "url": "https://street-beat.ru/",
-    "date": 1583229627,
-    "edit_date": 1583610415,
+    "url": "https://lovegoods.store/",
+    "date": 1585130465,
+    "isMonth": false,
+    "isYear": false,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
       "magazin",
-      "dostavka"
+      "tilda"
     ],
     "awards": []
   },
   {
-    "id": 671,
-    "title": "Просто-Ремонт",
-    "caption": "Просто-Ремонт\nhttps://prosto-remont.com/\n\n☆ #сервис",
-    "image": "data/images/671.jpg",
+    "id": 692,
+    "title": "ТРАКТОР",
+    "caption": "ТРАКТОР\nhttps://traktor.cc/\n\n#онлайн #каталог #лучшедома #the23\nСпасибо за ссылку @the23_design",
+    "image": "data/images/692.jpg",
     "tags": [
-      "сервис"
+      "онлайн",
+      "каталог",
+      "лучшедома",
+      "the23"
     ],
-    "url": "https://prosto-remont.com/",
-    "date": 1583143227,
-    "edit_date": 1583663787,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis"
-    ],
-    "awards": []
-  },
-  {
-    "id": 670,
-    "title": "Единый Транспортный Портал",
-    "caption": "Единый Транспортный Портал\nhttps://transport.mos.ru/\n\n☆ #город #сервис #artlebedev",
-    "image": "data/images/670.jpg",
-    "tags": [
-      "город",
-      "сервис",
-      "artlebedev"
-    ],
-    "url": "https://transport.mos.ru/",
-    "date": 1583056851,
-    "edit_date": 1583472602,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "gorod",
-      "servis",
-      "artlebedev"
-    ],
-    "awards": []
-  },
-  {
-    "id": 667,
-    "title": "Книги у моря — Петербургский книжный фестиваль",
-    "caption": "Книги у моря — Петербургский книжный фестиваль\nhttp://booksandsea.ru/\n\n☆ #мероприятие #readymag #aidapacheva",
-    "image": "data/images/667.jpg",
-    "tags": [
-      "мероприятие",
-      "readymag",
-      "aidapacheva"
-    ],
-    "url": "http://booksandsea.ru/",
-    "date": 1582642963,
-    "edit_date": 1584344503,
+    "url": "https://traktor.cc/",
+    "date": 1585044016,
+    "edit_date": 1585832283,
     "isMonth": false,
+    "isYear": false,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
-      "meropriyatie",
-      "readymag",
-      "aidapacheva"
+      "onlain",
+      "katalog",
+      "luchshedoma",
+      "the23"
     ],
     "awards": []
   },
   {
-    "id": 666,
-    "title": "Redo Bureau",
-    "caption": "Redo Bureau\nhttps://redobureau.com/ru\n\n☆ #портфолио",
-    "image": "data/images/666.jpg",
+    "id": 691,
+    "title": "Банк России",
+    "caption": "Банк России\nhttps://www.cbr.ru/\n\n#россия #финансы #банк #aic\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/691.jpg",
     "tags": [
-      "портфолио"
+      "россия",
+      "финансы",
+      "банк",
+      "aic"
     ],
-    "url": "https://redobureau.com/ru",
-    "date": 1582279214,
-    "edit_date": 1584347808,
+    "url": "https://www.cbr.ru/",
+    "date": 1584957620,
     "isMonth": false,
+    "isYear": false,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
-      "portfolio"
+      "rossiya",
+      "finansi",
+      "bank",
+      "aic"
     ],
     "awards": []
   },
   {
-    "id": 665,
-    "title": "Кузнецов, Марисин и партнёры",
-    "caption": "Кузнецов, Марисин и партнёры\nhttps://kmplaw.ru/\n\n☆ #корпоративныйсайт #whiterussianstudio",
-    "image": "data/images/665.jpg",
+    "id": 690,
+    "title": "type today — Журнал",
+    "caption": "type today — Журнал\nhttps://type.today/ru/journal\n\n#журнал #митясудаков",
+    "image": "data/images/690.jpg",
     "tags": [
-      "корпоративныйсайт",
-      "whiterussianstudio"
+      "журнал",
+      "митясудаков"
     ],
-    "url": "https://kmplaw.ru/",
-    "date": 1582192814,
-    "edit_date": 1583247372,
+    "url": "https://type.today/ru/journal",
+    "date": 1584698457,
+    "isMonth": false,
+    "isYear": false,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
-      "korporativniisait",
-      "whiterussianstudio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 664,
-    "title": "Дизайн-квартал Флакон",
-    "image": "data/images/664.jpg",
-    "tags": [
-      "промо",
-      "readymag"
-    ],
-    "url": "https://flacon.ru/",
-    "date": 1582112783,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "readymag"
+      "zhurnal",
+      "mityasudakov"
     ],
     "awards": []
   }

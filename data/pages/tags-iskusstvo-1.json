@@ -1,5 +1,35 @@
 [
   {
+    "id": 696,
+    "title": "Гараж — Самоизоляция",
+    "caption": "Гараж — Самоизоляция\nhttps://self-isolation.garagemca.org/\n\n#спецпроект #образование #каталог #искусство #лучшедома #readymag\nСпасибо за ссылку @readymag_official",
+    "image": "data/images/696.jpg",
+    "tags": [
+      "спецпроект",
+      "образование",
+      "каталог",
+      "искусство",
+      "лучшедома",
+      "readymag"
+    ],
+    "url": "https://self-isolation.garagemca.org/",
+    "date": 1585724442,
+    "edit_date": 1585832256,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "obrazovanie",
+      "katalog",
+      "iskusstvo",
+      "luchshedoma",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 687,
     "title": "Объединение",
     "caption": "Объединение\nhttps://obdn.ru/\n\n☆ #журнал #магазин #искусство #redo\n♡ @AndyAbramov",
@@ -12,8 +42,8 @@
     ],
     "url": "https://obdn.ru/",
     "date": 1584180023,
-    "edit_date": 1584347798,
-    "isMonth": false,
+    "edit_date": 1585663335,
+    "isMonth": true,
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false,
@@ -23,7 +53,9 @@
       "iskusstvo",
       "redo"
     ],
-    "awards": []
+    "awards": [
+      "month"
+    ]
   },
   {
     "id": 632,

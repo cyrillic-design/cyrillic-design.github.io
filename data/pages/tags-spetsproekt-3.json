@@ -1,5 +1,47 @@
 [
   {
+    "id": 400,
+    "title": "Третьяковская галерея: Уроки Куинджи",
+    "image": "data/images/400.jpg",
+    "tags": [
+      "спецпроект",
+      "мероприятие",
+      "artlebedev"
+    ],
+    "url": "https://kuindzhi.tretyakov.ru/",
+    "date": 1545818431,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "meropriyatie",
+      "artlebedev"
+    ],
+    "awards": []
+  },
+  {
+    "id": 396,
+    "title": "Дом-музей Карамзиных на Венце",
+    "image": "data/images/396.jpg",
+    "tags": [
+      "спецпроект",
+      "история",
+      "itechgroup"
+    ],
+    "url": "http://www.karamzin.info/home/",
+    "date": 1545472806,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "istoriya",
+      "itechgroup"
+    ],
+    "awards": []
+  },
+  {
     "id": 389,
     "title": "Лесная Анкета - разговор с Ильей Долговым",
     "image": "data/images/389.jpg",
@@ -370,47 +412,6 @@
     "slugs": [
       "spetsproekt",
       "obrazovanie"
-    ],
-    "awards": []
-  },
-  {
-    "id": 263,
-    "title": "Десять шрифтов 2017",
-    "caption": "Десять шрифтов 2017 \nhttp://2017.typejournal.ru/\n\n#спецпроект #журналшрифт #readymag",
-    "image": "data/images/263.jpg",
-    "tags": [
-      "спецпроект",
-      "журналшрифт",
-      "readymag"
-    ],
-    "url": "http://2017.typejournal.ru/",
-    "date": 1533895207,
-    "edit_date": 1583247436,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "zhurnalshrift",
-      "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 259,
-    "title": "Та самая Неер",
-    "image": "data/images/259.jpg",
-    "tags": [
-      "спецпроект",
-      "батенькадавытрансформер"
-    ],
-    "url": "http://neer.batenka.ru/",
-    "date": 1533549610,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "batenkadavitransformer"
     ],
     "awards": []
   }

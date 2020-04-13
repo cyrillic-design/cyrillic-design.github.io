@@ -1,111 +1,133 @@
 [
   {
-    "id": 557,
-    "title": "WRS99",
-    "caption": "WRS99\nhttps://wrs99.store\n\n#промо #whiterussianstudio",
-    "image": "data/images/557.jpg",
+    "id": 578,
+    "title": "Письма врагов народа",
+    "image": "data/images/578.jpg",
     "tags": [
-      "промо",
-      "whiterussianstudio"
+      "спецпроект",
+      "readymag",
+      "такиедела"
     ],
-    "url": "https://wrs99.store",
-    "date": 1564048826,
-    "edit_date": 1583423516,
+    "url": "http://vraginaroda.takiedela.ru/",
+    "date": 1567850410,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "readymag",
+      "takiedela"
+    ],
+    "awards": []
+  },
+  {
+    "id": 577,
+    "title": "Фестиваль Petshop Days",
+    "image": "data/images/577.jpg",
+    "tags": [
+      "мероприятие"
+    ],
+    "url": "https://petshopdays.ru/",
+    "date": 1567764010,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie"
+    ],
+    "awards": []
+  },
+  {
+    "id": 575,
+    "title": "Современные российские дизайнеры шрифта",
+    "image": "data/images/575.jpg",
+    "tags": [
+      "спецпроект",
+      "readymag",
+      "лисицкий"
+    ],
+    "url": "https://readymag.com/deedandreward/russiandesigners/",
+    "date": 1567677608,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "readymag",
+      "lisitskii"
+    ],
+    "awards": []
+  },
+  {
+    "id": 574,
+    "title": "NYLON ORCHID by P.Y.E X FKSHM",
+    "image": "data/images/574.jpg",
+    "tags": [
+      "магазин",
+      "breadhead"
+    ],
+    "url": "https://nylonorchid.pyeoptics.com/",
+    "date": 1566640851,
+    "edit_date": 1583183812,
     "isHighlighted": true,
     "isRemoved": false,
     "slugs": [
-      "promo",
-      "whiterussianstudio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 556,
-    "title": "Койот",
-    "image": "data/images/556.jpg",
-    "tags": [
-      "производство",
-      "магазин",
-      "aiwin"
-    ],
-    "url": "https://coyote-ekb.ru/",
-    "date": 1563962419,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "proizvodstvo",
       "magazin",
-      "aiwin"
+      "breadhead"
     ],
     "awards": []
   },
   {
-    "id": 555,
-    "title": "shishki collective",
-    "image": "data/images/555.jpg",
+    "id": 573,
+    "title": "Справочная",
+    "image": "data/images/573.jpg",
     "tags": [
-      "портфолио"
+      "блог",
+      "финансы",
+      "банк"
     ],
-    "url": "https://ru.shishki.co/",
-    "date": 1563888344,
+    "url": "https://allo.tochka.com/",
+    "date": 1566381674,
     "edit_date": 1583183812,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
-      "portfolio"
+      "blog",
+      "finansi",
+      "bank"
     ],
     "awards": []
   },
   {
-    "id": 554,
-    "title": "Золотое яблоко",
-    "image": "data/images/554.jpg",
+    "id": 572,
+    "title": "Elementaree",
+    "image": "data/images/572.jpg",
     "tags": [
-      "магазин",
-      "красота",
-      "мода"
+      "сервис",
+      "еда",
+      "доставка"
     ],
-    "url": "https://goldapple.ru/",
-    "date": 1563530416,
+    "url": "https://elementaree.ru/",
+    "date": 1566295257,
     "edit_date": 1583183812,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
-      "magazin",
-      "krasota",
-      "moda"
+      "servis",
+      "yeda",
+      "dostavka"
     ],
     "awards": []
   },
   {
-    "id": 553,
-    "title": "Пётр Юшин",
-    "image": "data/images/553.jpg",
-    "tags": [
-      "портфолио",
-      "perushevandkhmelev"
-    ],
-    "url": "https://yushinpetr.com/ru/",
-    "date": 1563444011,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio",
-      "perushevandkhmelev"
-    ],
-    "awards": []
-  },
-  {
-    "id": 552,
-    "title": "COLLIDER",
-    "image": "data/images/552.jpg",
+    "id": 571,
+    "title": "Valve Index",
+    "image": "data/images/571.jpg",
     "tags": [
       "промо"
     ],
-    "url": "https://collider.ru/",
-    "date": 1563357625,
+    "url": "https://www.valvesoftware.com/ru/index",
+    "date": 1566210899,
     "edit_date": 1583183812,
     "isHighlighted": false,
     "isRemoved": false,
@@ -115,108 +137,37 @@
     "awards": []
   },
   {
-    "id": 551,
-    "title": "БюроБюро",
-    "image": "data/images/551.jpg",
+    "id": 570,
+    "title": "Rehabshop",
+    "image": "data/images/570.jpg",
     "tags": [
-      "портфолио"
+      "магазин",
+      "roky",
+      "orientir"
     ],
-    "url": "https://buroburo.ru/",
-    "date": 1563271211,
+    "url": "https://rehab-shop.ru/",
+    "date": 1566036044,
     "edit_date": 1583183812,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
-      "portfolio"
+      "magazin",
+      "roky",
+      "orientir"
     ],
     "awards": []
   },
   {
-    "id": 550,
-    "title": "Татцентр.ру",
-    "image": "data/images/550.jpg",
-    "tags": [
-      "издание",
-      "stride"
-    ],
-    "url": "http://tatcenter.ru/",
-    "date": 1563191436,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "izdanie",
-      "stride"
-    ],
-    "awards": []
-  },
-  {
-    "id": 548,
-    "title": "РОССМА",
-    "image": "data/images/548.jpg",
-    "tags": [
-      "производство",
-      "студияевгенияярового"
-    ],
-    "url": "https://rossma.ru/",
-    "date": 1562666479,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "proizvodstvo",
-      "studiyaevgeniyayarovogo"
-    ],
-    "awards": []
-  },
-  {
-    "id": 547,
-    "title": "Инвентаризация",
-    "image": "data/images/547.jpg",
-    "tags": [
-      "мероприятие",
-      "совет"
-    ],
-    "url": "https://inventoryfest.ru/",
-    "date": 1562603964,
-    "edit_date": 1583183812,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "meropriyatie",
-      "sovet"
-    ],
-    "awards": []
-  },
-  {
-    "id": 546,
-    "title": "Бубнёжная «Интроверт»",
-    "image": "data/images/546.jpg",
-    "tags": [
-      "промо"
-    ],
-    "url": "http://introvert.moscow/",
-    "date": 1562320859,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo"
-    ],
-    "awards": []
-  },
-  {
-    "id": 545,
-    "title": "Timepad",
-    "caption": "Timepad\nhttps://timepad.ru/\n\n#сервис",
-    "image": "data/images/545.jpg",
+    "id": 569,
+    "title": "Молния Beta",
+    "image": "data/images/569.jpg",
     "tags": [
       "сервис"
     ],
-    "url": "https://timepad.ru/",
-    "date": 1562230768,
-    "edit_date": 1583255649,
-    "isHighlighted": true,
+    "url": "https://molnia.me/",
+    "date": 1565949646,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
       "servis"
@@ -224,152 +175,215 @@
     "awards": []
   },
   {
-    "id": 544,
-    "title": "Приходи и свети",
-    "image": "data/images/544.jpg",
+    "id": 568,
+    "title": "ROKY",
+    "image": "data/images/568.jpg",
     "tags": [
-      "мероприятие",
-      "промо"
+      "портфолио"
     ],
-    "url": "http://sveti-intervalsfest.com/",
-    "date": 1562070785,
+    "url": "https://roky.rocks/ru",
+    "date": 1565863251,
     "edit_date": 1583183812,
-    "isHighlighted": false,
+    "isHighlighted": true,
     "isRemoved": false,
     "slugs": [
-      "meropriyatie",
-      "promo"
+      "portfolio"
     ],
     "awards": []
   },
   {
-    "id": 542,
-    "title": "Академия Яндекса",
-    "image": "data/images/542.jpg",
+    "id": 567,
+    "title": "Жумар",
+    "image": "data/images/567.jpg",
+    "tags": [
+      "keynetstudio"
+    ],
+    "url": "https://zhumar.ru/",
+    "date": 1565776856,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "keynetstudio"
+    ],
+    "awards": []
+  },
+  {
+    "id": 566,
+    "title": "ТРАНЗИСТОР",
+    "image": "data/images/566.jpg",
+    "tags": [
+      "музыка",
+      "люди",
+      "стасполяков"
+    ],
+    "url": "https://trnsstr.ru",
+    "date": 1565604039,
+    "edit_date": 1583183812,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "muzika",
+      "lyudi",
+      "staspolyakov"
+    ],
+    "awards": []
+  },
+  {
+    "id": 565,
+    "title": "Большая Коча",
+    "image": "data/images/565.jpg",
+    "tags": [
+      "спецпроект",
+      "кружок"
+    ],
+    "url": "https://bolshayakocha.ru/",
+    "date": 1565517638,
+    "edit_date": 1583183812,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "kruzhok"
+    ],
+    "awards": []
+  },
+  {
+    "id": 564,
+    "title": "Dreamlaser",
+    "image": "data/images/564.jpg",
+    "tags": [
+      "портфолио",
+      "whiterussianstudio"
+    ],
+    "url": "http://www.dreamlaser.ru",
+    "date": 1565431239,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "whiterussianstudio"
+    ],
+    "awards": []
+  },
+  {
+    "id": 563,
+    "title": "Simple Wine News",
+    "image": "data/images/563.jpg",
+    "tags": [
+      "издание",
+      "charmer"
+    ],
+    "url": "https://simplewinenews.ru/",
+    "date": 1565344863,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "izdanie",
+      "charmer"
+    ],
+    "awards": []
+  },
+  {
+    "id": 562,
+    "title": "Совет",
+    "image": "data/images/562.jpg",
+    "tags": [
+      "портфолио",
+      "заглушка"
+    ],
+    "url": "https://sovetsovetsovet.ru/",
+    "date": 1565258456,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "zaglushka"
+    ],
+    "awards": []
+  },
+  {
+    "id": 561,
+    "title": "Портрет российской семьи",
+    "caption": "Портрет российской семьи\nhttps://ria.ru/20190805/1557121163.html\n\n#спецпроект #риа",
+    "image": "data/images/561.jpg",
+    "tags": [
+      "спецпроект",
+      "риа"
+    ],
+    "url": "https://ria.ru/20190805/1557121163.html",
+    "date": 1565085634,
+    "edit_date": 1583247387,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "ria"
+    ],
+    "awards": []
+  },
+  {
+    "id": 560,
+    "title": "Здесь и сейчас. Атлас творческих студий",
+    "caption": "Здесь и сейчас. Атлас творческих студий\nhttps://hereandnow.moscow/\n\n#мероприятие #искусство #спецпроект #readymag #aic",
+    "image": "data/images/560.jpg",
+    "tags": [
+      "мероприятие",
+      "искусство",
+      "спецпроект",
+      "readymag",
+      "aic"
+    ],
+    "url": "https://hereandnow.moscow/",
+    "date": 1564740033,
+    "edit_date": 1583440361,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "iskusstvo",
+      "spetsproekt",
+      "readymag",
+      "aic"
+    ],
+    "awards": []
+  },
+  {
+    "id": 559,
+    "title": "SKVOT",
+    "image": "data/images/559.jpg",
     "tags": [
       "образование",
-      "яндекс"
+      "crevv"
     ],
-    "url": "https://academy.yandex.ru",
-    "date": 1561629646,
+    "url": "https://skvot.io/ru/",
+    "date": 1564480846,
     "edit_date": 1583183812,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
       "obrazovanie",
-      "yandeks"
+      "crevv"
     ],
     "awards": []
   },
   {
-    "id": 541,
-    "title": "Stride",
-    "image": "data/images/541.jpg",
+    "id": 558,
+    "title": "Кружок — Музыка",
+    "image": "data/images/558.jpg",
     "tags": [
-      "портфолио"
+      "спецпроект"
     ],
-    "url": "https://stride.one/",
-    "date": 1561543248,
+    "url": "https://music.kruzhok.io",
+    "date": 1564135219,
     "edit_date": 1583183812,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
-      "portfolio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 540,
-    "title": "ZOLOTO GROUP",
-    "image": "data/images/540.jpg",
-    "tags": [
-      "портфолио"
-    ],
-    "url": "https://www.zolotogroup.ru/",
-    "date": 1561456877,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 539,
-    "title": "ЗАО «Росма»",
-    "image": "data/images/539.jpg",
-    "tags": [
-      "производство",
-      "levelup"
-    ],
-    "url": "https://rosma.spb.ru/",
-    "date": 1561370466,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "proizvodstvo",
-      "levelup"
-    ],
-    "awards": []
-  },
-  {
-    "id": 538,
-    "title": "BuroData Platform",
-    "image": "data/images/538.jpg",
-    "tags": [
-      "сервис",
-      "платформа",
-      "бюробюро"
-    ],
-    "url": "https://burodata.ru/",
-    "date": 1561197640,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "platforma",
-      "byurobyuro"
-    ],
-    "awards": []
-  },
-  {
-    "id": 537,
-    "title": "ZharaX",
-    "image": "data/images/537.jpg",
-    "tags": [
-      "сервис",
-      "музыка",
-      "stride"
-    ],
-    "url": "https://zhara-x.com/",
-    "date": 1561111239,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "muzika",
-      "stride"
-    ],
-    "awards": []
-  },
-  {
-    "id": 536,
-    "title": "Школа дизайна НИУ ВШЭ",
-    "image": "data/images/536.jpg",
-    "tags": [
-      "образование"
-    ],
-    "url": "https://design.hse.ru/",
-    "date": 1561024839,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie"
+      "spetsproekt"
     ],
     "awards": []
   }

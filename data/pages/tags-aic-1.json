@@ -1,5 +1,30 @@
 [
   {
+    "id": 691,
+    "title": "Банк России",
+    "caption": "Банк России\nhttps://www.cbr.ru/\n\n#россия #финансы #банк #aic\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/691.jpg",
+    "tags": [
+      "россия",
+      "финансы",
+      "банк",
+      "aic"
+    ],
+    "url": "https://www.cbr.ru/",
+    "date": 1584957620,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "rossiya",
+      "finansi",
+      "bank",
+      "aic"
+    ],
+    "awards": []
+  },
+  {
     "id": 560,
     "title": "Здесь и сейчас. Атлас творческих студий",
     "caption": "Здесь и сейчас. Атлас творческих студий\nhttps://hereandnow.moscow/\n\n#мероприятие #искусство #спецпроект #readymag #aic",

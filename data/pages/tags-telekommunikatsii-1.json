@@ -1,5 +1,28 @@
 [
   {
+    "id": 707,
+    "title": "EG 2020",
+    "caption": "EG 2020\nhttps://eg2020.ru/\n\n#спецпроект #телекоммуникации #люди\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/707.jpg",
+    "tags": [
+      "спецпроект",
+      "телекоммуникации",
+      "люди"
+    ],
+    "url": "https://eg2020.ru/",
+    "date": 1586512826,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "telekommunikatsii",
+      "lyudi"
+    ],
+    "awards": []
+  },
+  {
     "id": 120,
     "title": "Мегафон",
     "image": "data/images/120.jpg",

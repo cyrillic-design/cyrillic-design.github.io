@@ -1,181 +1,141 @@
 [
   {
-    "id": 175,
-    "title": "Ладожская Усадьба",
-    "image": "data/images/175.jpg",
+    "id": 196,
+    "title": "Esquire",
+    "image": "data/images/196.jpg",
     "tags": [
-      "букинг",
-      "услуги",
-      "развлечения",
-      "cloudmill"
-    ],
-    "url": "http://ladoga.hellem.ru/",
-    "date": 1526378415,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "buking",
-      "uslugi",
-      "razvlecheniya",
-      "cloudmill"
-    ],
-    "awards": []
-  },
-  {
-    "id": 174,
-    "title": "РОСГОССТРАХ БАНК",
-    "image": "data/images/174.jpg",
-    "tags": [
-      "банк",
-      "финансы",
-      "aic"
-    ],
-    "url": "https://www.rgsbank.ru/",
-    "date": 1526292021,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "bank",
-      "finansi",
-      "aic"
-    ],
-    "awards": []
-  },
-  {
-    "id": 173,
-    "title": "Хайтек",
-    "image": "data/images/173.jpg",
-    "tags": [
-      "медиа",
+      "журнал",
+      "люди",
       "новости",
+      "мода"
+    ],
+    "url": "https://esquire.ru/",
+    "date": 1528106414,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "lyudi",
+      "novosti",
+      "moda"
+    ],
+    "awards": []
+  },
+  {
+    "id": 195,
+    "title": "FRUIT UP",
+    "image": "data/images/195.jpg",
+    "tags": [
+      "сервис",
+      "доставка",
+      "еда"
+    ],
+    "url": "http://www.fruitup.ru/",
+    "date": 1528020007,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "dostavka",
+      "yeda"
+    ],
+    "awards": []
+  },
+  {
+    "id": 193,
+    "title": "Сделано",
+    "image": "data/images/193.jpg",
+    "tags": [
+      "услуги",
+      "сервис",
+      "конструктор"
+    ],
+    "url": "https://sdelano.ru/",
+    "date": 1527933601,
+    "edit_date": 1583185536,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "uslugi",
+      "servis",
+      "konstruktor"
+    ],
+    "awards": []
+  },
+  {
+    "id": 192,
+    "title": "45/60",
+    "image": "data/images/192.jpg",
+    "tags": [
+      "промо",
+      "ресторан",
+      "еда"
+    ],
+    "url": "http://45-60.ru/",
+    "date": 1527847218,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "restoran",
+      "yeda"
+    ],
+    "awards": []
+  },
+  {
+    "id": 191,
+    "title": "Олег Герт",
+    "image": "data/images/191.jpg",
+    "tags": [
+      "портфолио",
+      "дизайн"
+    ],
+    "url": "http://oleggert.ru/",
+    "date": 1527760811,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "dizain"
+    ],
+    "awards": []
+  },
+  {
+    "id": 190,
+    "title": "Decta",
+    "image": "data/images/190.jpg",
+    "tags": [
+      "финансы",
+      "услуги",
       "технологии"
     ],
-    "url": "https://hightech.fm/",
-    "date": 1526205609,
+    "url": "https://decta.com/ru",
+    "date": 1527674411,
     "edit_date": 1583185536,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
-      "media",
-      "novosti",
+      "finansi",
+      "uslugi",
       "tekhnologii"
     ],
     "awards": []
   },
   {
-    "id": 172,
-    "title": "re:Store",
-    "image": "data/images/172.jpg",
-    "tags": [
-      "магазин"
-    ],
-    "url": "https://www.re-store.ru/",
-    "date": 1526119218,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin"
-    ],
-    "awards": []
-  },
-  {
-    "id": 171,
-    "title": "Legacy",
-    "image": "data/images/171.jpg",
-    "tags": [
-      "фонд",
-      "бизнес",
-      "финансы",
-      "сибирикс"
-    ],
-    "url": "http://legacy-ef.com/",
-    "date": 1526032809,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "fond",
-      "biznes",
-      "finansi",
-      "sibiriks"
-    ],
-    "awards": []
-  },
-  {
-    "id": 170,
-    "title": "HANDWERS",
-    "image": "data/images/170.jpg",
-    "tags": [
-      "магазин",
-      "доставка"
-    ],
-    "url": "https://handwers.com/ru/",
-    "date": 1525946421,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "dostavka"
-    ],
-    "awards": []
-  },
-  {
-    "id": 169,
-    "title": "Администрация Кемеровской области",
-    "image": "data/images/169.jpg",
-    "tags": [
-      "государство",
-      "медиа",
-      "россия"
-    ],
-    "url": "https://ako.ru/",
-    "date": 1525860009,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "gosudarstvo",
-      "media",
-      "rossiya"
-    ],
-    "awards": []
-  },
-  {
-    "id": 168,
-    "title": "АВ Экспресс",
-    "image": "data/images/168.jpg",
-    "tags": [
-      "магазин",
-      "доставка",
-      "aic"
-    ],
-    "url": "https://express.av.ru/",
-    "date": 1525773610,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "dostavka",
-      "aic"
-    ],
-    "awards": []
-  },
-  {
-    "id": 167,
-    "title": "Wepster",
-    "image": "data/images/167.jpg",
+    "id": 189,
+    "title": "Яндекс Плюс",
+    "image": "data/images/189.jpg",
     "tags": [
       "сервис",
       "услуги",
       "промо"
     ],
-    "url": "http://wepster.com/",
-    "date": 1525687216,
+    "url": "https://plus.yandex.ru",
+    "date": 1527581050,
     "edit_date": 1583185536,
     "isHighlighted": false,
     "isRemoved": false,
@@ -187,237 +147,274 @@
     "awards": []
   },
   {
-    "id": 166,
-    "title": "BOSCO FRESH FEST 18",
-    "image": "data/images/166.jpg",
+    "id": 188,
+    "title": "Дизайн-студия 23",
+    "image": "data/images/188.jpg",
     "tags": [
-      "фестиваль",
-      "музыка",
-      "люди",
-      "bosco"
+      "студия",
+      "дизайн",
+      "портфолио"
     ],
-    "url": "https://boscofreshfest18.com/",
-    "date": 1525619259,
+    "url": "http://the23.design/",
+    "date": 1527501610,
     "edit_date": 1583185536,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
-      "festival",
-      "muzika",
-      "lyudi",
-      "bosco"
+      "studiya",
+      "dizain",
+      "portfolio"
     ],
     "awards": []
   },
   {
-    "id": 165,
-    "title": "Áccent",
-    "image": "data/images/165.jpg",
+    "id": 187,
+    "title": "Русские Шрифты",
+    "image": "data/images/187.jpg",
+    "tags": [
+      "магазин",
+      "услуги",
+      "портфолио",
+      "дизайн"
+    ],
+    "url": "http://russianfonts.ru/",
+    "date": 1527415219,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "uslugi",
+      "portfolio",
+      "dizain"
+    ],
+    "awards": []
+  },
+  {
+    "id": 186,
+    "title": "Comepay",
+    "image": "data/images/186.jpg",
+    "tags": [
+      "финансы",
+      "сервис"
+    ],
+    "url": "https://comepay.ru/",
+    "date": 1527328811,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "finansi",
+      "servis"
+    ],
+    "awards": []
+  },
+  {
+    "id": 185,
+    "title": "EMKA",
+    "image": "data/images/185.jpg",
+    "tags": [
+      "производство",
+      "магазин",
+      "одежда",
+      "мода",
+      "icrea"
+    ],
+    "url": "https://www.emkafashion.ru/",
+    "date": 1527242423,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "magazin",
+      "odezhda",
+      "moda",
+      "icrea"
+    ],
+    "awards": []
+  },
+  {
+    "id": 184,
+    "title": "Zero",
+    "caption": "Zero\nhttp://zero.ru/\n\n#студия #портфолио #услуги #агентство",
+    "image": "data/images/184.jpg",
+    "tags": [
+      "студия",
+      "портфолио",
+      "услуги",
+      "агентство"
+    ],
+    "url": "http://zero.ru/",
+    "date": 1527156014,
+    "edit_date": 1583389420,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "studiya",
+      "portfolio",
+      "uslugi",
+      "agentstvo"
+    ],
+    "awards": []
+  },
+  {
+    "id": 183,
+    "title": "ThisIsMedia",
+    "image": "data/images/183.jpg",
     "tags": [
       "медиа",
-      "издание",
+      "журнал"
+    ],
+    "url": "https://thisis.media/",
+    "date": 1527069606,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "media",
+      "zhurnal"
+    ],
+    "awards": []
+  },
+  {
+    "id": 182,
+    "title": "Беру",
+    "image": "data/images/182.jpg",
+    "tags": [
+      "магазин",
+      "маркетплейс",
+      "яндекс"
+    ],
+    "url": "https://beru.ru/",
+    "date": 1526983229,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "marketpleis",
+      "yandeks"
+    ],
+    "awards": []
+  },
+  {
+    "id": 181,
+    "title": "Setka Workflow",
+    "image": "data/images/181.jpg",
+    "tags": [
+      "сервис",
+      "услуги",
+      "setka"
+    ],
+    "url": "https://setka.io/ru/workflow/",
+    "date": 1526896811,
+    "edit_date": 1583185536,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "uslugi",
+      "setka"
+    ],
+    "awards": []
+  },
+  {
+    "id": 180,
+    "title": "MODI",
+    "image": "data/images/180.jpg",
+    "tags": [
+      "магазин",
+      "hellobarty"
+    ],
+    "url": "https://modi.ru/",
+    "date": 1526810420,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "hellobarty"
+    ],
+    "awards": []
+  },
+  {
+    "id": 179,
+    "title": "Телеграф",
+    "image": "data/images/179.jpg",
+    "tags": [
+      "журнал",
       "образование",
-      "платформа",
-      "setka"
+      "люди",
+      "the23"
     ],
-    "url": "https://accent.setka.io/ru/",
-    "date": 1525421388,
+    "url": "http://telegraf.design/",
+    "date": 1526724012,
     "edit_date": 1583185536,
-    "isHighlighted": true,
+    "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
-      "media",
-      "izdanie",
+      "zhurnal",
       "obrazovanie",
-      "platforma",
-      "setka"
+      "lyudi",
+      "the23"
     ],
     "awards": []
   },
   {
-    "id": 164,
-    "title": "Государственная дума РФ",
-    "image": "data/images/164.jpg",
-    "tags": [
-      "государство",
-      "медиа",
-      "россия",
-      "labag"
-    ],
-    "url": "http://www.duma.gov.ru/",
-    "date": 1525341611,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "gosudarstvo",
-      "media",
-      "rossiya",
-      "labag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 163,
-    "title": "Рокетбанк",
-    "image": "data/images/163.jpg",
-    "tags": [
-      "банк",
-      "финансы"
-    ],
-    "url": "https://rocketbank.ru/",
-    "date": 1525255218,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "bank",
-      "finansi"
-    ],
-    "awards": []
-  },
-  {
-    "id": 162,
-    "title": "Никея",
-    "caption": "Никея\nhttps://nikeabooks.ru/\n\n#магазин #издание",
-    "image": "data/images/162.jpg",
+    "id": 178,
+    "title": "Lamp In Room",
+    "image": "data/images/178.jpg",
     "tags": [
       "магазин",
-      "издание"
+      "braind"
     ],
-    "url": "https://nikeabooks.ru/",
-    "date": 1525168811,
-    "edit_date": 1583439722,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "izdanie"
-    ],
-    "awards": []
-  },
-  {
-    "id": 161,
-    "title": "Creddy",
-    "caption": "Creddy\nhttps://creddy.ru/\n\n#недвижимость #финансы #промо",
-    "image": "data/images/161.jpg",
-    "tags": [
-      "недвижимость",
-      "финансы",
-      "промо"
-    ],
-    "url": "https://creddy.ru/",
-    "date": 1525082406,
-    "edit_date": 1583247447,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "nedvizhimost",
-      "finansi",
-      "promo"
-    ],
-    "awards": []
-  },
-  {
-    "id": 160,
-    "title": "Дистопия",
-    "image": "data/images/160.jpg",
-    "tags": [
-      "издание",
-      "искусство"
-    ],
-    "url": "http://dystopia.me/",
-    "date": 1524909617,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "izdanie",
-      "iskusstvo"
-    ],
-    "awards": []
-  },
-  {
-    "id": 159,
-    "title": "Servermall",
-    "image": "data/images/159.jpg",
-    "tags": [
-      "магазин",
-      "промо"
-    ],
-    "url": "https://servermall.ru/",
-    "date": 1524823212,
+    "url": "https://www.lampinroom.ru/",
+    "date": 1526637607,
     "edit_date": 1583185536,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
       "magazin",
-      "promo"
+      "braind"
     ],
     "awards": []
   },
   {
-    "id": 158,
-    "title": "Консультационный центр",
-    "image": "data/images/158.jpg",
+    "id": 177,
+    "title": "Детская клиническая больница",
+    "image": "data/images/177.jpg",
     "tags": [
-      "недвижимость",
-      "финансы",
+      "медицина",
+      "здоровье",
       "aic"
     ],
-    "url": "https://xn--h1alcedd.xn--d1aqf.xn--p1ai/",
-    "date": 1524736815,
+    "url": "http://deti-sechenov.ru/",
+    "date": 1526551212,
     "edit_date": 1583185536,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
-      "nedvizhimost",
-      "finansi",
+      "meditsina",
+      "zdorove",
       "aic"
     ],
     "awards": []
   },
   {
-    "id": 157,
-    "title": "Мастерская Брусникина",
-    "image": "data/images/157.jpg",
+    "id": 176,
+    "title": "re:market",
+    "image": "data/images/176.jpg",
     "tags": [
-      "культура",
-      "театр",
-      "charmer"
+      "магазин"
     ],
-    "url": "https://masterbrus.com/",
-    "date": 1524650415,
+    "url": "http://remarket-shop.ru/",
+    "date": 1526464806,
     "edit_date": 1583185536,
-    "isHighlighted": true,
+    "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
-      "kultura",
-      "teatr",
-      "charmer"
-    ],
-    "awards": []
-  },
-  {
-    "id": 156,
-    "title": "Rocket Home Pig",
-    "image": "data/images/156.jpg",
-    "tags": [
-      "промо",
-      "банк",
-      "финансы",
-      "readymag"
-    ],
-    "url": "http://homepig.rocketbank.ru/",
-    "date": 1524564005,
-    "edit_date": 1583185536,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "bank",
-      "finansi",
-      "readymag"
+      "magazin"
     ],
     "awards": []
   }

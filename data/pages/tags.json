@@ -536,10 +536,6 @@
     "slug": "spiilka"
   },
   {
-    "title": "сопрт",
-    "slug": "soprt"
-  },
-  {
     "title": "мегафон",
     "slug": "megafon"
   },
@@ -1226,5 +1222,37 @@
   {
     "title": "eggsellent",
     "slug": "eggsellent"
+  },
+  {
+    "title": "митясудаков",
+    "slug": "mityasudakov"
+  },
+  {
+    "title": "онлайн",
+    "slug": "onlain"
+  },
+  {
+    "title": "лучшедома",
+    "slug": "luchshedoma"
+  },
+  {
+    "title": "violettapostnova",
+    "slug": "violettapostnova"
+  },
+  {
+    "title": "pixies",
+    "slug": "pixies"
+  },
+  {
+    "title": "elenasharova",
+    "slug": "elenasharova"
+  },
+  {
+    "title": "лизинг",
+    "slug": "lizing"
+  },
+  {
+    "title": "artemtarasov",
+    "slug": "artemtarasov"
   }
 ]

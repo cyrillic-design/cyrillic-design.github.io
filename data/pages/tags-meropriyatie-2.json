@@ -1,5 +1,43 @@
 [
   {
+    "id": 523,
+    "title": "ruby russia",
+    "image": "data/images/523.jpg",
+    "tags": [
+      "мероприятие"
+    ],
+    "url": "https://rubyrussia.club/",
+    "date": 1559296815,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie"
+    ],
+    "awards": []
+  },
+  {
+    "id": 507,
+    "title": "Институт Музыкальных Инициатив",
+    "image": "data/images/507.jpg",
+    "tags": [
+      "музыка",
+      "мероприятие",
+      "sulliwan"
+    ],
+    "url": "https://i-m-i.ru/",
+    "date": 1558000856,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "muzika",
+      "meropriyatie",
+      "sulliwan"
+    ],
+    "awards": []
+  },
+  {
     "id": 502,
     "title": "Летняя стажировка для дизайнеров в Яндекс.Маркете",
     "image": "data/images/502.jpg",

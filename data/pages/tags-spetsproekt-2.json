@@ -1,5 +1,45 @@
 [
   {
+    "id": 599,
+    "title": "Birds Records",
+    "image": "data/images/599.jpg",
+    "tags": [
+      "спецпроект",
+      "музыка",
+      "яндекс"
+    ],
+    "url": "https://birdsrecords.ru/",
+    "date": 1570701649,
+    "edit_date": 1583183812,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "muzika",
+      "yandeks"
+    ],
+    "awards": []
+  },
+  {
+    "id": 597,
+    "title": "Электронный архив работ художника Соломона Телингатера",
+    "image": "data/images/597.jpg",
+    "tags": [
+      "спецпроект",
+      "ильястарков"
+    ],
+    "url": "http://telingater.togdazine.ru/",
+    "date": 1570022721,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "ilyastarkov"
+    ],
+    "awards": []
+  },
+  {
     "id": 592,
     "title": "Защитники, которых никто не защитил",
     "caption": "Защитники, которых никто не защитил\nhttps://www.advgazeta.ru/repressed-lawyers/\n\n#спецпроект #адвокатскаягазета #artperformance",
@@ -370,48 +410,6 @@
       "spetsproekt",
       "lyudi",
       "kruzhok"
-    ],
-    "awards": []
-  },
-  {
-    "id": 400,
-    "title": "Третьяковская галерея: Уроки Куинджи",
-    "image": "data/images/400.jpg",
-    "tags": [
-      "спецпроект",
-      "мероприятие",
-      "artlebedev"
-    ],
-    "url": "https://kuindzhi.tretyakov.ru/",
-    "date": 1545818431,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "meropriyatie",
-      "artlebedev"
-    ],
-    "awards": []
-  },
-  {
-    "id": 396,
-    "title": "Дом-музей Карамзиных на Венце",
-    "image": "data/images/396.jpg",
-    "tags": [
-      "спецпроект",
-      "история",
-      "itechgroup"
-    ],
-    "url": "http://www.karamzin.info/home/",
-    "date": 1545472806,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "istoriya",
-      "itechgroup"
     ],
     "awards": []
   }

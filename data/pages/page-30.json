@@ -1,0 +1,327 @@
+[
+  {
+    "id": 87,
+    "title": "Buddha pizza",
+    "image": "data/images/87.jpg",
+    "tags": [
+      "магазин",
+      "доставка",
+      "еда",
+      "solardigital"
+    ],
+    "url": "https://buddhapizza.com/",
+    "date": 1519207214,
+    "edit_date": 1583185563,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "dostavka",
+      "yeda",
+      "solardigital"
+    ],
+    "awards": []
+  },
+  {
+    "id": 86,
+    "title": "Жили | были",
+    "image": "data/images/86.jpg",
+    "tags": [
+      "спецпроект",
+      "благотворительность",
+      "память",
+      "люди",
+      "такиедела"
+    ],
+    "url": "https://takiedela.ru/homeless/",
+    "date": 1519120816,
+    "edit_date": 1583185563,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "blagotvoritelnost",
+      "pamyat",
+      "lyudi",
+      "takiedela"
+    ],
+    "awards": []
+  },
+  {
+    "id": 85,
+    "title": "Официальный сайт Швеции",
+    "image": "data/images/85.jpg",
+    "tags": [
+      "государство",
+      "страна",
+      "люди",
+      "швеция"
+    ],
+    "url": "https://sweden.ru/",
+    "date": 1519034406,
+    "edit_date": 1583185563,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "gosudarstvo",
+      "strana",
+      "lyudi",
+      "shvetsiya"
+    ],
+    "awards": []
+  },
+  {
+    "id": 84,
+    "title": "Тинькофф",
+    "image": "data/images/84.jpg",
+    "tags": [
+      "банк",
+      "финансы"
+    ],
+    "url": "https://www.tinkoff.ru/",
+    "date": 1518948017,
+    "edit_date": 1583185563,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "bank",
+      "finansi"
+    ],
+    "awards": []
+  },
+  {
+    "id": 83,
+    "title": "YAMI YAMI",
+    "image": "data/images/83.jpg",
+    "tags": [
+      "магазин",
+      "доставка",
+      "еда",
+      "breadhead"
+    ],
+    "url": "https://yamiyami.ru/",
+    "date": 1518864039,
+    "edit_date": 1583185563,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "dostavka",
+      "yeda",
+      "breadhead"
+    ],
+    "awards": []
+  },
+  {
+    "id": 80,
+    "title": "Памяти Юрия Верменича",
+    "image": "data/images/80.jpg",
+    "tags": [
+      "культура",
+      "спецпроект",
+      "музыка",
+      "память",
+      "coda"
+    ],
+    "url": "http://vermenich.jazzprovince.ru/",
+    "date": 1518775229,
+    "edit_date": 1583185563,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "kultura",
+      "spetsproekt",
+      "muzika",
+      "pamyat",
+      "coda"
+    ],
+    "awards": []
+  },
+  {
+    "id": 76,
+    "title": "Republic",
+    "image": "data/images/76.jpg",
+    "tags": [
+      "новости",
+      "медиа",
+      "журнал",
+      "wednesday"
+    ],
+    "url": "https://republic.ru/",
+    "date": 1518688846,
+    "edit_date": 1583185563,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "novosti",
+      "media",
+      "zhurnal",
+      "wednesday"
+    ],
+    "awards": []
+  },
+  {
+    "id": 75,
+    "title": "Bork",
+    "image": "data/images/75.jpg",
+    "tags": [
+      "магазин",
+      "промо"
+    ],
+    "url": "https://www.bork.ru",
+    "date": 1518602432,
+    "edit_date": 1583185563,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "promo"
+    ],
+    "awards": []
+  },
+  {
+    "id": 64,
+    "title": "S7 Airlines - Airbus A320neo",
+    "image": "data/images/64.jpg",
+    "tags": [
+      "промо",
+      "creativepeople"
+    ],
+    "url": "neo320.s7.ru",
+    "date": 1518451216,
+    "edit_date": 1583185563,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "creativepeople"
+    ],
+    "awards": []
+  },
+  {
+    "id": 63,
+    "title": "Shuka Design Bureau",
+    "image": "data/images/63.jpg",
+    "tags": [
+      "агентство",
+      "портфолио",
+      "щука"
+    ],
+    "url": "shuka.ru",
+    "date": 1518426008,
+    "edit_date": 1583185563,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "agentstvo",
+      "portfolio",
+      "shchuka"
+    ],
+    "awards": []
+  },
+  {
+    "id": 62,
+    "title": "Иван Айвазовский. К 200-летию со дня рождения",
+    "image": "data/images/62.jpg",
+    "tags": [
+      "культура",
+      "спецпроект",
+      "память",
+      "dianadubina"
+    ],
+    "url": "http://ivanaivazovsky.life/",
+    "date": 1518364834,
+    "edit_date": 1583185563,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "kultura",
+      "spetsproekt",
+      "pamyat",
+      "dianadubina"
+    ],
+    "awards": []
+  },
+  {
+    "id": 61,
+    "title": "Oh My Look!",
+    "image": "data/images/61.jpg",
+    "tags": [
+      "одежда",
+      "аренда",
+      "zolteco",
+      "vintage"
+    ],
+    "url": "https://ohmylook.ua/",
+    "date": 1518335843,
+    "edit_date": 1583185563,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "odezhda",
+      "arenda",
+      "zolteco",
+      "vintage"
+    ],
+    "awards": []
+  },
+  {
+    "id": 60,
+    "title": "Музей современного искусства «Гараж»",
+    "image": "data/images/60.jpg",
+    "tags": [
+      "культура",
+      "музей",
+      "charmer"
+    ],
+    "url": "garagemca.org",
+    "date": 1518278428,
+    "edit_date": 1583185563,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "kultura",
+      "muzei",
+      "charmer"
+    ],
+    "awards": []
+  },
+  {
+    "id": 59,
+    "title": "Группа компаний ПИК",
+    "image": "data/images/59.jpg",
+    "tags": [
+      "недвижимость",
+      "пик"
+    ],
+    "url": "pik.ru",
+    "date": 1518253242,
+    "edit_date": 1583185563,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "nedvizhimost",
+      "pik"
+    ],
+    "awards": []
+  },
+  {
+    "id": 56,
+    "title": "Батенька, да вы трансформер",
+    "image": "data/images/56.jpg",
+    "tags": [
+      "медиа",
+      "jetstyle"
+    ],
+    "url": "batenka.ru",
+    "date": 1518172932,
+    "edit_date": 1583185563,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "media",
+      "jetstyle"
+    ],
+    "awards": []
+  }
+]
