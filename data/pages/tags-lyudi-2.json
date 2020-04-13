@@ -1,5 +1,28 @@
 [
   {
+    "id": 196,
+    "title": "Esquire",
+    "image": "data/images/196.jpg",
+    "tags": [
+      "журнал",
+      "люди",
+      "новости",
+      "мода"
+    ],
+    "url": "https://esquire.ru/",
+    "date": 1528106414,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "lyudi",
+      "novosti",
+      "moda"
+    ],
+    "awards": []
+  },
+  {
     "id": 179,
     "title": "Телеграф",
     "image": "data/images/179.jpg",
