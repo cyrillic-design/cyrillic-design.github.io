@@ -1,5 +1,26 @@
 [
   {
+    "id": 711,
+    "title": "CreativeCrew",
+    "caption": "CreativeCrew\nhttps://partners.cpeople.ru/\n\n#агентство #creativepeople",
+    "image": "data/images/711.jpg",
+    "tags": [
+      "агентство",
+      "creativepeople"
+    ],
+    "url": "https://partners.cpeople.ru/",
+    "date": 1586858409,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "agentstvo",
+      "creativepeople"
+    ],
+    "awards": []
+  },
+  {
     "id": 600,
     "title": "РА «ВОСХОД»",
     "caption": "РА «ВОСХОД»\nhttps://voskhod.agency/\n\n#агентство #портфолио",

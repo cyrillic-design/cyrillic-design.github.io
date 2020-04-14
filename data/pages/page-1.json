@@ -1,5 +1,26 @@
 [
   {
+    "id": 711,
+    "title": "CreativeCrew",
+    "caption": "CreativeCrew\nhttps://partners.cpeople.ru/\n\n#агентство #creativepeople",
+    "image": "data/images/711.jpg",
+    "tags": [
+      "агентство",
+      "creativepeople"
+    ],
+    "url": "https://partners.cpeople.ru/",
+    "date": 1586858409,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "agentstvo",
+      "creativepeople"
+    ],
+    "awards": []
+  },
+  {
     "id": 710,
     "title": "Personal Profiles – Just Talk / 20.03.2020",
     "caption": "Personal Profiles – Just Talk / 20.03.2020\nhttps://profiles.taragraphy.com/\n\n#образование #люди #мероприятие #отчет #readymag #artemtarasov\nСпасибо за ссылку @designgest_live",
@@ -454,27 +475,6 @@
       "finansi",
       "bank",
       "aic"
-    ],
-    "awards": []
-  },
-  {
-    "id": 690,
-    "title": "type today — Журнал",
-    "caption": "type today — Журнал\nhttps://type.today/ru/journal\n\n#журнал #митясудаков",
-    "image": "data/images/690.jpg",
-    "tags": [
-      "журнал",
-      "митясудаков"
-    ],
-    "url": "https://type.today/ru/journal",
-    "date": 1584698457,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "zhurnal",
-      "mityasudakov"
     ],
     "awards": []
   }

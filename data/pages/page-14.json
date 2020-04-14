@@ -1,5 +1,26 @@
 [
   {
+    "id": 425,
+    "title": "Элитные квартиры на Петровском острове",
+    "image": "data/images/425.jpg",
+    "tags": [
+      "недвижимость",
+      "промо",
+      "kelnik"
+    ],
+    "url": "https://neva-haus.ru/",
+    "date": 1548756016,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "nedvizhimost",
+      "promo",
+      "kelnik"
+    ],
+    "awards": []
+  },
+  {
     "id": 424,
     "title": "Хендэ Мотор СНГ",
     "image": "data/images/424.jpg",
@@ -376,27 +397,6 @@
       "servis",
       "itogi",
       "blog"
-    ],
-    "awards": []
-  },
-  {
-    "id": 405,
-    "title": "White Khamovniki",
-    "image": "data/images/405.jpg",
-    "tags": [
-      "промо",
-      "недвижимость",
-      "art3d"
-    ],
-    "url": "http://whitekhamovniki.ru/",
-    "date": 1546250413,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "nedvizhimost",
-      "art3d"
     ],
     "awards": []
   }
