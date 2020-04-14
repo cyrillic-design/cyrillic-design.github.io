@@ -1,5 +1,26 @@
 [
   {
+    "id": 405,
+    "title": "White Khamovniki",
+    "image": "data/images/405.jpg",
+    "tags": [
+      "промо",
+      "недвижимость",
+      "art3d"
+    ],
+    "url": "http://whitekhamovniki.ru/",
+    "date": 1546250413,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "nedvizhimost",
+      "art3d"
+    ],
+    "awards": []
+  },
+  {
     "id": 404,
     "title": "Banda agency",
     "image": "data/images/404.jpg",
@@ -373,25 +394,6 @@
       "meropriyatie",
       "biznes",
       "plusone"
-    ],
-    "awards": []
-  },
-  {
-    "id": 383,
-    "title": "BrandStudio",
-    "image": "data/images/383.jpg",
-    "tags": [
-      "агентство",
-      "портфолио"
-    ],
-    "url": "https://brandstudio.ru/#",
-    "date": 1544436027,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "agentstvo",
-      "portfolio"
     ],
     "awards": []
   }
