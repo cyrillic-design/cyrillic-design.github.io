@@ -8865,5 +8865,22 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "712": {
+    "id": 712,
+    "title": "Флоу",
+    "caption": "Флоу\nhttps://flow.yandex.ru/\n\n#образование #шад #яндекс\nСпасибо за ссылку @AndyAbramov",
+    "image": "712.jpg",
+    "tags": [
+      "образование",
+      "шад",
+      "яндекс"
+    ],
+    "url": "https://flow.yandex.ru/",
+    "date": 1586944809,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

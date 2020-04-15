@@ -1,5 +1,28 @@
 [
   {
+    "id": 712,
+    "title": "Флоу",
+    "caption": "Флоу\nhttps://flow.yandex.ru/\n\n#образование #шад #яндекс\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/712.jpg",
+    "tags": [
+      "образование",
+      "шад",
+      "яндекс"
+    ],
+    "url": "https://flow.yandex.ru/",
+    "date": 1586944809,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "shad",
+      "yandeks"
+    ],
+    "awards": []
+  },
+  {
     "id": 441,
     "title": "Яндекс.Практикум",
     "caption": "Яндекс.Практикум\nhttps://praktikum.yandex.ru/\n\n#образование #сервис #шад #яндекс",
