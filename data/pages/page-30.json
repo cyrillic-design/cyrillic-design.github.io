@@ -1,5 +1,28 @@
 [
   {
+    "id": 90,
+    "title": "СПИД.ЦЕНТР",
+    "image": "data/images/90.jpg",
+    "tags": [
+      "благотворительность",
+      "фонд",
+      "люди",
+      "charmer"
+    ],
+    "url": "https://spid.center/ru",
+    "date": 1519466413,
+    "edit_date": 1583185563,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "blagotvoritelnost",
+      "fond",
+      "lyudi",
+      "charmer"
+    ],
+    "awards": []
+  },
+  {
     "id": 89,
     "title": "Россия без границ",
     "caption": "Россия без границ\nhttp://galaxys8.rbc.ru/\n\n#спецпроект #промо #samsung #рбк",

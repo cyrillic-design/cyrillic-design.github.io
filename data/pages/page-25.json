@@ -1,5 +1,22 @@
 [
   {
+    "id": 199,
+    "title": "Bookmate",
+    "image": "data/images/199.jpg",
+    "tags": [
+      "сервис"
+    ],
+    "url": "https://ru.bookmate.com/",
+    "date": 1528365608,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis"
+    ],
+    "awards": []
+  },
+  {
     "id": 198,
     "title": "Укркабель",
     "image": "data/images/198.jpg",
@@ -402,25 +419,6 @@
       "obrazovanie",
       "lyudi",
       "the23"
-    ],
-    "awards": []
-  },
-  {
-    "id": 178,
-    "title": "Lamp In Room",
-    "image": "data/images/178.jpg",
-    "tags": [
-      "магазин",
-      "braind"
-    ],
-    "url": "https://www.lampinroom.ru/",
-    "date": 1526637607,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "braind"
     ],
     "awards": []
   }

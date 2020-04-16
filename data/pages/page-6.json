@@ -1,5 +1,22 @@
 [
   {
+    "id": 605,
+    "title": "Саша Долгополов",
+    "image": "data/images/605.jpg",
+    "tags": [
+      "мероприятие"
+    ],
+    "url": "http://sashadolgopolov.ru/",
+    "date": 1571220053,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie"
+    ],
+    "awards": []
+  },
+  {
     "id": 604,
     "title": "ESH Print",
     "image": "data/images/604.jpg",
@@ -361,25 +378,6 @@
     "isRemoved": false,
     "slugs": [
       "magazin"
-    ],
-    "awards": []
-  },
-  {
-    "id": 581,
-    "title": "P.Y.E",
-    "image": "data/images/581.jpg",
-    "tags": [
-      "магазин",
-      "facultative"
-    ],
-    "url": "https://pyeoptics.com/",
-    "date": 1568109625,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "facultative"
     ],
     "awards": []
   }
