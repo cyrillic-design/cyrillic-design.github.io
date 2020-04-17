@@ -1,5 +1,24 @@
 [
   {
+    "id": 428,
+    "title": "Hochbach GmbH",
+    "image": "data/images/428.jpg",
+    "tags": [
+      "производство",
+      "negativelabs"
+    ],
+    "url": "https://www.hochbach.de/ru/",
+    "date": 1549015205,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "negativelabs"
+    ],
+    "awards": []
+  },
+  {
     "id": 427,
     "title": "RETROSUPERFUTURE",
     "image": "data/images/427.jpg",
@@ -368,29 +387,6 @@
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 408,
-    "title": "Краткая история дизайна",
-    "image": "data/images/408.jpg",
-    "tags": [
-      "история",
-      "дизайн",
-      "readymag",
-      "dmitriikuchev"
-    ],
-    "url": "https://readymag.com/kuchev/design-history-1/",
-    "date": 1547287208,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "istoriya",
-      "dizain",
-      "readymag",
-      "dmitriikuchev"
     ],
     "awards": []
   }

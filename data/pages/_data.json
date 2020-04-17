@@ -8900,5 +8900,22 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "714": {
+    "id": 714,
+    "title": "Яндекс.Практикум",
+    "caption": "Яндекс.Практикум\nhttps://praktikum.yandex.ru/\n\n#образование #шад #яндекс",
+    "image": "714.jpg",
+    "tags": [
+      "образование",
+      "шад",
+      "яндекс"
+    ],
+    "url": "https://praktikum.yandex.ru/",
+    "date": 1587117611,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

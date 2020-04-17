@@ -1,5 +1,22 @@
 [
   {
+    "id": 448,
+    "title": "Uber",
+    "image": "data/images/448.jpg",
+    "tags": [
+      "сервис"
+    ],
+    "url": "https://www.uber.com/ru/ru/",
+    "date": 1551002405,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis"
+    ],
+    "awards": []
+  },
+  {
     "id": 447,
     "title": "DADA Agency",
     "image": "data/images/447.jpg",
@@ -379,25 +396,6 @@
       "finansi",
       "bank",
       "aic"
-    ],
-    "awards": []
-  },
-  {
-    "id": 428,
-    "title": "Hochbach GmbH",
-    "image": "data/images/428.jpg",
-    "tags": [
-      "производство",
-      "negativelabs"
-    ],
-    "url": "https://www.hochbach.de/ru/",
-    "date": 1549015205,
-    "edit_date": 1583185362,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "proizvodstvo",
-      "negativelabs"
     ],
     "awards": []
   }

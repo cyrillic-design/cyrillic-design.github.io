@@ -1,5 +1,26 @@
 [
   {
+    "id": 281,
+    "title": "Подряд",
+    "image": "data/images/281.jpg",
+    "tags": [
+      "провайдер",
+      "услуги",
+      "house"
+    ],
+    "url": "https://podryad.tv/",
+    "date": 1535364009,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "provaider",
+      "uslugi",
+      "house"
+    ],
+    "awards": []
+  },
+  {
     "id": 280,
     "title": "HA",
     "image": "data/images/280.jpg",
@@ -376,27 +397,6 @@
       "sport",
       "istoriya",
       "megafon"
-    ],
-    "awards": []
-  },
-  {
-    "id": 260,
-    "title": "MASH KARA",
-    "image": "data/images/260.jpg",
-    "tags": [
-      "производство",
-      "мода",
-      "xdesign"
-    ],
-    "url": "https://mashkara.com/",
-    "date": 1533636015,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "proizvodstvo",
-      "moda",
-      "xdesign"
     ],
     "awards": []
   }
