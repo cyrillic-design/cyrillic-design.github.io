@@ -1,5 +1,24 @@
 [
   {
+    "id": 322,
+    "title": "OneSoil",
+    "image": "data/images/322.jpg",
+    "tags": [
+      "сервис",
+      "rightby"
+    ],
+    "url": "https://onesoil.ai/ru/",
+    "date": 1539079229,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "rightby"
+    ],
+    "awards": []
+  },
+  {
     "id": 321,
     "title": "PROUN",
     "image": "data/images/321.jpg",
@@ -391,29 +410,6 @@
     "slugs": [
       "servis",
       "biznes"
-    ],
-    "awards": []
-  },
-  {
-    "id": 302,
-    "title": "Периодическая система химических элементов Д. И. Менделеева",
-    "image": "data/images/302.jpg",
-    "tags": [
-      "образование",
-      "сервис",
-      "наука",
-      "artlebedev"
-    ],
-    "url": "https://periodic.artlebedev.ru/",
-    "date": 1537178413,
-    "edit_date": 1583185436,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "servis",
-      "nauka",
-      "artlebedev"
     ],
     "awards": []
   }
