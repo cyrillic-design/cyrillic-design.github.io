@@ -57,17 +57,18 @@
   {
     "id": 692,
     "title": "ТРАКТОР",
-    "caption": "ТРАКТОР\nhttps://traktor.cc/\n\n#онлайн #каталог #лучшедома #the23\nСпасибо за ссылку @the23_design",
+    "caption": "ТРАКТОР\nhttps://traktor.cc/\n\n#онлайн #каталог #лучшедома #tilda #the23\nСпасибо за ссылку @the23_design",
     "image": "data/images/692.jpg",
     "tags": [
       "онлайн",
       "каталог",
       "лучшедома",
+      "tilda",
       "the23"
     ],
     "url": "https://traktor.cc/",
     "date": 1585044016,
-    "edit_date": 1585832283,
+    "edit_date": 1587210028,
     "isMonth": false,
     "isYear": false,
     "isHighlighted": false,
@@ -76,6 +77,7 @@
       "onlain",
       "katalog",
       "luchshedoma",
+      "tilda",
       "the23"
     ],
     "awards": []
