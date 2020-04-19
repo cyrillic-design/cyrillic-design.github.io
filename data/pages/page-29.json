@@ -1,5 +1,28 @@
 [
   {
+    "id": 120,
+    "title": "Мегафон",
+    "image": "data/images/120.jpg",
+    "tags": [
+      "телекоммуникации",
+      "провайдер",
+      "услуги",
+      "ony"
+    ],
+    "url": "https://megafon.ru",
+    "date": 1521540014,
+    "edit_date": 1583185535,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "telekommunikatsii",
+      "provaider",
+      "uslugi",
+      "ony"
+    ],
+    "awards": []
+  },
+  {
     "id": 119,
     "title": "Живая память",
     "image": "data/images/119.jpg",
@@ -396,25 +419,6 @@
       "finansi",
       "zhurnal",
       "media"
-    ],
-    "awards": []
-  },
-  {
-    "id": 98,
-    "title": "Ciльпо",
-    "image": "data/images/98.jpg",
-    "tags": [
-      "магазин",
-      "еда"
-    ],
-    "url": "https://silpo.ua/",
-    "date": 1519725604,
-    "edit_date": 1583185563,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "yeda"
     ],
     "awards": []
   }
