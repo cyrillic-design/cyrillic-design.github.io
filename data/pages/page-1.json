@@ -2,23 +2,24 @@
   {
     "id": 717,
     "title": "Визионеры",
-    "caption": "Визионеры\nhttps://award.plus-one.ru/\n\n#мероприятие #науки #люди #tilda",
+    "caption": "Визионеры\nhttps://award.plus-one.ru/\n\n#мероприятие #наука #люди #tilda",
     "image": "data/images/717.jpg",
     "tags": [
       "мероприятие",
-      "науки",
+      "наука",
       "люди",
       "tilda"
     ],
     "url": "https://award.plus-one.ru/",
     "date": 1587376812,
+    "edit_date": 1587383308,
     "isMonth": false,
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
       "meropriyatie",
-      "nauki",
+      "nauka",
       "lyudi",
       "tilda"
     ],
