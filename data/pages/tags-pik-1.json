@@ -1,5 +1,32 @@
 [
   {
+    "id": 718,
+    "title": "Что такое дом?",
+    "caption": "Что такое дом?\nhttps://dom.batenka.ru/\n\n#спецпроект #исследование #readymag #пик #батенькадавытрансформер",
+    "image": "data/images/718.jpg",
+    "tags": [
+      "спецпроект",
+      "исследование",
+      "readymag",
+      "пик",
+      "батенькадавытрансформер"
+    ],
+    "url": "https://dom.batenka.ru/",
+    "date": 1587463207,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "issledovanie",
+      "readymag",
+      "pik",
+      "batenkadavitransformer"
+    ],
+    "awards": []
+  },
+  {
     "id": 513,
     "title": "ПИК Медиа",
     "image": "data/images/513.jpg",
