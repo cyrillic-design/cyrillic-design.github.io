@@ -8992,5 +8992,21 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "719": {
+    "id": 719,
+    "title": "Falafel books",
+    "caption": "Falafel books\nhttps://falafelbooks.com/\n\n#магазин #производство\nСпасибо за ссылку @AndyAbramov",
+    "image": "719.jpg",
+    "tags": [
+      "магазин",
+      "производство"
+    ],
+    "url": "https://falafelbooks.com/",
+    "date": 1587549639,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

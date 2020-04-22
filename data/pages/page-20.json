@@ -1,5 +1,24 @@
 [
   {
+    "id": 306,
+    "title": "Райт",
+    "image": "data/images/306.jpg",
+    "tags": [
+      "студия",
+      "портфолио"
+    ],
+    "url": "https://right.by/",
+    "date": 1537524019,
+    "edit_date": 1583185436,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "studiya",
+      "portfolio"
+    ],
+    "awards": []
+  },
+  {
     "id": 305,
     "title": "life:)",
     "image": "data/images/305.jpg",
@@ -384,25 +403,6 @@
       "meropriyatie",
       "festival",
       "muzika"
-    ],
-    "awards": []
-  },
-  {
-    "id": 286,
-    "title": "Первое Студенческое Агентство",
-    "image": "data/images/286.jpg",
-    "tags": [
-      "новости",
-      "сми"
-    ],
-    "url": "https://pervoe.online/",
-    "date": 1535796007,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "novosti",
-      "smi"
     ],
     "awards": []
   }
