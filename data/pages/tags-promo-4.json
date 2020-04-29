@@ -1,5 +1,26 @@
 [
   {
+    "id": 345,
+    "title": "Falafel + AIC",
+    "image": "data/images/345.jpg",
+    "tags": [
+      "промо",
+      "магазин",
+      "aic"
+    ],
+    "url": "http://aic.falafelbooks.com/",
+    "date": 1541412018,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "magazin",
+      "aic"
+    ],
+    "awards": []
+  },
+  {
     "id": 340,
     "title": "Barkli Gallery",
     "image": "data/images/340.jpg",
@@ -391,29 +412,6 @@
       "yeda",
       "promo",
       "zero"
-    ],
-    "awards": []
-  },
-  {
-    "id": 197,
-    "title": "Оскар 2018",
-    "image": "data/images/197.jpg",
-    "tags": [
-      "кино",
-      "промо",
-      "люди",
-      "mustapp"
-    ],
-    "url": "https://oscars.mustapp.com/",
-    "date": 1528192819,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "kino",
-      "promo",
-      "lyudi",
-      "mustapp"
     ],
     "awards": []
   }

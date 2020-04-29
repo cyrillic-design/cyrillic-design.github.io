@@ -9008,5 +9008,24 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "720": {
+    "id": 720,
+    "title": "Даниловский рынок",
+    "caption": "Даниловский рынок\nhttps://danilovskymarket.ru/ru\n\n#промо #доставка #еда #люди #breadhead\nСпасибо за ссылку @uxfail",
+    "image": "720.jpg",
+    "tags": [
+      "промо",
+      "доставка",
+      "еда",
+      "люди",
+      "breadhead"
+    ],
+    "url": "https://danilovskymarket.ru/ru",
+    "date": 1588154443,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

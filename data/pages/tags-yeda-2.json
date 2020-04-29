@@ -1,0 +1,25 @@
+[
+  {
+    "id": 83,
+    "title": "YAMI YAMI",
+    "image": "data/images/83.jpg",
+    "tags": [
+      "магазин",
+      "доставка",
+      "еда",
+      "breadhead"
+    ],
+    "url": "https://yamiyami.ru/",
+    "date": 1518864039,
+    "edit_date": 1583185563,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "dostavka",
+      "yeda",
+      "breadhead"
+    ],
+    "awards": []
+  }
+]

@@ -1,5 +1,25 @@
 [
   {
+    "id": 471,
+    "title": "Intervals",
+    "caption": "Intervals\nhttp://intervalsfest.com/\n\n#мероприятие #промо",
+    "image": "data/images/471.jpg",
+    "tags": [
+      "мероприятие",
+      "промо"
+    ],
+    "url": "http://intervalsfest.com/",
+    "date": 1552644017,
+    "edit_date": 1583423594,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "promo"
+    ],
+    "awards": []
+  },
+  {
     "id": 470,
     "title": "Самое эмейзинг обновление Рокета!",
     "image": "data/images/470.jpg",
@@ -382,27 +402,6 @@
       "nedvizhimost",
       "promo",
       "greencow"
-    ],
-    "awards": []
-  },
-  {
-    "id": 345,
-    "title": "Falafel + AIC",
-    "image": "data/images/345.jpg",
-    "tags": [
-      "промо",
-      "магазин",
-      "aic"
-    ],
-    "url": "http://aic.falafelbooks.com/",
-    "date": 1541412018,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "magazin",
-      "aic"
     ],
     "awards": []
   }
