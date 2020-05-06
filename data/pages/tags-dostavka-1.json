@@ -13,7 +13,8 @@
     ],
     "url": "https://danilovskymarket.ru/ru",
     "date": 1588154443,
-    "isMonth": false,
+    "edit_date": 1588759668,
+    "isMonth": true,
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false,
@@ -24,7 +25,9 @@
       "lyudi",
       "breadhead"
     ],
-    "awards": []
+    "awards": [
+      "month"
+    ]
   },
   {
     "id": 713,
