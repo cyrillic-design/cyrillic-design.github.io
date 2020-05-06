@@ -12,7 +12,8 @@
     ],
     "url": "https://homechallenge.ru/",
     "date": 1585897225,
-    "isMonth": false,
+    "edit_date": 1588759659,
+    "isMonth": true,
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false,
@@ -22,7 +23,9 @@
       "luchshedoma",
       "readymag"
     ],
-    "awards": []
+    "awards": [
+      "month"
+    ]
   },
   {
     "id": 698,
