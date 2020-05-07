@@ -9029,5 +9029,21 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "721": {
+    "id": 721,
+    "title": "We Make Fab",
+    "caption": "We Make Fab\nhttps://wemakefab.ru/\n\n#агентство #портфолио",
+    "image": "721.jpg",
+    "tags": [
+      "агентство",
+      "портфолио"
+    ],
+    "url": "https://wemakefab.ru/",
+    "date": 1588845663,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
