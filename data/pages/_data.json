@@ -9045,5 +9045,22 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "722": {
+    "id": 722,
+    "title": "Ежедневные рисунки 2020",
+    "caption": "Ежедневные рисунки 2020\nhttps://juliazass.com/drawing_journal_2020/ru\n\n#спецпроект #портфолио #юлиязасс\nСпасибо за ссылку @juliazass",
+    "image": "722.jpg",
+    "tags": [
+      "спецпроект",
+      "портфолио",
+      "юлиязасс"
+    ],
+    "url": "https://juliazass.com/drawing_journal_2020/ru",
+    "date": 1589191222,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
