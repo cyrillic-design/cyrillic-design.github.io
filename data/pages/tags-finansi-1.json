@@ -1,5 +1,28 @@
 [
   {
+    "id": 723,
+    "title": "Точка XS",
+    "caption": "Точка XS\nhttps://xs.tochka.com/\n\n#банк #финансы #приложение",
+    "image": "data/images/723.jpg",
+    "tags": [
+      "банк",
+      "финансы",
+      "приложение"
+    ],
+    "url": "https://xs.tochka.com/",
+    "date": 1589374036,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "bank",
+      "finansi",
+      "prilozhenie"
+    ],
+    "awards": []
+  },
+  {
     "id": 708,
     "title": "Райффайзен-Лизинг",
     "caption": "Райффайзен-Лизинг\nhttp://www.raiffeisen-leasing.ru/\n\n#авто #финансы #банк #лизинг #creativepeople",
@@ -425,29 +448,6 @@
       "bank",
       "finansi",
       "aic"
-    ],
-    "awards": []
-  },
-  {
-    "id": 230,
-    "title": "Сфера",
-    "image": "data/images/230.jpg",
-    "tags": [
-      "банк",
-      "финансы",
-      "бизнес",
-      "бкс"
-    ],
-    "url": "https://sfera.ru/",
-    "date": 1531044005,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "bank",
-      "finansi",
-      "biznes",
-      "bks"
     ],
     "awards": []
   }

@@ -1,5 +1,28 @@
 [
   {
+    "id": 723,
+    "title": "Точка XS",
+    "caption": "Точка XS\nhttps://xs.tochka.com/\n\n#банк #финансы #приложение",
+    "image": "data/images/723.jpg",
+    "tags": [
+      "банк",
+      "финансы",
+      "приложение"
+    ],
+    "url": "https://xs.tochka.com/",
+    "date": 1589374036,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "bank",
+      "finansi",
+      "prilozhenie"
+    ],
+    "awards": []
+  },
+  {
     "id": 708,
     "title": "Райффайзен-Лизинг",
     "caption": "Райффайзен-Лизинг\nhttp://www.raiffeisen-leasing.ru/\n\n#авто #финансы #банк #лизинг #creativepeople",
@@ -426,25 +449,6 @@
       "bank",
       "finansi",
       "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 145,
-    "title": "Банк Открытие",
-    "image": "data/images/145.jpg",
-    "tags": [
-      "финансы",
-      "банк"
-    ],
-    "url": "https://www.open.ru/",
-    "date": 1523613614,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "finansi",
-      "bank"
     ],
     "awards": []
   }

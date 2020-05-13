@@ -1,5 +1,28 @@
 [
   {
+    "id": 723,
+    "title": "Точка XS",
+    "caption": "Точка XS\nhttps://xs.tochka.com/\n\n#банк #финансы #приложение",
+    "image": "data/images/723.jpg",
+    "tags": [
+      "банк",
+      "финансы",
+      "приложение"
+    ],
+    "url": "https://xs.tochka.com/",
+    "date": 1589374036,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "bank",
+      "finansi",
+      "prilozhenie"
+    ],
+    "awards": []
+  },
+  {
     "id": 685,
     "title": "Sloy Design",
     "caption": "Sloy Design\nhttps://sloy.design/ru\n\n☆ #приложение #брендинг #cargo",

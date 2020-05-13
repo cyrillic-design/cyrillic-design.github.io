@@ -9062,5 +9062,22 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "723": {
+    "id": 723,
+    "title": "Точка XS",
+    "caption": "Точка XS\nhttps://xs.tochka.com/\n\n#банк #финансы #приложение",
+    "image": "723.jpg",
+    "tags": [
+      "банк",
+      "финансы",
+      "приложение"
+    ],
+    "url": "https://xs.tochka.com/",
+    "date": 1589374036,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
