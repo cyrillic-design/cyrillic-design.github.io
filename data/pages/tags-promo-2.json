@@ -1,5 +1,28 @@
 [
   {
+    "id": 640,
+    "title": "Airsecurity",
+    "image": "data/images/640.jpg",
+    "tags": [
+      "промо",
+      "услуги",
+      "tilda",
+      "personagency"
+    ],
+    "url": "http://airsecurity.ru/",
+    "date": 1576836009,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "uslugi",
+      "tilda",
+      "personagency"
+    ],
+    "awards": []
+  },
+  {
     "id": 638,
     "title": "Женщины в дизайне",
     "image": "data/images/638.jpg",
@@ -382,27 +405,6 @@
       "finansi",
       "bank",
       "roketbank"
-    ],
-    "awards": []
-  },
-  {
-    "id": 476,
-    "title": "За каждым успехом стоит мечта",
-    "image": "data/images/476.jpg",
-    "tags": [
-      "спецпроект",
-      "промо",
-      "рбк"
-    ],
-    "url": "http://galaxynote9.rbc.ru/",
-    "date": 1553076011,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "promo",
-      "rbk"
     ],
     "awards": []
   }

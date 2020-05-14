@@ -9079,5 +9079,23 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "724": {
+    "id": 724,
+    "title": "Контейнеров больше нет",
+    "caption": "Контейнеров больше нет\nhttps://box.localkitchen.ru/\n\n#доставка #еда #промо #кухнянарайоне\nСпасибо за ссылку @as_kiryanov",
+    "image": "724.jpg",
+    "tags": [
+      "доставка",
+      "еда",
+      "промо",
+      "кухнянарайоне"
+    ],
+    "url": "https://box.localkitchen.ru/",
+    "date": 1589450415,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

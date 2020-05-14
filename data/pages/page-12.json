@@ -1,5 +1,26 @@
 [
   {
+    "id": 484,
+    "title": "ВОНО — Свободный Пульт",
+    "image": "data/images/484.jpg",
+    "tags": [
+      "спецпроект",
+      "музыка",
+      "воно"
+    ],
+    "url": "http://svobodnypult.vonopaper.com",
+    "date": 1553853668,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "muzika",
+      "vono"
+    ],
+    "awards": []
+  },
+  {
     "id": 483,
     "title": "Perushev & Khmelev",
     "image": "data/images/483.jpg",
@@ -379,25 +400,6 @@
       "zhurnal",
       "avto",
       "yandeks"
-    ],
-    "awards": []
-  },
-  {
-    "id": 462,
-    "title": "Балтийск",
-    "image": "data/images/462.jpg",
-    "tags": [
-      "город",
-      "кружок"
-    ],
-    "url": "https://pillau.city/",
-    "date": 1551866413,
-    "edit_date": 1583185363,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "gorod",
-      "kruzhok"
     ],
     "awards": []
   }

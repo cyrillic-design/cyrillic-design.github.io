@@ -1,5 +1,26 @@
 [
   {
+    "id": 476,
+    "title": "За каждым успехом стоит мечта",
+    "image": "data/images/476.jpg",
+    "tags": [
+      "спецпроект",
+      "промо",
+      "рбк"
+    ],
+    "url": "http://galaxynote9.rbc.ru/",
+    "date": 1553076011,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "promo",
+      "rbk"
+    ],
+    "awards": []
+  },
+  {
     "id": 471,
     "title": "Intervals",
     "caption": "Intervals\nhttp://intervalsfest.com/\n\n#мероприятие #промо",
@@ -381,27 +402,6 @@
       "promo",
       "magazin",
       "proizvodstvo"
-    ],
-    "awards": []
-  },
-  {
-    "id": 346,
-    "title": "Раздоры II",
-    "image": "data/images/346.jpg",
-    "tags": [
-      "недвижимость",
-      "промо",
-      "greencow"
-    ],
-    "url": "https://razdory2.ru/",
-    "date": 1541498449,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "nedvizhimost",
-      "promo",
-      "greencow"
     ],
     "awards": []
   }
