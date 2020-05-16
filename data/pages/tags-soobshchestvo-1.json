@@ -1,5 +1,26 @@
 [
   {
+    "id": 725,
+    "title": "Musli",
+    "caption": "Musli\nhttps://musli.cc/\n\n#сообщество #дизайн",
+    "image": "data/images/725.jpg",
+    "tags": [
+      "сообщество",
+      "дизайн"
+    ],
+    "url": "https://musli.cc/",
+    "date": 1589623271,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "soobshchestvo",
+      "dizain"
+    ],
+    "awards": []
+  },
+  {
     "id": 310,
     "title": "Рихтер",
     "image": "data/images/310.jpg",

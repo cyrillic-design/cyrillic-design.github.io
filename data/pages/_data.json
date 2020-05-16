@@ -9097,5 +9097,21 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "725": {
+    "id": 725,
+    "title": "Musli",
+    "caption": "Musli\nhttps://musli.cc/\n\n#сообщество #дизайн",
+    "image": "725.jpg",
+    "tags": [
+      "сообщество",
+      "дизайн"
+    ],
+    "url": "https://musli.cc/",
+    "date": 1589623271,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

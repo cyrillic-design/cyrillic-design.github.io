@@ -1,5 +1,28 @@
 [
   {
+    "id": 637,
+    "title": "Благотворительный фонд «‎Шалаш»‎",
+    "image": "data/images/637.jpg",
+    "tags": [
+      "фонд",
+      "люди",
+      "помощь",
+      "sulliwan"
+    ],
+    "url": "https://shalash.academy/",
+    "date": 1576231245,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "fond",
+      "lyudi",
+      "pomoshch",
+      "sulliwan"
+    ],
+    "awards": []
+  },
+  {
     "id": 636,
     "title": "Шапша",
     "image": "data/images/636.jpg",
@@ -379,29 +402,6 @@
       "spetsproekt",
       "readymag",
       "azbukaattikus"
-    ],
-    "awards": []
-  },
-  {
-    "id": 617,
-    "title": "NETTO",
-    "image": "data/images/617.jpg",
-    "tags": [
-      "портфолио",
-      "спецпроект",
-      "the23",
-      "tilda"
-    ],
-    "url": "https://netto.the23.design/",
-    "date": 1572256855,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio",
-      "spetsproekt",
-      "the23",
-      "tilda"
     ],
     "awards": []
   }
