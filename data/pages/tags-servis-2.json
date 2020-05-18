@@ -1,5 +1,26 @@
 [
   {
+    "id": 537,
+    "title": "ZharaX",
+    "image": "data/images/537.jpg",
+    "tags": [
+      "сервис",
+      "музыка",
+      "stride"
+    ],
+    "url": "https://zhara-x.com/",
+    "date": 1561111239,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "muzika",
+      "stride"
+    ],
+    "awards": []
+  },
+  {
     "id": 534,
     "title": "Worki",
     "image": "data/images/534.jpg",
@@ -376,27 +397,6 @@
       "servis",
       "itogi",
       "blog"
-    ],
-    "awards": []
-  },
-  {
-    "id": 398,
-    "title": "Radario",
-    "image": "data/images/398.jpg",
-    "tags": [
-      "сервис",
-      "бизнес",
-      "финансы"
-    ],
-    "url": "https://business.radario.ru/",
-    "date": 1545645648,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "biznes",
-      "finansi"
     ],
     "awards": []
   }

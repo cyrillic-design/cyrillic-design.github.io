@@ -9113,5 +9113,21 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "726": {
+    "id": 726,
+    "title": "Calendaur",
+    "caption": "Calendaur\nhttps://calendaur.com/\n\n#сервис #каталог\nСпасибо за ссылку @AndyAbramov",
+    "image": "726.jpg",
+    "tags": [
+      "сервис",
+      "каталог"
+    ],
+    "url": "https://calendaur.com/",
+    "date": 1589796087,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
