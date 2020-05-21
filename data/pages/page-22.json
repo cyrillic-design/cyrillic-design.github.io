@@ -1,5 +1,24 @@
 [
   {
+    "id": 274,
+    "title": "Экомилк",
+    "image": "data/images/274.jpg",
+    "tags": [
+      "промо",
+      "производство"
+    ],
+    "url": "http://ecomilk.ru/",
+    "date": 1534759210,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "proizvodstvo"
+    ],
+    "awards": []
+  },
+  {
     "id": 272,
     "title": "INMYROOM",
     "image": "data/images/272.jpg",
@@ -378,25 +397,6 @@
       "izdanie",
       "moda",
       "kultura"
-    ],
-    "awards": []
-  },
-  {
-    "id": 253,
-    "title": "Zolla",
-    "image": "data/images/253.jpg",
-    "tags": [
-      "магазин",
-      "одежда"
-    ],
-    "url": "http://zolla.com/",
-    "date": 1533031210,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "odezhda"
     ],
     "awards": []
   }

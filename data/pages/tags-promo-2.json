@@ -1,5 +1,26 @@
 [
   {
+    "id": 642,
+    "title": "Tilda Podcast",
+    "image": "data/images/642.jpg",
+    "tags": [
+      "подкаст",
+      "промо",
+      "tilda"
+    ],
+    "url": "http://tilda.education/podcast",
+    "date": 1577008813,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "podkast",
+      "promo",
+      "tilda"
+    ],
+    "awards": []
+  },
+  {
     "id": 640,
     "title": "Airsecurity",
     "image": "data/images/640.jpg",
@@ -380,31 +401,6 @@
     "slugs": [
       "yeda",
       "promo"
-    ],
-    "awards": []
-  },
-  {
-    "id": 487,
-    "title": "Работяга",
-    "image": "data/images/487.jpg",
-    "tags": [
-      "промо",
-      "игра",
-      "финансы",
-      "банк",
-      "рокетбанк"
-    ],
-    "url": "https://rabotyaga.rocketbank.ru/",
-    "date": 1554112835,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "igra",
-      "finansi",
-      "bank",
-      "roketbank"
     ],
     "awards": []
   }

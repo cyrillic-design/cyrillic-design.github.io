@@ -1,5 +1,26 @@
 [
   {
+    "id": 347,
+    "title": "Gracia Ceramica",
+    "image": "data/images/347.jpg",
+    "tags": [
+      "промо",
+      "магазин",
+      "производство"
+    ],
+    "url": "http://www.graciaceramica.com/",
+    "date": 1541584853,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "magazin",
+      "proizvodstvo"
+    ],
+    "awards": []
+  },
+  {
     "id": 346,
     "title": "Раздоры II",
     "image": "data/images/346.jpg",
@@ -391,27 +412,6 @@
       "muzika",
       "festival",
       "promo"
-    ],
-    "awards": []
-  },
-  {
-    "id": 205,
-    "title": "Авиатор",
-    "image": "data/images/205.jpg",
-    "tags": [
-      "недвижимость",
-      "промо",
-      "its"
-    ],
-    "url": "http://dom-aviator.ru/",
-    "date": 1528884016,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "nedvizhimost",
-      "promo",
-      "its"
     ],
     "awards": []
   }
