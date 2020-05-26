@@ -9165,5 +9165,23 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "729": {
+    "id": 729,
+    "title": "Сижу дома",
+    "caption": "Сижу дома\nhttp://stau-acasa.tilda.ws/\n\n#спецпроект #здоровье #tilda #onbureau",
+    "image": "729.jpg",
+    "tags": [
+      "спецпроект",
+      "здоровье",
+      "tilda",
+      "onbureau"
+    ],
+    "url": "http://stau-acasa.tilda.ws/",
+    "date": 1590487296,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

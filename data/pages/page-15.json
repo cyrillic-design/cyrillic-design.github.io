@@ -1,5 +1,26 @@
 [
   {
+    "id": 423,
+    "title": "Телесеть",
+    "image": "data/images/423.jpg",
+    "tags": [
+      "услуги",
+      "провайдер",
+      "apusagency"
+    ],
+    "url": "https://teleset.plus/",
+    "date": 1548583204,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "uslugi",
+      "provaider",
+      "apusagency"
+    ],
+    "awards": []
+  },
+  {
     "id": 422,
     "title": "ВкусВилл",
     "image": "data/images/422.jpg",
@@ -376,25 +397,6 @@
     "slugs": [
       "agentstvo",
       "portfolio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 403,
-    "title": "In The City",
-    "image": "data/images/403.jpg",
-    "tags": [
-      "конференция",
-      "strelka"
-    ],
-    "url": "https://inthecity.strelka.com/ru",
-    "date": 1546077607,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "konferentsiya",
-      "strelka"
     ],
     "awards": []
   }

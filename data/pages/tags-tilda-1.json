@@ -1,5 +1,30 @@
 [
   {
+    "id": 729,
+    "title": "Сижу дома",
+    "caption": "Сижу дома\nhttp://stau-acasa.tilda.ws/\n\n#спецпроект #здоровье #tilda #onbureau",
+    "image": "data/images/729.jpg",
+    "tags": [
+      "спецпроект",
+      "здоровье",
+      "tilda",
+      "onbureau"
+    ],
+    "url": "http://stau-acasa.tilda.ws/",
+    "date": 1590487296,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "zdorove",
+      "tilda",
+      "onbureau"
+    ],
+    "awards": []
+  },
+  {
     "id": 717,
     "title": "Визионеры",
     "caption": "Визионеры\nhttps://award.plus-one.ru/\n\n#мероприятие #наука #люди #tilda",
