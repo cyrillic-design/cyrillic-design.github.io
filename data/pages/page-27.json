@@ -1,5 +1,28 @@
 [
   {
+    "id": 175,
+    "title": "Ладожская Усадьба",
+    "image": "data/images/175.jpg",
+    "tags": [
+      "букинг",
+      "услуги",
+      "развлечения",
+      "cloudmill"
+    ],
+    "url": "http://ladoga.hellem.ru/",
+    "date": 1526378415,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "buking",
+      "uslugi",
+      "razvlecheniya",
+      "cloudmill"
+    ],
+    "awards": []
+  },
+  {
     "id": 174,
     "title": "РОСГОССТРАХ БАНК",
     "image": "data/images/174.jpg",
@@ -395,25 +418,6 @@
       "bank",
       "finansi",
       "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 155,
-    "title": "Airbnb Plus",
-    "image": "data/images/155.jpg",
-    "tags": [
-      "промо",
-      "букинг"
-    ],
-    "url": "https://www.airbnb.ru/plus",
-    "date": 1524477620,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "buking"
     ],
     "awards": []
   }

@@ -1,5 +1,30 @@
 [
   {
+    "id": 730,
+    "title": "Курс прозы «Глагол»",
+    "caption": "Курс прозы «Глагол»\nhttp://glglgl.ru/\n\n#образование #мероприятие #readymag #nonobjective\nСпасибо за ссылку @readymag_official",
+    "image": "data/images/730.jpg",
+    "tags": [
+      "образование",
+      "мероприятие",
+      "readymag",
+      "nonobjective"
+    ],
+    "url": "http://glglgl.ru/",
+    "date": 1590573617,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "meropriyatie",
+      "readymag",
+      "nonobjective"
+    ],
+    "awards": []
+  },
+  {
     "id": 717,
     "title": "Визионеры",
     "caption": "Визионеры\nhttps://award.plus-one.ru/\n\n#мероприятие #наука #люди #tilda",
@@ -407,25 +432,6 @@
     "slugs": [
       "meropriyatie",
       "sovet"
-    ],
-    "awards": []
-  },
-  {
-    "id": 544,
-    "title": "Приходи и свети",
-    "image": "data/images/544.jpg",
-    "tags": [
-      "мероприятие",
-      "промо"
-    ],
-    "url": "http://sveti-intervalsfest.com/",
-    "date": 1562070785,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "meropriyatie",
-      "promo"
     ],
     "awards": []
   }

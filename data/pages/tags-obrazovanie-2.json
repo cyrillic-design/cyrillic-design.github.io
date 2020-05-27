@@ -1,5 +1,24 @@
 [
   {
+    "id": 559,
+    "title": "SKVOT",
+    "image": "data/images/559.jpg",
+    "tags": [
+      "образование",
+      "crevv"
+    ],
+    "url": "https://skvot.io/ru/",
+    "date": 1564480846,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "crevv"
+    ],
+    "awards": []
+  },
+  {
     "id": 542,
     "title": "Академия Яндекса",
     "image": "data/images/542.jpg",
@@ -378,25 +397,6 @@
       "finansi",
       "bank",
       "tinkoff"
-    ],
-    "awards": []
-  },
-  {
-    "id": 293,
-    "title": "The Orator Club",
-    "image": "data/images/293.jpg",
-    "tags": [
-      "образование",
-      "wonderwork"
-    ],
-    "url": "http://orator.club/",
-    "date": 1536426971,
-    "edit_date": 1583185435,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "wonderwork"
     ],
     "awards": []
   }
