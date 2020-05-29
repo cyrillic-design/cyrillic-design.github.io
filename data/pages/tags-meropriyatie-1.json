@@ -1,5 +1,28 @@
 [
   {
+    "id": 731,
+    "title": "Графический дизайн — Bang bang education",
+    "caption": "Графический дизайн — Bang bang education\nhttps://graphdesign.bangbangeducation.ru\n\n#образование #мероприятие #readymag \nСпасибо за ссылку @alexgolyanov",
+    "image": "data/images/731.jpg",
+    "tags": [
+      "образование",
+      "мероприятие",
+      "readymag"
+    ],
+    "url": "https://graphdesign.bangbangeducation.ru",
+    "date": 1590756852,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "meropriyatie",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 730,
     "title": "Курс прозы «Глагол»",
     "caption": "Курс прозы «Глагол»\nhttp://glglgl.ru/\n\n#образование #мероприятие #readymag #nonobjective\nСпасибо за ссылку @readymag_official",
@@ -413,25 +436,6 @@
       "spetsproekt",
       "readymag",
       "aic"
-    ],
-    "awards": []
-  },
-  {
-    "id": 547,
-    "title": "Инвентаризация",
-    "image": "data/images/547.jpg",
-    "tags": [
-      "мероприятие",
-      "совет"
-    ],
-    "url": "https://inventoryfest.ru/",
-    "date": 1562603964,
-    "edit_date": 1583183812,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "meropriyatie",
-      "sovet"
     ],
     "awards": []
   }
