@@ -1,5 +1,26 @@
 [
   {
+    "id": 279,
+    "title": "SIASPACE",
+    "image": "data/images/279.jpg",
+    "tags": [
+      "магазин",
+      "мода",
+      "facility"
+    ],
+    "url": "https://siaspace.com/",
+    "date": 1535191203,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "moda",
+      "facility"
+    ],
+    "awards": []
+  },
+  {
     "id": 278,
     "title": "Калашников",
     "image": "data/images/278.jpg",
@@ -376,25 +397,6 @@
     "slugs": [
       "spetsproekt",
       "batenkadavitransformer"
-    ],
-    "awards": []
-  },
-  {
-    "id": 258,
-    "title": "Vigbo",
-    "image": "data/images/258.jpg",
-    "tags": [
-      "сервис",
-      "дизайн"
-    ],
-    "url": "https://vigbo.com/",
-    "date": 1533463207,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "dizain"
     ],
     "awards": []
   }

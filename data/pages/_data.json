@@ -9218,5 +9218,23 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "732": {
+    "id": 732,
+    "title": "Кинотеатр под пледиком",
+    "caption": "Кинотеатр под пледиком\nhttps://kino.localkitchen.ru/\n\n#промо #еда #readymag #кухнянарайоне",
+    "image": "732.jpg",
+    "tags": [
+      "промо",
+      "еда",
+      "readymag",
+      "кухнянарайоне"
+    ],
+    "url": "https://kino.localkitchen.ru/",
+    "date": 1591005610,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

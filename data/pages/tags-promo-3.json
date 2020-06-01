@@ -1,5 +1,24 @@
 [
   {
+    "id": 490,
+    "title": "Высокая кухня на районе",
+    "image": "data/images/490.jpg",
+    "tags": [
+      "еда",
+      "промо"
+    ],
+    "url": "https://high.localkitchen.ru/",
+    "date": 1554372028,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "yeda",
+      "promo"
+    ],
+    "awards": []
+  },
+  {
     "id": 487,
     "title": "Работяга",
     "image": "data/images/487.jpg",
@@ -385,27 +404,6 @@
       "promo",
       "meropriyatie",
       "kruzhok"
-    ],
-    "awards": []
-  },
-  {
-    "id": 361,
-    "title": "Умные плейлисты на Яндекс.Музыке",
-    "image": "data/images/361.jpg",
-    "tags": [
-      "промо",
-      "яндекс",
-      "romansazonov"
-    ],
-    "url": "https://smartplaylists.ru/",
-    "date": 1542794455,
-    "edit_date": 1583185395,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "yandeks",
-      "romansazonov"
     ],
     "awards": []
   }

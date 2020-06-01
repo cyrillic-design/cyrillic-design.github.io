@@ -1,5 +1,26 @@
 [
   {
+    "id": 198,
+    "title": "Укркабель",
+    "image": "data/images/198.jpg",
+    "tags": [
+      "производство",
+      "услуги",
+      "facility"
+    ],
+    "url": "http://ukrcable.com.ua/ru",
+    "date": 1528279204,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "uslugi",
+      "facility"
+    ],
+    "awards": []
+  },
+  {
     "id": 197,
     "title": "Оскар 2018",
     "image": "data/images/197.jpg",
@@ -400,27 +421,6 @@
     "slugs": [
       "magazin",
       "braind"
-    ],
-    "awards": []
-  },
-  {
-    "id": 177,
-    "title": "Детская клиническая больница",
-    "image": "data/images/177.jpg",
-    "tags": [
-      "медицина",
-      "здоровье",
-      "aic"
-    ],
-    "url": "http://deti-sechenov.ru/",
-    "date": 1526551212,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "meditsina",
-      "zdorove",
-      "aic"
     ],
     "awards": []
   }
