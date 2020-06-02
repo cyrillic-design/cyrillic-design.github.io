@@ -1,5 +1,24 @@
 [
   {
+    "id": 666,
+    "title": "Redo Bureau",
+    "caption": "Redo Bureau\nhttps://redobureau.com/ru\n\n☆ #портфолио",
+    "image": "data/images/666.jpg",
+    "tags": [
+      "портфолио"
+    ],
+    "url": "https://redobureau.com/ru",
+    "date": 1582279214,
+    "edit_date": 1584347808,
+    "isMonth": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio"
+    ],
+    "awards": []
+  },
+  {
     "id": 665,
     "title": "Кузнецов, Марисин и партнёры",
     "caption": "Кузнецов, Марисин и партнёры\nhttps://kmplaw.ru/\n\n☆ #корпоративныйсайт #whiterussianstudio",
@@ -396,27 +415,6 @@
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 645,
-    "title": "Гоголевский 12",
-    "image": "data/images/645.jpg",
-    "tags": [
-      "промо",
-      "недвижимость",
-      "art3d"
-    ],
-    "url": "http://gogolevsky12.ru/",
-    "date": 1577268028,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "nedvizhimost",
-      "art3d"
     ],
     "awards": []
   }
