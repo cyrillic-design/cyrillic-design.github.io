@@ -1,5 +1,24 @@
 [
   {
+    "id": 539,
+    "title": "ЗАО «Росма»",
+    "image": "data/images/539.jpg",
+    "tags": [
+      "производство",
+      "levelup"
+    ],
+    "url": "https://rosma.spb.ru/",
+    "date": 1561370466,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "levelup"
+    ],
+    "awards": []
+  },
+  {
     "id": 538,
     "title": "BuroData Platform",
     "image": "data/images/538.jpg",
@@ -361,25 +380,6 @@
     "slugs": [
       "magazin",
       "yarmarka"
-    ],
-    "awards": []
-  },
-  {
-    "id": 517,
-    "title": "Vision Lighting",
-    "image": "data/images/517.jpg",
-    "tags": [
-      "производство",
-      "магазин"
-    ],
-    "url": "https://visionlighting.ua/",
-    "date": 1558864809,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "proizvodstvo",
-      "magazin"
     ],
     "awards": []
   }

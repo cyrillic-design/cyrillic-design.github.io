@@ -1,5 +1,22 @@
 [
   {
+    "id": 626,
+    "title": "Ivanovo - Museum",
+    "image": "data/images/626.jpg",
+    "tags": [
+      "искусство"
+    ],
+    "url": "http://textilemuseum.ru/ru/",
+    "date": 1573898425,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "iskusstvo"
+    ],
+    "awards": []
+  },
+  {
     "id": 625,
     "title": "L&L",
     "image": "data/images/625.jpg",
@@ -385,23 +402,6 @@
     "slugs": [
       "meropriyatie",
       "designworkout"
-    ],
-    "awards": []
-  },
-  {
-    "id": 606,
-    "title": "Тренинги по Канбан-методу",
-    "image": "data/images/606.jpg",
-    "tags": [
-      "образование"
-    ],
-    "url": "https://leankanban.ru/",
-    "date": 1571306464,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie"
     ],
     "awards": []
   }

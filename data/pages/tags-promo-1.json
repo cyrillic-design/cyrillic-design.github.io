@@ -1,5 +1,26 @@
 [
   {
+    "id": 734,
+    "title": "Creachella",
+    "caption": "Creachella\nhttps://creachella.moscow/\n\n#мероприятие #промо",
+    "image": "data/images/734.jpg",
+    "tags": [
+      "мероприятие",
+      "промо"
+    ],
+    "url": "https://creachella.moscow/",
+    "date": 1591264873,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "promo"
+    ],
+    "awards": []
+  },
+  {
     "id": 732,
     "title": "Кинотеатр под пледиком",
     "caption": "Кинотеатр под пледиком\nhttps://kino.localkitchen.ru/\n\n#промо #еда #readymag #кухнянарайоне",
@@ -444,29 +465,6 @@
       "spetsproekt",
       "promo",
       "obrazovanie"
-    ],
-    "awards": []
-  },
-  {
-    "id": 647,
-    "title": "АВТОМОБИЛЬ!",
-    "image": "data/images/647.jpg",
-    "tags": [
-      "финансы",
-      "банк",
-      "промо",
-      "рокетбанк"
-    ],
-    "url": "https://tesla.rocketbank.ru/",
-    "date": 1577440805,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "finansi",
-      "bank",
-      "promo",
-      "roketbank"
     ],
     "awards": []
   }

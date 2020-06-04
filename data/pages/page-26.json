@@ -1,5 +1,26 @@
 [
   {
+    "id": 200,
+    "title": "Рецепты Almette",
+    "image": "data/images/200.jpg",
+    "tags": [
+      "еда",
+      "промо",
+      "zero"
+    ],
+    "url": "https://almette.ru/recipes",
+    "date": 1528452013,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "yeda",
+      "promo",
+      "zero"
+    ],
+    "awards": []
+  },
+  {
     "id": 199,
     "title": "Bookmate",
     "image": "data/images/199.jpg",
@@ -396,29 +417,6 @@
     "slugs": [
       "magazin",
       "hellobarty"
-    ],
-    "awards": []
-  },
-  {
-    "id": 179,
-    "title": "Телеграф",
-    "image": "data/images/179.jpg",
-    "tags": [
-      "журнал",
-      "образование",
-      "люди",
-      "the23"
-    ],
-    "url": "http://telegraf.design/",
-    "date": 1526724012,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "zhurnal",
-      "obrazovanie",
-      "lyudi",
-      "the23"
     ],
     "awards": []
   }
