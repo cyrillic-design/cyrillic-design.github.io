@@ -1,5 +1,26 @@
 [
   {
+    "id": 736,
+    "title": "V-A-C",
+    "caption": "V-A-C\nhttps://v-a-c.org/ru\n\n#фонд #производство\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/736.jpg",
+    "tags": [
+      "фонд",
+      "производство"
+    ],
+    "url": "https://v-a-c.org/ru",
+    "date": 1592072200,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "fond",
+      "proizvodstvo"
+    ],
+    "awards": []
+  },
+  {
     "id": 719,
     "title": "Falafel books",
     "caption": "Falafel books\nhttps://falafelbooks.com/\n\n#магазин #производство\nСпасибо за ссылку @AndyAbramov",
@@ -383,27 +404,6 @@
     "slugs": [
       "promo",
       "proizvodstvo"
-    ],
-    "awards": []
-  },
-  {
-    "id": 260,
-    "title": "MASH KARA",
-    "image": "data/images/260.jpg",
-    "tags": [
-      "производство",
-      "мода",
-      "xdesign"
-    ],
-    "url": "https://mashkara.com/",
-    "date": 1533636015,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "proizvodstvo",
-      "moda",
-      "xdesign"
     ],
     "awards": []
   }

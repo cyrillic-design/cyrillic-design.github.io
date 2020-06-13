@@ -1,5 +1,26 @@
 [
   {
+    "id": 736,
+    "title": "V-A-C",
+    "caption": "V-A-C\nhttps://v-a-c.org/ru\n\n#фонд #производство\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/736.jpg",
+    "tags": [
+      "фонд",
+      "производство"
+    ],
+    "url": "https://v-a-c.org/ru",
+    "date": 1592072200,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "fond",
+      "proizvodstvo"
+    ],
+    "awards": []
+  },
+  {
     "id": 637,
     "title": "Благотворительный фонд «‎Шалаш»‎",
     "image": "data/images/637.jpg",
