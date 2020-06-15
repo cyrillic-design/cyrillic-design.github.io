@@ -1,5 +1,29 @@
 [
   {
+    "id": 658,
+    "title": "Piano Trio Fest",
+    "caption": "Piano Trio Fest\nhttps://pianotriofest.com/\n\n☆ #мероприятие #музыка #readymag #zholud\n♡ @nowhow",
+    "image": "data/images/658.jpg",
+    "tags": [
+      "мероприятие",
+      "музыка",
+      "readymag",
+      "zholud"
+    ],
+    "url": "https://pianotriofest.com/",
+    "date": 1579773656,
+    "edit_date": 1583439463,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "muzika",
+      "readymag",
+      "zholud"
+    ],
+    "awards": []
+  },
+  {
     "id": 657,
     "title": "Падение берлинской стены",
     "image": "data/images/657.jpg",
@@ -414,29 +438,6 @@
     "slugs": [
       "spetsproekt",
       "zhurnalshrift",
-      "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 156,
-    "title": "Rocket Home Pig",
-    "image": "data/images/156.jpg",
-    "tags": [
-      "промо",
-      "банк",
-      "финансы",
-      "readymag"
-    ],
-    "url": "http://homepig.rocketbank.ru/",
-    "date": 1524564005,
-    "edit_date": 1583185536,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "bank",
-      "finansi",
       "readymag"
     ],
     "awards": []
