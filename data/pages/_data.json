@@ -9317,5 +9317,21 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "738": {
+    "id": 738,
+    "title": "Глущенкоиздат",
+    "caption": "Глущенкоиздат\nhttp://gluschenkoizdat.ru/\n\n#издательство #производство\nСпасибо за ссылку @AndyAbramov",
+    "image": "738.jpg",
+    "tags": [
+      "издательство",
+      "производство"
+    ],
+    "url": "http://gluschenkoizdat.ru/",
+    "date": 1592468243,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

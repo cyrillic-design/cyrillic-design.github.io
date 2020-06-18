@@ -1,5 +1,26 @@
 [
   {
+    "id": 738,
+    "title": "Глущенкоиздат",
+    "caption": "Глущенкоиздат\nhttp://gluschenkoizdat.ru/\n\n#издательство #производство\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/738.jpg",
+    "tags": [
+      "издательство",
+      "производство"
+    ],
+    "url": "http://gluschenkoizdat.ru/",
+    "date": 1592468243,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "izdatelstvo",
+      "proizvodstvo"
+    ],
+    "awards": []
+  },
+  {
     "id": 736,
     "title": "V-A-C",
     "caption": "V-A-C\nhttps://v-a-c.org/ru\n\n#фонд #производство\nСпасибо за ссылку @AndyAbramov",
@@ -385,25 +406,6 @@
       "proizvodstvo",
       "moda",
       "magazin"
-    ],
-    "awards": []
-  },
-  {
-    "id": 274,
-    "title": "Экомилк",
-    "image": "data/images/274.jpg",
-    "tags": [
-      "промо",
-      "производство"
-    ],
-    "url": "http://ecomilk.ru/",
-    "date": 1534759210,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "proizvodstvo"
     ],
     "awards": []
   }
