@@ -1,5 +1,27 @@
 [
   {
+    "id": 676,
+    "title": "LUXENGLISH",
+    "caption": "LUXENGLISH\nhttps://luxenglish.ru/\n\n☆ #образование #мероприятие #readymag",
+    "image": "data/images/676.jpg",
+    "tags": [
+      "образование",
+      "мероприятие",
+      "readymag"
+    ],
+    "url": "https://luxenglish.ru/",
+    "date": 1583402410,
+    "edit_date": 1583666034,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "meropriyatie",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 675,
     "title": "Театральная школа Karavaev Lab",
     "caption": "Театральная школа Karavaev Lab\nhttps://karavaev-lab.ru/\n\n☆ #образование #мероприятие #tilda",
@@ -402,25 +424,6 @@
       "uslugi",
       "promo",
       "only"
-    ],
-    "awards": []
-  },
-  {
-    "id": 651,
-    "title": "Смена 2020",
-    "image": "data/images/651.jpg",
-    "tags": [
-      "спецпроект",
-      "смена"
-    ],
-    "url": "https://2020.smena.me/",
-    "date": 1577786418,
-    "edit_date": 1583183700,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "smena"
     ],
     "awards": []
   }
