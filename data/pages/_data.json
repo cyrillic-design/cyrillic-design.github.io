@@ -9350,5 +9350,23 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "740": {
+    "id": 740,
+    "title": "Саврасов",
+    "caption": "Саврасов\nhttp://savrasovart.ru/\n\n#спецпроект #искусство #tilda #netlab",
+    "image": "740.jpg",
+    "tags": [
+      "спецпроект",
+      "искусство",
+      "tilda",
+      "netlab"
+    ],
+    "url": "http://savrasovart.ru/",
+    "date": 1592832153,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

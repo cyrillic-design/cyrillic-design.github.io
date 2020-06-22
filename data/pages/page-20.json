@@ -1,5 +1,30 @@
 [
   {
+    "id": 327,
+    "title": "Тестовое задание для Mail ru",
+    "image": "data/images/327.jpg",
+    "tags": [
+      "тестовоезадание",
+      "исследование",
+      "readymag",
+      "ивансемкин",
+      "mailru"
+    ],
+    "url": "https://readymag.com/u63516304/1094764/",
+    "date": 1539597634,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "testovoezadanie",
+      "issledovanie",
+      "readymag",
+      "ivansemkin",
+      "mailru"
+    ],
+    "awards": []
+  },
+  {
     "id": 326,
     "title": "Odyssey",
     "image": "data/images/326.jpg",
@@ -391,25 +416,6 @@
     "slugs": [
       "spetsproekt",
       "obrazovanie"
-    ],
-    "awards": []
-  },
-  {
-    "id": 307,
-    "title": "TEXX",
-    "image": "data/images/307.jpg",
-    "tags": [
-      "промо",
-      "производство"
-    ],
-    "url": "http://msk-gps.ru/",
-    "date": 1537610451,
-    "edit_date": 1583185436,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "proizvodstvo"
     ],
     "awards": []
   }
