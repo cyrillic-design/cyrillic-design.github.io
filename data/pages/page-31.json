@@ -1,5 +1,26 @@
 [
   {
+    "id": 103,
+    "title": "Inc.Russia",
+    "image": "data/images/103.jpg",
+    "tags": [
+      "журнал",
+      "медиа",
+      "бизнес"
+    ],
+    "url": "https://incrussia.ru/",
+    "date": 1520152874,
+    "edit_date": 1583185563,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "media",
+      "biznes"
+    ],
+    "awards": []
+  },
+  {
     "id": 102,
     "title": "ЖИ-ШИ PRODUCTION",
     "image": "data/images/102.jpg",
@@ -409,27 +430,6 @@
     "slugs": [
       "promo",
       "creativepeople"
-    ],
-    "awards": []
-  },
-  {
-    "id": 63,
-    "title": "Shuka Design Bureau",
-    "image": "data/images/63.jpg",
-    "tags": [
-      "агентство",
-      "портфолио",
-      "щука"
-    ],
-    "url": "shuka.ru",
-    "date": 1518426008,
-    "edit_date": 1583185563,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "agentstvo",
-      "portfolio",
-      "shchuka"
     ],
     "awards": []
   }

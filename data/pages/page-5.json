@@ -1,5 +1,26 @@
 [
   {
+    "id": 654,
+    "title": "Charmer",
+    "caption": "Charmer\nhttps://charmerstudio.com/ru\n\n☆ #портфолио\n♡ @glebrl",
+    "image": "data/images/654.jpg",
+    "tags": [
+      "портфолио"
+    ],
+    "url": "https://charmerstudio.com/ru",
+    "date": 1579168826,
+    "edit_date": 1584374369,
+    "isMonth": true,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio"
+    ],
+    "awards": [
+      "month"
+    ]
+  },
+  {
     "id": 653,
     "title": "Неон",
     "image": "data/images/653.jpg",
@@ -383,29 +404,6 @@
     "slugs": [
       "spetsproekt",
       "ony"
-    ],
-    "awards": []
-  },
-  {
-    "id": 633,
-    "title": "ВДНХ",
-    "image": "data/images/633.jpg",
-    "tags": [
-      "события",
-      "город",
-      "люди",
-      "смена"
-    ],
-    "url": "https://new.vdnh.ru/",
-    "date": 1575108085,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "sobitiya",
-      "gorod",
-      "lyudi",
-      "smena"
     ],
     "awards": []
   }
