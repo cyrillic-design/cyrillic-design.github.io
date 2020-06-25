@@ -1,5 +1,30 @@
 [
   {
+    "id": 742,
+    "title": "Как есть",
+    "caption": "Как есть\nhttps://kak.media/\n\n#медиа #журнал #еда #кухнянарайоне",
+    "image": "data/images/742.jpg",
+    "tags": [
+      "медиа",
+      "журнал",
+      "еда",
+      "кухнянарайоне"
+    ],
+    "url": "https://kak.media/",
+    "date": 1593079609,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "media",
+      "zhurnal",
+      "yeda",
+      "kukhnyanaraione"
+    ],
+    "awards": []
+  },
+  {
     "id": 732,
     "title": "Кинотеатр под пледиком",
     "caption": "Кинотеатр под пледиком\nhttps://kino.localkitchen.ru/\n\n#промо #еда #readymag #кухнянарайоне",
@@ -409,27 +434,6 @@
     "slugs": [
       "dostavka",
       "yeda"
-    ],
-    "awards": []
-  },
-  {
-    "id": 104,
-    "title": "Almette Маасдам",
-    "image": "data/images/104.jpg",
-    "tags": [
-      "промо",
-      "еда",
-      "zero"
-    ],
-    "url": "http://maasdam.almette.ru/",
-    "date": 1520244040,
-    "edit_date": 1583185563,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "yeda",
-      "zero"
     ],
     "awards": []
   }

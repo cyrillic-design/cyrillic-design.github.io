@@ -1,5 +1,24 @@
 [
   {
+    "id": 436,
+    "title": "PRAGMATIKA MEDIA",
+    "image": "data/images/436.jpg",
+    "tags": [
+      "журнал",
+      "otherland"
+    ],
+    "url": "https://pragmatika.media/",
+    "date": 1549965608,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "otherland"
+    ],
+    "awards": []
+  },
+  {
     "id": 435,
     "title": "Гоголь-Центр",
     "caption": "Гоголь-Центр\nhttps://gogolcenter.com/\n\n#мероприятие #афиша #театр",
@@ -376,25 +395,6 @@
     "slugs": [
       "servis",
       "chulakov"
-    ],
-    "awards": []
-  },
-  {
-    "id": 416,
-    "title": "История будущего",
-    "image": "data/images/416.jpg",
-    "tags": [
-      "портфолио",
-      "студия"
-    ],
-    "url": "http://futurehistory.ru/",
-    "date": 1547978408,
-    "edit_date": 1583185362,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio",
-      "studiya"
     ],
     "awards": []
   }

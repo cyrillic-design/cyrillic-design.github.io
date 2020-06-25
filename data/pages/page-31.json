@@ -1,5 +1,26 @@
 [
   {
+    "id": 104,
+    "title": "Almette Маасдам",
+    "image": "data/images/104.jpg",
+    "tags": [
+      "промо",
+      "еда",
+      "zero"
+    ],
+    "url": "http://maasdam.almette.ru/",
+    "date": 1520244040,
+    "edit_date": 1583185563,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "yeda",
+      "zero"
+    ],
+    "awards": []
+  },
+  {
     "id": 103,
     "title": "Inc.Russia",
     "image": "data/images/103.jpg",
@@ -411,25 +432,6 @@
     "slugs": [
       "magazin",
       "promo"
-    ],
-    "awards": []
-  },
-  {
-    "id": 64,
-    "title": "S7 Airlines - Airbus A320neo",
-    "image": "data/images/64.jpg",
-    "tags": [
-      "промо",
-      "creativepeople"
-    ],
-    "url": "neo320.s7.ru",
-    "date": 1518451216,
-    "edit_date": 1583185563,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "creativepeople"
     ],
     "awards": []
   }
