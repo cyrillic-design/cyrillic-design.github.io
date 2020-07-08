@@ -1,5 +1,24 @@
 [
   {
+    "id": 624,
+    "title": "Правила удобного дорожного движения",
+    "image": "data/images/624.jpg",
+    "tags": [
+      "спецпроект",
+      "артельуткина"
+    ],
+    "url": "http://probok.net/pdd/",
+    "date": 1573725620,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "artelutkina"
+    ],
+    "awards": []
+  },
+  {
     "id": 620,
     "title": "Лаишево — через прошлое в настоящее",
     "image": "data/images/620.jpg",
@@ -392,25 +411,6 @@
       "spetsproekt",
       "belarus",
       "alekseicherenkevich"
-    ],
-    "awards": []
-  },
-  {
-    "id": 505,
-    "title": "Карамзин Онлайн",
-    "image": "data/images/505.jpg",
-    "tags": [
-      "память",
-      "спецпроект"
-    ],
-    "url": "http://www.karamzin.info/",
-    "date": 1557828063,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "pamyat",
-      "spetsproekt"
     ],
     "awards": []
   }

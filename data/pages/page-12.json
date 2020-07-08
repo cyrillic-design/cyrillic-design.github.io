@@ -1,5 +1,24 @@
 [
   {
+    "id": 506,
+    "title": "BestDoctor",
+    "image": "data/images/506.jpg",
+    "tags": [
+      "сервис",
+      "здоровье"
+    ],
+    "url": "https://bestdoctor.ru/",
+    "date": 1557914456,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "zdorove"
+    ],
+    "awards": []
+  },
+  {
     "id": 505,
     "title": "Карамзин Онлайн",
     "image": "data/images/505.jpg",
@@ -374,25 +393,6 @@
       "spetsproekt",
       "muzika",
       "vono"
-    ],
-    "awards": []
-  },
-  {
-    "id": 483,
-    "title": "Perushev & Khmelev",
-    "image": "data/images/483.jpg",
-    "tags": [
-      "портфолио",
-      "sulliwan"
-    ],
-    "url": "https://perushevandkhmelev.com/",
-    "date": 1553767387,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio",
-      "sulliwan"
     ],
     "awards": []
   }

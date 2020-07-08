@@ -1,5 +1,24 @@
 [
   {
+    "id": 664,
+    "title": "Дизайн-квартал Флакон",
+    "image": "data/images/664.jpg",
+    "tags": [
+      "промо",
+      "readymag"
+    ],
+    "url": "https://flacon.ru/",
+    "date": 1582112783,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 663,
     "title": "Я себя люблю",
     "image": "data/images/663.jpg",
@@ -414,29 +433,6 @@
       "spetsproekt",
       "iskusstvo",
       "yevreiskiimuzei",
-      "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 284,
-    "title": "Фестиваль 90 лет Парку Горького",
-    "image": "data/images/284.jpg",
-    "tags": [
-      "мероприятие",
-      "фестиваль",
-      "город",
-      "readymag"
-    ],
-    "url": "http://90-pg.com/",
-    "date": 1535623221,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "meropriyatie",
-      "festival",
-      "gorod",
       "readymag"
     ],
     "awards": []
