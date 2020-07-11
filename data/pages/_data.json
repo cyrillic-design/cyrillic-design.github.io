@@ -9461,5 +9461,23 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "746": {
+    "id": 746,
+    "title": "Проект медиа",
+    "caption": "Проект медиа\nhttps://www.proekt.media/\n\n#медиа #сми #новости #setka\nСпасибо за ссылку @@AndyAbramov",
+    "image": "746.jpg",
+    "tags": [
+      "медиа",
+      "сми",
+      "новости",
+      "setka"
+    ],
+    "url": "https://www.proekt.media/",
+    "date": 1594461604,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

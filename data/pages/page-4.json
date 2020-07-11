@@ -1,5 +1,28 @@
 [
   {
+    "id": 685,
+    "title": "Sloy Design",
+    "caption": "Sloy Design\nhttps://sloy.design/ru\n\n☆ #приложение #брендинг #cargo",
+    "image": "data/images/685.jpg",
+    "tags": [
+      "приложение",
+      "брендинг",
+      "cargo"
+    ],
+    "url": "https://sloy.design/ru",
+    "date": 1584007225,
+    "edit_date": 1584910276,
+    "isMonth": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "prilozhenie",
+      "brending",
+      "cargo"
+    ],
+    "awards": []
+  },
+  {
     "id": 684,
     "title": "Яндекс.Заправки",
     "caption": "Яндекс.Заправки\nhttps://zapravki.yandex.ru/\n\n☆ #приложение #сервис #промо #яндекс",
@@ -408,27 +431,6 @@
     "slugs": [
       "meropriyatie",
       "24ttl"
-    ],
-    "awards": []
-  },
-  {
-    "id": 659,
-    "title": "Alcon Tower",
-    "image": "data/images/659.jpg",
-    "tags": [
-      "недвижимость",
-      "промо",
-      "whitemark"
-    ],
-    "url": "https://www.alcontower.ru/",
-    "date": 1580296973,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "nedvizhimost",
-      "promo",
-      "whitemark"
     ],
     "awards": []
   }
