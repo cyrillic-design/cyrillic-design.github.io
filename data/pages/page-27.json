@@ -1,5 +1,26 @@
 [
   {
+    "id": 192,
+    "title": "45/60",
+    "image": "data/images/192.jpg",
+    "tags": [
+      "промо",
+      "ресторан",
+      "еда"
+    ],
+    "url": "http://45-60.ru/",
+    "date": 1527847218,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "restoran",
+      "yeda"
+    ],
+    "awards": []
+  },
+  {
     "id": 191,
     "title": "Олег Герт",
     "image": "data/images/191.jpg",
@@ -394,23 +415,6 @@
       "media",
       "novosti",
       "tekhnologii"
-    ],
-    "awards": []
-  },
-  {
-    "id": 172,
-    "title": "re:Store",
-    "image": "data/images/172.jpg",
-    "tags": [
-      "магазин"
-    ],
-    "url": "https://www.re-store.ru/",
-    "date": 1526119218,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin"
     ],
     "awards": []
   }

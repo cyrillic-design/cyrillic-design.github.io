@@ -1,5 +1,24 @@
 [
   {
+    "id": 233,
+    "title": "Genue",
+    "image": "data/images/233.jpg",
+    "tags": [
+      "портфолио",
+      "студия"
+    ],
+    "url": "http://genue.ru/",
+    "date": 1531303225,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "studiya"
+    ],
+    "awards": []
+  },
+  {
     "id": 232,
     "title": "Обитель чёрного дьявола",
     "image": "data/images/232.jpg",
@@ -383,25 +402,6 @@
       "muzika",
       "festival",
       "promo"
-    ],
-    "awards": []
-  },
-  {
-    "id": 213,
-    "title": "Нож",
-    "image": "data/images/213.jpg",
-    "tags": [
-      "журнал",
-      "медиа"
-    ],
-    "url": "https://knife.media/",
-    "date": 1529575224,
-    "edit_date": 1583185435,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "zhurnal",
-      "media"
     ],
     "awards": []
   }

@@ -9479,5 +9479,22 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "747": {
+    "id": 747,
+    "title": "Как устроена и работает ДНК",
+    "caption": "Как устроена и работает ДНК\nhttps://howdnaworks.ru/\n\n#спецпроект #readymag #aidapacheva\nСпасибо за ссылку @aidapacheva",
+    "image": "747.jpg",
+    "tags": [
+      "спецпроект",
+      "readymag",
+      "aidapacheva"
+    ],
+    "url": "https://howdnaworks.ru/",
+    "date": 1594636759,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

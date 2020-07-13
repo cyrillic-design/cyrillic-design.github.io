@@ -1,5 +1,28 @@
 [
   {
+    "id": 747,
+    "title": "Как устроена и работает ДНК",
+    "caption": "Как устроена и работает ДНК\nhttps://howdnaworks.ru/\n\n#спецпроект #readymag #aidapacheva\nСпасибо за ссылку @aidapacheva",
+    "image": "data/images/747.jpg",
+    "tags": [
+      "спецпроект",
+      "readymag",
+      "aidapacheva"
+    ],
+    "url": "https://howdnaworks.ru/",
+    "date": 1594636759,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "readymag",
+      "aidapacheva"
+    ],
+    "awards": []
+  },
+  {
     "id": 745,
     "title": "Nezamechennye",
     "caption": "Nezamechennye\nhttps://nezamechennye.com/\n\n#спецпроект #история #культура #readymag #тонябайдина",
@@ -462,27 +485,6 @@
       "spetsproekt",
       "trendi",
       "prezentatsiya"
-    ],
-    "awards": []
-  },
-  {
-    "id": 636,
-    "title": "Шапша",
-    "image": "data/images/636.jpg",
-    "tags": [
-      "спецпроект",
-      "люди",
-      "кружок"
-    ],
-    "url": "https://shapsha.io/",
-    "date": 1575626449,
-    "edit_date": 1583183700,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "lyudi",
-      "kruzhok"
     ],
     "awards": []
   }
