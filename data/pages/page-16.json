@@ -1,5 +1,26 @@
 [
   {
+    "id": 422,
+    "title": "ВкусВилл",
+    "image": "data/images/422.jpg",
+    "tags": [
+      "сервис",
+      "магазин",
+      "max"
+    ],
+    "url": "https://new.vkusvill.ru",
+    "date": 1548496819,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "magazin",
+      "max"
+    ],
+    "awards": []
+  },
+  {
     "id": 421,
     "title": "Яндекс.Авто",
     "image": "data/images/421.jpg",
@@ -374,25 +395,6 @@
     "slugs": [
       "konferentsiya",
       "strelka"
-    ],
-    "awards": []
-  },
-  {
-    "id": 402,
-    "title": "Рейтинги РВК 2018",
-    "image": "data/images/402.jpg",
-    "tags": [
-      "финансы",
-      "бизнес"
-    ],
-    "url": "http://ratings.rvc.ru/",
-    "date": 1545991205,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "finansi",
-      "biznes"
     ],
     "awards": []
   }
