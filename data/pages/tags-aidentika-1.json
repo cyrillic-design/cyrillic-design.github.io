@@ -2,7 +2,7 @@
   {
     "id": 748,
     "title": "Корпус",
-    "caption": "Корпус\nhttps://korpus.everypixel.com/app/\n\n#приложение #айдентика\nСпасибо за ссылку @@AndyAbramov",
+    "caption": "Корпус\nhttps://korpus.everypixel.com/app/\n\n#приложение #айдентика\nСпасибо за ссылку @AndyAbramov",
     "image": "data/images/748.jpg",
     "tags": [
       "приложение",
@@ -10,6 +10,7 @@
     ],
     "url": "https://korpus.everypixel.com/app/",
     "date": 1594720919,
+    "edit_date": 1594775289,
     "isMonth": false,
     "isYear": false,
     "isHighlighted": false,
