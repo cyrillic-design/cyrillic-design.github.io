@@ -1,5 +1,27 @@
 [
   {
+    "id": 133,
+    "title": "BERNÍK & partneri",
+    "caption": "BERNÍK & partneri\nhttps://www.bernik-partneri.sk/ru\n\n#бизнес #услуги #ideil",
+    "image": "data/images/133.jpg",
+    "tags": [
+      "бизнес",
+      "услуги",
+      "ideil"
+    ],
+    "url": "https://www.bernik-partneri.sk/ru",
+    "date": 1522662082,
+    "edit_date": 1583415893,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "biznes",
+      "uslugi",
+      "ideil"
+    ],
+    "awards": []
+  },
+  {
     "id": 132,
     "title": "Эра-Глонасс",
     "image": "data/images/132.jpg",
@@ -394,27 +416,6 @@
     "slugs": [
       "dostavka",
       "yeda"
-    ],
-    "awards": []
-  },
-  {
-    "id": 113,
-    "title": "Кружок — Тур Россия",
-    "image": "data/images/113.jpg",
-    "tags": [
-      "промо",
-      "образование",
-      "кружок"
-    ],
-    "url": "https://russia.kruzhok.io/",
-    "date": 1520935226,
-    "edit_date": 1583185535,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "obrazovanie",
-      "kruzhok"
     ],
     "awards": []
   }

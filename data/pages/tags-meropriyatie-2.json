@@ -1,5 +1,22 @@
 [
   {
+    "id": 577,
+    "title": "Фестиваль Petshop Days",
+    "image": "data/images/577.jpg",
+    "tags": [
+      "мероприятие"
+    ],
+    "url": "https://petshopdays.ru/",
+    "date": 1567764010,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie"
+    ],
+    "awards": []
+  },
+  {
     "id": 560,
     "title": "Здесь и сейчас. Атлас творческих студий",
     "caption": "Здесь и сейчас. Атлас творческих студий\nhttps://hereandnow.moscow/\n\n#мероприятие #искусство #спецпроект #readymag #aic",
@@ -381,25 +398,6 @@
     "slugs": [
       "meropriyatie",
       "sistema"
-    ],
-    "awards": []
-  },
-  {
-    "id": 289,
-    "title": "Архитекторы РФ",
-    "image": "data/images/289.jpg",
-    "tags": [
-      "мероприятие",
-      "образование"
-    ],
-    "url": "https://xn--80akijuiemcz7e.xn--p1ai/",
-    "date": 1536055220,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "meropriyatie",
-      "obrazovanie"
     ],
     "awards": []
   }
