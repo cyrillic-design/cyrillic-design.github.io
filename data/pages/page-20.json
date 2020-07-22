@@ -1,5 +1,24 @@
 [
   {
+    "id": 337,
+    "title": "Я вышел ростом и лицом",
+    "image": "data/images/337.jpg",
+    "tags": [
+      "спецпроект",
+      "lentaru"
+    ],
+    "url": "http://vysotsky.lenta.ru/",
+    "date": 1540720809,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "lentaru"
+    ],
+    "awards": []
+  },
+  {
     "id": 336,
     "title": "Блог Tilda Publishing",
     "image": "data/images/336.jpg",
@@ -389,25 +408,6 @@
     "slugs": [
       "obrazovanie",
       "whiterussianstudio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 317,
-    "title": "Белый квадрат",
-    "image": "data/images/317.jpg",
-    "tags": [
-      "спецпроект",
-      "lentaru"
-    ],
-    "url": "http://sorokin.lenta.ru/",
-    "date": 1538474415,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "lentaru"
     ],
     "awards": []
   }
