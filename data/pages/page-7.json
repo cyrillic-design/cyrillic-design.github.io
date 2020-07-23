@@ -1,5 +1,28 @@
 [
   {
+    "id": 623,
+    "title": "Astris",
+    "image": "data/images/623.jpg",
+    "tags": [
+      "промо",
+      "недвижимость",
+      "екатеринаморошилова",
+      "videinfra"
+    ],
+    "url": "http://kos21.ru/",
+    "date": 1573639218,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "nedvizhimost",
+      "yekaterinamoroshilova",
+      "videinfra"
+    ],
+    "awards": []
+  },
+  {
     "id": 622,
     "title": "New Wallet — Travel Kit",
     "image": "data/images/622.jpg",
@@ -379,25 +402,6 @@
     "slugs": [
       "servis",
       "eshgruppa"
-    ],
-    "awards": []
-  },
-  {
-    "id": 603,
-    "title": "Атлас ВМаяковский",
-    "image": "data/images/603.jpg",
-    "tags": [
-      "мероприятие",
-      "groznovco"
-    ],
-    "url": "http://vmayakovsky.com/",
-    "date": 1571047236,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "meropriyatie",
-      "groznovco"
     ],
     "awards": []
   }

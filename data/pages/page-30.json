@@ -1,5 +1,26 @@
 [
   {
+    "id": 135,
+    "title": "Полюбить советскую архитектуру",
+    "image": "data/images/135.jpg",
+    "tags": [
+      "спецпроект",
+      "strelka",
+      "журнал"
+    ],
+    "url": "https://sovietarch.strelka.com/ru/",
+    "date": 1522836010,
+    "edit_date": 1583185535,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "strelka",
+      "zhurnal"
+    ],
+    "awards": []
+  },
+  {
     "id": 134,
     "title": "Utair",
     "image": "data/images/134.jpg",
@@ -395,29 +416,6 @@
       "studiya",
       "portfolio",
       "antonandirene"
-    ],
-    "awards": []
-  },
-  {
-    "id": 115,
-    "title": "Президент России",
-    "image": "data/images/115.jpg",
-    "tags": [
-      "государство",
-      "медиа",
-      "россия",
-      "labag"
-    ],
-    "url": "http://kremlin.ru/",
-    "date": 1521108016,
-    "edit_date": 1583185535,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "gosudarstvo",
-      "media",
-      "rossiya",
-      "labag"
     ],
     "awards": []
   }

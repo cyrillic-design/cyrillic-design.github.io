@@ -1,5 +1,26 @@
 [
   {
+    "id": 751,
+    "title": "PRAGMATICA",
+    "caption": "PRAGMATICA\nhttps://pragmatica.design/\n\n#портфолио #readymag",
+    "image": "data/images/751.jpg",
+    "tags": [
+      "портфолио",
+      "readymag"
+    ],
+    "url": "https://pragmatica.design/",
+    "date": 1595498405,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 749,
     "title": "СЛЫШ",
     "caption": "СЛЫШ\nhttps://podfest.ru/\n\n#мероприятие #readymag #артемматюшкин #nonobjectiveworks\nСпасибо за ссылку @AndyAbramov",
@@ -483,27 +504,6 @@
       "kultura",
       "readymag",
       "anastasiyaburyakova"
-    ],
-    "awards": []
-  },
-  {
-    "id": 686,
-    "title": "plotnik design",
-    "caption": "plotnik design\nhttps://plotnik.design/\n\n☆ #портфолио #readymag",
-    "image": "data/images/686.jpg",
-    "tags": [
-      "портфолио",
-      "readymag"
-    ],
-    "url": "https://plotnik.design/",
-    "date": 1584093614,
-    "edit_date": 1584347782,
-    "isMonth": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio",
-      "readymag"
     ],
     "awards": []
   }

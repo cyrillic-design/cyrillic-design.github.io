@@ -9547,5 +9547,21 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "751": {
+    "id": 751,
+    "title": "PRAGMATICA",
+    "caption": "PRAGMATICA\nhttps://pragmatica.design/\n\n#портфолио #readymag",
+    "image": "751.jpg",
+    "tags": [
+      "портфолио",
+      "readymag"
+    ],
+    "url": "https://pragmatica.design/",
+    "date": 1595498405,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
