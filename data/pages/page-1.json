@@ -1,5 +1,28 @@
 [
   {
+    "id": 752,
+    "title": "alvaar",
+    "caption": "alvaar\nhttps://alvaar.one/\n\n#магазин #shopify #nonobjectiveworks",
+    "image": "data/images/752.jpg",
+    "tags": [
+      "магазин",
+      "shopify",
+      "nonobjectiveworks"
+    ],
+    "url": "https://alvaar.one/",
+    "date": 1595584807,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "shopify",
+      "nonobjectiveworks"
+    ],
+    "awards": []
+  },
+  {
     "id": 751,
     "title": "PRAGMATICA",
     "caption": "PRAGMATICA\nhttps://pragmatica.design/\n\n#портфолио #readymag",
@@ -438,31 +461,6 @@
     "slugs": [
       "portfolio",
       "agentstvo"
-    ],
-    "awards": []
-  },
-  {
-    "id": 732,
-    "title": "Кинотеатр под пледиком",
-    "caption": "Кинотеатр под пледиком\nhttps://kino.localkitchen.ru/\n\n#промо #еда #readymag #кухнянарайоне",
-    "image": "data/images/732.jpg",
-    "tags": [
-      "промо",
-      "еда",
-      "readymag",
-      "кухнянарайоне"
-    ],
-    "url": "https://kino.localkitchen.ru/",
-    "date": 1591005610,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "yeda",
-      "readymag",
-      "kukhnyanaraione"
     ],
     "awards": []
   }

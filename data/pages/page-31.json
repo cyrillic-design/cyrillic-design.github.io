@@ -1,5 +1,26 @@
 [
   {
+    "id": 116,
+    "title": "Sila Sveta",
+    "image": "data/images/116.jpg",
+    "tags": [
+      "студия",
+      "портфолио",
+      "antonandirene"
+    ],
+    "url": "http://ru.silasveta.com/",
+    "date": 1521194406,
+    "edit_date": 1583185535,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "studiya",
+      "portfolio",
+      "antonandirene"
+    ],
+    "awards": []
+  },
+  {
     "id": 115,
     "title": "Президент России",
     "image": "data/images/115.jpg",
@@ -396,30 +417,6 @@
       "fond",
       "lyudi",
       "charmer"
-    ],
-    "awards": []
-  },
-  {
-    "id": 89,
-    "title": "Россия без границ",
-    "caption": "Россия без границ\nhttp://galaxys8.rbc.ru/\n\n#спецпроект #промо #samsung #рбк",
-    "image": "data/images/89.jpg",
-    "tags": [
-      "спецпроект",
-      "промо",
-      "samsung",
-      "рбк"
-    ],
-    "url": "http://galaxys8.rbc.ru/",
-    "date": 1519380009,
-    "edit_date": 1583247423,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "promo",
-      "samsung",
-      "rbk"
     ],
     "awards": []
   }

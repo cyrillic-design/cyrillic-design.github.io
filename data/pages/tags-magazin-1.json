@@ -1,5 +1,28 @@
 [
   {
+    "id": 752,
+    "title": "alvaar",
+    "caption": "alvaar\nhttps://alvaar.one/\n\n#магазин #shopify #nonobjectiveworks",
+    "image": "data/images/752.jpg",
+    "tags": [
+      "магазин",
+      "shopify",
+      "nonobjectiveworks"
+    ],
+    "url": "https://alvaar.one/",
+    "date": 1595584807,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "shopify",
+      "nonobjectiveworks"
+    ],
+    "awards": []
+  },
+  {
     "id": 719,
     "title": "Falafel books",
     "caption": "Falafel books\nhttps://falafelbooks.com/\n\n#магазин #производство\nСпасибо за ссылку @AndyAbramov",
@@ -386,25 +409,6 @@
       "magazin",
       "dostavka",
       "servis"
-    ],
-    "awards": []
-  },
-  {
-    "id": 518,
-    "title": "Ламбада-маркет",
-    "image": "data/images/518.jpg",
-    "tags": [
-      "магазин",
-      "ярмарка"
-    ],
-    "url": "https://lmbd.ru/",
-    "date": 1558951242,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "yarmarka"
     ],
     "awards": []
   }
