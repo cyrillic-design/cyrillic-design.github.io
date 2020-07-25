@@ -1,5 +1,28 @@
 [
   {
+    "id": 753,
+    "title": "Bolditalic — выпуск 2020",
+    "caption": "Bolditalic — выпуск 2020\nhttps://2020.bolditalic.type.school/\n\n#образование #readymag #владимирпушкарёв\nСпасибо за ссылку @VPuschkarev",
+    "image": "data/images/753.jpg",
+    "tags": [
+      "образование",
+      "readymag",
+      "владимирпушкарёв"
+    ],
+    "url": "https://2020.bolditalic.type.school/",
+    "date": 1595671205,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "readymag",
+      "vladimirpushkaryov"
+    ],
+    "awards": []
+  },
+  {
     "id": 737,
     "title": "Reminder: Здоровый сон",
     "caption": "Reminder: Здоровый сон\nhttps://school.reminder.media/\n\n#образование #readymag\nСпасибо за ссылку @readymag_official",
@@ -435,29 +458,6 @@
     "slugs": [
       "obrazovanie",
       "tilda"
-    ],
-    "awards": []
-  },
-  {
-    "id": 614,
-    "title": "Цех",
-    "image": "data/images/614.jpg",
-    "tags": [
-      "образование",
-      "медиа",
-      "журнал",
-      "charmer"
-    ],
-    "url": "https://zeh.media/",
-    "date": 1571997639,
-    "edit_date": 1583183700,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "media",
-      "zhurnal",
-      "charmer"
     ],
     "awards": []
   }

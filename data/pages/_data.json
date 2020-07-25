@@ -9580,5 +9580,22 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "753": {
+    "id": 753,
+    "title": "Bolditalic — выпуск 2020",
+    "caption": "Bolditalic — выпуск 2020\nhttps://2020.bolditalic.type.school/\n\n#образование #readymag #владимирпушкарёв\nСпасибо за ссылку @VPuschkarev",
+    "image": "753.jpg",
+    "tags": [
+      "образование",
+      "readymag",
+      "владимирпушкарёв"
+    ],
+    "url": "https://2020.bolditalic.type.school/",
+    "date": 1595671205,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
