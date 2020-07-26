@@ -1,5 +1,28 @@
 [
   {
+    "id": 754,
+    "title": "Beat Film Festival",
+    "caption": "Beat Film Festival\nhttps://beatfilmfestival.ru/\n\n#мероприятие #кино #sulliwan",
+    "image": "data/images/754.jpg",
+    "tags": [
+      "мероприятие",
+      "кино",
+      "sulliwan"
+    ],
+    "url": "https://beatfilmfestival.ru/",
+    "date": 1595757609,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "kino",
+      "sulliwan"
+    ],
+    "awards": []
+  },
+  {
     "id": 749,
     "title": "СЛЫШ",
     "caption": "СЛЫШ\nhttps://podfest.ru/\n\n#мероприятие #readymag #артемматюшкин #nonobjectiveworks\nСпасибо за ссылку @AndyAbramov",
@@ -420,25 +443,6 @@
     "slugs": [
       "meropriyatie",
       "groznovco"
-    ],
-    "awards": []
-  },
-  {
-    "id": 602,
-    "title": "Briket Market",
-    "image": "data/images/602.jpg",
-    "tags": [
-      "заглушка",
-      "мероприятие"
-    ],
-    "url": "https://briketmarket.com/",
-    "date": 1570960829,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "zaglushka",
-      "meropriyatie"
     ],
     "awards": []
   }

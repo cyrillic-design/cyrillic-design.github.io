@@ -1,5 +1,24 @@
 [
   {
+    "id": 159,
+    "title": "Servermall",
+    "image": "data/images/159.jpg",
+    "tags": [
+      "магазин",
+      "промо"
+    ],
+    "url": "https://servermall.ru/",
+    "date": 1524823212,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "promo"
+    ],
+    "awards": []
+  },
+  {
     "id": 158,
     "title": "Консультационный центр",
     "image": "data/images/158.jpg",
@@ -387,29 +406,6 @@
     "slugs": [
       "provaider",
       "uslugi"
-    ],
-    "awards": []
-  },
-  {
-    "id": 138,
-    "title": "pcc world",
-    "image": "data/images/138.jpg",
-    "tags": [
-      "реклама",
-      "портал",
-      "образование",
-      "бизнес"
-    ],
-    "url": "https://ppc.world/",
-    "date": 1523095230,
-    "edit_date": 1583185535,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "reklama",
-      "portal",
-      "obrazovanie",
-      "biznes"
     ],
     "awards": []
   }

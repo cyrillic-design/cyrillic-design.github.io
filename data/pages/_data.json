@@ -9597,5 +9597,22 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "754": {
+    "id": 754,
+    "title": "Beat Film Festival",
+    "caption": "Beat Film Festival\nhttps://beatfilmfestival.ru/\n\n#мероприятие #кино #sulliwan",
+    "image": "754.jpg",
+    "tags": [
+      "мероприятие",
+      "кино",
+      "sulliwan"
+    ],
+    "url": "https://beatfilmfestival.ru/",
+    "date": 1595757609,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
