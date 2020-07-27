@@ -1,5 +1,32 @@
 [
   {
+    "id": 755,
+    "title": "Территория Авангарда",
+    "caption": "Территория Авангарда\nhttps://avantgarde-territory.com/\n\n#спецпроект #мероприятие #искусство #люди #readymag",
+    "image": "data/images/755.jpg",
+    "tags": [
+      "спецпроект",
+      "мероприятие",
+      "искусство",
+      "люди",
+      "readymag"
+    ],
+    "url": "https://avantgarde-territory.com/",
+    "date": 1595844010,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "meropriyatie",
+      "iskusstvo",
+      "lyudi",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 743,
     "title": "Марк Шагал",
     "caption": "Марк Шагал\nhttps://mchagall.ru/\n\n#спецпроект #искусство #история #readymag #pragmatica \nСпасибо за ссылку @blinklinks",

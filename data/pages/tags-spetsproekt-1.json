@@ -1,5 +1,32 @@
 [
   {
+    "id": 755,
+    "title": "Территория Авангарда",
+    "caption": "Территория Авангарда\nhttps://avantgarde-territory.com/\n\n#спецпроект #мероприятие #искусство #люди #readymag",
+    "image": "data/images/755.jpg",
+    "tags": [
+      "спецпроект",
+      "мероприятие",
+      "искусство",
+      "люди",
+      "readymag"
+    ],
+    "url": "https://avantgarde-territory.com/",
+    "date": 1595844010,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "meropriyatie",
+      "iskusstvo",
+      "lyudi",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 747,
     "title": "Как устроена и работает ДНК",
     "caption": "Как устроена и работает ДНК\nhttps://howdnaworks.ru/\n\n#спецпроект #readymag #aidapacheva\nСпасибо за ссылку @aidapacheva",
@@ -464,27 +491,6 @@
       "spetsproekt",
       "promo",
       "obrazovanie"
-    ],
-    "awards": []
-  },
-  {
-    "id": 639,
-    "title": "Future Book 202X от Кухни на районе и друзей",
-    "image": "data/images/639.jpg",
-    "tags": [
-      "спецпроект",
-      "тренды",
-      "презентация"
-    ],
-    "url": "https://202x.localkitchen.ru/",
-    "date": 1576749663,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "trendi",
-      "prezentatsiya"
     ],
     "awards": []
   }

@@ -1,5 +1,24 @@
 [
   {
+    "id": 603,
+    "title": "Атлас ВМаяковский",
+    "image": "data/images/603.jpg",
+    "tags": [
+      "мероприятие",
+      "groznovco"
+    ],
+    "url": "http://vmayakovsky.com/",
+    "date": 1571047236,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "groznovco"
+    ],
+    "awards": []
+  },
+  {
     "id": 602,
     "title": "Briket Market",
     "image": "data/images/602.jpg",
@@ -377,27 +396,6 @@
       "promo",
       "meropriyatie",
       "kruzhok"
-    ],
-    "awards": []
-  },
-  {
-    "id": 321,
-    "title": "PROUN",
-    "image": "data/images/321.jpg",
-    "tags": [
-      "искусство",
-      "люди",
-      "мероприятие"
-    ],
-    "url": "https://proun.moscow/",
-    "date": 1538992923,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "iskusstvo",
-      "lyudi",
-      "meropriyatie"
     ],
     "awards": []
   }
