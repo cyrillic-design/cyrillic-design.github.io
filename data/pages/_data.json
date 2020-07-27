@@ -9618,17 +9618,18 @@
   "755": {
     "id": 755,
     "title": "Территория Авангарда",
-    "caption": "Территория Авангарда\nhttps://avantgarde-territory.com/\n\n#спецпроект #мероприятие #искусство #люди #readymag",
+    "caption": "Территория Авангарда\nhttps://avantgarde-territory.com/\n\n#спецпроект #мероприятие #искусство #история #readymag",
     "image": "755.jpg",
     "tags": [
       "спецпроект",
       "мероприятие",
       "искусство",
-      "люди",
+      "история",
       "readymag"
     ],
     "url": "https://avantgarde-territory.com/",
     "date": 1595844010,
+    "edit_date": 1595892981,
     "isMonth": false,
     "isYear": false,
     "isHighlighted": false,
