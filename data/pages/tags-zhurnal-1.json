@@ -1,5 +1,32 @@
 [
   {
+    "id": 756,
+    "title": "THE FUTURE OF BEAUTY",
+    "caption": "THE FUTURE OF BEAUTY\nhttp://fob.flacon-magazine.com/\n\n#красота #мероприятие #журнал #flacon #whiterussianstudio",
+    "image": "data/images/756.jpg",
+    "tags": [
+      "красота",
+      "мероприятие",
+      "журнал",
+      "flacon",
+      "whiterussianstudio"
+    ],
+    "url": "http://fob.flacon-magazine.com/",
+    "date": 1595930407,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "krasota",
+      "meropriyatie",
+      "zhurnal",
+      "flacon",
+      "whiterussianstudio"
+    ],
+    "awards": []
+  },
+  {
     "id": 742,
     "title": "Как есть",
     "caption": "Как есть\nhttps://kak.media/\n\n#медиа #журнал #еда #кухнянарайоне",
@@ -400,25 +427,6 @@
       "zhurnal",
       "nauka",
       "mamikhlapinatana"
-    ],
-    "awards": []
-  },
-  {
-    "id": 356,
-    "title": "Москвич Mag",
-    "image": "data/images/356.jpg",
-    "tags": [
-      "журнал",
-      "whiterussianstudio"
-    ],
-    "url": "https://moskvichmag.ru/",
-    "date": 1542362440,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "zhurnal",
-      "whiterussianstudio"
     ],
     "awards": []
   }

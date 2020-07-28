@@ -1,5 +1,32 @@
 [
   {
+    "id": 756,
+    "title": "THE FUTURE OF BEAUTY",
+    "caption": "THE FUTURE OF BEAUTY\nhttp://fob.flacon-magazine.com/\n\n#красота #мероприятие #журнал #flacon #whiterussianstudio",
+    "image": "data/images/756.jpg",
+    "tags": [
+      "красота",
+      "мероприятие",
+      "журнал",
+      "flacon",
+      "whiterussianstudio"
+    ],
+    "url": "http://fob.flacon-magazine.com/",
+    "date": 1595930407,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "krasota",
+      "meropriyatie",
+      "zhurnal",
+      "flacon",
+      "whiterussianstudio"
+    ],
+    "awards": []
+  },
+  {
     "id": 554,
     "title": "Золотое яблоко",
     "image": "data/images/554.jpg",

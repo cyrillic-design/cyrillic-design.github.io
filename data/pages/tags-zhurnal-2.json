@@ -1,5 +1,24 @@
 [
   {
+    "id": 356,
+    "title": "Москвич Mag",
+    "image": "data/images/356.jpg",
+    "tags": [
+      "журнал",
+      "whiterussianstudio"
+    ],
+    "url": "https://moskvichmag.ru/",
+    "date": 1542362440,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "whiterussianstudio"
+    ],
+    "awards": []
+  },
+  {
     "id": 342,
     "title": "Открытые 18+",
     "image": "data/images/342.jpg",

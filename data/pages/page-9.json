@@ -1,5 +1,24 @@
 [
   {
+    "id": 586,
+    "title": "Без Меня Егору Летову — 55 лет",
+    "image": "data/images/586.jpg",
+    "tags": [
+      "спецпроект",
+      "медуза"
+    ],
+    "url": "https://meduza.io/specials/letov",
+    "date": 1568368834,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "meduza"
+    ],
+    "awards": []
+  },
+  {
     "id": 585,
     "title": "Orientir Moscow",
     "image": "data/images/585.jpg",
@@ -356,25 +375,6 @@
     "slugs": [
       "portfolio",
       "whiterussianstudio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 563,
-    "title": "Simple Wine News",
-    "image": "data/images/563.jpg",
-    "tags": [
-      "издание",
-      "charmer"
-    ],
-    "url": "https://simplewinenews.ru/",
-    "date": 1565344863,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "izdanie",
-      "charmer"
     ],
     "awards": []
   }
