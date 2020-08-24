@@ -1,5 +1,26 @@
 [
   {
+    "id": 431,
+    "title": "Визначні місця України",
+    "image": "data/images/431.jpg",
+    "tags": [
+      "спецпроект",
+      "украина",
+      "evne"
+    ],
+    "url": "https://krai.co.ua/",
+    "date": 1549533618,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "ukraina",
+      "evne"
+    ],
+    "awards": []
+  },
+  {
     "id": 430,
     "title": "Cross Art Studio",
     "image": "data/images/430.jpg",
@@ -372,27 +393,6 @@
       "meropriyatie",
       "promo",
       "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 411,
-    "title": "The Book",
-    "image": "data/images/411.jpg",
-    "tags": [
-      "недвижимость",
-      "промо",
-      "beta"
-    ],
-    "url": "http://thebook.moscow/",
-    "date": 1547546467,
-    "edit_date": 1583185362,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "nedvizhimost",
-      "promo",
-      "beta"
     ],
     "awards": []
   }

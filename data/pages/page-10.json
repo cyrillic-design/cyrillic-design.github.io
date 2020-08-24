@@ -1,5 +1,24 @@
 [
   {
+    "id": 564,
+    "title": "Dreamlaser",
+    "image": "data/images/564.jpg",
+    "tags": [
+      "портфолио",
+      "whiterussianstudio"
+    ],
+    "url": "http://www.dreamlaser.ru",
+    "date": 1565431239,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "whiterussianstudio"
+    ],
+    "awards": []
+  },
+  {
     "id": 563,
     "title": "Simple Wine News",
     "image": "data/images/563.jpg",
@@ -359,25 +378,6 @@
     "slugs": [
       "meropriyatie",
       "promo"
-    ],
-    "awards": []
-  },
-  {
-    "id": 542,
-    "title": "Академия Яндекса",
-    "image": "data/images/542.jpg",
-    "tags": [
-      "образование",
-      "яндекс"
-    ],
-    "url": "https://academy.yandex.ru",
-    "date": 1561629646,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "yandeks"
     ],
     "awards": []
   }

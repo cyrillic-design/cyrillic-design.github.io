@@ -1,5 +1,28 @@
 [
   {
+    "id": 757,
+    "title": "Международный фестиваль дебютного кино в Новой Голландии",
+    "caption": "Международный фестиваль дебютного кино в Новой Голландии\nhttps://nhifilmfest.com/\n\n#мероприятие #кино #whiterussianstudio",
+    "image": "data/images/757.jpg",
+    "tags": [
+      "мероприятие",
+      "кино",
+      "whiterussianstudio"
+    ],
+    "url": "https://nhifilmfest.com/",
+    "date": 1598282375,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "kino",
+      "whiterussianstudio"
+    ],
+    "awards": []
+  },
+  {
     "id": 754,
     "title": "Beat Film Festival",
     "caption": "Beat Film Festival\nhttps://beatfilmfestival.ru/\n\n#мероприятие #кино #sulliwan",

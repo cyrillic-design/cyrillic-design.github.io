@@ -9653,5 +9653,22 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "757": {
+    "id": 757,
+    "title": "Международный фестиваль дебютного кино в Новой Голландии",
+    "caption": "Международный фестиваль дебютного кино в Новой Голландии\nhttps://nhifilmfest.com/\n\n#мероприятие #кино #whiterussianstudio",
+    "image": "757.jpg",
+    "tags": [
+      "мероприятие",
+      "кино",
+      "whiterussianstudio"
+    ],
+    "url": "https://nhifilmfest.com/",
+    "date": 1598282375,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
