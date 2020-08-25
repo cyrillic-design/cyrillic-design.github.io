@@ -1,5 +1,26 @@
 [
   {
+    "id": 538,
+    "title": "BuroData Platform",
+    "image": "data/images/538.jpg",
+    "tags": [
+      "сервис",
+      "платформа",
+      "бюробюро"
+    ],
+    "url": "https://burodata.ru/",
+    "date": 1561197640,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "platforma",
+      "byurobyuro"
+    ],
+    "awards": []
+  },
+  {
     "id": 537,
     "title": "ZharaX",
     "image": "data/images/537.jpg",
@@ -376,27 +397,6 @@
       "promo",
       "servis",
       "rostelekom"
-    ],
-    "awards": []
-  },
-  {
-    "id": 406,
-    "title": "Tilda. Итоги 2018 года",
-    "image": "data/images/406.jpg",
-    "tags": [
-      "сервис",
-      "итоги",
-      "блог"
-    ],
-    "url": "http://blog.tilda.cc/2018-in-review",
-    "date": 1547114430,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "itogi",
-      "blog"
     ],
     "awards": []
   }

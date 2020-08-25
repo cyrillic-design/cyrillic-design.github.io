@@ -1,5 +1,26 @@
 [
   {
+    "id": 758,
+    "title": "Brave New World",
+    "caption": "Brave New World\nhttps://bnw.budu.jobs/\n\n#образование #сервис\nСпасибо за ссылку @kkkarterrr",
+    "image": "data/images/758.jpg",
+    "tags": [
+      "образование",
+      "сервис"
+    ],
+    "url": "https://bnw.budu.jobs/",
+    "date": 1598349611,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "servis"
+    ],
+    "awards": []
+  },
+  {
     "id": 726,
     "title": "Calendaur",
     "caption": "Calendaur\nhttps://calendaur.com/\n\n#сервис #каталог\nСпасибо за ссылку @AndyAbramov",
@@ -396,27 +417,6 @@
     "isRemoved": false,
     "slugs": [
       "servis"
-    ],
-    "awards": []
-  },
-  {
-    "id": 538,
-    "title": "BuroData Platform",
-    "image": "data/images/538.jpg",
-    "tags": [
-      "сервис",
-      "платформа",
-      "бюробюро"
-    ],
-    "url": "https://burodata.ru/",
-    "date": 1561197640,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "platforma",
-      "byurobyuro"
     ],
     "awards": []
   }

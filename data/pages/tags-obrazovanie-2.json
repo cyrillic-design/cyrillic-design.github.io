@@ -1,5 +1,24 @@
 [
   {
+    "id": 615,
+    "title": "Weekend-курс актёрского мастерства",
+    "image": "data/images/615.jpg",
+    "tags": [
+      "образование",
+      "tilda"
+    ],
+    "url": "https://karavaev-lab.ru/wknd",
+    "date": 1572084041,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "tilda"
+    ],
+    "awards": []
+  },
+  {
     "id": 614,
     "title": "Цех",
     "image": "data/images/614.jpg",
@@ -372,25 +391,6 @@
       "update",
       "obrazovanie",
       "cherepukhin"
-    ],
-    "awards": []
-  },
-  {
-    "id": 318,
-    "title": "Московская школа музыки",
-    "image": "data/images/318.jpg",
-    "tags": [
-      "образование",
-      "whiterussianstudio"
-    ],
-    "url": "http://moscowmusicschool.ru/",
-    "date": 1538560816,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "whiterussianstudio"
     ],
     "awards": []
   }
