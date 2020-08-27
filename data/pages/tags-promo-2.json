@@ -1,5 +1,26 @@
 [
   {
+    "id": 648,
+    "title": "Тренды 2020",
+    "image": "data/images/648.jpg",
+    "tags": [
+      "спецпроект",
+      "промо",
+      "образование"
+    ],
+    "url": "https://2020.skillbox.ru/",
+    "date": 1577527207,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "promo",
+      "obrazovanie"
+    ],
+    "awards": []
+  },
+  {
     "id": 647,
     "title": "АВТОМОБИЛЬ!",
     "image": "data/images/647.jpg",
@@ -385,27 +406,6 @@
     "slugs": [
       "proizvodstvo",
       "promo",
-      "servis"
-    ],
-    "awards": []
-  },
-  {
-    "id": 509,
-    "title": "АБУК",
-    "image": "data/images/509.jpg",
-    "tags": [
-      "промо",
-      "приложение",
-      "сервис"
-    ],
-    "url": "https://abuk.com.ua/",
-    "date": 1558173659,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "prilozhenie",
       "servis"
     ],
     "awards": []

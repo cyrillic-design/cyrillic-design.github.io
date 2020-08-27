@@ -1,5 +1,26 @@
 [
   {
+    "id": 346,
+    "title": "Раздоры II",
+    "image": "data/images/346.jpg",
+    "tags": [
+      "недвижимость",
+      "промо",
+      "greencow"
+    ],
+    "url": "https://razdory2.ru/",
+    "date": 1541498449,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "nedvizhimost",
+      "promo",
+      "greencow"
+    ],
+    "awards": []
+  },
+  {
     "id": 345,
     "title": "Falafel + AIC",
     "image": "data/images/345.jpg",
@@ -389,25 +410,6 @@
       "readymag",
       "ivansemkin",
       "mailru"
-    ],
-    "awards": []
-  },
-  {
-    "id": 326,
-    "title": "Odyssey",
-    "image": "data/images/326.jpg",
-    "tags": [
-      "одежда",
-      "магазин"
-    ],
-    "url": "https://odyssey.moscow/",
-    "date": 1539424823,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "odezhda",
-      "magazin"
     ],
     "awards": []
   }

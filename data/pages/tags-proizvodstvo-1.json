@@ -1,5 +1,28 @@
 [
   {
+    "id": 759,
+    "title": "Ferrumpipe",
+    "caption": "Ferrumpipe\nhttps://ferrumpipe.ru/\n\n#производство #промо #cuberto\nСпасибо за ссылку @as_kiryanov",
+    "image": "data/images/759.jpg",
+    "tags": [
+      "производство",
+      "промо",
+      "cuberto"
+    ],
+    "url": "https://ferrumpipe.ru/",
+    "date": 1598522427,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "promo",
+      "cuberto"
+    ],
+    "awards": []
+  },
+  {
     "id": 750,
     "title": "Unit",
     "caption": "Unit\nhttps://unit-studio.ru/\n\n#производство #wemakefab",
@@ -386,25 +409,6 @@
     "slugs": [
       "promo",
       "magazin",
-      "proizvodstvo"
-    ],
-    "awards": []
-  },
-  {
-    "id": 307,
-    "title": "TEXX",
-    "image": "data/images/307.jpg",
-    "tags": [
-      "промо",
-      "производство"
-    ],
-    "url": "http://msk-gps.ru/",
-    "date": 1537610451,
-    "edit_date": 1583185436,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
       "proizvodstvo"
     ],
     "awards": []
