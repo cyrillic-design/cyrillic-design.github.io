@@ -1,5 +1,30 @@
 [
   {
+    "id": 740,
+    "title": "Саврасов",
+    "caption": "Саврасов\nhttp://savrasovart.ru/\n\n#спецпроект #искусство #tilda #netlab",
+    "image": "data/images/740.jpg",
+    "tags": [
+      "спецпроект",
+      "искусство",
+      "tilda",
+      "netlab"
+    ],
+    "url": "http://savrasovart.ru/",
+    "date": 1592832153,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "iskusstvo",
+      "tilda",
+      "netlab"
+    ],
+    "awards": []
+  },
+  {
     "id": 739,
     "title": "UR BUREAU",
     "caption": "UR BUREAU\nhttps://ur-bureau.com/\n\n#портфолио #readymag #octo\nСпасибо за ссылку @trnsstr",
@@ -432,35 +457,5 @@
       "portfolio"
     ],
     "awards": []
-  },
-  {
-    "id": 720,
-    "title": "Даниловский рынок",
-    "caption": "Даниловский рынок\nhttps://danilovskymarket.ru/ru\n\n#промо #доставка #еда #люди #breadhead\nСпасибо за ссылку @uxfail",
-    "image": "data/images/720.jpg",
-    "tags": [
-      "промо",
-      "доставка",
-      "еда",
-      "люди",
-      "breadhead"
-    ],
-    "url": "https://danilovskymarket.ru/ru",
-    "date": 1588154443,
-    "edit_date": 1588759668,
-    "isMonth": true,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "dostavka",
-      "yeda",
-      "lyudi",
-      "breadhead"
-    ],
-    "awards": [
-      "month"
-    ]
   }
 ]

@@ -9705,5 +9705,22 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "760": {
+    "id": 760,
+    "title": "MoreMilk",
+    "caption": "MoreMilk\nhttps://moremilk.ru/\n\n#промо #производство #chipsa",
+    "image": "760.jpg",
+    "tags": [
+      "промо",
+      "производство",
+      "chipsa"
+    ],
+    "url": "https://moremilk.ru/",
+    "date": 1599040865,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

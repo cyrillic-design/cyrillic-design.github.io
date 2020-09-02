@@ -1,5 +1,24 @@
 [
   {
+    "id": 393,
+    "title": "Breadhead",
+    "image": "data/images/393.jpg",
+    "tags": [
+      "студия",
+      "портфолио"
+    ],
+    "url": "https://breadhead.ru/",
+    "date": 1545213616,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "studiya",
+      "portfolio"
+    ],
+    "awards": []
+  },
+  {
     "id": 392,
     "title": "Жилой комплекс Bauman House",
     "image": "data/images/392.jpg",
@@ -381,23 +400,6 @@
       "moda",
       "odezhda",
       "magazin"
-    ],
-    "awards": []
-  },
-  {
-    "id": 370,
-    "title": "Wonderzine",
-    "image": "data/images/370.jpg",
-    "tags": [
-      "издание"
-    ],
-    "url": "https://www.wonderzine.com/",
-    "date": 1543485623,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "izdanie"
     ],
     "awards": []
   }
