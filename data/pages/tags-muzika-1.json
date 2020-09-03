@@ -1,5 +1,28 @@
 [
   {
+    "id": 761,
+    "title": "TIGHT magazine",
+    "caption": "TIGHT magazine\nhttps://www.tight.media/\n\n#журнал #музыка #искусство\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/761.jpg",
+    "tags": [
+      "журнал",
+      "музыка",
+      "искусство"
+    ],
+    "url": "https://www.tight.media/",
+    "date": 1599115320,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "muzika",
+      "iskusstvo"
+    ],
+    "awards": []
+  },
+  {
     "id": 706,
     "title": "Ableton — Learning Music",
     "caption": "Ableton — Learning Music\nhttps://learningmusic.ableton.com/ru/\n\n#образование #музыка\nСпасибо за ссылку @privet_solnce",
@@ -394,27 +417,6 @@
       "muzika",
       "pamyat",
       "netlab"
-    ],
-    "awards": []
-  },
-  {
-    "id": 214,
-    "title": "Пикник «Афиши»",
-    "image": "data/images/214.jpg",
-    "tags": [
-      "музыка",
-      "фестиваль",
-      "промо"
-    ],
-    "url": "https://picnic.afisha.ru/",
-    "date": 1529661623,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "muzika",
-      "festival",
-      "promo"
     ],
     "awards": []
   }

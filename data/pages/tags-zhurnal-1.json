@@ -1,5 +1,28 @@
 [
   {
+    "id": 761,
+    "title": "TIGHT magazine",
+    "caption": "TIGHT magazine\nhttps://www.tight.media/\n\n#журнал #музыка #искусство\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/761.jpg",
+    "tags": [
+      "журнал",
+      "музыка",
+      "искусство"
+    ],
+    "url": "https://www.tight.media/",
+    "date": 1599115320,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "muzika",
+      "iskusstvo"
+    ],
+    "awards": []
+  },
+  {
     "id": 756,
     "title": "THE FUTURE OF BEAUTY",
     "caption": "THE FUTURE OF BEAUTY\nhttp://fob.flacon-magazine.com/\n\n#красота #мероприятие #журнал #flacon #whiterussianstudio",
@@ -406,27 +429,6 @@
       "iskusstvo",
       "kino",
       "charmer"
-    ],
-    "awards": []
-  },
-  {
-    "id": 379,
-    "title": "Ology",
-    "image": "data/images/379.jpg",
-    "tags": [
-      "журнал",
-      "наука",
-      "мамихлапинатана"
-    ],
-    "url": "https://ology.sh/",
-    "date": 1544090409,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "zhurnal",
-      "nauka",
-      "mamikhlapinatana"
     ],
     "awards": []
   }

@@ -9722,5 +9722,22 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "761": {
+    "id": 761,
+    "title": "TIGHT magazine",
+    "caption": "TIGHT magazine\nhttps://www.tight.media/\n\n#журнал #музыка #искусство\nСпасибо за ссылку @AndyAbramov",
+    "image": "761.jpg",
+    "tags": [
+      "журнал",
+      "музыка",
+      "искусство"
+    ],
+    "url": "https://www.tight.media/",
+    "date": 1599115320,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

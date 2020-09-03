@@ -1,5 +1,28 @@
 [
   {
+    "id": 761,
+    "title": "TIGHT magazine",
+    "caption": "TIGHT magazine\nhttps://www.tight.media/\n\n#журнал #музыка #искусство\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/761.jpg",
+    "tags": [
+      "журнал",
+      "музыка",
+      "искусство"
+    ],
+    "url": "https://www.tight.media/",
+    "date": 1599115320,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "muzika",
+      "iskusstvo"
+    ],
+    "awards": []
+  },
+  {
     "id": 755,
     "title": "Территория Авангарда",
     "caption": "Территория Авангарда\nhttps://avantgarde-territory.com/\n\n#спецпроект #мероприятие #искусство #история #readymag",
