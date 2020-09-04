@@ -1,5 +1,26 @@
 [
   {
+    "id": 587,
+    "title": "KIOSK",
+    "image": "data/images/587.jpg",
+    "tags": [
+      "магазин",
+      "портфолио",
+      "designworkout"
+    ],
+    "url": "https://kiosk.works/",
+    "date": 1568455242,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "portfolio",
+      "designworkout"
+    ],
+    "awards": []
+  },
+  {
     "id": 585,
     "title": "Orientir Moscow",
     "image": "data/images/585.jpg",
@@ -339,25 +360,6 @@
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 447,
-    "title": "DADA Agency",
-    "image": "data/images/447.jpg",
-    "tags": [
-      "портфолио",
-      "агентство"
-    ],
-    "url": "https://dadacreative.com/ru/",
-    "date": 1550916002,
-    "edit_date": 1583185362,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio",
-      "agentstvo"
     ],
     "awards": []
   }

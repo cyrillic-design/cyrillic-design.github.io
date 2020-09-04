@@ -1,5 +1,26 @@
 [
   {
+    "id": 762,
+    "title": "AGIMA",
+    "caption": "AGIMA\nhttps://www.agima.ru/\n\n#портфолио #агентство\nСпасибо за ссылку @AGIMAdesign",
+    "image": "data/images/762.jpg",
+    "tags": [
+      "портфолио",
+      "агентство"
+    ],
+    "url": "https://www.agima.ru/",
+    "date": 1599220148,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "agentstvo"
+    ],
+    "awards": []
+  },
+  {
     "id": 751,
     "title": "PRAGMATICA",
     "caption": "PRAGMATICA\nhttps://pragmatica.design/\n\n#портфолио #readymag",
@@ -381,27 +402,6 @@
     "slugs": [
       "hr",
       "portfolio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 587,
-    "title": "KIOSK",
-    "image": "data/images/587.jpg",
-    "tags": [
-      "магазин",
-      "портфолио",
-      "designworkout"
-    ],
-    "url": "https://kiosk.works/",
-    "date": 1568455242,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "portfolio",
-      "designworkout"
     ],
     "awards": []
   }
