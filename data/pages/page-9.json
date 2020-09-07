@@ -1,5 +1,24 @@
 [
   {
+    "id": 595,
+    "title": "Державні послуги онлайн",
+    "image": "data/images/595.jpg",
+    "tags": [
+      "сервис",
+      "государство"
+    ],
+    "url": "https://plan.diia.gov.ua/",
+    "date": 1569585843,
+    "edit_date": 1583183812,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "gosudarstvo"
+    ],
+    "awards": []
+  },
+  {
     "id": 594,
     "title": "Национальная Служба Новостей - НСН",
     "image": "data/images/594.jpg",
@@ -365,27 +384,6 @@
     "isRemoved": false,
     "slugs": [
       "promo"
-    ],
-    "awards": []
-  },
-  {
-    "id": 570,
-    "title": "Rehabshop",
-    "image": "data/images/570.jpg",
-    "tags": [
-      "магазин",
-      "roky",
-      "orientir"
-    ],
-    "url": "https://rehab-shop.ru/",
-    "date": 1566036044,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "roky",
-      "orientir"
     ],
     "awards": []
   }

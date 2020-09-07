@@ -9755,5 +9755,23 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "763": {
+    "id": 763,
+    "title": "Буду",
+    "caption": "Буду\nhttps://budu.jobs/\n\n#сервис #работа #каталог #hr",
+    "image": "763.jpg",
+    "tags": [
+      "сервис",
+      "работа",
+      "каталог",
+      "hr"
+    ],
+    "url": "https://budu.jobs/",
+    "date": 1599468126,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

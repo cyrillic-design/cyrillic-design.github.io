@@ -1,5 +1,30 @@
 [
   {
+    "id": 763,
+    "title": "Буду",
+    "caption": "Буду\nhttps://budu.jobs/\n\n#сервис #работа #каталог #hr",
+    "image": "data/images/763.jpg",
+    "tags": [
+      "сервис",
+      "работа",
+      "каталог",
+      "hr"
+    ],
+    "url": "https://budu.jobs/",
+    "date": 1599468126,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "rabota",
+      "katalog",
+      "hr"
+    ],
+    "awards": []
+  },
+  {
     "id": 590,
     "title": "Careers Rasa Design Team",
     "image": "data/images/590.jpg",
