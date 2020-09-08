@@ -1,5 +1,24 @@
 [
   {
+    "id": 590,
+    "title": "Careers Rasa Design Team",
+    "image": "data/images/590.jpg",
+    "tags": [
+      "hr",
+      "портфолио"
+    ],
+    "url": "https://careers.rasa.team/",
+    "date": 1569060028,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "hr",
+      "portfolio"
+    ],
+    "awards": []
+  },
+  {
     "id": 587,
     "title": "KIOSK",
     "image": "data/images/587.jpg",
@@ -340,23 +359,6 @@
     "date": 1553335219,
     "edit_date": 1583423555,
     "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 477,
-    "title": "POTEHA developers",
-    "image": "data/images/477.jpg",
-    "tags": [
-      "портфолио"
-    ],
-    "url": "https://potehadevs.com",
-    "date": 1553162411,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
       "portfolio"

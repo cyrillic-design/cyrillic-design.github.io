@@ -1,5 +1,26 @@
 [
   {
+    "id": 764,
+    "title": "tonya baydina",
+    "caption": "tonya baydina\nhttps://rhot.design/\n\n#портфолио #readymag",
+    "image": "data/images/764.jpg",
+    "tags": [
+      "портфолио",
+      "readymag"
+    ],
+    "url": "https://rhot.design/",
+    "date": 1599559210,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 755,
     "title": "Территория Авангарда",
     "caption": "Территория Авангарда\nhttps://avantgarde-territory.com/\n\n#спецпроект #мероприятие #искусство #история #readymag",
@@ -473,35 +494,5 @@
     "awards": [
       "month"
     ]
-  },
-  {
-    "id": 696,
-    "title": "Гараж — Самоизоляция",
-    "caption": "Гараж — Самоизоляция\nhttps://self-isolation.garagemca.org/\n\n#спецпроект #образование #каталог #искусство #лучшедома #readymag\nСпасибо за ссылку @readymag_official",
-    "image": "data/images/696.jpg",
-    "tags": [
-      "спецпроект",
-      "образование",
-      "каталог",
-      "искусство",
-      "лучшедома",
-      "readymag"
-    ],
-    "url": "https://self-isolation.garagemca.org/",
-    "date": 1585724442,
-    "edit_date": 1585832256,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "obrazovanie",
-      "katalog",
-      "iskusstvo",
-      "luchshedoma",
-      "readymag"
-    ],
-    "awards": []
   }
 ]

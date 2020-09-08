@@ -1,5 +1,26 @@
 [
   {
+    "id": 764,
+    "title": "tonya baydina",
+    "caption": "tonya baydina\nhttps://rhot.design/\n\n#портфолио #readymag",
+    "image": "data/images/764.jpg",
+    "tags": [
+      "портфолио",
+      "readymag"
+    ],
+    "url": "https://rhot.design/",
+    "date": 1599559210,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 762,
     "title": "AGIMA",
     "caption": "AGIMA\nhttps://www.agima.ru/\n\n#портфолио #агентство\nСпасибо за ссылку @AGIMAdesign",
@@ -383,25 +404,6 @@
     "slugs": [
       "portfolio",
       "groznovco"
-    ],
-    "awards": []
-  },
-  {
-    "id": 590,
-    "title": "Careers Rasa Design Team",
-    "image": "data/images/590.jpg",
-    "tags": [
-      "hr",
-      "портфолио"
-    ],
-    "url": "https://careers.rasa.team/",
-    "date": 1569060028,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "hr",
-      "portfolio"
     ],
     "awards": []
   }
