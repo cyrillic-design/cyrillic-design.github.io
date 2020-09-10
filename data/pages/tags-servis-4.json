@@ -1,5 +1,24 @@
 [
   {
+    "id": 258,
+    "title": "Vigbo",
+    "image": "data/images/258.jpg",
+    "tags": [
+      "сервис",
+      "дизайн"
+    ],
+    "url": "https://vigbo.com/",
+    "date": 1533463207,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "dizain"
+    ],
+    "awards": []
+  },
+  {
     "id": 255,
     "title": "Volt for Drive",
     "image": "data/images/255.jpg",
@@ -379,27 +398,6 @@
     "slugs": [
       "obrazovanie",
       "servis"
-    ],
-    "awards": []
-  },
-  {
-    "id": 101,
-    "title": "Юла",
-    "image": "data/images/101.jpg",
-    "tags": [
-      "сервис",
-      "доскаобъявлений",
-      "mailru"
-    ],
-    "url": "https://youla.io/",
-    "date": 1519984817,
-    "edit_date": 1583185563,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "doskaobyavlenii",
-      "mailru"
     ],
     "awards": []
   }

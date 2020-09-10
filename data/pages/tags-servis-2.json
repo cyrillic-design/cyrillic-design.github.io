@@ -1,5 +1,22 @@
 [
   {
+    "id": 569,
+    "title": "Молния Beta",
+    "image": "data/images/569.jpg",
+    "tags": [
+      "сервис"
+    ],
+    "url": "https://molnia.me/",
+    "date": 1565949646,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis"
+    ],
+    "awards": []
+  },
+  {
     "id": 545,
     "title": "Timepad",
     "caption": "Timepad\nhttps://timepad.ru/\n\n#сервис",
@@ -375,25 +392,6 @@
     "slugs": [
       "servis",
       "uplab"
-    ],
-    "awards": []
-  },
-  {
-    "id": 410,
-    "title": "КиноПоиск — Итоги 2018 года",
-    "image": "data/images/410.jpg",
-    "tags": [
-      "сервис",
-      "итоги"
-    ],
-    "url": "https://www.kinopoisk.ru/special/itogi18/",
-    "date": 1547460141,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "itogi"
     ],
     "awards": []
   }
