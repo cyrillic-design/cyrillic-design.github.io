@@ -1,5 +1,33 @@
 [
   {
+    "id": 699,
+    "title": "Место возможностей",
+    "caption": "Место возможностей\nhttps://homechallenge.ru/\n\n#каталог #образование #лучшедома #readymag\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/699.jpg",
+    "tags": [
+      "каталог",
+      "образование",
+      "лучшедома",
+      "readymag"
+    ],
+    "url": "https://homechallenge.ru/",
+    "date": 1585897225,
+    "edit_date": 1588759659,
+    "isMonth": true,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "katalog",
+      "obrazovanie",
+      "luchshedoma",
+      "readymag"
+    ],
+    "awards": [
+      "month"
+    ]
+  },
+  {
     "id": 696,
     "title": "Гараж — Самоизоляция",
     "caption": "Гараж — Самоизоляция\nhttps://self-isolation.garagemca.org/\n\n#спецпроект #образование #каталог #искусство #лучшедома #readymag\nСпасибо за ссылку @readymag_official",
@@ -432,27 +460,6 @@
       "portfolio",
       "readymag",
       "sulliwan"
-    ],
-    "awards": []
-  },
-  {
-    "id": 475,
-    "title": "Экскурсия в Аушвиц",
-    "image": "data/images/475.jpg",
-    "tags": [
-      "история",
-      "readymag",
-      "дашапочекуева"
-    ],
-    "url": "https://readymag.com/pochekueva/auschwitz/",
-    "date": 1552989658,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "istoriya",
-      "readymag",
-      "dashapochekueva"
     ],
     "awards": []
   }

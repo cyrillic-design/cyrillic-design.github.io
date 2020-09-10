@@ -1,5 +1,28 @@
 [
   {
+    "id": 765,
+    "title": "Progoolka",
+    "caption": "Progoolka\nhttps://progoolka.com/\n\n#приложение #промо #readymag\nСпасибо за ссылку @readymag_official",
+    "image": "data/images/765.jpg",
+    "tags": [
+      "приложение",
+      "промо",
+      "readymag"
+    ],
+    "url": "https://progoolka.com/",
+    "date": 1599732020,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "prilozhenie",
+      "promo",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 760,
     "title": "MoreMilk",
     "caption": "MoreMilk\nhttps://moremilk.ru/\n\n#промо #производство #chipsa",
@@ -448,27 +471,6 @@
       "promo",
       "buking",
       "videinfra"
-    ],
-    "awards": []
-  },
-  {
-    "id": 659,
-    "title": "Alcon Tower",
-    "image": "data/images/659.jpg",
-    "tags": [
-      "недвижимость",
-      "промо",
-      "whitemark"
-    ],
-    "url": "https://www.alcontower.ru/",
-    "date": 1580296973,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "nedvizhimost",
-      "promo",
-      "whitemark"
     ],
     "awards": []
   }
