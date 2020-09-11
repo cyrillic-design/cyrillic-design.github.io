@@ -1,5 +1,30 @@
 [
   {
+    "id": 766,
+    "title": "igooods",
+    "caption": "igooods\nhttps://msk.igooods.ru/\n\n#сервис #приложение #доставка #еда",
+    "image": "data/images/766.jpg",
+    "tags": [
+      "сервис",
+      "приложение",
+      "доставка",
+      "еда"
+    ],
+    "url": "https://msk.igooods.ru/",
+    "date": 1599818410,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "prilozhenie",
+      "dostavka",
+      "yeda"
+    ],
+    "awards": []
+  },
+  {
     "id": 742,
     "title": "Как есть",
     "caption": "Как есть\nhttps://kak.media/\n\n#медиа #журнал #еда #кухнянарайоне",
@@ -414,25 +439,6 @@
     "slugs": [
       "promo",
       "restoran",
-      "yeda"
-    ],
-    "awards": []
-  },
-  {
-    "id": 114,
-    "title": "Додо Пицца",
-    "image": "data/images/114.jpg",
-    "tags": [
-      "доставка",
-      "еда"
-    ],
-    "url": "https://dodopizza.ru/",
-    "date": 1521021612,
-    "edit_date": 1583185535,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "dostavka",
       "yeda"
     ],
     "awards": []

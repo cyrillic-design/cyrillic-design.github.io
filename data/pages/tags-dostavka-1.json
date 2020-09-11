@@ -1,5 +1,30 @@
 [
   {
+    "id": 766,
+    "title": "igooods",
+    "caption": "igooods\nhttps://msk.igooods.ru/\n\n#сервис #приложение #доставка #еда",
+    "image": "data/images/766.jpg",
+    "tags": [
+      "сервис",
+      "приложение",
+      "доставка",
+      "еда"
+    ],
+    "url": "https://msk.igooods.ru/",
+    "date": 1599818410,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "prilozhenie",
+      "dostavka",
+      "yeda"
+    ],
+    "awards": []
+  },
+  {
     "id": 724,
     "title": "Контейнеров больше нет",
     "caption": "Контейнеров больше нет\nhttps://box.localkitchen.ru/\n\n#доставка #еда #промо #кухнянарайоне\nСпасибо за ссылку @as_kiryanov",
@@ -416,27 +441,6 @@
     "slugs": [
       "dostavka",
       "yandeks"
-    ],
-    "awards": []
-  },
-  {
-    "id": 290,
-    "title": "Lamoda",
-    "image": "data/images/290.jpg",
-    "tags": [
-      "магазин",
-      "доставка",
-      "мода"
-    ],
-    "url": "https://www.lamoda.ru/",
-    "date": 1536141619,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "dostavka",
-      "moda"
     ],
     "awards": []
   }

@@ -1,5 +1,30 @@
 [
   {
+    "id": 766,
+    "title": "igooods",
+    "caption": "igooods\nhttps://msk.igooods.ru/\n\n#сервис #приложение #доставка #еда",
+    "image": "data/images/766.jpg",
+    "tags": [
+      "сервис",
+      "приложение",
+      "доставка",
+      "еда"
+    ],
+    "url": "https://msk.igooods.ru/",
+    "date": 1599818410,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "prilozhenie",
+      "dostavka",
+      "yeda"
+    ],
+    "awards": []
+  },
+  {
     "id": 765,
     "title": "Progoolka",
     "caption": "Progoolka\nhttps://progoolka.com/\n\n#сервис #приложение #промо #readymag\nСпасибо за ссылку @readymag_official",
@@ -415,27 +440,6 @@
       "magazin",
       "servis",
       "artlebedev"
-    ],
-    "awards": []
-  },
-  {
-    "id": 572,
-    "title": "Elementaree",
-    "image": "data/images/572.jpg",
-    "tags": [
-      "сервис",
-      "еда",
-      "доставка"
-    ],
-    "url": "https://elementaree.ru/",
-    "date": 1566295257,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "yeda",
-      "dostavka"
     ],
     "awards": []
   }

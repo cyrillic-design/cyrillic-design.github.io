@@ -9808,5 +9808,23 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "766": {
+    "id": 766,
+    "title": "igooods",
+    "caption": "igooods\nhttps://msk.igooods.ru/\n\n#сервис #приложение #доставка #еда",
+    "image": "766.jpg",
+    "tags": [
+      "сервис",
+      "приложение",
+      "доставка",
+      "еда"
+    ],
+    "url": "https://msk.igooods.ru/",
+    "date": 1599818410,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
