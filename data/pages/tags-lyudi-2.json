@@ -1,5 +1,26 @@
 [
   {
+    "id": 310,
+    "title": "Рихтер",
+    "image": "data/images/310.jpg",
+    "tags": [
+      "сообщество",
+      "люди",
+      "культура"
+    ],
+    "url": "https://richter.moscow/",
+    "date": 1537869613,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "soobshchestvo",
+      "lyudi",
+      "kultura"
+    ],
+    "awards": []
+  },
+  {
     "id": 228,
     "title": "Dumb Startups",
     "caption": "Dumb Startups\nhttp://dumbstartup.co/\n\n#образование #люди #бизнес",

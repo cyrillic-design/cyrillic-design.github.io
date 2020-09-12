@@ -1,5 +1,28 @@
 [
   {
+    "id": 767,
+    "title": "Державні послуги онлайн | Дія",
+    "caption": "Державні послуги онлайн | Дія\nhttps://diia.gov.ua/\n\n#сервис #государство #люди\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/767.jpg",
+    "tags": [
+      "сервис",
+      "государство",
+      "люди"
+    ],
+    "url": "https://diia.gov.ua/",
+    "date": 1599904831,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "gosudarstvo",
+      "lyudi"
+    ],
+    "awards": []
+  },
+  {
     "id": 595,
     "title": "Державні послуги онлайн",
     "image": "data/images/595.jpg",
