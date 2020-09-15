@@ -9839,9 +9839,10 @@
     ],
     "url": "https://diia.gov.ua/",
     "date": 1599904831,
+    "edit_date": 1600174283,
     "isMonth": false,
     "isYear": false,
-    "isHighlighted": false,
+    "isHighlighted": true,
     "isRemoved": false
   },
   "768": {
