@@ -1,5 +1,53 @@
 [
   {
+    "id": 662,
+    "title": "SHOT TV",
+    "caption": "SHOT TV\nhttp://www.shot-tv.com/\n\n☆ #тв #промо #whiterussianstudio",
+    "image": "data/images/662.jpg",
+    "tags": [
+      "тв",
+      "промо",
+      "whiterussianstudio"
+    ],
+    "url": "http://www.shot-tv.com/",
+    "date": 1581510151,
+    "edit_date": 1584374369,
+    "isMonth": true,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "tv",
+      "promo",
+      "whiterussianstudio"
+    ],
+    "awards": [
+      "month"
+    ]
+  },
+  {
+    "id": 661,
+    "title": "YE'S apart-hotel",
+    "image": "data/images/661.jpg",
+    "tags": [
+      "сервис",
+      "промо",
+      "букинг",
+      "videinfra"
+    ],
+    "url": "https://yesapart.com/",
+    "date": 1581069652,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "promo",
+      "buking",
+      "videinfra"
+    ],
+    "awards": []
+  },
+  {
     "id": 660,
     "title": "International Digital Retail Forum 2020",
     "image": "data/images/660.jpg",
@@ -370,48 +418,6 @@
       "podkast",
       "promo",
       "tilda"
-    ],
-    "awards": []
-  },
-  {
-    "id": 641,
-    "title": "Архитекторы РФ",
-    "image": "data/images/641.jpg",
-    "tags": [
-      "образование",
-      "sulliwan"
-    ],
-    "url": "https://xn--80akijuiemcz7e.xn--p1ai/",
-    "date": 1576922409,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "sulliwan"
-    ],
-    "awards": []
-  },
-  {
-    "id": 640,
-    "title": "Airsecurity",
-    "image": "data/images/640.jpg",
-    "tags": [
-      "промо",
-      "услуги",
-      "tilda",
-      "personagency"
-    ],
-    "url": "http://airsecurity.ru/",
-    "date": 1576836009,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "uslugi",
-      "tilda",
-      "personagency"
     ],
     "awards": []
   }

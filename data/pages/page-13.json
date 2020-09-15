@@ -1,5 +1,43 @@
 [
   {
+    "id": 512,
+    "title": "Верблюд в огне",
+    "image": "data/images/512.jpg",
+    "tags": [
+      "издание",
+      "новости"
+    ],
+    "url": "https://verbludvogne.ru/",
+    "date": 1558432804,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "izdanie",
+      "novosti"
+    ],
+    "awards": []
+  },
+  {
+    "id": 511,
+    "title": "KOTSIUBA",
+    "image": "data/images/511.jpg",
+    "tags": [
+      "студия",
+      "портфолио"
+    ],
+    "url": "https://kotsiuba.com/",
+    "date": 1558346402,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "studiya",
+      "portfolio"
+    ],
+    "awards": []
+  },
+  {
     "id": 510,
     "title": "Медисорб",
     "image": "data/images/510.jpg",
@@ -351,48 +389,6 @@
     "slugs": [
       "yeda",
       "promo"
-    ],
-    "awards": []
-  },
-  {
-    "id": 489,
-    "title": "DataFork",
-    "image": "data/images/489.jpg",
-    "tags": [
-      "данные",
-      "аналитика",
-      "финансы",
-      "pinkman"
-    ],
-    "url": "http://dataf.org",
-    "date": 1554285626,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "dannie",
-      "analitika",
-      "finansi",
-      "pinkman"
-    ],
-    "awards": []
-  },
-  {
-    "id": 488,
-    "title": "LukaPizza",
-    "image": "data/images/488.jpg",
-    "tags": [
-      "доставка",
-      "еда"
-    ],
-    "url": "https://lukapizza.ru",
-    "date": 1554199227,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "dostavka",
-      "yeda"
     ],
     "awards": []
   }

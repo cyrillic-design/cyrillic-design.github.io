@@ -1,5 +1,53 @@
 [
   {
+    "id": 709,
+    "title": "Wanna be like Rozov",
+    "caption": "Wanna be like Rozov\nhttps://wannabelike.ru/rozov/\n\n#образование #мероприятие",
+    "image": "data/images/709.jpg",
+    "tags": [
+      "образование",
+      "мероприятие"
+    ],
+    "url": "https://wannabelike.ru/rozov/",
+    "date": 1586685615,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "meropriyatie"
+    ],
+    "awards": []
+  },
+  {
+    "id": 708,
+    "title": "Райффайзен-Лизинг",
+    "caption": "Райффайзен-Лизинг\nhttp://www.raiffeisen-leasing.ru/\n\n#авто #финансы #банк #лизинг #creativepeople",
+    "image": "data/images/708.jpg",
+    "tags": [
+      "авто",
+      "финансы",
+      "банк",
+      "лизинг",
+      "creativepeople"
+    ],
+    "url": "http://www.raiffeisen-leasing.ru/",
+    "date": 1586599217,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "avto",
+      "finansi",
+      "bank",
+      "lizing",
+      "creativepeople"
+    ],
+    "awards": []
+  },
+  {
     "id": 707,
     "title": "EG 2020",
     "caption": "EG 2020\nhttps://eg2020.ru/\n\n#спецпроект #телекоммуникации #люди\nСпасибо за ссылку @AndyAbramov",
@@ -433,59 +481,5 @@
       "readymag"
     ],
     "awards": []
-  },
-  {
-    "id": 688,
-    "title": "hochiminh",
-    "caption": "hochiminh\nhttps://readymag.com/u64480371/1549696/\n\n☆ #спецпроект #культура #readymag #анастасиябурякова",
-    "image": "data/images/688.jpg",
-    "tags": [
-      "спецпроект",
-      "культура",
-      "readymag",
-      "анастасиябурякова"
-    ],
-    "url": "https://readymag.com/u64480371/1549696/",
-    "date": 1584266458,
-    "edit_date": 1584347798,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "kultura",
-      "readymag",
-      "anastasiyaburyakova"
-    ],
-    "awards": []
-  },
-  {
-    "id": 687,
-    "title": "Объединение",
-    "caption": "Объединение\nhttps://obdn.ru/\n\n☆ #журнал #магазин #искусство #redo\n♡ @AndyAbramov",
-    "image": "data/images/687.jpg",
-    "tags": [
-      "журнал",
-      "магазин",
-      "искусство",
-      "redo"
-    ],
-    "url": "https://obdn.ru/",
-    "date": 1584180023,
-    "edit_date": 1585663335,
-    "isMonth": true,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "zhurnal",
-      "magazin",
-      "iskusstvo",
-      "redo"
-    ],
-    "awards": [
-      "month"
-    ]
   }
 ]

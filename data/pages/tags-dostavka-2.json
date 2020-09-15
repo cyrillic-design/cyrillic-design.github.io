@@ -1,5 +1,24 @@
 [
   {
+    "id": 294,
+    "title": "Яндекс.Еда",
+    "image": "data/images/294.jpg",
+    "tags": [
+      "доставка",
+      "яндекс"
+    ],
+    "url": "https://eda.yandex/",
+    "date": 1536487217,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "dostavka",
+      "yandeks"
+    ],
+    "awards": []
+  },
+  {
     "id": 290,
     "title": "Lamoda",
     "image": "data/images/290.jpg",

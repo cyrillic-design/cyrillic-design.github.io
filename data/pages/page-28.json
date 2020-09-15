@@ -1,5 +1,47 @@
 [
   {
+    "id": 195,
+    "title": "FRUIT UP",
+    "image": "data/images/195.jpg",
+    "tags": [
+      "сервис",
+      "доставка",
+      "еда"
+    ],
+    "url": "http://www.fruitup.ru/",
+    "date": 1528020007,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "dostavka",
+      "yeda"
+    ],
+    "awards": []
+  },
+  {
+    "id": 193,
+    "title": "Сделано",
+    "image": "data/images/193.jpg",
+    "tags": [
+      "услуги",
+      "сервис",
+      "конструктор"
+    ],
+    "url": "https://sdelano.ru/",
+    "date": 1527933601,
+    "edit_date": 1583185536,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "uslugi",
+      "servis",
+      "konstruktor"
+    ],
+    "awards": []
+  },
+  {
     "id": 192,
     "title": "45/60",
     "image": "data/images/192.jpg",
@@ -373,48 +415,6 @@
       "uslugi",
       "razvlecheniya",
       "cloudmill"
-    ],
-    "awards": []
-  },
-  {
-    "id": 174,
-    "title": "РОСГОССТРАХ БАНК",
-    "image": "data/images/174.jpg",
-    "tags": [
-      "банк",
-      "финансы",
-      "aic"
-    ],
-    "url": "https://www.rgsbank.ru/",
-    "date": 1526292021,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "bank",
-      "finansi",
-      "aic"
-    ],
-    "awards": []
-  },
-  {
-    "id": 173,
-    "title": "Хайтек",
-    "image": "data/images/173.jpg",
-    "tags": [
-      "медиа",
-      "новости",
-      "технологии"
-    ],
-    "url": "https://hightech.fm/",
-    "date": 1526205609,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "media",
-      "novosti",
-      "tekhnologii"
     ],
     "awards": []
   }

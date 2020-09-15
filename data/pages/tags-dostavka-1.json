@@ -1,5 +1,30 @@
 [
   {
+    "id": 769,
+    "title": "Черноморка",
+    "caption": "Черноморка\nhttps://chernomorka.online/\n\n#производство #еда #доставка #vintage\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/769.jpg",
+    "tags": [
+      "производство",
+      "еда",
+      "доставка",
+      "vintage"
+    ],
+    "url": "https://chernomorka.online/",
+    "date": 1600164015,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "yeda",
+      "dostavka",
+      "vintage"
+    ],
+    "awards": []
+  },
+  {
     "id": 766,
     "title": "igooods",
     "caption": "igooods\nhttps://msk.igooods.ru/\n\n#сервис #приложение #доставка #еда",
@@ -422,25 +447,6 @@
     "slugs": [
       "servis",
       "dostavka"
-    ],
-    "awards": []
-  },
-  {
-    "id": 294,
-    "title": "Яндекс.Еда",
-    "image": "data/images/294.jpg",
-    "tags": [
-      "доставка",
-      "яндекс"
-    ],
-    "url": "https://eda.yandex/",
-    "date": 1536487217,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "dostavka",
-      "yandeks"
     ],
     "awards": []
   }

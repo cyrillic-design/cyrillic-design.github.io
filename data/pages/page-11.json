@@ -1,5 +1,43 @@
 [
   {
+    "id": 556,
+    "title": "Койот",
+    "image": "data/images/556.jpg",
+    "tags": [
+      "производство",
+      "магазин",
+      "aiwin"
+    ],
+    "url": "https://coyote-ekb.ru/",
+    "date": 1563962419,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "magazin",
+      "aiwin"
+    ],
+    "awards": []
+  },
+  {
+    "id": 555,
+    "title": "shishki collective",
+    "image": "data/images/555.jpg",
+    "tags": [
+      "портфолио"
+    ],
+    "url": "https://ru.shishki.co/",
+    "date": 1563888344,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio"
+    ],
+    "awards": []
+  },
+  {
     "id": 554,
     "title": "Золотое яблоко",
     "image": "data/images/554.jpg",
@@ -331,42 +369,6 @@
     "slugs": [
       "promo",
       "sovet"
-    ],
-    "awards": []
-  },
-  {
-    "id": 534,
-    "title": "Worki",
-    "image": "data/images/534.jpg",
-    "tags": [
-      "сервис"
-    ],
-    "url": "https://worki.ru",
-    "date": 1560852037,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis"
-    ],
-    "awards": []
-  },
-  {
-    "id": 533,
-    "title": "Великая суббота",
-    "image": "data/images/533.jpg",
-    "tags": [
-      "vr",
-      "религия"
-    ],
-    "url": "https://gigarama.ru/holyfire/",
-    "date": 1560592834,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "vr",
-      "religiya"
     ],
     "awards": []
   }

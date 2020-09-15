@@ -1,5 +1,26 @@
 [
   {
+    "id": 373,
+    "title": "ТМК",
+    "image": "data/images/373.jpg",
+    "tags": [
+      "магазин",
+      "производство",
+      "greensight"
+    ],
+    "url": "https://www.tmktools.ru/",
+    "date": 1543744814,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "proizvodstvo",
+      "greensight"
+    ],
+    "awards": []
+  },
+  {
     "id": 347,
     "title": "Gracia Ceramica",
     "image": "data/images/347.jpg",

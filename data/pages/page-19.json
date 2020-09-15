@@ -1,5 +1,51 @@
 [
   {
+    "id": 381,
+    "title": "Подкаст «Остарбайтеры»",
+    "image": "data/images/381.jpg",
+    "tags": [
+      "спецпроект",
+      "подкаст",
+      "glagolevfm",
+      "мемориал"
+    ],
+    "url": "https://ost.glagolev.fm/",
+    "date": 1544263253,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "podkast",
+      "glagolevfm",
+      "memorial"
+    ],
+    "awards": []
+  },
+  {
+    "id": 380,
+    "title": "Искусство кино",
+    "image": "data/images/380.jpg",
+    "tags": [
+      "журнал",
+      "искусство",
+      "кино",
+      "charmer"
+    ],
+    "url": "https://kinoart.ru/",
+    "date": 1544176818,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "iskusstvo",
+      "kino",
+      "charmer"
+    ],
+    "awards": []
+  },
+  {
     "id": 379,
     "title": "Ology",
     "image": "data/images/379.jpg",
@@ -358,42 +404,6 @@
       "spetsproekt",
       "takiedela",
       "bookmate"
-    ],
-    "awards": []
-  },
-  {
-    "id": 357,
-    "title": "Юрий Нарвин",
-    "image": "data/images/357.jpg",
-    "tags": [
-      "портфолио"
-    ],
-    "url": "https://ru.narvin.co",
-    "date": 1542448821,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 356,
-    "title": "Москвич Mag",
-    "image": "data/images/356.jpg",
-    "tags": [
-      "журнал",
-      "whiterussianstudio"
-    ],
-    "url": "https://moskvichmag.ru/",
-    "date": 1542362440,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "zhurnal",
-      "whiterussianstudio"
     ],
     "awards": []
   }

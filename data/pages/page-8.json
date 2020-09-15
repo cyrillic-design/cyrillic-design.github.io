@@ -1,5 +1,47 @@
 [
   {
+    "id": 621,
+    "title": "Bank UA",
+    "image": "data/images/621.jpg",
+    "tags": [
+      "медиа",
+      "финансы",
+      "инвестиции",
+      "hexagon"
+    ],
+    "url": "https://bank.ua/",
+    "date": 1573207269,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "media",
+      "finansi",
+      "investitsii",
+      "hexagon"
+    ],
+    "awards": []
+  },
+  {
+    "id": 620,
+    "title": "Лаишево — через прошлое в настоящее",
+    "image": "data/images/620.jpg",
+    "tags": [
+      "спецпроект",
+      "совет"
+    ],
+    "url": "https://laish.tatar/",
+    "date": 1572948056,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "sovet"
+    ],
+    "awards": []
+  },
+  {
     "id": 619,
     "title": "Планетроника",
     "image": "data/images/619.jpg",
@@ -356,45 +398,6 @@
     "slugs": [
       "zaglushka",
       "meropriyatie"
-    ],
-    "awards": []
-  },
-  {
-    "id": 601,
-    "title": "Исаак Левитан",
-    "image": "data/images/601.jpg",
-    "tags": [
-      "спецпроект",
-      "netlab"
-    ],
-    "url": "http://levitanart.ru/",
-    "date": 1570874429,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "netlab"
-    ],
-    "awards": []
-  },
-  {
-    "id": 600,
-    "title": "РА «ВОСХОД»",
-    "caption": "РА «ВОСХОД»\nhttps://voskhod.agency/\n\n#агентство #портфолио",
-    "image": "data/images/600.jpg",
-    "tags": [
-      "агентство",
-      "портфолио"
-    ],
-    "url": "https://voskhod.agency/",
-    "date": 1570788023,
-    "edit_date": 1583340469,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "agentstvo",
-      "portfolio"
     ],
     "awards": []
   }

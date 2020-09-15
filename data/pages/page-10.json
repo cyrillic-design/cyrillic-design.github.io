@@ -1,5 +1,43 @@
 [
   {
+    "id": 577,
+    "title": "Фестиваль Petshop Days",
+    "image": "data/images/577.jpg",
+    "tags": [
+      "мероприятие"
+    ],
+    "url": "https://petshopdays.ru/",
+    "date": 1567764010,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie"
+    ],
+    "awards": []
+  },
+  {
+    "id": 575,
+    "title": "Современные российские дизайнеры шрифта",
+    "image": "data/images/575.jpg",
+    "tags": [
+      "спецпроект",
+      "readymag",
+      "лисицкий"
+    ],
+    "url": "https://readymag.com/deedandreward/russiandesigners/",
+    "date": 1567677608,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "readymag",
+      "lisitskii"
+    ],
+    "awards": []
+  },
+  {
     "id": 574,
     "title": "NYLON ORCHID by P.Y.E X FKSHM",
     "image": "data/images/574.jpg",
@@ -345,44 +383,6 @@
     "slugs": [
       "promo",
       "whiterussianstudio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 556,
-    "title": "Койот",
-    "image": "data/images/556.jpg",
-    "tags": [
-      "производство",
-      "магазин",
-      "aiwin"
-    ],
-    "url": "https://coyote-ekb.ru/",
-    "date": 1563962419,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "proizvodstvo",
-      "magazin",
-      "aiwin"
-    ],
-    "awards": []
-  },
-  {
-    "id": 555,
-    "title": "shishki collective",
-    "image": "data/images/555.jpg",
-    "tags": [
-      "портфолио"
-    ],
-    "url": "https://ru.shishki.co/",
-    "date": 1563888344,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio"
     ],
     "awards": []
   }

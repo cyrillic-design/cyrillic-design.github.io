@@ -9843,5 +9843,42 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "768": {
+    "id": 768,
+    "title": "TYPICAL.OKR",
+    "caption": "TYPICAL.OKR\nhttps://typicalokr.co/\n\n#исследование #сервис #typical #readymag",
+    "image": "768.jpg",
+    "tags": [
+      "исследование",
+      "сервис",
+      "typical",
+      "readymag"
+    ],
+    "url": "https://typicalokr.co/",
+    "date": 1600068393,
+    "edit_date": 1600088036,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
+  },
+  "769": {
+    "id": 769,
+    "title": "Черноморка",
+    "caption": "Черноморка\nhttps://chernomorka.online/\n\n#производство #еда #доставка #vintage\nСпасибо за ссылку @AndyAbramov",
+    "image": "769.jpg",
+    "tags": [
+      "производство",
+      "еда",
+      "доставка",
+      "vintage"
+    ],
+    "url": "https://chernomorka.online/",
+    "date": 1600164015,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

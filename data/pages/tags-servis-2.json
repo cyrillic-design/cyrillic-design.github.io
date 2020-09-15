@@ -1,5 +1,24 @@
 [
   {
+    "id": 591,
+    "title": "KLEI",
+    "image": "data/images/591.jpg",
+    "tags": [
+      "сервис",
+      "brights"
+    ],
+    "url": "http://klei.co/",
+    "date": 1569146419,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "brights"
+    ],
+    "awards": []
+  },
+  {
     "id": 580,
     "title": "Forward",
     "caption": "Forward\nhttps://xn--d1aiavecq8cxb.xn--p1ai/\n\n#магазин #сервис #artlebedev",
@@ -375,27 +394,6 @@
     "slugs": [
       "servis",
       "dostavka",
-      "max"
-    ],
-    "awards": []
-  },
-  {
-    "id": 422,
-    "title": "ВкусВилл",
-    "image": "data/images/422.jpg",
-    "tags": [
-      "сервис",
-      "магазин",
-      "max"
-    ],
-    "url": "https://new.vkusvill.ru",
-    "date": 1548496819,
-    "edit_date": 1583185362,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "magazin",
       "max"
     ],
     "awards": []

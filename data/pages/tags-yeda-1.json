@@ -1,5 +1,30 @@
 [
   {
+    "id": 769,
+    "title": "Черноморка",
+    "caption": "Черноморка\nhttps://chernomorka.online/\n\n#производство #еда #доставка #vintage\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/769.jpg",
+    "tags": [
+      "производство",
+      "еда",
+      "доставка",
+      "vintage"
+    ],
+    "url": "https://chernomorka.online/",
+    "date": 1600164015,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "yeda",
+      "dostavka",
+      "vintage"
+    ],
+    "awards": []
+  },
+  {
     "id": 766,
     "title": "igooods",
     "caption": "igooods\nhttps://msk.igooods.ru/\n\n#сервис #приложение #доставка #еда",
@@ -418,27 +443,6 @@
     "slugs": [
       "servis",
       "dostavka",
-      "yeda"
-    ],
-    "awards": []
-  },
-  {
-    "id": 192,
-    "title": "45/60",
-    "image": "data/images/192.jpg",
-    "tags": [
-      "промо",
-      "ресторан",
-      "еда"
-    ],
-    "url": "http://45-60.ru/",
-    "date": 1527847218,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "restoran",
       "yeda"
     ],
     "awards": []

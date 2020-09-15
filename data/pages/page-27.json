@@ -1,5 +1,49 @@
 [
   {
+    "id": 215,
+    "title": "Виктор Цой",
+    "image": "data/images/215.jpg",
+    "tags": [
+      "спецпроект",
+      "музыка",
+      "память",
+      "netlab"
+    ],
+    "url": "http://kino.inspiration.vision/",
+    "date": 1529748004,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "muzika",
+      "pamyat",
+      "netlab"
+    ],
+    "awards": []
+  },
+  {
+    "id": 214,
+    "title": "Пикник «Афиши»",
+    "image": "data/images/214.jpg",
+    "tags": [
+      "музыка",
+      "фестиваль",
+      "промо"
+    ],
+    "url": "https://picnic.afisha.ru/",
+    "date": 1529661623,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "muzika",
+      "festival",
+      "promo"
+    ],
+    "awards": []
+  },
+  {
     "id": 213,
     "title": "Нож",
     "image": "data/images/213.jpg",
@@ -364,48 +408,6 @@
       "lyudi",
       "novosti",
       "moda"
-    ],
-    "awards": []
-  },
-  {
-    "id": 195,
-    "title": "FRUIT UP",
-    "image": "data/images/195.jpg",
-    "tags": [
-      "сервис",
-      "доставка",
-      "еда"
-    ],
-    "url": "http://www.fruitup.ru/",
-    "date": 1528020007,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "dostavka",
-      "yeda"
-    ],
-    "awards": []
-  },
-  {
-    "id": 193,
-    "title": "Сделано",
-    "image": "data/images/193.jpg",
-    "tags": [
-      "услуги",
-      "сервис",
-      "конструктор"
-    ],
-    "url": "https://sdelano.ru/",
-    "date": 1527933601,
-    "edit_date": 1583185536,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "uslugi",
-      "servis",
-      "konstruktor"
     ],
     "awards": []
   }

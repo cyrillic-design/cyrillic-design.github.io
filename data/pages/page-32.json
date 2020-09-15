@@ -1,5 +1,49 @@
 [
   {
+    "id": 113,
+    "title": "Кружок — Тур Россия",
+    "image": "data/images/113.jpg",
+    "tags": [
+      "промо",
+      "образование",
+      "кружок"
+    ],
+    "url": "https://russia.kruzhok.io/",
+    "date": 1520935226,
+    "edit_date": 1583185535,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "obrazovanie",
+      "kruzhok"
+    ],
+    "awards": []
+  },
+  {
+    "id": 112,
+    "title": "Williams Et Oliver",
+    "image": "data/images/112.jpg",
+    "tags": [
+      "магазин",
+      "спецпроект",
+      "гастрономия",
+      "дзендизайн"
+    ],
+    "url": "https://williams-oliver.ru/tours/",
+    "date": 1520841943,
+    "edit_date": 1583185535,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "spetsproekt",
+      "gastronomiya",
+      "dzendizain"
+    ],
+    "awards": []
+  },
+  {
     "id": 111,
     "title": "Почта России",
     "image": "data/images/111.jpg",
@@ -378,54 +422,6 @@
       "dostavka",
       "yeda",
       "solardigital"
-    ],
-    "awards": []
-  },
-  {
-    "id": 86,
-    "title": "Жили | были",
-    "image": "data/images/86.jpg",
-    "tags": [
-      "спецпроект",
-      "благотворительность",
-      "память",
-      "люди",
-      "такиедела"
-    ],
-    "url": "https://takiedela.ru/homeless/",
-    "date": 1519120816,
-    "edit_date": 1583185563,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "blagotvoritelnost",
-      "pamyat",
-      "lyudi",
-      "takiedela"
-    ],
-    "awards": []
-  },
-  {
-    "id": 85,
-    "title": "Официальный сайт Швеции",
-    "image": "data/images/85.jpg",
-    "tags": [
-      "государство",
-      "страна",
-      "люди",
-      "швеция"
-    ],
-    "url": "https://sweden.ru/",
-    "date": 1519034406,
-    "edit_date": 1583185563,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "gosudarstvo",
-      "strana",
-      "lyudi",
-      "shvetsiya"
     ],
     "awards": []
   }

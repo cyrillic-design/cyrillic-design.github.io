@@ -1,5 +1,47 @@
 [
   {
+    "id": 641,
+    "title": "Архитекторы РФ",
+    "image": "data/images/641.jpg",
+    "tags": [
+      "образование",
+      "sulliwan"
+    ],
+    "url": "https://xn--80akijuiemcz7e.xn--p1ai/",
+    "date": 1576922409,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "sulliwan"
+    ],
+    "awards": []
+  },
+  {
+    "id": 640,
+    "title": "Airsecurity",
+    "image": "data/images/640.jpg",
+    "tags": [
+      "промо",
+      "услуги",
+      "tilda",
+      "personagency"
+    ],
+    "url": "http://airsecurity.ru/",
+    "date": 1576836009,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "uslugi",
+      "tilda",
+      "personagency"
+    ],
+    "awards": []
+  },
+  {
     "id": 639,
     "title": "Future Book 202X от Кухни на районе и друзей",
     "image": "data/images/639.jpg",
@@ -360,48 +402,6 @@
     "slugs": [
       "magazin",
       "promo"
-    ],
-    "awards": []
-  },
-  {
-    "id": 621,
-    "title": "Bank UA",
-    "image": "data/images/621.jpg",
-    "tags": [
-      "медиа",
-      "финансы",
-      "инвестиции",
-      "hexagon"
-    ],
-    "url": "https://bank.ua/",
-    "date": 1573207269,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "media",
-      "finansi",
-      "investitsii",
-      "hexagon"
-    ],
-    "awards": []
-  },
-  {
-    "id": 620,
-    "title": "Лаишево — через прошлое в настоящее",
-    "image": "data/images/620.jpg",
-    "tags": [
-      "спецпроект",
-      "совет"
-    ],
-    "url": "https://laish.tatar/",
-    "date": 1572948056,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "sovet"
     ],
     "awards": []
   }
