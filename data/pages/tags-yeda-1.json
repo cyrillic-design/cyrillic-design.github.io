@@ -1,5 +1,26 @@
 [
   {
+    "id": 770,
+    "title": "EPICA",
+    "caption": "EPICA\nhttps://epica.ru/\n\n#промо #еда\nСпасибо за ссылку @stasplkv",
+    "image": "data/images/770.jpg",
+    "tags": [
+      "промо",
+      "еда"
+    ],
+    "url": "https://epica.ru/",
+    "date": 1600249630,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "yeda"
+    ],
+    "awards": []
+  },
+  {
     "id": 769,
     "title": "Черноморка",
     "caption": "Черноморка\nhttps://chernomorka.online/\n\n#производство #еда #доставка #vintage\nСпасибо за ссылку @AndyAbramov",
@@ -423,27 +444,6 @@
       "yeda",
       "promo",
       "zero"
-    ],
-    "awards": []
-  },
-  {
-    "id": 195,
-    "title": "FRUIT UP",
-    "image": "data/images/195.jpg",
-    "tags": [
-      "сервис",
-      "доставка",
-      "еда"
-    ],
-    "url": "http://www.fruitup.ru/",
-    "date": 1528020007,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "dostavka",
-      "yeda"
     ],
     "awards": []
   }

@@ -1,5 +1,26 @@
 [
   {
+    "id": 407,
+    "title": "Wink",
+    "image": "data/images/407.jpg",
+    "tags": [
+      "промо",
+      "сервис",
+      "ростелеком"
+    ],
+    "url": "https://wink.rt.ru/apps/",
+    "date": 1547200825,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "servis",
+      "rostelekom"
+    ],
+    "awards": []
+  },
+  {
     "id": 405,
     "title": "White Khamovniki",
     "image": "data/images/405.jpg",
@@ -385,27 +406,6 @@
     "slugs": [
       "promo",
       "proizvodstvo"
-    ],
-    "awards": []
-  },
-  {
-    "id": 265,
-    "title": "ШиШки",
-    "image": "data/images/265.jpg",
-    "tags": [
-      "промо",
-      "услуги",
-      "redcollar"
-    ],
-    "url": "https://shishkipark.ru/",
-    "date": 1534068006,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "uslugi",
-      "redcollar"
     ],
     "awards": []
   }

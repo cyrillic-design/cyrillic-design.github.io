@@ -1,5 +1,26 @@
 [
   {
+    "id": 265,
+    "title": "ШиШки",
+    "image": "data/images/265.jpg",
+    "tags": [
+      "промо",
+      "услуги",
+      "redcollar"
+    ],
+    "url": "https://shishkipark.ru/",
+    "date": 1534068006,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "uslugi",
+      "redcollar"
+    ],
+    "awards": []
+  },
+  {
     "id": 240,
     "title": "ЖК Нева-Нева",
     "image": "data/images/240.jpg",
@@ -392,27 +413,6 @@
       "promo",
       "magazin",
       "redcollar"
-    ],
-    "awards": []
-  },
-  {
-    "id": 113,
-    "title": "Кружок — Тур Россия",
-    "image": "data/images/113.jpg",
-    "tags": [
-      "промо",
-      "образование",
-      "кружок"
-    ],
-    "url": "https://russia.kruzhok.io/",
-    "date": 1520935226,
-    "edit_date": 1583185535,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "obrazovanie",
-      "kruzhok"
     ],
     "awards": []
   }

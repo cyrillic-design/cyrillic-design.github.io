@@ -1,5 +1,28 @@
 [
   {
+    "id": 661,
+    "title": "YE'S apart-hotel",
+    "image": "data/images/661.jpg",
+    "tags": [
+      "сервис",
+      "промо",
+      "букинг",
+      "videinfra"
+    ],
+    "url": "https://yesapart.com/",
+    "date": 1581069652,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "promo",
+      "buking",
+      "videinfra"
+    ],
+    "awards": []
+  },
+  {
     "id": 659,
     "title": "Alcon Tower",
     "image": "data/images/659.jpg",
@@ -386,25 +409,6 @@
     "slugs": [
       "meropriyatie",
       "promo"
-    ],
-    "awards": []
-  },
-  {
-    "id": 535,
-    "title": "Эко Окна",
-    "image": "data/images/535.jpg",
-    "tags": [
-      "промо",
-      "совет"
-    ],
-    "url": "https://ecookna21.ru/",
-    "date": 1560938439,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "sovet"
     ],
     "awards": []
   }
