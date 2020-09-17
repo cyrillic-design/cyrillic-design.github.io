@@ -1,5 +1,26 @@
 [
   {
+    "id": 751,
+    "title": "PRAGMATICA",
+    "caption": "PRAGMATICA\nhttps://pragmatica.design/\n\n#портфолио #readymag",
+    "image": "data/images/751.jpg",
+    "tags": [
+      "портфолио",
+      "readymag"
+    ],
+    "url": "https://pragmatica.design/",
+    "date": 1595498405,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 750,
     "title": "Unit",
     "caption": "Unit\nhttps://unit-studio.ru/\n\n#производство #wemakefab",
@@ -442,29 +463,6 @@
       "yeda",
       "readymag",
       "kukhnyanaraione"
-    ],
-    "awards": []
-  },
-  {
-    "id": 731,
-    "title": "Графический дизайн — Bang bang education",
-    "caption": "Графический дизайн — Bang bang education\nhttps://graphdesign.bangbangeducation.ru\n\n#образование #мероприятие #readymag \nСпасибо за ссылку @alexgolyanov",
-    "image": "data/images/731.jpg",
-    "tags": [
-      "образование",
-      "мероприятие",
-      "readymag"
-    ],
-    "url": "https://graphdesign.bangbangeducation.ru",
-    "date": 1590756852,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "meropriyatie",
-      "readymag"
     ],
     "awards": []
   }

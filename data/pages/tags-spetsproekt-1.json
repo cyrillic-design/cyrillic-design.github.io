@@ -1,5 +1,26 @@
 [
   {
+    "id": 771,
+    "title": "Tiger Tells",
+    "caption": "Tiger Tells\nhttps://tigertells.fun/\n\n#спецпроект #аннашеррюбле\nСпасибо за ссылку @kirilltarelkin",
+    "image": "data/images/771.jpg",
+    "tags": [
+      "спецпроект",
+      "аннашеррюбле"
+    ],
+    "url": "https://tigertells.fun/",
+    "date": 1600336806,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "annasherryuble"
+    ],
+    "awards": []
+  },
+  {
     "id": 758,
     "title": "Brave New World",
     "caption": "Brave New World\nhttps://bnw.budu.jobs/\n\n#спецпроект #образование #сервис\nСпасибо за ссылку @kkkarterrr",
@@ -476,25 +497,6 @@
       "readymag",
       "alanalikov",
       "sashakats"
-    ],
-    "awards": []
-  },
-  {
-    "id": 651,
-    "title": "Смена 2020",
-    "image": "data/images/651.jpg",
-    "tags": [
-      "спецпроект",
-      "смена"
-    ],
-    "url": "https://2020.smena.me/",
-    "date": 1577786418,
-    "edit_date": 1583183700,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "smena"
     ],
     "awards": []
   }
