@@ -1,5 +1,28 @@
 [
   {
+    "id": 657,
+    "title": "Падение берлинской стены",
+    "image": "data/images/657.jpg",
+    "tags": [
+      "спецпроект",
+      "readymag",
+      "аланаликов",
+      "сашакац"
+    ],
+    "url": "https://mauerfall.diletant.media/",
+    "date": 1579687256,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "readymag",
+      "alanalikov",
+      "sashakats"
+    ],
+    "awards": []
+  },
+  {
     "id": 651,
     "title": "Смена 2020",
     "image": "data/images/651.jpg",
@@ -386,27 +409,6 @@
       "spetsproekt",
       "readymag",
       "takiedela"
-    ],
-    "awards": []
-  },
-  {
-    "id": 575,
-    "title": "Современные российские дизайнеры шрифта",
-    "image": "data/images/575.jpg",
-    "tags": [
-      "спецпроект",
-      "readymag",
-      "лисицкий"
-    ],
-    "url": "https://readymag.com/deedandreward/russiandesigners/",
-    "date": 1567677608,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "readymag",
-      "lisitskii"
     ],
     "awards": []
   }

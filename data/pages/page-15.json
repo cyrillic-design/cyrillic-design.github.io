@@ -1,5 +1,24 @@
 [
   {
+    "id": 472,
+    "title": "Кухня на районе",
+    "image": "data/images/472.jpg",
+    "tags": [
+      "доставка",
+      "еда"
+    ],
+    "url": "https://localkitchen.ru/",
+    "date": 1552730464,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "dostavka",
+      "yeda"
+    ],
+    "awards": []
+  },
+  {
     "id": 471,
     "title": "Intervals",
     "caption": "Intervals\nhttp://intervalsfest.com/\n\n#мероприятие #промо",
@@ -380,25 +399,6 @@
     "isRemoved": false,
     "slugs": [
       "servis"
-    ],
-    "awards": []
-  },
-  {
-    "id": 447,
-    "title": "DADA Agency",
-    "image": "data/images/447.jpg",
-    "tags": [
-      "портфолио",
-      "агентство"
-    ],
-    "url": "https://dadacreative.com/ru/",
-    "date": 1550916002,
-    "edit_date": 1583185362,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio",
-      "agentstvo"
     ],
     "awards": []
   }
