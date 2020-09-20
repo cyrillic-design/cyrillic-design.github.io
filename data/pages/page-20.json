@@ -1,5 +1,26 @@
 [
   {
+    "id": 363,
+    "title": "КРУЖОК ФЕСТИВАЛЬ",
+    "image": "data/images/363.jpg",
+    "tags": [
+      "промо",
+      "мероприятие",
+      "кружок"
+    ],
+    "url": "http://festival.kruzhok.io/",
+    "date": 1542967216,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "meropriyatie",
+      "kruzhok"
+    ],
+    "awards": []
+  },
+  {
     "id": 362,
     "title": "Дело Модульбанка",
     "image": "data/images/362.jpg",
@@ -383,29 +404,6 @@
     "isRemoved": false,
     "slugs": [
       "zhurnal"
-    ],
-    "awards": []
-  },
-  {
-    "id": 341,
-    "title": "Блог OneSoil",
-    "image": "data/images/341.jpg",
-    "tags": [
-      "сервис",
-      "блог",
-      "новости",
-      "onesoil"
-    ],
-    "url": "https://blog.onesoil.ai/ru",
-    "date": 1541066419,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "blog",
-      "novosti",
-      "onesoil"
     ],
     "awards": []
   }
