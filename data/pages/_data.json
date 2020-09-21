@@ -9965,5 +9965,20 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "775": {
+    "id": 775,
+    "title": "Полина Соколова",
+    "caption": "Полина Соколова\nhttps://www.makesome.design/ru/\n\n#портфолио\nСпасибо за ссылку @AndyAbramov",
+    "image": "775.jpg",
+    "tags": [
+      "портфолио"
+    ],
+    "url": "https://www.makesome.design/ru/",
+    "date": 1600682850,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

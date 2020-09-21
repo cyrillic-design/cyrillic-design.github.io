@@ -1,5 +1,22 @@
 [
   {
+    "id": 540,
+    "title": "ZOLOTO GROUP",
+    "image": "data/images/540.jpg",
+    "tags": [
+      "портфолио"
+    ],
+    "url": "https://www.zolotogroup.ru/",
+    "date": 1561456877,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio"
+    ],
+    "awards": []
+  },
+  {
     "id": 539,
     "title": "ЗАО «Росма»",
     "image": "data/images/539.jpg",
@@ -361,25 +378,6 @@
     "slugs": [
       "zhurnal",
       "muzika"
-    ],
-    "awards": []
-  },
-  {
-    "id": 518,
-    "title": "Ламбада-маркет",
-    "image": "data/images/518.jpg",
-    "tags": [
-      "магазин",
-      "ярмарка"
-    ],
-    "url": "https://lmbd.ru/",
-    "date": 1558951242,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "yarmarka"
     ],
     "awards": []
   }

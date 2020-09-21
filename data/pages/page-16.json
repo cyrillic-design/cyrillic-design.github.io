@@ -1,5 +1,26 @@
 [
   {
+    "id": 449,
+    "title": "Pro et Contra",
+    "image": "data/images/449.jpg",
+    "tags": [
+      "услуги",
+      "промо",
+      "otherland"
+    ],
+    "url": "http://pro-et-contra.com.ua/",
+    "date": 1551088809,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "uslugi",
+      "promo",
+      "otherland"
+    ],
+    "awards": []
+  },
+  {
     "id": 448,
     "title": "Uber",
     "image": "data/images/448.jpg",
@@ -375,27 +396,6 @@
       "portfolio",
       "studiya",
       "flat12"
-    ],
-    "awards": []
-  },
-  {
-    "id": 429,
-    "title": "БКС Банк",
-    "image": "data/images/429.jpg",
-    "tags": [
-      "финансы",
-      "банк",
-      "aic"
-    ],
-    "url": "https://beta.bcs-bank.com/",
-    "date": 1549360822,
-    "edit_date": 1583185362,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "finansi",
-      "bank",
-      "aic"
     ],
     "awards": []
   }
