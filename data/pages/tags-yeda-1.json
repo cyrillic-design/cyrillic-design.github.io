@@ -2,21 +2,24 @@
   {
     "id": 770,
     "title": "EPICA",
-    "caption": "EPICA\nhttps://epica.ru/\n\n#промо #еда\nСпасибо за ссылку @stasplkv",
+    "caption": "EPICA\nhttps://epica.ru/\n\n#промо #еда #dadacreative\nСпасибо за ссылку @stasplkv",
     "image": "data/images/770.jpg",
     "tags": [
       "промо",
-      "еда"
+      "еда",
+      "dadacreative"
     ],
     "url": "https://epica.ru/",
     "date": 1600249630,
+    "edit_date": 1600903684,
     "isMonth": false,
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
       "promo",
-      "yeda"
+      "yeda",
+      "dadacreative"
     ],
     "awards": []
   },
