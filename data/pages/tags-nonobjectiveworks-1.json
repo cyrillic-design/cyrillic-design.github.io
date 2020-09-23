@@ -46,5 +46,31 @@
       "nonobjectiveworks"
     ],
     "awards": []
+  },
+  {
+    "id": 730,
+    "title": "Курс прозы «Глагол»",
+    "caption": "Курс прозы «Глагол»\nhttp://glglgl.ru/\n\n#образование #мероприятие #readymag #nonobjectiveworks",
+    "image": "data/images/730.jpg",
+    "tags": [
+      "образование",
+      "мероприятие",
+      "readymag",
+      "nonobjectiveworks"
+    ],
+    "url": "http://glglgl.ru/",
+    "date": 1590573617,
+    "edit_date": 1600870401,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "meropriyatie",
+      "readymag",
+      "nonobjectiveworks"
+    ],
+    "awards": []
   }
 ]
