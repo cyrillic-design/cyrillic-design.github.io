@@ -1,5 +1,30 @@
 [
   {
+    "id": 776,
+    "title": "yazdes art",
+    "caption": "yazdes art\nhttps://yazdes.art/\n\n#мероприятие #образование #readymag #nonobjectiveworks",
+    "image": "data/images/776.jpg",
+    "tags": [
+      "мероприятие",
+      "образование",
+      "readymag",
+      "nonobjectiveworks"
+    ],
+    "url": "https://yazdes.art/",
+    "date": 1600941611,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "obrazovanie",
+      "readymag",
+      "nonobjectiveworks"
+    ],
+    "awards": []
+  },
+  {
     "id": 752,
     "title": "alvaar",
     "caption": "alvaar\nhttps://alvaar.one/\n\n#магазин #shopify #nonobjectiveworks",

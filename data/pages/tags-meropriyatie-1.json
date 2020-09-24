@@ -1,5 +1,30 @@
 [
   {
+    "id": 776,
+    "title": "yazdes art",
+    "caption": "yazdes art\nhttps://yazdes.art/\n\n#мероприятие #образование #readymag #nonobjectiveworks",
+    "image": "data/images/776.jpg",
+    "tags": [
+      "мероприятие",
+      "образование",
+      "readymag",
+      "nonobjectiveworks"
+    ],
+    "url": "https://yazdes.art/",
+    "date": 1600941611,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "obrazovanie",
+      "readymag",
+      "nonobjectiveworks"
+    ],
+    "awards": []
+  },
+  {
     "id": 757,
     "title": "Международный фестиваль дебютного кино в Новой Голландии",
     "caption": "Международный фестиваль дебютного кино в Новой Голландии\nhttps://nhifilmfest.com/\n\n#мероприятие #кино #whiterussianstudio",
@@ -444,28 +469,6 @@
     "isRemoved": false,
     "slugs": [
       "obrazovanie",
-      "meropriyatie"
-    ],
-    "awards": []
-  },
-  {
-    "id": 632,
-    "title": "Большой музей",
-    "caption": "Большой музей\nhttps://bm.digital/\n\n#медиа #искусство #мероприятие",
-    "image": "data/images/632.jpg",
-    "tags": [
-      "медиа",
-      "искусство",
-      "мероприятие"
-    ],
-    "url": "https://bm.digital/",
-    "date": 1574848867,
-    "edit_date": 1583439499,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "media",
-      "iskusstvo",
       "meropriyatie"
     ],
     "awards": []

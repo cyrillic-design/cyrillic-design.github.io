@@ -1,5 +1,26 @@
 [
   {
+    "id": 648,
+    "title": "Тренды 2020",
+    "image": "data/images/648.jpg",
+    "tags": [
+      "спецпроект",
+      "промо",
+      "образование"
+    ],
+    "url": "https://2020.skillbox.ru/",
+    "date": 1577527207,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "promo",
+      "obrazovanie"
+    ],
+    "awards": []
+  },
+  {
     "id": 641,
     "title": "Архитекторы РФ",
     "image": "data/images/641.jpg",
@@ -368,27 +389,6 @@
     "slugs": [
       "obrazovanie",
       "kosmos"
-    ],
-    "awards": []
-  },
-  {
-    "id": 325,
-    "title": "Google Science Fair",
-    "image": "data/images/325.jpg",
-    "tags": [
-      "конкурс",
-      "образование",
-      "google"
-    ],
-    "url": "https://www.googlesciencefair.com/intl/ru/",
-    "date": 1539338448,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "konkurs",
-      "obrazovanie",
-      "google"
     ],
     "awards": []
   }

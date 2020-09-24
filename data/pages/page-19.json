@@ -1,5 +1,26 @@
 [
   {
+    "id": 389,
+    "title": "Лесная Анкета - разговор с Ильей Долговым",
+    "image": "data/images/389.jpg",
+    "tags": [
+      "издание",
+      "спецпроект",
+      "воно"
+    ],
+    "url": "http://lesnaya.vonopaper.com/",
+    "date": 1544868009,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "izdanie",
+      "spetsproekt",
+      "vono"
+    ],
+    "awards": []
+  },
+  {
     "id": 388,
     "title": "InLiberty",
     "image": "data/images/388.jpg",
@@ -377,27 +398,6 @@
     "slugs": [
       "studiya",
       "portfolio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 366,
-    "title": "Kto Tut Beauty",
-    "image": "data/images/366.jpg",
-    "tags": [
-      "красота",
-      "магазин",
-      "loremipsumlab"
-    ],
-    "url": "https://ktotutbeauty.com/",
-    "date": 1543140018,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "krasota",
-      "magazin",
-      "loremipsumlab"
     ],
     "awards": []
   }

@@ -1,5 +1,27 @@
 [
   {
+    "id": 632,
+    "title": "Большой музей",
+    "caption": "Большой музей\nhttps://bm.digital/\n\n#медиа #искусство #мероприятие",
+    "image": "data/images/632.jpg",
+    "tags": [
+      "медиа",
+      "искусство",
+      "мероприятие"
+    ],
+    "url": "https://bm.digital/",
+    "date": 1574848867,
+    "edit_date": 1583439499,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "media",
+      "iskusstvo",
+      "meropriyatie"
+    ],
+    "awards": []
+  },
+  {
     "id": 607,
     "title": "DW ERA",
     "image": "data/images/607.jpg",
@@ -369,27 +391,6 @@
       "meropriyatie",
       "promo",
       "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 400,
-    "title": "Третьяковская галерея: Уроки Куинджи",
-    "image": "data/images/400.jpg",
-    "tags": [
-      "спецпроект",
-      "мероприятие",
-      "artlebedev"
-    ],
-    "url": "https://kuindzhi.tretyakov.ru/",
-    "date": 1545818431,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "meropriyatie",
-      "artlebedev"
     ],
     "awards": []
   }

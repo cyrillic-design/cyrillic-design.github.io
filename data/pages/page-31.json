@@ -1,5 +1,22 @@
 [
   {
+    "id": 140,
+    "title": "«СК «Ингосстрах-Жизнь»",
+    "image": "data/images/140.jpg",
+    "tags": [
+      "услуги"
+    ],
+    "url": "http://ingoslife.com/",
+    "date": 1523267725,
+    "edit_date": 1583185535,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "uslugi"
+    ],
+    "awards": []
+  },
+  {
     "id": 139,
     "title": "Yota",
     "image": "data/images/139.jpg",
@@ -388,29 +405,6 @@
       "media",
       "kultura",
       "charmer"
-    ],
-    "awards": []
-  },
-  {
-    "id": 120,
-    "title": "Мегафон",
-    "image": "data/images/120.jpg",
-    "tags": [
-      "телекоммуникации",
-      "провайдер",
-      "услуги",
-      "ony"
-    ],
-    "url": "https://megafon.ru",
-    "date": 1521540014,
-    "edit_date": 1583185535,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "telekommunikatsii",
-      "provaider",
-      "uslugi",
-      "ony"
     ],
     "awards": []
   }

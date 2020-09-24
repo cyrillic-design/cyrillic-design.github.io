@@ -1,5 +1,26 @@
 [
   {
+    "id": 400,
+    "title": "Третьяковская галерея: Уроки Куинджи",
+    "image": "data/images/400.jpg",
+    "tags": [
+      "спецпроект",
+      "мероприятие",
+      "artlebedev"
+    ],
+    "url": "https://kuindzhi.tretyakov.ru/",
+    "date": 1545818431,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "meropriyatie",
+      "artlebedev"
+    ],
+    "awards": []
+  },
+  {
     "id": 384,
     "title": "Конференция «Управление изменениями. Global Russians»",
     "image": "data/images/384.jpg",
