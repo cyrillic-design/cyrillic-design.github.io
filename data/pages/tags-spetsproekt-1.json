@@ -1,5 +1,26 @@
 [
   {
+    "id": 777,
+    "title": "ИИ И КИНО",
+    "caption": "ИИ И КИНО\nhttps://readymag.com/u799818405/2146390/\n\n#спецпроект #readymag",
+    "image": "data/images/777.jpg",
+    "tags": [
+      "спецпроект",
+      "readymag"
+    ],
+    "url": "https://readymag.com/u799818405/2146390/",
+    "date": 1601028004,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 773,
     "title": "РРРЕАКЦИЯ",
     "caption": "РРРЕАКЦИЯ\nhttps://climate.greenpeace.ru/\n\n#спецпроект #greenpeace #экология #отцы\nСпасибо за ссылку @d_igoshin",
@@ -478,27 +499,6 @@
       "kultura",
       "readymag",
       "anastasiyaburyakova"
-    ],
-    "awards": []
-  },
-  {
-    "id": 663,
-    "title": "Я себя люблю",
-    "image": "data/images/663.jpg",
-    "tags": [
-      "спецпроект",
-      "readymag",
-      "татьянаегошина"
-    ],
-    "url": "https://ilovemyself.kultrab.com/",
-    "date": 1582020052,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "readymag",
-      "tatyanaegoshina"
     ],
     "awards": []
   }

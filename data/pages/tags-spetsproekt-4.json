@@ -1,5 +1,26 @@
 [
   {
+    "id": 375,
+    "title": "60 беларускамоўных гітоў сучаснасьці",
+    "image": "data/images/375.jpg",
+    "tags": [
+      "музыка",
+      "спецпроект",
+      "cherenkevich"
+    ],
+    "url": "http://tuzin.letapis.by/",
+    "date": 1543917619,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "muzika",
+      "spetsproekt",
+      "cherenkevich"
+    ],
+    "awards": []
+  },
+  {
     "id": 369,
     "title": "Мапа станаўлення Беларусі",
     "image": "data/images/369.jpg",
@@ -386,25 +407,6 @@
       "spetsproekt",
       "batenkadavitransformer",
       "alfred"
-    ],
-    "awards": []
-  },
-  {
-    "id": 232,
-    "title": "Обитель чёрного дьявола",
-    "image": "data/images/232.jpg",
-    "tags": [
-      "спецпроект",
-      "батенькадавытрансформер"
-    ],
-    "url": "http://love.batenka.ru/",
-    "date": 1531216810,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "batenkadavitransformer"
     ],
     "awards": []
   }

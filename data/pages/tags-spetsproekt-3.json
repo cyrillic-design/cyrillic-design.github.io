@@ -1,5 +1,26 @@
 [
   {
+    "id": 578,
+    "title": "Письма врагов народа",
+    "image": "data/images/578.jpg",
+    "tags": [
+      "спецпроект",
+      "readymag",
+      "такиедела"
+    ],
+    "url": "http://vraginaroda.takiedela.ru/",
+    "date": 1567850410,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "readymag",
+      "takiedela"
+    ],
+    "awards": []
+  },
+  {
     "id": 575,
     "title": "Современные российские дизайнеры шрифта",
     "image": "data/images/575.jpg",
@@ -394,27 +415,6 @@
       "podkast",
       "glagolevfm",
       "memorial"
-    ],
-    "awards": []
-  },
-  {
-    "id": 375,
-    "title": "60 беларускамоўных гітоў сучаснасьці",
-    "image": "data/images/375.jpg",
-    "tags": [
-      "музыка",
-      "спецпроект",
-      "cherenkevich"
-    ],
-    "url": "http://tuzin.letapis.by/",
-    "date": 1543917619,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "muzika",
-      "spetsproekt",
-      "cherenkevich"
     ],
     "awards": []
   }

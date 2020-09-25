@@ -10001,5 +10001,21 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "777": {
+    "id": 777,
+    "title": "ИИ И КИНО",
+    "caption": "ИИ И КИНО\nhttps://readymag.com/u799818405/2146390/\n\n#спецпроект #readymag",
+    "image": "777.jpg",
+    "tags": [
+      "спецпроект",
+      "readymag"
+    ],
+    "url": "https://readymag.com/u799818405/2146390/",
+    "date": 1601028004,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
