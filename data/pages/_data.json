@@ -10017,5 +10017,23 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "778": {
+    "id": 778,
+    "title": "Театральный",
+    "caption": "Театральный\nhttps://teatrhome.com/\n\n#промо #недвижимость #tilda #дмитрийносков",
+    "image": "778.jpg",
+    "tags": [
+      "промо",
+      "недвижимость",
+      "tilda",
+      "дмитрийносков"
+    ],
+    "url": "https://teatrhome.com/",
+    "date": 1601114404,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

@@ -1,5 +1,27 @@
 [
   {
+    "id": 675,
+    "title": "Театральная школа Karavaev Lab",
+    "caption": "Театральная школа Karavaev Lab\nhttps://karavaev-lab.ru/\n\n☆ #образование #мероприятие #tilda",
+    "image": "data/images/675.jpg",
+    "tags": [
+      "образование",
+      "мероприятие",
+      "tilda"
+    ],
+    "url": "https://karavaev-lab.ru/",
+    "date": 1583316024,
+    "edit_date": 1583524339,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "meropriyatie",
+      "tilda"
+    ],
+    "awards": []
+  },
+  {
     "id": 672,
     "title": "Street beat",
     "caption": "Street beat\nhttps://street-beat.ru/\n\n☆ #магазин #доставка",
@@ -399,25 +421,6 @@
     "slugs": [
       "spetsproekt",
       "smena"
-    ],
-    "awards": []
-  },
-  {
-    "id": 650,
-    "title": "Лекторий Skillbox",
-    "image": "data/images/650.jpg",
-    "tags": [
-      "образование",
-      "мероприятие"
-    ],
-    "url": "https://events.skillbox.ru/designmeetup",
-    "date": 1577700014,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "meropriyatie"
     ],
     "awards": []
   }

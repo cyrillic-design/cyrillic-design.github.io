@@ -1,5 +1,24 @@
 [
   {
+    "id": 278,
+    "title": "Калашников",
+    "image": "data/images/278.jpg",
+    "tags": [
+      "промо",
+      "магазин"
+    ],
+    "url": "http://ak.kalashnikovgroup.ru/",
+    "date": 1535104820,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "magazin"
+    ],
+    "awards": []
+  },
+  {
     "id": 274,
     "title": "Экомилк",
     "image": "data/images/274.jpg",
@@ -390,27 +409,6 @@
       "meropriyatie",
       "promo",
       "buking"
-    ],
-    "awards": []
-  },
-  {
-    "id": 132,
-    "title": "Эра-Глонасс",
-    "image": "data/images/132.jpg",
-    "tags": [
-      "промо",
-      "глонасс",
-      "hyundai"
-    ],
-    "url": "https://era.hyundai.ru/",
-    "date": 1522589719,
-    "edit_date": 1583185535,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "glonass",
-      "hyundai"
     ],
     "awards": []
   }

@@ -1,5 +1,29 @@
 [
   {
+    "id": 758,
+    "title": "Brave New World",
+    "caption": "Brave New World\nhttps://bnw.budu.jobs/\n\n#спецпроект #образование #сервис\nСпасибо за ссылку @kkkarterrr",
+    "image": "data/images/758.jpg",
+    "tags": [
+      "спецпроект",
+      "образование",
+      "сервис"
+    ],
+    "url": "https://bnw.budu.jobs/",
+    "date": 1598349611,
+    "edit_date": 1598350429,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "obrazovanie",
+      "servis"
+    ],
+    "awards": []
+  },
+  {
     "id": 757,
     "title": "Международный фестиваль дебютного кино в Новой Голландии",
     "caption": "Международный фестиваль дебютного кино в Новой Голландии\nhttps://nhifilmfest.com/\n\n#мероприятие #кино #whiterussianstudio",
@@ -459,27 +483,6 @@
       "portfolio",
       "readymag",
       "octo"
-    ],
-    "awards": []
-  },
-  {
-    "id": 738,
-    "title": "Глущенкоиздат",
-    "caption": "Глущенкоиздат\nhttp://gluschenkoizdat.ru/\n\n#издательство #производство\nСпасибо за ссылку @AndyAbramov",
-    "image": "data/images/738.jpg",
-    "tags": [
-      "издательство",
-      "производство"
-    ],
-    "url": "http://gluschenkoizdat.ru/",
-    "date": 1592468243,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "izdatelstvo",
-      "proizvodstvo"
     ],
     "awards": []
   }
