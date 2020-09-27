@@ -1,5 +1,26 @@
 [
   {
+    "id": 457,
+    "title": "Карта истории ГУЛАГа",
+    "image": "data/images/457.jpg",
+    "tags": [
+      "данные",
+      "история",
+      "urbica"
+    ],
+    "url": "https://gulagmap.ru/",
+    "date": 1551434419,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "dannie",
+      "istoriya",
+      "urbica"
+    ],
+    "awards": []
+  },
+  {
     "id": 456,
     "title": "Homo Sedens",
     "image": "data/images/456.jpg",
@@ -371,27 +392,6 @@
     "slugs": [
       "promo",
       "chulakov"
-    ],
-    "awards": []
-  },
-  {
-    "id": 433,
-    "title": "VkusVill - Доставка",
-    "image": "data/images/433.jpg",
-    "tags": [
-      "сервис",
-      "доставка",
-      "max"
-    ],
-    "url": "https://dostavka.vkusvill.ru/",
-    "date": 1549706401,
-    "edit_date": 1583185362,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "dostavka",
-      "max"
     ],
     "awards": []
   }

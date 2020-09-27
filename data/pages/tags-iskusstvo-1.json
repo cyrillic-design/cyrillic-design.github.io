@@ -1,5 +1,30 @@
 [
   {
+    "id": 779,
+    "title": "Spilne",
+    "caption": "Spilne\nhttps://spilne.art/\n\n#магазин #искусство #tilda #avamyara",
+    "image": "data/images/779.jpg",
+    "tags": [
+      "магазин",
+      "искусство",
+      "tilda",
+      "avamyara"
+    ],
+    "url": "https://spilne.art/",
+    "date": 1601200805,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "iskusstvo",
+      "tilda",
+      "avamyara"
+    ],
+    "awards": []
+  },
+  {
     "id": 761,
     "title": "TIGHT magazine",
     "caption": "TIGHT magazine\nhttps://www.tight.media/\n\n#журнал #музыка #искусство\nСпасибо за ссылку @AndyAbramov",

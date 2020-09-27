@@ -1,5 +1,26 @@
 [
   {
+    "id": 528,
+    "title": "Квартиротека ИКЕА",
+    "image": "data/images/528.jpg",
+    "tags": [
+      "магазин",
+      "доставка",
+      "сервис"
+    ],
+    "url": "https://www.ikea.com/ext/ru/kvartiroteka/",
+    "date": 1559901624,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "dostavka",
+      "servis"
+    ],
+    "awards": []
+  },
+  {
     "id": 518,
     "title": "Ламбада-маркет",
     "image": "data/images/518.jpg",
@@ -384,25 +405,6 @@
       "magazin",
       "moda",
       "facility"
-    ],
-    "awards": []
-  },
-  {
-    "id": 278,
-    "title": "Калашников",
-    "image": "data/images/278.jpg",
-    "tags": [
-      "промо",
-      "магазин"
-    ],
-    "url": "http://ak.kalashnikovgroup.ru/",
-    "date": 1535104820,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "magazin"
     ],
     "awards": []
   }
