@@ -1,5 +1,27 @@
 [
   {
+    "id": 678,
+    "title": "ЖК Композиция №24",
+    "caption": "ЖК Композиция №24\nhttps://k24moscow.ru/\n\n☆ #недвижимость #промо #videinfra",
+    "image": "data/images/678.jpg",
+    "tags": [
+      "недвижимость",
+      "промо",
+      "videinfra"
+    ],
+    "url": "https://k24moscow.ru/",
+    "date": 1583488809,
+    "edit_date": 1583666192,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "nedvizhimost",
+      "promo",
+      "videinfra"
+    ],
+    "awards": []
+  },
+  {
     "id": 676,
     "title": "LUXENGLISH",
     "caption": "LUXENGLISH\nhttps://luxenglish.ru/\n\n☆ #образование #мероприятие #readymag",
@@ -405,26 +427,5 @@
     "awards": [
       "month"
     ]
-  },
-  {
-    "id": 653,
-    "title": "Неон",
-    "image": "data/images/653.jpg",
-    "tags": [
-      "услуги",
-      "промо",
-      "only"
-    ],
-    "url": "http://advneon.ru/",
-    "date": 1579082416,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "uslugi",
-      "promo",
-      "only"
-    ],
-    "awards": []
   }
 ]

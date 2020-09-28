@@ -1,5 +1,24 @@
 [
   {
+    "id": 612,
+    "title": "SEX IS PURE",
+    "image": "data/images/612.jpg",
+    "tags": [
+      "журнал",
+      "pure"
+    ],
+    "url": "https://sexispure.com/",
+    "date": 1571824830,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "pure"
+    ],
+    "awards": []
+  },
+  {
     "id": 611,
     "title": "Символы оттепели",
     "image": "data/images/611.jpg",
@@ -367,25 +386,6 @@
       "spetsproekt",
       "advokatskayagazeta",
       "artperformance"
-    ],
-    "awards": []
-  },
-  {
-    "id": 591,
-    "title": "KLEI",
-    "image": "data/images/591.jpg",
-    "tags": [
-      "сервис",
-      "brights"
-    ],
-    "url": "http://klei.co/",
-    "date": 1569146419,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "brights"
     ],
     "awards": []
   }

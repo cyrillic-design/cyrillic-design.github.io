@@ -1,5 +1,24 @@
 [
   {
+    "id": 595,
+    "title": "Державні послуги онлайн",
+    "image": "data/images/595.jpg",
+    "tags": [
+      "сервис",
+      "государство"
+    ],
+    "url": "https://plan.diia.gov.ua/",
+    "date": 1569585843,
+    "edit_date": 1583183812,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "gosudarstvo"
+    ],
+    "awards": []
+  },
+  {
     "id": 591,
     "title": "KLEI",
     "image": "data/images/591.jpg",
@@ -374,27 +393,6 @@
       "finansi",
       "servis",
       "shuka"
-    ],
-    "awards": []
-  },
-  {
-    "id": 433,
-    "title": "VkusVill - Доставка",
-    "image": "data/images/433.jpg",
-    "tags": [
-      "сервис",
-      "доставка",
-      "max"
-    ],
-    "url": "https://dostavka.vkusvill.ru/",
-    "date": 1549706401,
-    "edit_date": 1583185362,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "dostavka",
-      "max"
     ],
     "awards": []
   }

@@ -1,5 +1,28 @@
 [
   {
+    "id": 780,
+    "title": "MOLNIA",
+    "caption": "MOLNIA\nhttps://molnia.city/\n\n#сервис #приложение #tilda",
+    "image": "data/images/780.jpg",
+    "tags": [
+      "сервис",
+      "приложение",
+      "tilda"
+    ],
+    "url": "https://molnia.city/",
+    "date": 1601287205,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "prilozhenie",
+      "tilda"
+    ],
+    "awards": []
+  },
+  {
     "id": 768,
     "title": "TYPICAL.OKR",
     "caption": "TYPICAL.OKR\nhttps://typicalokr.co/\n\n#исследование #сервис #typical #readymag",
@@ -430,25 +453,6 @@
     "slugs": [
       "servis",
       "eshgruppa"
-    ],
-    "awards": []
-  },
-  {
-    "id": 595,
-    "title": "Державні послуги онлайн",
-    "image": "data/images/595.jpg",
-    "tags": [
-      "сервис",
-      "государство"
-    ],
-    "url": "https://plan.diia.gov.ua/",
-    "date": 1569585843,
-    "edit_date": 1583183812,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "gosudarstvo"
     ],
     "awards": []
   }

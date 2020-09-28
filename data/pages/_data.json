@@ -10053,5 +10053,22 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "780": {
+    "id": 780,
+    "title": "MOLNIA",
+    "caption": "MOLNIA\nhttps://molnia.city/\n\n#сервис #приложение #tilda",
+    "image": "780.jpg",
+    "tags": [
+      "сервис",
+      "приложение",
+      "tilda"
+    ],
+    "url": "https://molnia.city/",
+    "date": 1601287205,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
