@@ -1,5 +1,24 @@
 [
   {
+    "id": 186,
+    "title": "Comepay",
+    "image": "data/images/186.jpg",
+    "tags": [
+      "финансы",
+      "сервис"
+    ],
+    "url": "https://comepay.ru/",
+    "date": 1527328811,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "finansi",
+      "servis"
+    ],
+    "awards": []
+  },
+  {
     "id": 185,
     "title": "EMKA",
     "image": "data/images/185.jpg",
@@ -392,29 +411,6 @@
       "servis",
       "uslugi",
       "promo"
-    ],
-    "awards": []
-  },
-  {
-    "id": 166,
-    "title": "BOSCO FRESH FEST 18",
-    "image": "data/images/166.jpg",
-    "tags": [
-      "фестиваль",
-      "музыка",
-      "люди",
-      "bosco"
-    ],
-    "url": "https://boscofreshfest18.com/",
-    "date": 1525619259,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "festival",
-      "muzika",
-      "lyudi",
-      "bosco"
     ],
     "awards": []
   }

@@ -10070,5 +10070,22 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "781": {
+    "id": 781,
+    "title": "Міністерство цифрової трансформації України",
+    "caption": "Міністерство цифрової трансформації України\nhttps://thedigital.gov.ua/\n\n#государство #люди #блог\nСпасибо за ссылку @AndyAbramov",
+    "image": "781.jpg",
+    "tags": [
+      "государство",
+      "люди",
+      "блог"
+    ],
+    "url": "https://thedigital.gov.ua/",
+    "date": 1601901605,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

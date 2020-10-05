@@ -1,5 +1,28 @@
 [
   {
+    "id": 781,
+    "title": "Міністерство цифрової трансформації України",
+    "caption": "Міністерство цифрової трансформації України\nhttps://thedigital.gov.ua/\n\n#государство #люди #блог\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/781.jpg",
+    "tags": [
+      "государство",
+      "люди",
+      "блог"
+    ],
+    "url": "https://thedigital.gov.ua/",
+    "date": 1601901605,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "gosudarstvo",
+      "lyudi",
+      "blog"
+    ],
+    "awards": []
+  },
+  {
     "id": 767,
     "title": "Державні послуги онлайн | Дія",
     "caption": "Державні послуги онлайн | Дія\nhttps://diia.gov.ua/\n\n#сервис #государство #люди\nСпасибо за ссылку @AndyAbramov",
@@ -445,27 +468,6 @@
       "iskusstvo",
       "lyudi",
       "meropriyatie"
-    ],
-    "awards": []
-  },
-  {
-    "id": 319,
-    "title": "Программа «Открытые двери» на Airbnb",
-    "image": "data/images/319.jpg",
-    "tags": [
-      "люди",
-      "помощь",
-      "airbnb"
-    ],
-    "url": "https://www.airbnb.ru/openhomes",
-    "date": 1538645430,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "lyudi",
-      "pomoshch",
-      "airbnb"
     ],
     "awards": []
   }

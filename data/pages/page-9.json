@@ -1,5 +1,28 @@
 [
   {
+    "id": 613,
+    "title": "Званий обід",
+    "image": "data/images/613.jpg",
+    "tags": [
+      "спецпроект",
+      "еда",
+      "промо",
+      "platforma"
+    ],
+    "url": "https://platfor.ma/specials/zvanyi-obid/",
+    "date": 1571911231,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "yeda",
+      "promo",
+      "platforma"
+    ],
+    "awards": []
+  },
+  {
     "id": 612,
     "title": "SEX IS PURE",
     "image": "data/images/612.jpg",
@@ -364,28 +387,6 @@
       "novosti",
       "smi",
       "charmer"
-    ],
-    "awards": []
-  },
-  {
-    "id": 592,
-    "title": "Защитники, которых никто не защитил",
-    "caption": "Защитники, которых никто не защитил\nhttps://www.advgazeta.ru/repressed-lawyers/\n\n#спецпроект #адвокатскаягазета #artperformance",
-    "image": "data/images/592.jpg",
-    "tags": [
-      "спецпроект",
-      "адвокатскаягазета",
-      "artperformance"
-    ],
-    "url": "https://www.advgazeta.ru/repressed-lawyers/",
-    "date": 1569233377,
-    "edit_date": 1583340438,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "advokatskayagazeta",
-      "artperformance"
     ],
     "awards": []
   }
