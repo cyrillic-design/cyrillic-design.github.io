@@ -1,5 +1,28 @@
 [
   {
+    "id": 782,
+    "title": "Рокет Ворк",
+    "caption": "Рокет Ворк\nhttps://promo.rocketwork.ru/\n\n#промо #банк #финансы",
+    "image": "data/images/782.jpg",
+    "tags": [
+      "промо",
+      "банк",
+      "финансы"
+    ],
+    "url": "https://promo.rocketwork.ru/",
+    "date": 1602578046,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "bank",
+      "finansi"
+    ],
+    "awards": []
+  },
+  {
     "id": 723,
     "title": "Точка XS",
     "caption": "Точка XS\nhttps://xs.tochka.com/\n\n#банк #финансы #приложение",
@@ -426,29 +449,6 @@
     "slugs": [
       "bank",
       "finansi"
-    ],
-    "awards": []
-  },
-  {
-    "id": 156,
-    "title": "Rocket Home Pig",
-    "image": "data/images/156.jpg",
-    "tags": [
-      "промо",
-      "банк",
-      "финансы",
-      "readymag"
-    ],
-    "url": "http://homepig.rocketbank.ru/",
-    "date": 1524564005,
-    "edit_date": 1583185536,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "bank",
-      "finansi",
-      "readymag"
     ],
     "awards": []
   }

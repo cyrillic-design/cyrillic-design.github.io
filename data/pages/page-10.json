@@ -1,5 +1,26 @@
 [
   {
+    "id": 594,
+    "title": "Национальная Служба Новостей - НСН",
+    "image": "data/images/594.jpg",
+    "tags": [
+      "новости",
+      "сми",
+      "charmer"
+    ],
+    "url": "https://nsn.fm/",
+    "date": 1569405657,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "novosti",
+      "smi",
+      "charmer"
+    ],
+    "awards": []
+  },
+  {
     "id": 592,
     "title": "Защитники, которых никто не защитил",
     "caption": "Защитники, которых никто не защитил\nhttps://www.advgazeta.ru/repressed-lawyers/\n\n#спецпроект #адвокатскаягазета #artperformance",
@@ -365,23 +386,6 @@
       "magazin",
       "roky",
       "orientir"
-    ],
-    "awards": []
-  },
-  {
-    "id": 569,
-    "title": "Молния Beta",
-    "image": "data/images/569.jpg",
-    "tags": [
-      "сервис"
-    ],
-    "url": "https://molnia.me/",
-    "date": 1565949646,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis"
     ],
     "awards": []
   }

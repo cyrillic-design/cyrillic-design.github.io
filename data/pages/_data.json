@@ -10087,5 +10087,22 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "782": {
+    "id": 782,
+    "title": "Рокет Ворк",
+    "caption": "Рокет Ворк\nhttps://promo.rocketwork.ru/\n\n#промо #банк #финансы",
+    "image": "782.jpg",
+    "tags": [
+      "промо",
+      "банк",
+      "финансы"
+    ],
+    "url": "https://promo.rocketwork.ru/",
+    "date": 1602578046,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

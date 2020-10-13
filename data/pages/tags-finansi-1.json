@@ -1,5 +1,28 @@
 [
   {
+    "id": 782,
+    "title": "Рокет Ворк",
+    "caption": "Рокет Ворк\nhttps://promo.rocketwork.ru/\n\n#промо #банк #финансы",
+    "image": "data/images/782.jpg",
+    "tags": [
+      "промо",
+      "банк",
+      "финансы"
+    ],
+    "url": "https://promo.rocketwork.ru/",
+    "date": 1602578046,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "bank",
+      "finansi"
+    ],
+    "awards": []
+  },
+  {
     "id": 723,
     "title": "Точка XS",
     "caption": "Точка XS\nhttps://xs.tochka.com/\n\n#банк #финансы #приложение",
@@ -427,27 +450,6 @@
       "bank",
       "finansi",
       "magazin"
-    ],
-    "awards": []
-  },
-  {
-    "id": 238,
-    "title": "Банк ЗЕНИТ",
-    "image": "data/images/238.jpg",
-    "tags": [
-      "банк",
-      "финансы",
-      "aic"
-    ],
-    "url": "https://www.zenit.ru/",
-    "date": 1531726767,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "bank",
-      "finansi",
-      "aic"
     ],
     "awards": []
   }
