@@ -10091,15 +10091,17 @@
   "782": {
     "id": 782,
     "title": "Рокет Ворк",
-    "caption": "Рокет Ворк\nhttps://promo.rocketwork.ru/\n\n#промо #банк #финансы",
+    "caption": "Рокет Ворк\nhttps://promo.rocketwork.ru/\n\n#промо #банк #финансы #readymag",
     "image": "782.jpg",
     "tags": [
       "промо",
       "банк",
-      "финансы"
+      "финансы",
+      "readymag"
     ],
     "url": "https://promo.rocketwork.ru/",
     "date": 1602578046,
+    "edit_date": 1602578112,
     "isMonth": false,
     "isYear": false,
     "isHighlighted": false,
