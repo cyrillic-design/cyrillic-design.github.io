@@ -10106,5 +10106,22 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "783": {
+    "id": 783,
+    "title": "Почтатех",
+    "caption": "Почтатех\nhttps://pochta.tech/\n\n#промо #сервис #портфолио\nСпасибо за ссылку @pochekueva",
+    "image": "783.jpg",
+    "tags": [
+      "промо",
+      "сервис",
+      "портфолио"
+    ],
+    "url": "https://pochta.tech/",
+    "date": 1602669606,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

@@ -1,5 +1,26 @@
 [
   {
+    "id": 439,
+    "title": "",
+    "image": "data/images/439.jpg",
+    "tags": [
+      "финансы",
+      "сервис",
+      "shuka"
+    ],
+    "url": "https://mercuryo.io/index_ru.html",
+    "date": 1550224824,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "finansi",
+      "servis",
+      "shuka"
+    ],
+    "awards": []
+  },
+  {
     "id": 433,
     "title": "VkusVill - Доставка",
     "image": "data/images/433.jpg",
@@ -381,29 +402,6 @@
     "slugs": [
       "servis",
       "biznes"
-    ],
-    "awards": []
-  },
-  {
-    "id": 302,
-    "title": "Периодическая система химических элементов Д. И. Менделеева",
-    "image": "data/images/302.jpg",
-    "tags": [
-      "образование",
-      "сервис",
-      "наука",
-      "artlebedev"
-    ],
-    "url": "https://periodic.artlebedev.ru/",
-    "date": 1537178413,
-    "edit_date": 1583185436,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "servis",
-      "nauka",
-      "artlebedev"
     ],
     "awards": []
   }

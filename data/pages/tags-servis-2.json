@@ -1,5 +1,24 @@
 [
   {
+    "id": 604,
+    "title": "ESH Print",
+    "image": "data/images/604.jpg",
+    "tags": [
+      "сервис",
+      "eshgruppa"
+    ],
+    "url": "https://www.eshprint.com/",
+    "date": 1571133674,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "eshgruppa"
+    ],
+    "awards": []
+  },
+  {
     "id": 595,
     "title": "Державні послуги онлайн",
     "image": "data/images/595.jpg",
@@ -372,27 +391,6 @@
       "dannie",
       "servis",
       "urbica"
-    ],
-    "awards": []
-  },
-  {
-    "id": 439,
-    "title": "",
-    "image": "data/images/439.jpg",
-    "tags": [
-      "финансы",
-      "сервис",
-      "shuka"
-    ],
-    "url": "https://mercuryo.io/index_ru.html",
-    "date": 1550224824,
-    "edit_date": 1583185362,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "finansi",
-      "servis",
-      "shuka"
     ],
     "awards": []
   }

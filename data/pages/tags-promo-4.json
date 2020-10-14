@@ -1,5 +1,24 @@
 [
   {
+    "id": 421,
+    "title": "Яндекс.Авто",
+    "image": "data/images/421.jpg",
+    "tags": [
+      "промо",
+      "readymag"
+    ],
+    "url": "https://readymag.com/yandexgeoteam/1229224/",
+    "date": 1548410417,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 414,
     "title": "Lure",
     "image": "data/images/414.jpg",
@@ -387,29 +406,6 @@
     "slugs": [
       "promo",
       "proizvodstvo"
-    ],
-    "awards": []
-  },
-  {
-    "id": 304,
-    "title": "Бедные люди. Кабаковы",
-    "image": "data/images/304.jpg",
-    "tags": [
-      "кино",
-      "память",
-      "гараж",
-      "промо"
-    ],
-    "url": "https://kabakovs.garagemca.org/ru/",
-    "date": 1537351224,
-    "edit_date": 1583185436,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "kino",
-      "pamyat",
-      "garazh",
-      "promo"
     ],
     "awards": []
   }
