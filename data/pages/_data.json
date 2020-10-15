@@ -10123,5 +10123,21 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "784": {
+    "id": 784,
+    "title": "Медиазона Беларусь",
+    "caption": "Медиазона Беларусь\nhttps://mediazona.by/\n\n#новости #сми",
+    "image": "784.jpg",
+    "tags": [
+      "новости",
+      "сми"
+    ],
+    "url": "https://mediazona.by/",
+    "date": 1602756008,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
