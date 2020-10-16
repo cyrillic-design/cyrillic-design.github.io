@@ -1,0 +1,27 @@
+[
+  {
+    "id": 785,
+    "title": "егэ-хаус",
+    "caption": "егэ-хаус\nhttp://egehouse.webium.ru/\n\n#мероприятие #образование #tilda #камчатка\nСпасибо за ссылку @kirilltarelkin",
+    "image": "data/images/785.jpg",
+    "tags": [
+      "мероприятие",
+      "образование",
+      "tilda",
+      "камчатка"
+    ],
+    "url": "http://egehouse.webium.ru/",
+    "date": 1602842406,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "obrazovanie",
+      "tilda",
+      "kamchatka"
+    ],
+    "awards": []
+  }
+]

@@ -1,5 +1,28 @@
 [
   {
+    "id": 109,
+    "title": "Пастырь",
+    "image": "data/images/109.jpg",
+    "tags": [
+      "сообщество",
+      "медиа",
+      "образование",
+      "культура"
+    ],
+    "url": "http://priest.today/",
+    "date": 1520589607,
+    "edit_date": 1583185563,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "soobshchestvo",
+      "media",
+      "obrazovanie",
+      "kultura"
+    ],
+    "awards": []
+  },
+  {
     "id": 107,
     "title": "Cтудии Евгения Ярового",
     "image": "data/images/107.jpg",
@@ -405,31 +428,6 @@
       "dostavka",
       "yeda",
       "breadhead"
-    ],
-    "awards": []
-  },
-  {
-    "id": 80,
-    "title": "Памяти Юрия Верменича",
-    "image": "data/images/80.jpg",
-    "tags": [
-      "культура",
-      "спецпроект",
-      "музыка",
-      "память",
-      "coda"
-    ],
-    "url": "http://vermenich.jazzprovince.ru/",
-    "date": 1518775229,
-    "edit_date": 1583185563,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "kultura",
-      "spetsproekt",
-      "muzika",
-      "pamyat",
-      "coda"
     ],
     "awards": []
   }
