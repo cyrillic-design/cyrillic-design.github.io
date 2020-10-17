@@ -1,5 +1,28 @@
 [
   {
+    "id": 786,
+    "title": "Antyfest",
+    "caption": "Antyfest\nhttps://antyfest.ru/\n\n#благотворительность #музыка #voskhoddigital",
+    "image": "data/images/786.jpg",
+    "tags": [
+      "благотворительность",
+      "музыка",
+      "voskhoddigital"
+    ],
+    "url": "https://antyfest.ru/",
+    "date": 1602928811,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "blagotvoritelnost",
+      "muzika",
+      "voskhoddigital"
+    ],
+    "awards": []
+  },
+  {
     "id": 630,
     "title": "Слава Самодуров",
     "image": "data/images/630.jpg",

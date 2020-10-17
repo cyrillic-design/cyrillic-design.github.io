@@ -10157,5 +10157,22 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "786": {
+    "id": 786,
+    "title": "Antyfest",
+    "caption": "Antyfest\nhttps://antyfest.ru/\n\n#благотворительность #музыка #voskhoddigital",
+    "image": "786.jpg",
+    "tags": [
+      "благотворительность",
+      "музыка",
+      "voskhoddigital"
+    ],
+    "url": "https://antyfest.ru/",
+    "date": 1602928811,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
