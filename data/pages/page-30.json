@@ -1,5 +1,22 @@
 [
   {
+    "id": 172,
+    "title": "re:Store",
+    "image": "data/images/172.jpg",
+    "tags": [
+      "магазин"
+    ],
+    "url": "https://www.re-store.ru/",
+    "date": 1526119218,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin"
+    ],
+    "awards": []
+  },
+  {
     "id": 171,
     "title": "Legacy",
     "image": "data/images/171.jpg",
@@ -395,27 +412,6 @@
       "spetsproekt",
       "kultura",
       "google"
-    ],
-    "awards": []
-  },
-  {
-    "id": 152,
-    "title": "VI международный форум по е-коммерции",
-    "image": "data/images/152.jpg",
-    "tags": [
-      "мероприятие",
-      "промо",
-      "букинг"
-    ],
-    "url": "https://ecom21.com/ru",
-    "date": 1524218414,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "meropriyatie",
-      "promo",
-      "buking"
     ],
     "awards": []
   }

@@ -1,5 +1,24 @@
 [
   {
+    "id": 306,
+    "title": "Райт",
+    "image": "data/images/306.jpg",
+    "tags": [
+      "студия",
+      "портфолио"
+    ],
+    "url": "https://right.by/",
+    "date": 1537524019,
+    "edit_date": 1583185436,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "studiya",
+      "portfolio"
+    ],
+    "awards": []
+  },
+  {
     "id": 298,
     "title": "SETTERS",
     "image": "data/images/298.jpg",
@@ -361,27 +380,6 @@
     "slugs": [
       "portfolio",
       "dizain"
-    ],
-    "awards": []
-  },
-  {
-    "id": 188,
-    "title": "Дизайн-студия 23",
-    "image": "data/images/188.jpg",
-    "tags": [
-      "студия",
-      "дизайн",
-      "портфолио"
-    ],
-    "url": "http://the23.design/",
-    "date": 1527501610,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "studiya",
-      "dizain",
-      "portfolio"
     ],
     "awards": []
   }
