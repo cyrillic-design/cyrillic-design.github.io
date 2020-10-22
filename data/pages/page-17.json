@@ -1,5 +1,24 @@
 [
   {
+    "id": 442,
+    "title": "Музей истории ГУЛАГа",
+    "image": "data/images/442.jpg",
+    "tags": [
+      "музей",
+      "laska"
+    ],
+    "url": "https://gmig.ru/",
+    "date": 1550484021,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "muzei",
+      "laska"
+    ],
+    "awards": []
+  },
+  {
     "id": 441,
     "title": "Яндекс.Практикум",
     "caption": "Яндекс.Практикум\nhttps://praktikum.yandex.ru/\n\n#образование #сервис #шад #яндекс",
@@ -379,27 +398,6 @@
       "uslugi",
       "provaider",
       "apusagency"
-    ],
-    "awards": []
-  },
-  {
-    "id": 422,
-    "title": "ВкусВилл",
-    "image": "data/images/422.jpg",
-    "tags": [
-      "сервис",
-      "магазин",
-      "max"
-    ],
-    "url": "https://new.vkusvill.ru",
-    "date": 1548496819,
-    "edit_date": 1583185362,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "magazin",
-      "max"
     ],
     "awards": []
   }

@@ -1,5 +1,28 @@
 [
   {
+    "id": 788,
+    "title": "Современник",
+    "caption": "Современник\nhttps://new.sovremennik.ru/\n\n#культура #театр #eshgruppa",
+    "image": "data/images/788.jpg",
+    "tags": [
+      "культура",
+      "театр",
+      "eshgruppa"
+    ],
+    "url": "https://new.sovremennik.ru/",
+    "date": 1603375138,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "kultura",
+      "teatr",
+      "eshgruppa"
+    ],
+    "awards": []
+  },
+  {
     "id": 435,
     "title": "Гоголь-Центр",
     "caption": "Гоголь-Центр\nhttps://gogolcenter.com/\n\n#мероприятие #афиша #театр",
