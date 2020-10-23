@@ -136,8 +136,8 @@
     ],
     "url": "https://box.localkitchen.ru/",
     "date": 1589450415,
-    "edit_date": 1591105007,
-    "isMonth": true,
+    "edit_date": 1603460416,
+    "isMonth": false,
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false,
@@ -147,9 +147,7 @@
       "promo",
       "kukhnyanaraione"
     ],
-    "awards": [
-      "month"
-    ]
+    "awards": []
   },
   {
     "id": 720,
