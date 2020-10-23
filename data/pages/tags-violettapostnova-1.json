@@ -10,8 +10,8 @@
     ],
     "url": "https://typical.company/",
     "date": 1585648846,
-    "edit_date": 1585663335,
-    "isMonth": true,
+    "edit_date": 1603460375,
+    "isMonth": false,
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false,
@@ -19,8 +19,6 @@
       "promo",
       "violettapostnova"
     ],
-    "awards": [
-      "month"
-    ]
+    "awards": []
   }
 ]
