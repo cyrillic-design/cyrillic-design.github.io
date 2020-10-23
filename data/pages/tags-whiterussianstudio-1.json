@@ -129,8 +129,8 @@
     ],
     "url": "http://www.shot-tv.com/",
     "date": 1581510151,
-    "edit_date": 1584374369,
-    "isMonth": true,
+    "edit_date": 1603460342,
+    "isMonth": false,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
@@ -138,9 +138,7 @@
       "promo",
       "whiterussianstudio"
     ],
-    "awards": [
-      "month"
-    ]
+    "awards": []
   },
   {
     "id": 627,
