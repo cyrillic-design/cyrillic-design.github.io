@@ -175,8 +175,8 @@
     ],
     "url": "https://obdn.ru/",
     "date": 1584180023,
-    "edit_date": 1585663335,
-    "isMonth": true,
+    "edit_date": 1603460363,
+    "isMonth": false,
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false,
@@ -186,9 +186,7 @@
       "iskusstvo",
       "redo"
     ],
-    "awards": [
-      "month"
-    ]
+    "awards": []
   },
   {
     "id": 614,
