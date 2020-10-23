@@ -1,5 +1,27 @@
 [
   {
+    "id": 675,
+    "title": "Театральная школа Karavaev Lab",
+    "caption": "Театральная школа Karavaev Lab\nhttps://karavaev-lab.ru/\n\n☆ #образование #мероприятие #tilda",
+    "image": "data/images/675.jpg",
+    "tags": [
+      "образование",
+      "мероприятие",
+      "tilda"
+    ],
+    "url": "https://karavaev-lab.ru/",
+    "date": 1583316024,
+    "edit_date": 1583524339,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "meropriyatie",
+      "tilda"
+    ],
+    "awards": []
+  },
+  {
     "id": 650,
     "title": "Лекторий Skillbox",
     "image": "data/images/650.jpg",
@@ -368,27 +390,6 @@
     "isRemoved": false,
     "slugs": [
       "obrazovanie"
-    ],
-    "awards": []
-  },
-  {
-    "id": 355,
-    "title": "Bauhaus Imaginista",
-    "image": "data/images/355.jpg",
-    "tags": [
-      "образование",
-      "garage",
-      "readymag"
-    ],
-    "url": "https://bauhaus-imaginista.garagemca.org",
-    "date": 1542276018,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "garage",
-      "readymag"
     ],
     "awards": []
   }

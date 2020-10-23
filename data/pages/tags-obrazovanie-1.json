@@ -1,5 +1,32 @@
 [
   {
+    "id": 789,
+    "title": "Как поёт искусственный интеллект",
+    "caption": "Как поёт искусственный интеллект\nhttps://readymag.com/marykobanenko/musicai/\n\n#спецпроект #музыка #образование #readymag #машакобаненко\nСпасибо за ссылку @marykobanenko",
+    "image": "data/images/789.jpg",
+    "tags": [
+      "спецпроект",
+      "музыка",
+      "образование",
+      "readymag",
+      "машакобаненко"
+    ],
+    "url": "https://readymag.com/marykobanenko/musicai/",
+    "date": 1603455413,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "muzika",
+      "obrazovanie",
+      "readymag",
+      "mashakobanenko"
+    ],
+    "awards": []
+  },
+  {
     "id": 785,
     "title": "егэ-хаус",
     "caption": "егэ-хаус\nhttp://egehouse.webium.ru/\n\n#мероприятие #образование #tilda #камчатка\nСпасибо за ссылку @kirilltarelkin",
@@ -456,28 +483,6 @@
       "obrazovanie",
       "meropriyatie",
       "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 675,
-    "title": "Театральная школа Karavaev Lab",
-    "caption": "Театральная школа Karavaev Lab\nhttps://karavaev-lab.ru/\n\n☆ #образование #мероприятие #tilda",
-    "image": "data/images/675.jpg",
-    "tags": [
-      "образование",
-      "мероприятие",
-      "tilda"
-    ],
-    "url": "https://karavaev-lab.ru/",
-    "date": 1583316024,
-    "edit_date": 1583524339,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "meropriyatie",
-      "tilda"
     ],
     "awards": []
   }

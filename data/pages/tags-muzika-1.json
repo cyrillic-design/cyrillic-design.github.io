@@ -1,5 +1,32 @@
 [
   {
+    "id": 789,
+    "title": "Как поёт искусственный интеллект",
+    "caption": "Как поёт искусственный интеллект\nhttps://readymag.com/marykobanenko/musicai/\n\n#спецпроект #музыка #образование #readymag #машакобаненко\nСпасибо за ссылку @marykobanenko",
+    "image": "data/images/789.jpg",
+    "tags": [
+      "спецпроект",
+      "музыка",
+      "образование",
+      "readymag",
+      "машакобаненко"
+    ],
+    "url": "https://readymag.com/marykobanenko/musicai/",
+    "date": 1603455413,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "muzika",
+      "obrazovanie",
+      "readymag",
+      "mashakobanenko"
+    ],
+    "awards": []
+  },
+  {
     "id": 786,
     "title": "Antyfest",
     "caption": "Antyfest\nhttps://antyfest.ru/\n\n#благотворительность #музыка #voskhoddigital",
@@ -395,27 +422,6 @@
     "slugs": [
       "meropriyatie",
       "festival",
-      "muzika"
-    ],
-    "awards": []
-  },
-  {
-    "id": 268,
-    "title": "Схема",
-    "image": "data/images/268.jpg",
-    "tags": [
-      "спецпроект",
-      "история",
-      "музыка"
-    ],
-    "url": "http://cxema.tight.media/",
-    "date": 1534327220,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "istoriya",
       "muzika"
     ],
     "awards": []

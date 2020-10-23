@@ -1,5 +1,26 @@
 [
   {
+    "id": 268,
+    "title": "Схема",
+    "image": "data/images/268.jpg",
+    "tags": [
+      "спецпроект",
+      "история",
+      "музыка"
+    ],
+    "url": "http://cxema.tight.media/",
+    "date": 1534327220,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "istoriya",
+      "muzika"
+    ],
+    "awards": []
+  },
+  {
     "id": 215,
     "title": "Виктор Цой",
     "image": "data/images/215.jpg",
