@@ -1,5 +1,29 @@
 [
   {
+    "id": 770,
+    "title": "EPICA",
+    "caption": "EPICA\nhttps://epica.ru/\n\n#промо #еда #dadacreative\nСпасибо за ссылку @stasplkv",
+    "image": "data/images/770.jpg",
+    "tags": [
+      "промо",
+      "еда",
+      "dadacreative"
+    ],
+    "url": "https://epica.ru/",
+    "date": 1600249630,
+    "edit_date": 1600903684,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "yeda",
+      "dadacreative"
+    ],
+    "awards": []
+  },
+  {
     "id": 769,
     "title": "Черноморка",
     "caption": "Черноморка\nhttps://chernomorka.online/\n\n#производство #еда #доставка #vintage\nСпасибо за ссылку @AndyAbramov",
@@ -450,27 +474,6 @@
     "slugs": [
       "portfolio",
       "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 750,
-    "title": "Unit",
-    "caption": "Unit\nhttps://unit-studio.ru/\n\n#производство #wemakefab",
-    "image": "data/images/750.jpg",
-    "tags": [
-      "производство",
-      "wemakefab"
-    ],
-    "url": "https://unit-studio.ru/",
-    "date": 1595412031,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "proizvodstvo",
-      "wemakefab"
     ],
     "awards": []
   }
