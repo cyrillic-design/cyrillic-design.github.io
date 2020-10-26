@@ -1,5 +1,28 @@
 [
   {
+    "id": 791,
+    "title": "Fintech Design Conf",
+    "caption": "Fintech Design Conf\nhttps://fintechdesign.ru/\n\n#мероприятие #финансы #банк",
+    "image": "data/images/791.jpg",
+    "tags": [
+      "мероприятие",
+      "финансы",
+      "банк"
+    ],
+    "url": "https://fintechdesign.ru/",
+    "date": 1603726459,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "finansi",
+      "bank"
+    ],
+    "awards": []
+  },
+  {
     "id": 782,
     "title": "Рокет Ворк",
     "caption": "Рокет Ворк\nhttps://promo.rocketwork.ru/\n\n#промо #банк #финансы #readymag",
@@ -432,27 +455,6 @@
       "bank",
       "finansi",
       "alfabank"
-    ],
-    "awards": []
-  },
-  {
-    "id": 275,
-    "title": "Первоапрельский Рокетшоп",
-    "image": "data/images/275.jpg",
-    "tags": [
-      "банк",
-      "финансы",
-      "магазин"
-    ],
-    "url": "https://shop.rocketbank.ru/old/",
-    "date": 1534845612,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "bank",
-      "finansi",
-      "magazin"
     ],
     "awards": []
   }

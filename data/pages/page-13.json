@@ -1,5 +1,22 @@
 [
   {
+    "id": 536,
+    "title": "Школа дизайна НИУ ВШЭ",
+    "image": "data/images/536.jpg",
+    "tags": [
+      "образование"
+    ],
+    "url": "https://design.hse.ru/",
+    "date": 1561024839,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie"
+    ],
+    "awards": []
+  },
+  {
     "id": 535,
     "title": "Эко Окна",
     "image": "data/images/535.jpg",
@@ -363,29 +380,6 @@
       "proizvodstvo",
       "kholding",
       "meik"
-    ],
-    "awards": []
-  },
-  {
-    "id": 514,
-    "title": "Letapis by",
-    "image": "data/images/514.jpg",
-    "tags": [
-      "культура",
-      "спецпроект",
-      "беларусь",
-      "алексейчеренкевич"
-    ],
-    "url": "http://letapis.by/",
-    "date": 1558605608,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "kultura",
-      "spetsproekt",
-      "belarus",
-      "alekseicherenkevich"
     ],
     "awards": []
   }

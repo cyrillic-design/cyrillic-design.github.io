@@ -10242,5 +10242,22 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "791": {
+    "id": 791,
+    "title": "Fintech Design Conf",
+    "caption": "Fintech Design Conf\nhttps://fintechdesign.ru/\n\n#мероприятие #финансы #банк",
+    "image": "791.jpg",
+    "tags": [
+      "мероприятие",
+      "финансы",
+      "банк"
+    ],
+    "url": "https://fintechdesign.ru/",
+    "date": 1603726459,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
