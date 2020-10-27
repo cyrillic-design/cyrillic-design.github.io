@@ -1,5 +1,24 @@
 [
   {
+    "id": 299,
+    "title": "Хлебозавод №9",
+    "image": "data/images/299.jpg",
+    "tags": [
+      "промо",
+      "whiterussianstudio"
+    ],
+    "url": "http://hlebozavod9.ru/",
+    "date": 1536919205,
+    "edit_date": 1583185435,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "whiterussianstudio"
+    ],
+    "awards": []
+  },
+  {
     "id": 298,
     "title": "SETTERS",
     "image": "data/images/298.jpg",
@@ -386,27 +405,6 @@
     "slugs": [
       "studiya",
       "portfolio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 279,
-    "title": "SIASPACE",
-    "image": "data/images/279.jpg",
-    "tags": [
-      "магазин",
-      "мода",
-      "facility"
-    ],
-    "url": "https://siaspace.com/",
-    "date": 1535191203,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "moda",
-      "facility"
     ],
     "awards": []
   }

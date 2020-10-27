@@ -1,5 +1,25 @@
 [
   {
+    "id": 665,
+    "title": "Кузнецов, Марисин и партнёры",
+    "caption": "Кузнецов, Марисин и партнёры\nhttps://kmplaw.ru/\n\n☆ #корпоративныйсайт #whiterussianstudio",
+    "image": "data/images/665.jpg",
+    "tags": [
+      "корпоративныйсайт",
+      "whiterussianstudio"
+    ],
+    "url": "https://kmplaw.ru/",
+    "date": 1582192814,
+    "edit_date": 1583247372,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "korporativniisait",
+      "whiterussianstudio"
+    ],
+    "awards": []
+  },
+  {
     "id": 664,
     "title": "Дизайн-квартал Флакон",
     "image": "data/images/664.jpg",
@@ -393,23 +413,6 @@
       "promo",
       "nedvizhimost",
       "art3d"
-    ],
-    "awards": []
-  },
-  {
-    "id": 644,
-    "title": "Ілля Кульбачний",
-    "image": "data/images/644.jpg",
-    "tags": [
-      "портфолио"
-    ],
-    "url": "https://kulbachny.com/uk/",
-    "date": 1577181630,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio"
     ],
     "awards": []
   }
