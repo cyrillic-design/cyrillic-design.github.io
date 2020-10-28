@@ -1,5 +1,24 @@
 [
   {
+    "id": 280,
+    "title": "HA",
+    "image": "data/images/280.jpg",
+    "tags": [
+      "студия",
+      "портфолио"
+    ],
+    "url": "https://hainteractive.ru/",
+    "date": 1535277605,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "studiya",
+      "portfolio"
+    ],
+    "awards": []
+  },
+  {
     "id": 279,
     "title": "SIASPACE",
     "image": "data/images/279.jpg",
@@ -378,25 +397,6 @@
       "proizvodstvo",
       "moda",
       "xdesign"
-    ],
-    "awards": []
-  },
-  {
-    "id": 259,
-    "title": "Та самая Неер",
-    "image": "data/images/259.jpg",
-    "tags": [
-      "спецпроект",
-      "батенькадавытрансформер"
-    ],
-    "url": "http://neer.batenka.ru/",
-    "date": 1533549610,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "batenkadavitransformer"
     ],
     "awards": []
   }

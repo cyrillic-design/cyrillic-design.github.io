@@ -1,5 +1,22 @@
 [
   {
+    "id": 616,
+    "title": "SkyUp Airlines",
+    "image": "data/images/616.jpg",
+    "tags": [
+      "сервис"
+    ],
+    "url": "https://skyup.aero/uk/",
+    "date": 1572170448,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis"
+    ],
+    "awards": []
+  },
+  {
     "id": 604,
     "title": "ESH Print",
     "image": "data/images/604.jpg",
@@ -370,27 +387,6 @@
       "servis",
       "shad",
       "yandeks"
-    ],
-    "awards": []
-  },
-  {
-    "id": 440,
-    "title": "Карта плотности населения Москвы",
-    "image": "data/images/440.jpg",
-    "tags": [
-      "данные",
-      "сервис",
-      "urbica"
-    ],
-    "url": "https://agglomerations.org",
-    "date": 1550311217,
-    "edit_date": 1583185362,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "dannie",
-      "servis",
-      "urbica"
     ],
     "awards": []
   }
