@@ -1,5 +1,28 @@
 [
   {
+    "id": 794,
+    "title": "Голубой Вагон",
+    "caption": "Голубой Вагон\nhttps://diletant.media/spec/goluboivagon\n\n#спецпроект #история #дилетант\nСпасибо за ссылку @alexgolyanov",
+    "image": "data/images/794.jpg",
+    "tags": [
+      "спецпроект",
+      "история",
+      "дилетант"
+    ],
+    "url": "https://diletant.media/spec/goluboivagon",
+    "date": 1603965611,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "istoriya",
+      "diletant"
+    ],
+    "awards": []
+  },
+  {
     "id": 755,
     "title": "Территория Авангарда",
     "caption": "Территория Авангарда\nhttps://avantgarde-territory.com/\n\n#спецпроект #мероприятие #искусство #история #readymag",

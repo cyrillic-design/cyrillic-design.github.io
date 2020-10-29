@@ -1,5 +1,28 @@
 [
   {
+    "id": 794,
+    "title": "Голубой Вагон",
+    "caption": "Голубой Вагон\nhttps://diletant.media/spec/goluboivagon\n\n#спецпроект #история #дилетант\nСпасибо за ссылку @alexgolyanov",
+    "image": "data/images/794.jpg",
+    "tags": [
+      "спецпроект",
+      "история",
+      "дилетант"
+    ],
+    "url": "https://diletant.media/spec/goluboivagon",
+    "date": 1603965611,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "istoriya",
+      "diletant"
+    ],
+    "awards": []
+  },
+  {
     "id": 792,
     "title": "Поэзия Всеволода Некрасова",
     "caption": "Поэзия Всеволода Некрасова\nhttps://readymag.com/lilyakhmetova/poetry/\n\n#спецпроект #readymag #лиляахметова\nСпасибо за ссылку @lilaramilevna",
@@ -465,29 +488,6 @@
       "zdorove",
       "readymag",
       "rasadesignteam"
-    ],
-    "awards": []
-  },
-  {
-    "id": 707,
-    "title": "EG 2020",
-    "caption": "EG 2020\nhttps://eg2020.ru/\n\n#спецпроект #телекоммуникации #люди\nСпасибо за ссылку @AndyAbramov",
-    "image": "data/images/707.jpg",
-    "tags": [
-      "спецпроект",
-      "телекоммуникации",
-      "люди"
-    ],
-    "url": "https://eg2020.ru/",
-    "date": 1586512826,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "telekommunikatsii",
-      "lyudi"
     ],
     "awards": []
   }

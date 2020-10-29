@@ -1,5 +1,28 @@
 [
   {
+    "id": 667,
+    "title": "Книги у моря — Петербургский книжный фестиваль",
+    "caption": "Книги у моря — Петербургский книжный фестиваль\nhttp://booksandsea.ru/\n\n☆ #мероприятие #readymag #aidapacheva",
+    "image": "data/images/667.jpg",
+    "tags": [
+      "мероприятие",
+      "readymag",
+      "aidapacheva"
+    ],
+    "url": "http://booksandsea.ru/",
+    "date": 1582642963,
+    "edit_date": 1584344503,
+    "isMonth": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "readymag",
+      "aidapacheva"
+    ],
+    "awards": []
+  },
+  {
     "id": 666,
     "title": "Redo Bureau",
     "caption": "Redo Bureau\nhttps://redobureau.com/ru\n\n☆ #портфолио",
@@ -394,23 +417,6 @@
       "bank",
       "promo",
       "roketbank"
-    ],
-    "awards": []
-  },
-  {
-    "id": 646,
-    "title": "Ценципер",
-    "image": "data/images/646.jpg",
-    "tags": [
-      "портфолио"
-    ],
-    "url": "https://tsentsiper.com/",
-    "date": 1577354411,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio"
     ],
     "awards": []
   }
