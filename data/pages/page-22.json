@@ -1,5 +1,22 @@
 [
   {
+    "id": 342,
+    "title": "Открытые 18+",
+    "image": "data/images/342.jpg",
+    "tags": [
+      "журнал"
+    ],
+    "url": "https://o-zine.ru/",
+    "date": 1541152804,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal"
+    ],
+    "awards": []
+  },
+  {
     "id": 341,
     "title": "Блог OneSoil",
     "image": "data/images/341.jpg",
@@ -387,25 +404,6 @@
       "update",
       "obrazovanie",
       "cherepukhin"
-    ],
-    "awards": []
-  },
-  {
-    "id": 322,
-    "title": "OneSoil",
-    "image": "data/images/322.jpg",
-    "tags": [
-      "сервис",
-      "rightby"
-    ],
-    "url": "https://onesoil.ai/ru/",
-    "date": 1539079229,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "rightby"
     ],
     "awards": []
   }

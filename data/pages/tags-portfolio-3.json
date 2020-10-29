@@ -1,5 +1,22 @@
 [
   {
+    "id": 486,
+    "title": "GLYF",
+    "image": "data/images/486.jpg",
+    "tags": [
+      "портфолио"
+    ],
+    "url": "https://glyf.ru/",
+    "date": 1554026422,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio"
+    ],
+    "awards": []
+  },
+  {
     "id": 483,
     "title": "Perushev & Khmelev",
     "image": "data/images/483.jpg",
@@ -352,23 +369,6 @@
     ],
     "url": "https://ru.narvin.co",
     "date": 1542448821,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 339,
-    "title": "Майк Юхтенко",
-    "image": "data/images/339.jpg",
-    "tags": [
-      "портфолио"
-    ],
-    "url": "http://maicle.ru/",
-    "date": 1540893615,
     "edit_date": 1583185395,
     "isHighlighted": false,
     "isRemoved": false,

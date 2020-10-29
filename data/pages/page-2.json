@@ -1,5 +1,24 @@
 [
   {
+    "id": 775,
+    "title": "Полина Соколова",
+    "caption": "Полина Соколова\nhttps://www.makesome.design/ru/\n\n#портфолио\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/775.jpg",
+    "tags": [
+      "портфолио"
+    ],
+    "url": "https://www.makesome.design/ru/",
+    "date": 1600682850,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio"
+    ],
+    "awards": []
+  },
+  {
     "id": 774,
     "title": "aic.union©",
     "caption": "aic.union©\nhttps://aic.partners/\n\n#промо #readymag #aic\nСпасибо за ссылку @lemur_lucky",
@@ -448,34 +467,6 @@
       "zhurnal",
       "flacon",
       "whiterussianstudio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 755,
-    "title": "Территория Авангарда",
-    "caption": "Территория Авангарда\nhttps://avantgarde-territory.com/\n\n#спецпроект #мероприятие #искусство #история #readymag",
-    "image": "data/images/755.jpg",
-    "tags": [
-      "спецпроект",
-      "мероприятие",
-      "искусство",
-      "история",
-      "readymag"
-    ],
-    "url": "https://avantgarde-territory.com/",
-    "date": 1595844010,
-    "edit_date": 1595892981,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "meropriyatie",
-      "iskusstvo",
-      "istoriya",
-      "readymag"
     ],
     "awards": []
   }

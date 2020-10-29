@@ -1,5 +1,22 @@
 [
   {
+    "id": 625,
+    "title": "L&L",
+    "image": "data/images/625.jpg",
+    "tags": [
+      "портфолио"
+    ],
+    "url": "https://lagutalaguta.com/ru",
+    "date": 1573812025,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio"
+    ],
+    "awards": []
+  },
+  {
     "id": 617,
     "title": "NETTO",
     "image": "data/images/617.jpg",
@@ -345,23 +362,6 @@
     ],
     "url": "https://urbica.co/ru/",
     "date": 1554890443,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 486,
-    "title": "GLYF",
-    "image": "data/images/486.jpg",
-    "tags": [
-      "портфолио"
-    ],
-    "url": "https://glyf.ru/",
-    "date": 1554026422,
     "edit_date": 1583185363,
     "isHighlighted": false,
     "isRemoved": false,

@@ -1,5 +1,22 @@
 [
   {
+    "id": 409,
+    "title": "Evrone",
+    "image": "data/images/409.jpg",
+    "tags": [
+      "портфолио"
+    ],
+    "url": "https://evrone.ru/",
+    "date": 1547373613,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio"
+    ],
+    "awards": []
+  },
+  {
     "id": 408,
     "title": "Краткая история дизайна",
     "image": "data/images/408.jpg",
@@ -381,23 +398,6 @@
       "izdanie",
       "spetsproekt",
       "vono"
-    ],
-    "awards": []
-  },
-  {
-    "id": 388,
-    "title": "InLiberty",
-    "image": "data/images/388.jpg",
-    "tags": [
-      "образование"
-    ],
-    "url": "https://www.inliberty.ru/",
-    "date": 1544781605,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie"
     ],
     "awards": []
   }
