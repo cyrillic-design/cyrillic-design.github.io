@@ -10325,5 +10325,23 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "798": {
+    "id": 798,
+    "title": "Тотальный Хэллоуин!",
+    "caption": "Тотальный Хэллоуин!\nhttps://totalhalloween.localkitchen.ru/\n\n#промо #доставка #readymag #кухнянарайоне\nСпасибо за ссылку @ivanedorn",
+    "image": "798.jpg",
+    "tags": [
+      "промо",
+      "доставка",
+      "readymag",
+      "кухнянарайоне"
+    ],
+    "url": "https://totalhalloween.localkitchen.ru/",
+    "date": 1604047260,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

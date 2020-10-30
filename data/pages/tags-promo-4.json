@@ -1,5 +1,26 @@
 [
   {
+    "id": 425,
+    "title": "Элитные квартиры на Петровском острове",
+    "image": "data/images/425.jpg",
+    "tags": [
+      "недвижимость",
+      "промо",
+      "kelnik"
+    ],
+    "url": "https://neva-haus.ru/",
+    "date": 1548756016,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "nedvizhimost",
+      "promo",
+      "kelnik"
+    ],
+    "awards": []
+  },
+  {
     "id": 421,
     "title": "Яндекс.Авто",
     "image": "data/images/421.jpg",
@@ -387,25 +408,6 @@
       "iskusstvo",
       "lentaru",
       "tretyakovskayagalereya"
-    ],
-    "awards": []
-  },
-  {
-    "id": 307,
-    "title": "TEXX",
-    "image": "data/images/307.jpg",
-    "tags": [
-      "промо",
-      "производство"
-    ],
-    "url": "http://msk-gps.ru/",
-    "date": 1537610451,
-    "edit_date": 1583185436,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "proizvodstvo"
     ],
     "awards": []
   }
