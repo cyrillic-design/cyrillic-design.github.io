@@ -10343,5 +10343,20 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "799": {
+    "id": 799,
+    "title": "Студия Олега Чулакова",
+    "caption": "Студия Олега Чулакова\nhttps://chulakov.ru/\n\n#портфолио",
+    "image": "799.jpg",
+    "tags": [
+      "портфолио"
+    ],
+    "url": "https://chulakov.ru/",
+    "date": 1604066405,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

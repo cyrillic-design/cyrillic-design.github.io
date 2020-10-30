@@ -1,5 +1,35 @@
 [
   {
+    "id": 696,
+    "title": "Гараж — Самоизоляция",
+    "caption": "Гараж — Самоизоляция\nhttps://self-isolation.garagemca.org/\n\n#спецпроект #образование #каталог #искусство #лучшедома #readymag\nСпасибо за ссылку @readymag_official",
+    "image": "data/images/696.jpg",
+    "tags": [
+      "спецпроект",
+      "образование",
+      "каталог",
+      "искусство",
+      "лучшедома",
+      "readymag"
+    ],
+    "url": "https://self-isolation.garagemca.org/",
+    "date": 1585724442,
+    "edit_date": 1585832256,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "obrazovanie",
+      "katalog",
+      "iskusstvo",
+      "luchshedoma",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 695,
     "title": "XXII CARAT",
     "caption": "XXII CARAT\nhttps://www.22carat.ae/ru/\n\n#промо #pixies",
@@ -441,26 +471,6 @@
       "obrazovanie",
       "meropriyatie",
       "tilda"
-    ],
-    "awards": []
-  },
-  {
-    "id": 672,
-    "title": "Street beat",
-    "caption": "Street beat\nhttps://street-beat.ru/\n\n☆ #магазин #доставка",
-    "image": "data/images/672.jpg",
-    "tags": [
-      "магазин",
-      "доставка"
-    ],
-    "url": "https://street-beat.ru/",
-    "date": 1583229627,
-    "edit_date": 1583610415,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "dostavka"
     ],
     "awards": []
   }

@@ -1,5 +1,22 @@
 [
   {
+    "id": 357,
+    "title": "Юрий Нарвин",
+    "image": "data/images/357.jpg",
+    "tags": [
+      "портфолио"
+    ],
+    "url": "https://ru.narvin.co",
+    "date": 1542448821,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio"
+    ],
+    "awards": []
+  },
+  {
     "id": 339,
     "title": "Майк Юхтенко",
     "image": "data/images/339.jpg",
@@ -359,25 +376,6 @@
     "slugs": [
       "portfolio",
       "dizain"
-    ],
-    "awards": []
-  },
-  {
-    "id": 209,
-    "title": "24ttl",
-    "image": "data/images/209.jpg",
-    "tags": [
-      "агентство",
-      "портфолио"
-    ],
-    "url": "https://24ttl.ru/",
-    "date": 1529229614,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "agentstvo",
-      "portfolio"
     ],
     "awards": []
   }

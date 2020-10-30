@@ -1,5 +1,25 @@
 [
   {
+    "id": 672,
+    "title": "Street beat",
+    "caption": "Street beat\nhttps://street-beat.ru/\n\n☆ #магазин #доставка",
+    "image": "data/images/672.jpg",
+    "tags": [
+      "магазин",
+      "доставка"
+    ],
+    "url": "https://street-beat.ru/",
+    "date": 1583229627,
+    "edit_date": 1583610415,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "dostavka"
+    ],
+    "awards": []
+  },
+  {
     "id": 671,
     "title": "Просто-Ремонт",
     "caption": "Просто-Ремонт\nhttps://prosto-remont.com/\n\n☆ #сервис",
@@ -394,25 +414,6 @@
     "slugs": [
       "obrazovanie",
       "meropriyatie"
-    ],
-    "awards": []
-  },
-  {
-    "id": 649,
-    "title": "bobber",
-    "image": "data/images/649.jpg",
-    "tags": [
-      "магазин",
-      "thepromotion"
-    ],
-    "url": "https://bobberbottle.com/",
-    "date": 1577613609,
-    "edit_date": 1583183700,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "thepromotion"
     ],
     "awards": []
   }
