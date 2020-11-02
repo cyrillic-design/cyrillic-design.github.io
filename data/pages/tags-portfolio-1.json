@@ -1,5 +1,24 @@
 [
   {
+    "id": 800,
+    "title": "Контент-бюро «Продано!»",
+    "caption": "Контент-бюро «Продано!»\nhttps://prodano.media/\n\n#портфолио",
+    "image": "data/images/800.jpg",
+    "tags": [
+      "портфолио"
+    ],
+    "url": "https://prodano.media/",
+    "date": 1604314824,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio"
+    ],
+    "awards": []
+  },
+  {
     "id": 799,
     "title": "Студия Олега Чулакова",
     "caption": "Студия Олега Чулакова\nhttps://chulakov.ru/\n\n#портфолио",
@@ -387,23 +406,6 @@
       "promo",
       "portfolio",
       "voskhoddigital"
-    ],
-    "awards": []
-  },
-  {
-    "id": 628,
-    "title": "Чипса",
-    "image": "data/images/628.jpg",
-    "tags": [
-      "портфолио"
-    ],
-    "url": "https://chipsa.ru/",
-    "date": 1574157606,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio"
     ],
     "awards": []
   }

@@ -1,5 +1,26 @@
 [
   {
+    "id": 497,
+    "title": "Коопирайтеры",
+    "image": "data/images/497.jpg",
+    "tags": [
+      "портфолио",
+      "readymag",
+      "sulliwan"
+    ],
+    "url": "https://coopywriters.ru",
+    "date": 1555149653,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "readymag",
+      "sulliwan"
+    ],
+    "awards": []
+  },
+  {
     "id": 493,
     "title": "Urbica",
     "image": "data/images/493.jpg",
@@ -355,25 +376,6 @@
     "slugs": [
       "studiya",
       "portfolio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 359,
-    "title": "Dropbox - Секретные операции",
-    "image": "data/images/359.jpg",
-    "tags": [
-      "портфолио",
-      "dropbox"
-    ],
-    "url": "https://www.dropbox.com/blackops",
-    "date": 1542708017,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio",
-      "dropbox"
     ],
     "awards": []
   }
