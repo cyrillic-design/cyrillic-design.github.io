@@ -10373,5 +10373,18 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "801": {
+    "id": 801,
+    "title": "Большое спасибо первым патронам за поддержку: Andy Abramov, Дамир Махмутов.",
+    "caption": "Большое спасибо первым патронам за поддержку: Andy Abramov, Дамир Махмутов.\nПоддержать проект можно тут: https://www.patreon.com/cyrillicdesign",
+    "image": "801.jpg",
+    "tags": [],
+    "url": "https://www.patreon.com/cyrillicdesign",
+    "date": 1604315959,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
