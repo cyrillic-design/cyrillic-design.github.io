@@ -1,26 +1,5 @@
 [
   {
-    "id": 265,
-    "title": "ШиШки",
-    "image": "data/images/265.jpg",
-    "tags": [
-      "промо",
-      "услуги",
-      "redcollar"
-    ],
-    "url": "https://shishkipark.ru/",
-    "date": 1534068006,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "uslugi",
-      "redcollar"
-    ],
-    "awards": []
-  },
-  {
     "id": 264,
     "title": "Spires",
     "image": "data/images/264.jpg",
@@ -396,6 +375,25 @@
     "slugs": [
       "zhurnal",
       "izdanie"
+    ],
+    "awards": []
+  },
+  {
+    "id": 245,
+    "title": "Geex Arts",
+    "image": "data/images/245.jpg",
+    "tags": [
+      "агентство",
+      "портфолио"
+    ],
+    "url": "https://geex-arts.com/",
+    "date": 1532340021,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "agentstvo",
+      "portfolio"
     ],
     "awards": []
   }
