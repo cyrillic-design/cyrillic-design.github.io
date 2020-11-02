@@ -1,5 +1,24 @@
 [
   {
+    "id": 631,
+    "title": "Staya",
+    "image": "data/images/631.jpg",
+    "tags": [
+      "промо",
+      "магазин"
+    ],
+    "url": "https://ru.staya.dog/",
+    "date": 1574676070,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "magazin"
+    ],
+    "awards": []
+  },
+  {
     "id": 630,
     "title": "Слава Самодуров",
     "image": "data/images/630.jpg",
@@ -380,29 +399,6 @@
     "slugs": [
       "zhurnal",
       "pure"
-    ],
-    "awards": []
-  },
-  {
-    "id": 611,
-    "title": "Символы оттепели",
-    "image": "data/images/611.jpg",
-    "tags": [
-      "спецпроект",
-      "readymag",
-      "garage",
-      "василийподрядчиков"
-    ],
-    "url": "https://moscow-modernism.garagemca.org",
-    "date": 1571738430,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "readymag",
-      "garage",
-      "vasiliipodryadchikov"
     ],
     "awards": []
   }

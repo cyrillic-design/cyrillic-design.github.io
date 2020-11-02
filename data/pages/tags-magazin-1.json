@@ -1,5 +1,28 @@
 [
   {
+    "id": 803,
+    "title": "safer — practice",
+    "caption": "safer — practice\nhttps://safer.zone/\n\n#магазин #доставка #tilda \nСпасибо за ссылку @AnnaTsybina",
+    "image": "data/images/803.jpg",
+    "tags": [
+      "магазин",
+      "доставка",
+      "tilda"
+    ],
+    "url": "https://safer.zone/",
+    "date": 1604320877,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "dostavka",
+      "tilda"
+    ],
+    "awards": []
+  },
+  {
     "id": 779,
     "title": "Spilne",
     "caption": "Spilne\nhttps://spilne.art/\n\n#магазин #искусство #tilda #avamyara",
@@ -392,25 +415,6 @@
       "magazin",
       "krasota",
       "moda"
-    ],
-    "awards": []
-  },
-  {
-    "id": 531,
-    "title": "SHU",
-    "image": "data/images/531.jpg",
-    "tags": [
-      "одежда",
-      "магазин"
-    ],
-    "url": "https://shuclothes.com/ru/",
-    "date": 1560420033,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "odezhda",
-      "magazin"
     ],
     "awards": []
   }

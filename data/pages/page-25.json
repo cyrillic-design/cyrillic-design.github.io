@@ -1,5 +1,24 @@
 [
   {
+    "id": 286,
+    "title": "Первое Студенческое Агентство",
+    "image": "data/images/286.jpg",
+    "tags": [
+      "новости",
+      "сми"
+    ],
+    "url": "https://pervoe.online/",
+    "date": 1535796007,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "novosti",
+      "smi"
+    ],
+    "awards": []
+  },
+  {
     "id": 285,
     "title": "Дизайн государственных систем России",
     "image": "data/images/285.jpg",
@@ -380,27 +399,6 @@
     "slugs": [
       "agentstvo",
       "portfolio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 265,
-    "title": "ШиШки",
-    "image": "data/images/265.jpg",
-    "tags": [
-      "промо",
-      "услуги",
-      "redcollar"
-    ],
-    "url": "https://shishkipark.ru/",
-    "date": 1534068006,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "uslugi",
-      "redcollar"
     ],
     "awards": []
   }

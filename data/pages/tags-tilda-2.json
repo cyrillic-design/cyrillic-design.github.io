@@ -1,5 +1,24 @@
 [
   {
+    "id": 426,
+    "title": "Учебник по веб-анимации",
+    "image": "data/images/426.jpg",
+    "tags": [
+      "образование",
+      "tilda"
+    ],
+    "url": "http://tilda.education/web-animation-course",
+    "date": 1548842420,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "tilda"
+    ],
+    "awards": []
+  },
+  {
     "id": 336,
     "title": "Блог Tilda Publishing",
     "image": "data/images/336.jpg",
