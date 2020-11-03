@@ -10404,5 +10404,24 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "805": {
+    "id": 805,
+    "title": "Эдуард Путерброт «Фрагмент занавеса №16»",
+    "caption": "Эдуард Путерброт «Фрагмент занавеса №16»\nhttps://puterbrot.mkalamuseum.ru/\n\n#мероприятие #спецпроект #искусство #readymag #nonobjectiveworks\nСпасибо за ссылку @AndyAbramov",
+    "image": "805.jpg",
+    "tags": [
+      "мероприятие",
+      "спецпроект",
+      "искусство",
+      "readymag",
+      "nonobjectiveworks"
+    ],
+    "url": "https://puterbrot.mkalamuseum.ru/",
+    "date": 1604394018,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

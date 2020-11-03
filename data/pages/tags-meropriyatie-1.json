@@ -1,5 +1,32 @@
 [
   {
+    "id": 805,
+    "title": "Эдуард Путерброт «Фрагмент занавеса №16»",
+    "caption": "Эдуард Путерброт «Фрагмент занавеса №16»\nhttps://puterbrot.mkalamuseum.ru/\n\n#мероприятие #спецпроект #искусство #readymag #nonobjectiveworks\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/805.jpg",
+    "tags": [
+      "мероприятие",
+      "спецпроект",
+      "искусство",
+      "readymag",
+      "nonobjectiveworks"
+    ],
+    "url": "https://puterbrot.mkalamuseum.ru/",
+    "date": 1604394018,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "spetsproekt",
+      "iskusstvo",
+      "readymag",
+      "nonobjectiveworks"
+    ],
+    "awards": []
+  },
+  {
     "id": 791,
     "title": "Fintech Design Conf",
     "caption": "Fintech Design Conf\nhttps://fintechdesign.ru/\n\n#мероприятие #финансы #банк",
@@ -451,30 +478,6 @@
     "slugs": [
       "meropriyatie",
       "24ttl"
-    ],
-    "awards": []
-  },
-  {
-    "id": 658,
-    "title": "Piano Trio Fest",
-    "caption": "Piano Trio Fest\nhttps://pianotriofest.com/\n\n☆ #мероприятие #музыка #readymag #zholud\n♡ @nowhow",
-    "image": "data/images/658.jpg",
-    "tags": [
-      "мероприятие",
-      "музыка",
-      "readymag",
-      "zholud"
-    ],
-    "url": "https://pianotriofest.com/",
-    "date": 1579773656,
-    "edit_date": 1583439463,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "meropriyatie",
-      "muzika",
-      "readymag",
-      "zholud"
     ],
     "awards": []
   }
