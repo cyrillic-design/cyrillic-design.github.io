@@ -2,15 +2,17 @@
   {
     "id": 807,
     "title": "Жизненный путь",
-    "caption": "Жизненный путь\nhttps://liferoute.org/\n\n#благотворительность #люди  #charmer\nСпасибо за ссылку @nuinuinu",
+    "caption": "Жизненный путь\nhttps://liferoute.org/\n\n#благотворительность #люди #помощь #charmer\nСпасибо за ссылку @nuinuinu",
     "image": "data/images/807.jpg",
     "tags": [
       "благотворительность",
       "люди",
+      "помощь",
       "charmer"
     ],
     "url": "https://liferoute.org/",
     "date": 1604484014,
+    "edit_date": 1604495529,
     "isMonth": false,
     "isYear": false,
     "isHighlighted": false,
@@ -18,6 +20,7 @@
     "slugs": [
       "blagotvoritelnost",
       "lyudi",
+      "pomoshch",
       "charmer"
     ],
     "awards": []
