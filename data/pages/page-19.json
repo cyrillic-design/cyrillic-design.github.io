@@ -1,5 +1,24 @@
 [
   {
+    "id": 416,
+    "title": "История будущего",
+    "image": "data/images/416.jpg",
+    "tags": [
+      "портфолио",
+      "студия"
+    ],
+    "url": "http://futurehistory.ru/",
+    "date": 1547978408,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "studiya"
+    ],
+    "awards": []
+  },
+  {
     "id": 415,
     "title": "Аэропорт Кольцово",
     "image": "data/images/415.jpg",
@@ -384,25 +403,6 @@
       "spetsproekt",
       "istoriya",
       "itechgroup"
-    ],
-    "awards": []
-  },
-  {
-    "id": 395,
-    "title": "method education",
-    "image": "data/images/395.jpg",
-    "tags": [
-      "образование",
-      "сервис"
-    ],
-    "url": "https://method.education/",
-    "date": 1545386423,
-    "edit_date": 1583185395,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "servis"
     ],
     "awards": []
   }

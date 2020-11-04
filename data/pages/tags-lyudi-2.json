@@ -1,5 +1,26 @@
 [
   {
+    "id": 321,
+    "title": "PROUN",
+    "image": "data/images/321.jpg",
+    "tags": [
+      "искусство",
+      "люди",
+      "мероприятие"
+    ],
+    "url": "https://proun.moscow/",
+    "date": 1538992923,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "iskusstvo",
+      "lyudi",
+      "meropriyatie"
+    ],
+    "awards": []
+  },
+  {
     "id": 319,
     "title": "Программа «Открытые двери» на Airbnb",
     "image": "data/images/319.jpg",

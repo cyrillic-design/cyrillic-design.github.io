@@ -10439,5 +10439,22 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "807": {
+    "id": 807,
+    "title": "Жизненный путь",
+    "caption": "Жизненный путь\nhttps://liferoute.org/\n\n#благотворительность #люди  #charmer\nСпасибо за ссылку @nuinuinu",
+    "image": "807.jpg",
+    "tags": [
+      "благотворительность",
+      "люди",
+      "charmer"
+    ],
+    "url": "https://liferoute.org/",
+    "date": 1604484014,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
