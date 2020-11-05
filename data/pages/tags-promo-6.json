@@ -1,5 +1,28 @@
 [
   {
+    "id": 156,
+    "title": "Rocket Home Pig",
+    "image": "data/images/156.jpg",
+    "tags": [
+      "промо",
+      "банк",
+      "финансы",
+      "readymag"
+    ],
+    "url": "http://homepig.rocketbank.ru/",
+    "date": 1524564005,
+    "edit_date": 1583185536,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "bank",
+      "finansi",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 155,
     "title": "Airbnb Plus",
     "image": "data/images/155.jpg",

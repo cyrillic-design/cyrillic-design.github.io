@@ -1,5 +1,26 @@
 [
   {
+    "id": 528,
+    "title": "Квартиротека ИКЕА",
+    "image": "data/images/528.jpg",
+    "tags": [
+      "магазин",
+      "доставка",
+      "сервис"
+    ],
+    "url": "https://www.ikea.com/ext/ru/kvartiroteka/",
+    "date": 1559901624,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "dostavka",
+      "servis"
+    ],
+    "awards": []
+  },
+  {
     "id": 527,
     "title": "Российский экологический оператор",
     "image": "data/images/527.jpg",
@@ -369,25 +390,6 @@
       "muzika",
       "meropriyatie",
       "sulliwan"
-    ],
-    "awards": []
-  },
-  {
-    "id": 506,
-    "title": "BestDoctor",
-    "image": "data/images/506.jpg",
-    "tags": [
-      "сервис",
-      "здоровье"
-    ],
-    "url": "https://bestdoctor.ru/",
-    "date": 1557914456,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "zdorove"
     ],
     "awards": []
   }

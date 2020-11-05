@@ -1,5 +1,24 @@
 [
   {
+    "id": 434,
+    "title": "Avito seller",
+    "image": "data/images/434.jpg",
+    "tags": [
+      "промо",
+      "chulakov"
+    ],
+    "url": "https://www.avito.ru/seller/",
+    "date": 1549792823,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "chulakov"
+    ],
+    "awards": []
+  },
+  {
     "id": 425,
     "title": "Элитные квартиры на Петровском острове",
     "image": "data/images/425.jpg",
@@ -383,31 +402,6 @@
       "gorod",
       "promo",
       "the23"
-    ],
-    "awards": []
-  },
-  {
-    "id": 312,
-    "title": "Бунтарь. Воин. Атеист",
-    "image": "data/images/312.jpg",
-    "tags": [
-      "спецпроект",
-      "промо",
-      "искусство",
-      "lentaru",
-      "третьяковскаягалерея"
-    ],
-    "url": "https://vereshchagin.lenta.ru/",
-    "date": 1538041141,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "promo",
-      "iskusstvo",
-      "lentaru",
-      "tretyakovskayagalereya"
     ],
     "awards": []
   }

@@ -1,5 +1,28 @@
 [
   {
+    "id": 667,
+    "title": "Книги у моря — Петербургский книжный фестиваль",
+    "caption": "Книги у моря — Петербургский книжный фестиваль\nhttp://booksandsea.ru/\n\n☆ #мероприятие #readymag #aidapacheva",
+    "image": "data/images/667.jpg",
+    "tags": [
+      "мероприятие",
+      "readymag",
+      "aidapacheva"
+    ],
+    "url": "http://booksandsea.ru/",
+    "date": 1582642963,
+    "edit_date": 1584344503,
+    "isMonth": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "readymag",
+      "aidapacheva"
+    ],
+    "awards": []
+  },
+  {
     "id": 664,
     "title": "Дизайн-квартал Флакон",
     "image": "data/images/664.jpg",
@@ -411,29 +434,6 @@
       "readymag",
       "ivansemkin",
       "mailru"
-    ],
-    "awards": []
-  },
-  {
-    "id": 320,
-    "title": "Русская тоска: Исаак Левитан и авторский кинематограф",
-    "image": "data/images/320.jpg",
-    "tags": [
-      "спецпроект",
-      "искусство",
-      "еврейскиймузей",
-      "readymag"
-    ],
-    "url": "http://levitan.jewish-museum.ru/",
-    "date": 1538733630,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "iskusstvo",
-      "yevreiskiimuzei",
-      "readymag"
     ],
     "awards": []
   }
