@@ -9619,18 +9619,19 @@
   "755": {
     "id": 755,
     "title": "Территория Авангарда",
-    "caption": "Территория Авангарда\nhttps://avantgarde-territory.com/\n\n#спецпроект #мероприятие #искусство #история #readymag",
+    "caption": "Территория Авангарда\nhttps://avantgarde-territory.com/\n\n#спецпроект #мероприятие #искусство #история #readymag #nadyapetrova",
     "image": "755.jpg",
     "tags": [
       "спецпроект",
       "мероприятие",
       "искусство",
       "история",
-      "readymag"
+      "readymag",
+      "nadyapetrova"
     ],
     "url": "https://avantgarde-territory.com/",
     "date": 1595844010,
-    "edit_date": 1595892981,
+    "edit_date": 1604558751,
     "isMonth": false,
     "isYear": false,
     "isHighlighted": false,
