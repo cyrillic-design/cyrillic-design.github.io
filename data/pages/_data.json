@@ -10476,5 +10476,20 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "809": {
+    "id": 809,
+    "title": "School of advanced studies",
+    "caption": "School of advanced studies\nhttps://sas.utmn.ru/ru/\n\n#образование \nСпасибо за ссылку @AndyAbramov",
+    "image": "809.jpg",
+    "tags": [
+      "образование"
+    ],
+    "url": "https://sas.utmn.ru/ru/",
+    "date": 1604659250,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

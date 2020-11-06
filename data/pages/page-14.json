@@ -1,5 +1,28 @@
 [
   {
+    "id": 529,
+    "title": "Sloy",
+    "image": "data/images/529.jpg",
+    "tags": [
+      "приложение",
+      "промо",
+      "мода",
+      "заглушка"
+    ],
+    "url": "https://sloy.com/",
+    "date": 1560260683,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "prilozhenie",
+      "promo",
+      "moda",
+      "zaglushka"
+    ],
+    "awards": []
+  },
+  {
     "id": 528,
     "title": "Квартиротека ИКЕА",
     "image": "data/images/528.jpg",
@@ -369,27 +392,6 @@
     "slugs": [
       "izdanie",
       "novosti"
-    ],
-    "awards": []
-  },
-  {
-    "id": 507,
-    "title": "Институт Музыкальных Инициатив",
-    "image": "data/images/507.jpg",
-    "tags": [
-      "музыка",
-      "мероприятие",
-      "sulliwan"
-    ],
-    "url": "https://i-m-i.ru/",
-    "date": 1558000856,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "muzika",
-      "meropriyatie",
-      "sulliwan"
     ],
     "awards": []
   }

@@ -1,5 +1,35 @@
 [
   {
+    "id": 696,
+    "title": "Гараж — Самоизоляция",
+    "caption": "Гараж — Самоизоляция\nhttps://self-isolation.garagemca.org/\n\n#спецпроект #образование #каталог #искусство #лучшедома #readymag\nСпасибо за ссылку @readymag_official",
+    "image": "data/images/696.jpg",
+    "tags": [
+      "спецпроект",
+      "образование",
+      "каталог",
+      "искусство",
+      "лучшедома",
+      "readymag"
+    ],
+    "url": "https://self-isolation.garagemca.org/",
+    "date": 1585724442,
+    "edit_date": 1585832256,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "obrazovanie",
+      "katalog",
+      "iskusstvo",
+      "luchshedoma",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 676,
     "title": "LUXENGLISH",
     "caption": "LUXENGLISH\nhttps://luxenglish.ru/\n\n☆ #образование #мероприятие #readymag",
@@ -376,25 +406,6 @@
     "slugs": [
       "obrazovanie",
       "update"
-    ],
-    "awards": []
-  },
-  {
-    "id": 395,
-    "title": "method education",
-    "image": "data/images/395.jpg",
-    "tags": [
-      "образование",
-      "сервис"
-    ],
-    "url": "https://method.education/",
-    "date": 1545386423,
-    "edit_date": 1583185395,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "servis"
     ],
     "awards": []
   }

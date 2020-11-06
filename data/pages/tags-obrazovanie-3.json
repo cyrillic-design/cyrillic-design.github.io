@@ -1,5 +1,24 @@
 [
   {
+    "id": 395,
+    "title": "method education",
+    "image": "data/images/395.jpg",
+    "tags": [
+      "образование",
+      "сервис"
+    ],
+    "url": "https://method.education/",
+    "date": 1545386423,
+    "edit_date": 1583185395,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "servis"
+    ],
+    "awards": []
+  },
+  {
     "id": 388,
     "title": "InLiberty",
     "image": "data/images/388.jpg",
@@ -374,29 +393,6 @@
       "obrazovanie",
       "dizain",
       "masterskaya"
-    ],
-    "awards": []
-  },
-  {
-    "id": 179,
-    "title": "Телеграф",
-    "image": "data/images/179.jpg",
-    "tags": [
-      "журнал",
-      "образование",
-      "люди",
-      "the23"
-    ],
-    "url": "http://telegraf.design/",
-    "date": 1526724012,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "zhurnal",
-      "obrazovanie",
-      "lyudi",
-      "the23"
     ],
     "awards": []
   }
