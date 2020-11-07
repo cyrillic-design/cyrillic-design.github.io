@@ -1,5 +1,29 @@
 [
   {
+    "id": 441,
+    "title": "Яндекс.Практикум",
+    "caption": "Яндекс.Практикум\nhttps://praktikum.yandex.ru/\n\n#образование #сервис #шад #яндекс",
+    "image": "data/images/441.jpg",
+    "tags": [
+      "образование",
+      "сервис",
+      "шад",
+      "яндекс"
+    ],
+    "url": "https://praktikum.yandex.ru/",
+    "date": 1550397618,
+    "edit_date": 1583687248,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "servis",
+      "shad",
+      "yandeks"
+    ],
+    "awards": []
+  },
+  {
     "id": 440,
     "title": "Карта плотности населения Москвы",
     "image": "data/images/440.jpg",
@@ -383,27 +407,6 @@
     "slugs": [
       "servis",
       "rightby"
-    ],
-    "awards": []
-  },
-  {
-    "id": 314,
-    "title": "Блог Амплифера",
-    "image": "data/images/314.jpg",
-    "tags": [
-      "сервис",
-      "блог",
-      "социальныесети"
-    ],
-    "url": "https://amplifr.com/blog/ru/",
-    "date": 1538215220,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "blog",
-      "sotsialnieseti"
     ],
     "awards": []
   }
