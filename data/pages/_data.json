@@ -10512,14 +10512,16 @@
   "811": {
     "id": 811,
     "title": "Село Глазок",
-    "caption": "Село Глазок\nhttps://seloglazok.ru/\n\n#образование  #кружок\nСпасибо за ссылку @AndyAbramov",
+    "caption": "Село Глазок\nhttps://seloglazok.ru/\n\n#спецпроект #образование  #кружок\nСпасибо за ссылку @AndyAbramov",
     "image": "811.jpg",
     "tags": [
+      "спецпроект",
       "образование",
       "кружок"
     ],
     "url": "https://seloglazok.ru/",
     "date": 1604917789,
+    "edit_date": 1604918337,
     "isMonth": false,
     "isYear": false,
     "isHighlighted": false,
