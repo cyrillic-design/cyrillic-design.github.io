@@ -1,5 +1,26 @@
 [
   {
+    "id": 811,
+    "title": "Село Глазок",
+    "caption": "Село Глазок\nhttps://seloglazok.ru/\n\n#образование  #кружок\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/811.jpg",
+    "tags": [
+      "образование",
+      "кружок"
+    ],
+    "url": "https://seloglazok.ru/",
+    "date": 1604917789,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "kruzhok"
+    ],
+    "awards": []
+  },
+  {
     "id": 790,
     "title": "Деревня Сардаял",
     "caption": "Деревня Сардаял\nhttps://sardayal.ru/\n\n#спецпроект #образование #кружок",

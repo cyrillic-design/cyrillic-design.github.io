@@ -1,5 +1,24 @@
 [
   {
+    "id": 598,
+    "title": "FGA",
+    "image": "data/images/598.jpg",
+    "tags": [
+      "портфолио",
+      "groznovco"
+    ],
+    "url": "http://fga.art/",
+    "date": 1570607452,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "groznovco"
+    ],
+    "awards": []
+  },
+  {
     "id": 597,
     "title": "Электронный архив работ художника Соломона Телингатера",
     "image": "data/images/597.jpg",
@@ -361,27 +380,6 @@
     "slugs": [
       "magazin",
       "breadhead"
-    ],
-    "awards": []
-  },
-  {
-    "id": 573,
-    "title": "Справочная",
-    "image": "data/images/573.jpg",
-    "tags": [
-      "блог",
-      "финансы",
-      "банк"
-    ],
-    "url": "https://allo.tochka.com/",
-    "date": 1566381674,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "blog",
-      "finansi",
-      "bank"
     ],
     "awards": []
   }

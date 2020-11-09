@@ -1,5 +1,25 @@
 [
   {
+    "id": 418,
+    "title": "DESIGNWORKOUT",
+    "caption": "DESIGNWORKOUT\nhttps://designworkout.ru/\n\n#образование #update",
+    "image": "data/images/418.jpg",
+    "tags": [
+      "образование",
+      "update"
+    ],
+    "url": "https://designworkout.ru/",
+    "date": 1548151224,
+    "edit_date": 1583423714,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "update"
+    ],
+    "awards": []
+  },
+  {
     "id": 395,
     "title": "method education",
     "image": "data/images/395.jpg",
@@ -372,27 +392,6 @@
       "obrazovanie",
       "lyudi",
       "biznes"
-    ],
-    "awards": []
-  },
-  {
-    "id": 207,
-    "title": "DESIGNWORKOUT",
-    "image": "data/images/207.jpg",
-    "tags": [
-      "образование",
-      "дизайн",
-      "мастерская"
-    ],
-    "url": "http://campus.designworkout.ru/",
-    "date": 1529056828,
-    "edit_date": 1583185536,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "dizain",
-      "masterskaya"
     ],
     "awards": []
   }
