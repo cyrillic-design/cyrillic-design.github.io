@@ -10530,13 +10530,15 @@
   "812": {
     "id": 812,
     "title": "Wannabelike — Illarion Gordon",
-    "caption": "Wannabelike — Illarion Gordon\nhttps://wannabelike.ru/gordon/\n\n#образование",
+    "caption": "Wannabelike — Illarion Gordon\nhttps://wannabelike.ru/gordon/\n\n#образование #readymag",
     "image": "812.jpg",
     "tags": [
-      "образование"
+      "образование",
+      "readymag"
     ],
     "url": "https://wannabelike.ru/gordon/",
     "date": 1605002436,
+    "edit_date": 1605008929,
     "isMonth": false,
     "isYear": false,
     "isHighlighted": false,
