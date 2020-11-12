@@ -1,5 +1,29 @@
 [
   {
+    "id": 441,
+    "title": "Яндекс.Практикум",
+    "caption": "Яндекс.Практикум\nhttps://praktikum.yandex.ru/\n\n#образование #сервис #шад #яндекс",
+    "image": "data/images/441.jpg",
+    "tags": [
+      "образование",
+      "сервис",
+      "шад",
+      "яндекс"
+    ],
+    "url": "https://praktikum.yandex.ru/",
+    "date": 1550397618,
+    "edit_date": 1583687248,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "servis",
+      "shad",
+      "yandeks"
+    ],
+    "awards": []
+  },
+  {
     "id": 426,
     "title": "Учебник по веб-анимации",
     "image": "data/images/426.jpg",
@@ -368,27 +392,6 @@
     "slugs": [
       "obrazovanie",
       "sulliwan"
-    ],
-    "awards": []
-  },
-  {
-    "id": 229,
-    "title": "100 лет дизайна",
-    "image": "data/images/229.jpg",
-    "tags": [
-      "образование",
-      "дизайн",
-      "bangbangeducation"
-    ],
-    "url": "https://bangbangeducation.ru/100",
-    "date": 1530957621,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "dizain",
-      "bangbangeducation"
     ],
     "awards": []
   }

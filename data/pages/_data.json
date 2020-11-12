@@ -10561,5 +10561,21 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "814": {
+    "id": 814,
+    "title": "Кристина Колесникова",
+    "caption": "Кристина Колесникова\nhttps://kriskol.ru/\n\n#образование #tilda",
+    "image": "814.jpg",
+    "tags": [
+      "образование",
+      "tilda"
+    ],
+    "url": "https://kriskol.ru/",
+    "date": 1605180555,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
