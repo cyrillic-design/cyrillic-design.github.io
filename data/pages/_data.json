@@ -10577,5 +10577,23 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "815": {
+    "id": 815,
+    "title": "Мир Достоевского",
+    "caption": "Мир Достоевского\nhttps://dostoevskyworld.ru/\n\n#спецпроект #история #культура #artlebedev\nСпасибо за ссылку @Donteventextme",
+    "image": "815.jpg",
+    "tags": [
+      "спецпроект",
+      "история",
+      "культура",
+      "artlebedev"
+    ],
+    "url": "https://dostoevskyworld.ru/",
+    "date": 1605261627,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

@@ -1,5 +1,24 @@
 [
   {
+    "id": 513,
+    "title": "ПИК Медиа",
+    "image": "data/images/513.jpg",
+    "tags": [
+      "журнал",
+      "пик"
+    ],
+    "url": "https://pik.media/",
+    "date": 1558519213,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "pik"
+    ],
+    "awards": []
+  },
+  {
     "id": 512,
     "title": "Верблюд в огне",
     "image": "data/images/512.jpg",
@@ -370,25 +389,6 @@
     "isRemoved": false,
     "slugs": [
       "media"
-    ],
-    "awards": []
-  },
-  {
-    "id": 490,
-    "title": "Высокая кухня на районе",
-    "image": "data/images/490.jpg",
-    "tags": [
-      "еда",
-      "промо"
-    ],
-    "url": "https://high.localkitchen.ru/",
-    "date": 1554372028,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "yeda",
-      "promo"
     ],
     "awards": []
   }
