@@ -25,6 +25,28 @@
     "awards": []
   },
   {
+    "id": 679,
+    "title": "Если быть точным",
+    "caption": "Если быть точным\nhttps://tochno.st/\n\n☆ #сервис #данные #artlebedev",
+    "image": "data/images/679.jpg",
+    "tags": [
+      "сервис",
+      "данные",
+      "artlebedev"
+    ],
+    "url": "https://tochno.st/",
+    "date": 1583575215,
+    "edit_date": 1605315178,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "dannie",
+      "artlebedev"
+    ],
+    "awards": []
+  },
+  {
     "id": 670,
     "title": "Единый Транспортный Портал",
     "caption": "Единый Транспортный Портал\nhttps://transport.mos.ru/\n\n☆ #город #сервис #artlebedev",
