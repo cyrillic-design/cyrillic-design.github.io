@@ -1,5 +1,28 @@
 [
   {
+    "id": 661,
+    "title": "YE'S apart-hotel",
+    "image": "data/images/661.jpg",
+    "tags": [
+      "сервис",
+      "промо",
+      "букинг",
+      "videinfra"
+    ],
+    "url": "https://yesapart.com/",
+    "date": 1581069652,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "promo",
+      "buking",
+      "videinfra"
+    ],
+    "awards": []
+  },
+  {
     "id": 635,
     "title": "Самокат",
     "image": "data/images/635.jpg",
@@ -365,23 +388,6 @@
     "slugs": [
       "servis",
       "chulakov"
-    ],
-    "awards": []
-  },
-  {
-    "id": 448,
-    "title": "Uber",
-    "image": "data/images/448.jpg",
-    "tags": [
-      "сервис"
-    ],
-    "url": "https://www.uber.com/ru/ru/",
-    "date": 1551002405,
-    "edit_date": 1583185362,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis"
     ],
     "awards": []
   }

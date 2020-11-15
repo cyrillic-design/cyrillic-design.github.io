@@ -1,5 +1,26 @@
 [
   {
+    "id": 290,
+    "title": "Lamoda",
+    "image": "data/images/290.jpg",
+    "tags": [
+      "магазин",
+      "доставка",
+      "мода"
+    ],
+    "url": "https://www.lamoda.ru/",
+    "date": 1536141619,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "dostavka",
+      "moda"
+    ],
+    "awards": []
+  },
+  {
     "id": 279,
     "title": "SIASPACE",
     "image": "data/images/279.jpg",
@@ -376,25 +397,6 @@
     "slugs": [
       "magazin",
       "izdanie"
-    ],
-    "awards": []
-  },
-  {
-    "id": 159,
-    "title": "Servermall",
-    "image": "data/images/159.jpg",
-    "tags": [
-      "магазин",
-      "промо"
-    ],
-    "url": "https://servermall.ru/",
-    "date": 1524823212,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "promo"
     ],
     "awards": []
   }
