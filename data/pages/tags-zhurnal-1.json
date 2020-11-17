@@ -1,5 +1,26 @@
 [
   {
+    "id": 818,
+    "title": "Интернет журнал Materia",
+    "caption": "Интернет журнал Materia\nhttps://themateria.pro/\n\n#журнал #люди\nСпасибо за ссылку @dimaglumov",
+    "image": "data/images/818.jpg",
+    "tags": [
+      "журнал",
+      "люди"
+    ],
+    "url": "https://themateria.pro/",
+    "date": 1605612738,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "lyudi"
+    ],
+    "awards": []
+  },
+  {
     "id": 761,
     "title": "TIGHT magazine",
     "caption": "TIGHT magazine\nhttps://www.tight.media/\n\n#журнал #музыка #искусство\nСпасибо за ссылку @AndyAbramov",
@@ -404,29 +425,6 @@
     "slugs": [
       "zhurnal",
       "otherland"
-    ],
-    "awards": []
-  },
-  {
-    "id": 380,
-    "title": "Искусство кино",
-    "image": "data/images/380.jpg",
-    "tags": [
-      "журнал",
-      "искусство",
-      "кино",
-      "charmer"
-    ],
-    "url": "https://kinoart.ru/",
-    "date": 1544176818,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "zhurnal",
-      "iskusstvo",
-      "kino",
-      "charmer"
     ],
     "awards": []
   }

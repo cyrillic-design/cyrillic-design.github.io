@@ -1,5 +1,24 @@
 [
   {
+    "id": 219,
+    "title": "Flex.Media",
+    "image": "data/images/219.jpg",
+    "tags": [
+      "агентство",
+      "портфолио"
+    ],
+    "url": "https://flex.media/",
+    "date": 1530093605,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "agentstvo",
+      "portfolio"
+    ],
+    "awards": []
+  },
+  {
     "id": 218,
     "title": "ДомКлик",
     "image": "data/images/218.jpg",
@@ -385,23 +404,6 @@
       "yeda",
       "promo",
       "zero"
-    ],
-    "awards": []
-  },
-  {
-    "id": 199,
-    "title": "Bookmate",
-    "image": "data/images/199.jpg",
-    "tags": [
-      "сервис"
-    ],
-    "url": "https://ru.bookmate.com/",
-    "date": 1528365608,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis"
     ],
     "awards": []
   }

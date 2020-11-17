@@ -1,5 +1,26 @@
 [
   {
+    "id": 407,
+    "title": "Wink",
+    "image": "data/images/407.jpg",
+    "tags": [
+      "промо",
+      "сервис",
+      "ростелеком"
+    ],
+    "url": "https://wink.rt.ru/apps/",
+    "date": 1547200825,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "servis",
+      "rostelekom"
+    ],
+    "awards": []
+  },
+  {
     "id": 406,
     "title": "Tilda. Итоги 2018 года",
     "image": "data/images/406.jpg",
@@ -375,25 +396,6 @@
       "muzika",
       "portfolio",
       "sk41"
-    ],
-    "awards": []
-  },
-  {
-    "id": 385,
-    "title": "Pure",
-    "image": "data/images/385.jpg",
-    "tags": [
-      "сервис",
-      "датинг"
-    ],
-    "url": "https://pure.sex/ru/",
-    "date": 1544608815,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "dating"
     ],
     "awards": []
   }

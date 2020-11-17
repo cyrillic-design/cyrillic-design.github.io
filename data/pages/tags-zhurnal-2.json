@@ -1,5 +1,28 @@
 [
   {
+    "id": 380,
+    "title": "Искусство кино",
+    "image": "data/images/380.jpg",
+    "tags": [
+      "журнал",
+      "искусство",
+      "кино",
+      "charmer"
+    ],
+    "url": "https://kinoart.ru/",
+    "date": 1544176818,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "iskusstvo",
+      "kino",
+      "charmer"
+    ],
+    "awards": []
+  },
+  {
     "id": 379,
     "title": "Ology",
     "image": "data/images/379.jpg",
@@ -381,29 +404,6 @@
       "finansi",
       "zhurnal",
       "media"
-    ],
-    "awards": []
-  },
-  {
-    "id": 76,
-    "title": "Republic",
-    "image": "data/images/76.jpg",
-    "tags": [
-      "новости",
-      "медиа",
-      "журнал",
-      "wednesday"
-    ],
-    "url": "https://republic.ru/",
-    "date": 1518688846,
-    "edit_date": 1583185563,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "novosti",
-      "media",
-      "zhurnal",
-      "wednesday"
     ],
     "awards": []
   }

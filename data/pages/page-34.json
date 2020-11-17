@@ -1,5 +1,27 @@
 [
   {
+    "id": 117,
+    "title": "Такие Дела",
+    "caption": "Такие Дела\nhttps://takiedela.ru/\n\n#медиа #благотворительность #charmer",
+    "image": "data/images/117.jpg",
+    "tags": [
+      "медиа",
+      "благотворительность",
+      "charmer"
+    ],
+    "url": "https://takiedela.ru/",
+    "date": 1521280809,
+    "edit_date": 1583919708,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "media",
+      "blagotvoritelnost",
+      "charmer"
+    ],
+    "awards": []
+  },
+  {
     "id": 116,
     "title": "Sila Sveta",
     "image": "data/images/116.jpg",
@@ -394,29 +416,6 @@
       "strana",
       "rossiya",
       "labag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 90,
-    "title": "СПИД.ЦЕНТР",
-    "image": "data/images/90.jpg",
-    "tags": [
-      "благотворительность",
-      "фонд",
-      "люди",
-      "charmer"
-    ],
-    "url": "https://spid.center/ru",
-    "date": 1519466413,
-    "edit_date": 1583185563,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "blagotvoritelnost",
-      "fond",
-      "lyudi",
-      "charmer"
     ],
     "awards": []
   }
