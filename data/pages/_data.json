@@ -10649,5 +10649,23 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "819": {
+    "id": 819,
+    "title": "DAAT Production",
+    "caption": "DAAT Production\nhttps://daat.pro/\n\n#портфолио #студия #readymag #saint",
+    "image": "819.jpg",
+    "tags": [
+      "портфолио",
+      "студия",
+      "readymag",
+      "saint"
+    ],
+    "url": "https://daat.pro/",
+    "date": 1605688759,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
