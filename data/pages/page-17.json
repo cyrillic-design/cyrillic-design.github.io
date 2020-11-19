@@ -1,5 +1,26 @@
 [
   {
+    "id": 475,
+    "title": "Экскурсия в Аушвиц",
+    "image": "data/images/475.jpg",
+    "tags": [
+      "история",
+      "readymag",
+      "дашапочекуева"
+    ],
+    "url": "https://readymag.com/pochekueva/auschwitz/",
+    "date": 1552989658,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "istoriya",
+      "readymag",
+      "dashapochekueva"
+    ],
+    "awards": []
+  },
+  {
     "id": 473,
     "title": "Soviet Design Timeline 1962 —1992",
     "image": "data/images/473.jpg",
@@ -384,27 +405,6 @@
       "uslugi",
       "promo",
       "only"
-    ],
-    "awards": []
-  },
-  {
-    "id": 449,
-    "title": "Pro et Contra",
-    "image": "data/images/449.jpg",
-    "tags": [
-      "услуги",
-      "промо",
-      "otherland"
-    ],
-    "url": "http://pro-et-contra.com.ua/",
-    "date": 1551088809,
-    "edit_date": 1583185362,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "uslugi",
-      "promo",
-      "otherland"
     ],
     "awards": []
   }

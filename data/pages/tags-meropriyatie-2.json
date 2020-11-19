@@ -1,5 +1,28 @@
 [
   {
+    "id": 667,
+    "title": "Книги у моря — Петербургский книжный фестиваль",
+    "caption": "Книги у моря — Петербургский книжный фестиваль\nhttp://booksandsea.ru/\n\n☆ #мероприятие #readymag #aidapacheva",
+    "image": "data/images/667.jpg",
+    "tags": [
+      "мероприятие",
+      "readymag",
+      "aidapacheva"
+    ],
+    "url": "http://booksandsea.ru/",
+    "date": 1582642963,
+    "edit_date": 1584344503,
+    "isMonth": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "readymag",
+      "aidapacheva"
+    ],
+    "awards": []
+  },
+  {
     "id": 660,
     "title": "International Digital Retail Forum 2020",
     "image": "data/images/660.jpg",
@@ -375,26 +398,6 @@
     "slugs": [
       "meropriyatie",
       "promo"
-    ],
-    "awards": []
-  },
-  {
-    "id": 464,
-    "title": "Камчатка",
-    "caption": "Камчатка\nhttps://kamchatka.camp/\n\n#образование #мероприятие",
-    "image": "data/images/464.jpg",
-    "tags": [
-      "образование",
-      "мероприятие"
-    ],
-    "url": "https://kamchatka.camp/",
-    "date": 1552039217,
-    "edit_date": 1583439473,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "meropriyatie"
     ],
     "awards": []
   }

@@ -10667,5 +10667,23 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "820": {
+    "id": 820,
+    "title": "LEVEL UP FORUM",
+    "caption": "LEVEL UP FORUM\nhttps://levelup-forum.ru/\n\n#мероприятие #образование #tilda #никитаковров",
+    "image": "820.jpg",
+    "tags": [
+      "мероприятие",
+      "образование",
+      "tilda",
+      "никитаковров"
+    ],
+    "url": "https://levelup-forum.ru/",
+    "date": 1605777222,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

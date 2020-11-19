@@ -1,5 +1,30 @@
 [
   {
+    "id": 820,
+    "title": "LEVEL UP FORUM",
+    "caption": "LEVEL UP FORUM\nhttps://levelup-forum.ru/\n\n#мероприятие #образование #tilda #никитаковров",
+    "image": "data/images/820.jpg",
+    "tags": [
+      "мероприятие",
+      "образование",
+      "tilda",
+      "никитаковров"
+    ],
+    "url": "https://levelup-forum.ru/",
+    "date": 1605777222,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "obrazovanie",
+      "tilda",
+      "nikitakovrov"
+    ],
+    "awards": []
+  },
+  {
     "id": 814,
     "title": "Кристина Колесникова",
     "caption": "Кристина Колесникова\nhttps://kriskol.ru/\n\n#образование #tilda",
@@ -443,27 +468,6 @@
     "slugs": [
       "obrazovanie",
       "meropriyatie"
-    ],
-    "awards": []
-  },
-  {
-    "id": 706,
-    "title": "Ableton — Learning Music",
-    "caption": "Ableton — Learning Music\nhttps://learningmusic.ableton.com/ru/\n\n#образование #музыка\nСпасибо за ссылку @privet_solnce",
-    "image": "data/images/706.jpg",
-    "tags": [
-      "образование",
-      "музыка"
-    ],
-    "url": "https://learningmusic.ableton.com/ru/",
-    "date": 1586426419,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "muzika"
     ],
     "awards": []
   }
