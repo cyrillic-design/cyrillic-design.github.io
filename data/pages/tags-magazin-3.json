@@ -1,5 +1,24 @@
 [
   {
+    "id": 326,
+    "title": "Odyssey",
+    "image": "data/images/326.jpg",
+    "tags": [
+      "одежда",
+      "магазин"
+    ],
+    "url": "https://odyssey.moscow/",
+    "date": 1539424823,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "odezhda",
+      "magazin"
+    ],
+    "awards": []
+  },
+  {
     "id": 290,
     "title": "Lamoda",
     "image": "data/images/290.jpg",
@@ -377,26 +396,6 @@
       "magazin",
       "dostavka",
       "aic"
-    ],
-    "awards": []
-  },
-  {
-    "id": 162,
-    "title": "Никея",
-    "caption": "Никея\nhttps://nikeabooks.ru/\n\n#магазин #издание",
-    "image": "data/images/162.jpg",
-    "tags": [
-      "магазин",
-      "издание"
-    ],
-    "url": "https://nikeabooks.ru/",
-    "date": 1525168811,
-    "edit_date": 1583439722,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "izdanie"
     ],
     "awards": []
   }
