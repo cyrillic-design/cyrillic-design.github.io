@@ -1,5 +1,28 @@
 [
   {
+    "id": 613,
+    "title": "Званий обід",
+    "image": "data/images/613.jpg",
+    "tags": [
+      "спецпроект",
+      "еда",
+      "промо",
+      "platforma"
+    ],
+    "url": "https://platfor.ma/specials/zvanyi-obid/",
+    "date": 1571911231,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "yeda",
+      "promo",
+      "platforma"
+    ],
+    "awards": []
+  },
+  {
     "id": 611,
     "title": "Символы оттепели",
     "image": "data/images/611.jpg",
@@ -386,27 +409,6 @@
       "vistavka",
       "spetsproekt",
       "dvorulitsa"
-    ],
-    "awards": []
-  },
-  {
-    "id": 456,
-    "title": "Homo Sedens",
-    "image": "data/images/456.jpg",
-    "tags": [
-      "спецпроект",
-      "здоровье",
-      "мамихлапинатана"
-    ],
-    "url": "https://homosedens.detralex.ru/",
-    "date": 1551348016,
-    "edit_date": 1583185362,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "zdorove",
-      "mamikhlapinatana"
     ],
     "awards": []
   }
