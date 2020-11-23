@@ -10718,5 +10718,23 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "823": {
+    "id": 823,
+    "title": "Конструктор",
+    "caption": "Конструктор\nhttps://constructor.jewish-museum.ru/ru\n\n#спецпроект #игра #музей #materialist",
+    "image": "823.jpg",
+    "tags": [
+      "спецпроект",
+      "игра",
+      "музей",
+      "materialist"
+    ],
+    "url": "https://constructor.jewish-museum.ru/ru",
+    "date": 1606123850,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

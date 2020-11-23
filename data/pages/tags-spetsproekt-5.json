@@ -1,5 +1,24 @@
 [
   {
+    "id": 308,
+    "title": "Sun and stuff",
+    "image": "data/images/308.jpg",
+    "tags": [
+      "спецпроект",
+      "образование"
+    ],
+    "url": "http://sunandstuff.com/",
+    "date": 1537696803,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "obrazovanie"
+    ],
+    "awards": []
+  },
+  {
     "id": 297,
     "title": "Биохакинг сквозь века",
     "image": "data/images/297.jpg",
@@ -399,31 +418,6 @@
       "pamyat",
       "lyudi",
       "takiedela"
-    ],
-    "awards": []
-  },
-  {
-    "id": 80,
-    "title": "Памяти Юрия Верменича",
-    "image": "data/images/80.jpg",
-    "tags": [
-      "культура",
-      "спецпроект",
-      "музыка",
-      "память",
-      "coda"
-    ],
-    "url": "http://vermenich.jazzprovince.ru/",
-    "date": 1518775229,
-    "edit_date": 1583185563,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "kultura",
-      "spetsproekt",
-      "muzika",
-      "pamyat",
-      "coda"
     ],
     "awards": []
   }

@@ -1,5 +1,26 @@
 [
   {
+    "id": 465,
+    "title": "AZBUKA",
+    "image": "data/images/465.jpg",
+    "tags": [
+      "выставка",
+      "спецпроект",
+      "дворулица"
+    ],
+    "url": "http://azbuka.dvorulitsa.moscow/",
+    "date": 1552125620,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "vistavka",
+      "spetsproekt",
+      "dvorulitsa"
+    ],
+    "awards": []
+  },
+  {
     "id": 456,
     "title": "Homo Sedens",
     "image": "data/images/456.jpg",
@@ -400,25 +421,6 @@
       "iskusstvo",
       "lentaru",
       "tretyakovskayagalereya"
-    ],
-    "awards": []
-  },
-  {
-    "id": 308,
-    "title": "Sun and stuff",
-    "image": "data/images/308.jpg",
-    "tags": [
-      "спецпроект",
-      "образование"
-    ],
-    "url": "http://sunandstuff.com/",
-    "date": 1537696803,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "obrazovanie"
     ],
     "awards": []
   }
