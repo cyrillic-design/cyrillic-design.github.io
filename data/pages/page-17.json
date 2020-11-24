@@ -1,23 +1,5 @@
 [
   {
-    "id": 479,
-    "title": "Masterskaya",
-    "caption": "Masterskaya\nhttps://masterskaya.pro/\n\n#портфолио",
-    "image": "data/images/479.jpg",
-    "tags": [
-      "портфолио"
-    ],
-    "url": "https://masterskaya.pro/",
-    "date": 1553335219,
-    "edit_date": 1583423555,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio"
-    ],
-    "awards": []
-  },
-  {
     "id": 478,
     "title": "Алия: психологическая поддержка в перинатальной потере",
     "image": "data/images/478.jpg",
@@ -402,6 +384,27 @@
       "blog",
       "zdorove",
       "docplus"
+    ],
+    "awards": []
+  },
+  {
+    "id": 457,
+    "title": "Карта истории ГУЛАГа",
+    "image": "data/images/457.jpg",
+    "tags": [
+      "данные",
+      "история",
+      "urbica"
+    ],
+    "url": "https://gulagmap.ru/",
+    "date": 1551434419,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "dannie",
+      "istoriya",
+      "urbica"
     ],
     "awards": []
   }

@@ -1,24 +1,5 @@
 [
   {
-    "id": 369,
-    "title": "Мапа станаўлення Беларусі",
-    "image": "data/images/369.jpg",
-    "tags": [
-      "спецпроект",
-      "история"
-    ],
-    "url": "http://map.letapis.by/by/",
-    "date": 1543399222,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "istoriya"
-    ],
-    "awards": []
-  },
-  {
     "id": 368,
     "title": "Третьяковская галерея: Уроки Ларионова",
     "image": "data/images/368.jpg",
@@ -402,6 +383,27 @@
       "promo",
       "magazin",
       "proizvodstvo"
+    ],
+    "awards": []
+  },
+  {
+    "id": 346,
+    "title": "Раздоры II",
+    "image": "data/images/346.jpg",
+    "tags": [
+      "недвижимость",
+      "промо",
+      "greencow"
+    ],
+    "url": "https://razdory2.ru/",
+    "date": 1541498449,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "nedvizhimost",
+      "promo",
+      "greencow"
     ],
     "awards": []
   }

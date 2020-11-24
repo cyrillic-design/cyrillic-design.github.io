@@ -1,28 +1,5 @@
 [
   {
-    "id": 803,
-    "title": "safer — practice",
-    "caption": "safer — practice\nhttps://safer.zone/\n\n#магазин #доставка #tilda \nСпасибо за ссылку @AnnaTsybina",
-    "image": "data/images/803.jpg",
-    "tags": [
-      "магазин",
-      "доставка",
-      "tilda"
-    ],
-    "url": "https://safer.zone/",
-    "date": 1604320877,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "dostavka",
-      "tilda"
-    ],
-    "awards": []
-  },
-  {
     "id": 800,
     "title": "Контент-бюро «Продано!»",
     "caption": "Контент-бюро «Продано!»\nhttps://prodano.media/\n\n#портфолио",
@@ -449,6 +426,31 @@
       "servis",
       "prilozhenie",
       "tilda"
+    ],
+    "awards": []
+  },
+  {
+    "id": 779,
+    "title": "Spilne",
+    "caption": "Spilne\nhttps://spilne.art/\n\n#магазин #искусство #tilda #avamyara",
+    "image": "data/images/779.jpg",
+    "tags": [
+      "магазин",
+      "искусство",
+      "tilda",
+      "avamyara"
+    ],
+    "url": "https://spilne.art/",
+    "date": 1601200805,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "iskusstvo",
+      "tilda",
+      "avamyara"
     ],
     "awards": []
   }

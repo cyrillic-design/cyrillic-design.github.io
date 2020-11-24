@@ -10750,9 +10750,10 @@
     ],
     "url": "https://gol.ru/",
     "date": 1606216379,
+    "edit_date": 1606216495,
     "isMonth": false,
     "isYear": false,
     "isHighlighted": false,
-    "isRemoved": false
+    "isRemoved": true
   }
 }

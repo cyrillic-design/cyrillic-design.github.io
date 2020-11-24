@@ -1,24 +1,5 @@
 [
   {
-    "id": 326,
-    "title": "Odyssey",
-    "image": "data/images/326.jpg",
-    "tags": [
-      "одежда",
-      "магазин"
-    ],
-    "url": "https://odyssey.moscow/",
-    "date": 1539424823,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "odezhda",
-      "magazin"
-    ],
-    "awards": []
-  },
-  {
     "id": 325,
     "title": "Google Science Fair",
     "image": "data/images/325.jpg",
@@ -410,6 +391,25 @@
     "slugs": [
       "promo",
       "proizvodstvo"
+    ],
+    "awards": []
+  },
+  {
+    "id": 306,
+    "title": "Райт",
+    "image": "data/images/306.jpg",
+    "tags": [
+      "студия",
+      "портфолио"
+    ],
+    "url": "https://right.by/",
+    "date": 1537524019,
+    "edit_date": 1583185436,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "studiya",
+      "portfolio"
     ],
     "awards": []
   }

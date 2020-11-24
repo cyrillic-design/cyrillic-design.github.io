@@ -1,23 +1,5 @@
 [
   {
-    "id": 545,
-    "title": "Timepad",
-    "caption": "Timepad\nhttps://timepad.ru/\n\n#сервис",
-    "image": "data/images/545.jpg",
-    "tags": [
-      "сервис"
-    ],
-    "url": "https://timepad.ru/",
-    "date": 1562230768,
-    "edit_date": 1583255649,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "servis"
-    ],
-    "awards": []
-  },
-  {
     "id": 544,
     "title": "Приходи и свети",
     "image": "data/images/544.jpg",
@@ -379,6 +361,25 @@
     "slugs": [
       "portfolio",
       "sever"
+    ],
+    "awards": []
+  },
+  {
+    "id": 524,
+    "title": "К19",
+    "image": "data/images/524.jpg",
+    "tags": [
+      "мероприятие",
+      "paratype"
+    ],
+    "url": "https://moderncyrillic.org/",
+    "date": 1559557038,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "paratype"
     ],
     "awards": []
   }

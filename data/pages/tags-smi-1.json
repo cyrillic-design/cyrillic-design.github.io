@@ -1,30 +1,5 @@
 [
   {
-    "id": 824,
-    "title": "Гол.ру",
-    "caption": "Гол.ру\nhttps://gol.ru/\n\n#спорт #новости #сми #charmer",
-    "image": "data/images/824.jpg",
-    "tags": [
-      "спорт",
-      "новости",
-      "сми",
-      "charmer"
-    ],
-    "url": "https://gol.ru/",
-    "date": 1606216379,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "sport",
-      "novosti",
-      "smi",
-      "charmer"
-    ],
-    "awards": []
-  },
-  {
     "id": 784,
     "title": "Медиазона Беларусь",
     "caption": "Медиазона Беларусь\nhttps://mediazona.by/\n\n#новости #сми",
