@@ -1,5 +1,24 @@
 [
   {
+    "id": 307,
+    "title": "TEXX",
+    "image": "data/images/307.jpg",
+    "tags": [
+      "промо",
+      "производство"
+    ],
+    "url": "http://msk-gps.ru/",
+    "date": 1537610451,
+    "edit_date": 1583185436,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "proizvodstvo"
+    ],
+    "awards": []
+  },
+  {
     "id": 306,
     "title": "Райт",
     "image": "data/images/306.jpg",
@@ -382,27 +401,6 @@
       "servis",
       "dostavka",
       "zdorove"
-    ],
-    "awards": []
-  },
-  {
-    "id": 287,
-    "title": "Richterfest 2018",
-    "image": "data/images/287.jpg",
-    "tags": [
-      "мероприятие",
-      "фестиваль",
-      "музыка"
-    ],
-    "url": "http://richterfest.ru/",
-    "date": 1535882410,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "meropriyatie",
-      "festival",
-      "muzika"
     ],
     "awards": []
   }
