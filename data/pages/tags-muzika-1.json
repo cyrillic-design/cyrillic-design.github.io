@@ -1,5 +1,28 @@
 [
   {
+    "id": 829,
+    "title": "Папино Молоко",
+    "caption": "Папино Молоко\nhttps://papinomoloko.com/\n\n#магазин #музыка #tilda\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/829.jpg",
+    "tags": [
+      "магазин",
+      "музыка",
+      "tilda"
+    ],
+    "url": "https://papinomoloko.com/",
+    "date": 1606390633,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "muzika",
+      "tilda"
+    ],
+    "awards": []
+  },
+  {
     "id": 789,
     "title": "Как поёт искусственный интеллект",
     "caption": "Как поёт искусственный интеллект\nhttps://readymag.com/marykobanenko/musicai/\n\n#спецпроект #музыка #образование #readymag #машакобаненко\nСпасибо за ссылку @marykobanenko",
@@ -402,27 +425,6 @@
       "zhurnal",
       "muzika",
       "dizain"
-    ],
-    "awards": []
-  },
-  {
-    "id": 287,
-    "title": "Richterfest 2018",
-    "image": "data/images/287.jpg",
-    "tags": [
-      "мероприятие",
-      "фестиваль",
-      "музыка"
-    ],
-    "url": "http://richterfest.ru/",
-    "date": 1535882410,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "meropriyatie",
-      "festival",
-      "muzika"
     ],
     "awards": []
   }

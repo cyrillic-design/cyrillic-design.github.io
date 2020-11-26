@@ -10824,5 +10824,22 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "829": {
+    "id": 829,
+    "title": "Папино Молоко",
+    "caption": "Папино Молоко\nhttps://papinomoloko.com/\n\n#магазин #музыка #tilda\nСпасибо за ссылку @AndyAbramov",
+    "image": "829.jpg",
+    "tags": [
+      "магазин",
+      "музыка",
+      "tilda"
+    ],
+    "url": "https://papinomoloko.com/",
+    "date": 1606390633,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
