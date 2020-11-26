@@ -1,26 +1,5 @@
 [
   {
-    "id": 127,
-    "title": "sport24",
-    "image": "data/images/127.jpg",
-    "tags": [
-      "новости",
-      "спорт",
-      "artlebedev"
-    ],
-    "url": "https://sport24.ru/",
-    "date": 1522144808,
-    "edit_date": 1583185535,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "novosti",
-      "sport",
-      "artlebedev"
-    ],
-    "awards": []
-  },
-  {
     "id": 126,
     "title": "Брянский лес",
     "image": "data/images/126.jpg",
@@ -419,6 +398,27 @@
     "slugs": [
       "studiya",
       "portfolio"
+    ],
+    "awards": []
+  },
+  {
+    "id": 106,
+    "title": "Goods",
+    "image": "data/images/106.jpg",
+    "tags": [
+      "маркетплейс",
+      "магазин",
+      "мвидео"
+    ],
+    "url": "https://goods.ru/",
+    "date": 1520330593,
+    "edit_date": 1583185563,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "marketpleis",
+      "magazin",
+      "mvideo"
     ],
     "awards": []
   }

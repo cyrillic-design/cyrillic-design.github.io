@@ -1,33 +1,5 @@
 [
   {
-    "id": 689,
-    "title": "НИИ ЗаЯ",
-    "caption": "НИИ ЗаЯ\nhttps://breakfast.localkitchen.ru/\n\n#спецпроект #доставка #eggsellent #кухнянарайоне #readymag\nСпасибо за ссылку @genue",
-    "image": "data/images/689.jpg",
-    "tags": [
-      "спецпроект",
-      "доставка",
-      "eggsellent",
-      "кухнянарайоне",
-      "readymag"
-    ],
-    "url": "https://breakfast.localkitchen.ru/",
-    "date": 1584354235,
-    "edit_date": 1584360840,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "dostavka",
-      "eggsellent",
-      "kukhnyanaraione",
-      "readymag"
-    ],
-    "awards": []
-  },
-  {
     "id": 688,
     "title": "hochiminh",
     "caption": "hochiminh\nhttps://readymag.com/u64480371/1549696/\n\n☆ #спецпроект #культура #readymag #анастасиябурякова",
@@ -447,6 +419,25 @@
       "dizain",
       "readymag",
       "antonbalakin"
+    ],
+    "awards": []
+  },
+  {
+    "id": 421,
+    "title": "Яндекс.Авто",
+    "image": "data/images/421.jpg",
+    "tags": [
+      "промо",
+      "readymag"
+    ],
+    "url": "https://readymag.com/yandexgeoteam/1229224/",
+    "date": 1548410417,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "readymag"
     ],
     "awards": []
   }

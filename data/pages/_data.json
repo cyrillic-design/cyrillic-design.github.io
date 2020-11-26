@@ -10820,10 +10820,11 @@
     ],
     "url": "http://soyuz.moscow/",
     "date": 1606374783,
+    "edit_date": 1606401922,
     "isMonth": false,
     "isYear": false,
     "isHighlighted": false,
-    "isRemoved": false
+    "isRemoved": true
   },
   "829": {
     "id": 829,

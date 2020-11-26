@@ -1,30 +1,5 @@
 [
   {
-    "id": 148,
-    "title": "Ведомости",
-    "image": "data/images/148.jpg",
-    "tags": [
-      "новости",
-      "газета",
-      "бизнес",
-      "финансы",
-      "charmer"
-    ],
-    "url": "https://m.vedomosti.ru/",
-    "date": 1523872822,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "novosti",
-      "gazeta",
-      "biznes",
-      "finansi",
-      "charmer"
-    ],
-    "awards": []
-  },
-  {
     "id": 147,
     "title": "BlaBlaCar",
     "image": "data/images/147.jpg",
@@ -413,6 +388,27 @@
     "slugs": [
       "magazin",
       "ony"
+    ],
+    "awards": []
+  },
+  {
+    "id": 127,
+    "title": "sport24",
+    "image": "data/images/127.jpg",
+    "tags": [
+      "новости",
+      "спорт",
+      "artlebedev"
+    ],
+    "url": "https://sport24.ru/",
+    "date": 1522144808,
+    "edit_date": 1583185535,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "novosti",
+      "sport",
+      "artlebedev"
     ],
     "awards": []
   }

@@ -1,24 +1,5 @@
 [
   {
-    "id": 417,
-    "title": "Без ТЗ",
-    "image": "data/images/417.jpg",
-    "tags": [
-      "сервис",
-      "chulakov"
-    ],
-    "url": "https://beta.beztz.net/",
-    "date": 1548064813,
-    "edit_date": 1583185362,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "chulakov"
-    ],
-    "awards": []
-  },
-  {
     "id": 416,
     "title": "История будущего",
     "image": "data/images/416.jpg",
@@ -401,6 +382,27 @@
       "servis",
       "biznes",
       "finansi"
+    ],
+    "awards": []
+  },
+  {
+    "id": 396,
+    "title": "Дом-музей Карамзиных на Венце",
+    "image": "data/images/396.jpg",
+    "tags": [
+      "спецпроект",
+      "история",
+      "itechgroup"
+    ],
+    "url": "http://www.karamzin.info/home/",
+    "date": 1545472806,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "istoriya",
+      "itechgroup"
     ],
     "awards": []
   }

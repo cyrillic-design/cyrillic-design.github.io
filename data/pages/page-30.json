@@ -1,24 +1,5 @@
 [
   {
-    "id": 209,
-    "title": "24ttl",
-    "image": "data/images/209.jpg",
-    "tags": [
-      "агентство",
-      "портфолио"
-    ],
-    "url": "https://24ttl.ru/",
-    "date": 1529229614,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "agentstvo",
-      "portfolio"
-    ],
-    "awards": []
-  },
-  {
     "id": 208,
     "title": "Мегафон Банк",
     "image": "data/images/208.jpg",
@@ -406,6 +387,27 @@
       "servis",
       "uslugi",
       "promo"
+    ],
+    "awards": []
+  },
+  {
+    "id": 188,
+    "title": "Дизайн-студия 23",
+    "image": "data/images/188.jpg",
+    "tags": [
+      "студия",
+      "дизайн",
+      "портфолио"
+    ],
+    "url": "http://the23.design/",
+    "date": 1527501610,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "studiya",
+      "dizain",
+      "portfolio"
     ],
     "awards": []
   }
