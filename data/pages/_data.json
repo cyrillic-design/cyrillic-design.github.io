@@ -10807,5 +10807,22 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "828": {
+    "id": 828,
+    "title": "Союз",
+    "caption": "Союз\nhttp://soyuz.moscow/\n\n#портфолио #readymag #trudagency",
+    "image": "828.jpg",
+    "tags": [
+      "портфолио",
+      "readymag",
+      "trudagency"
+    ],
+    "url": "http://soyuz.moscow/",
+    "date": 1606374783,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

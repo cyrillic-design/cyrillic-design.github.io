@@ -1,5 +1,26 @@
 [
   {
+    "id": 349,
+    "title": "OFFF Tel-Aviv",
+    "image": "data/images/349.jpg",
+    "tags": [
+      "отчет",
+      "спецпроект",
+      "сергейандронов"
+    ],
+    "url": "https://offftlv.designgest.ru",
+    "date": 1541757613,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "otchet",
+      "spetsproekt",
+      "sergeiandronov"
+    ],
+    "awards": []
+  },
+  {
     "id": 348,
     "title": "Гусь-Хрустальный",
     "image": "data/images/348.jpg",
@@ -385,27 +406,6 @@
       "gorod",
       "promo",
       "the23"
-    ],
-    "awards": []
-  },
-  {
-    "id": 329,
-    "title": "СТС Love",
-    "image": "data/images/329.jpg",
-    "tags": [
-      "тв",
-      "видео",
-      "стс"
-    ],
-    "url": "https://ctclove.ru/",
-    "date": 1539770479,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "tv",
-      "video",
-      "sts"
     ],
     "awards": []
   }

@@ -1,5 +1,28 @@
 [
   {
+    "id": 828,
+    "title": "Союз",
+    "caption": "Союз\nhttp://soyuz.moscow/\n\n#портфолио #readymag #trudagency",
+    "image": "data/images/828.jpg",
+    "tags": [
+      "портфолио",
+      "readymag",
+      "trudagency"
+    ],
+    "url": "http://soyuz.moscow/",
+    "date": 1606374783,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "readymag",
+      "trudagency"
+    ],
+    "awards": []
+  },
+  {
     "id": 827,
     "title": "Союз",
     "caption": "Союз\nhttp://soyuz.moscow/\n\n#портфолио #readymag #trudagecy",
@@ -403,25 +426,6 @@
     "slugs": [
       "portfolio",
       "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 666,
-    "title": "Redo Bureau",
-    "caption": "Redo Bureau\nhttps://redobureau.com/ru\n\n☆ #портфолио",
-    "image": "data/images/666.jpg",
-    "tags": [
-      "портфолио"
-    ],
-    "url": "https://redobureau.com/ru",
-    "date": 1582279214,
-    "edit_date": 1584347808,
-    "isMonth": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio"
     ],
     "awards": []
   }
