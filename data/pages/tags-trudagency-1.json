@@ -1,0 +1,25 @@
+[
+  {
+    "id": 828,
+    "title": "Союз",
+    "caption": "Союз\nhttp://soyuz.moscow/\n\n#портфолио #readymag #trudagency",
+    "image": "data/images/828.jpg",
+    "tags": [
+      "портфолио",
+      "readymag",
+      "trudagency"
+    ],
+    "url": "http://soyuz.moscow/",
+    "date": 1606374783,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "readymag",
+      "trudagency"
+    ],
+    "awards": []
+  }
+]

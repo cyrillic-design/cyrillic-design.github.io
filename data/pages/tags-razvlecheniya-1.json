@@ -1,0 +1,25 @@
+[
+  {
+    "id": 175,
+    "title": "Ладожская Усадьба",
+    "image": "data/images/175.jpg",
+    "tags": [
+      "букинг",
+      "услуги",
+      "развлечения",
+      "cloudmill"
+    ],
+    "url": "http://ladoga.hellem.ru/",
+    "date": 1526378415,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "buking",
+      "uslugi",
+      "razvlecheniya",
+      "cloudmill"
+    ],
+    "awards": []
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 260,
+    "title": "MASH KARA",
+    "image": "data/images/260.jpg",
+    "tags": [
+      "производство",
+      "мода",
+      "xdesign"
+    ],
+    "url": "https://mashkara.com/",
+    "date": 1533636015,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "moda",
+      "xdesign"
+    ],
+    "awards": []
+  },
+  {
+    "id": 221,
+    "title": "ФАРТ",
+    "image": "data/images/221.jpg",
+    "tags": [
+      "производство",
+      "промо",
+      "xdesign"
+    ],
+    "url": "http://trubochka.ru/",
+    "date": 1530266410,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "promo",
+      "xdesign"
+    ],
+    "awards": []
+  }
+]

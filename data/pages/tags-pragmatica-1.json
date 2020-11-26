@@ -1,0 +1,29 @@
+[
+  {
+    "id": 743,
+    "title": "Марк Шагал",
+    "caption": "Марк Шагал\nhttps://mchagall.ru/\n\n#спецпроект #искусство #история #readymag #pragmatica \nСпасибо за ссылку @blinklinks",
+    "image": "data/images/743.jpg",
+    "tags": [
+      "спецпроект",
+      "искусство",
+      "история",
+      "readymag",
+      "pragmatica"
+    ],
+    "url": "https://mchagall.ru/",
+    "date": 1594224048,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "iskusstvo",
+      "istoriya",
+      "readymag",
+      "pragmatica"
+    ],
+    "awards": []
+  }
+]
