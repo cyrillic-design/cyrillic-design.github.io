@@ -1,5 +1,24 @@
 [
   {
+    "id": 170,
+    "title": "HANDWERS",
+    "image": "data/images/170.jpg",
+    "tags": [
+      "магазин",
+      "доставка"
+    ],
+    "url": "https://handwers.com/ru/",
+    "date": 1525946421,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "dostavka"
+    ],
+    "awards": []
+  },
+  {
     "id": 168,
     "title": "АВ Экспресс",
     "image": "data/images/168.jpg",

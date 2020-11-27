@@ -1,5 +1,26 @@
 [
   {
+    "id": 347,
+    "title": "Gracia Ceramica",
+    "image": "data/images/347.jpg",
+    "tags": [
+      "промо",
+      "магазин",
+      "производство"
+    ],
+    "url": "http://www.graciaceramica.com/",
+    "date": 1541584853,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "magazin",
+      "proizvodstvo"
+    ],
+    "awards": []
+  },
+  {
     "id": 345,
     "title": "Falafel + AIC",
     "image": "data/images/345.jpg",
@@ -377,25 +398,6 @@
     "isRemoved": false,
     "slugs": [
       "magazin"
-    ],
-    "awards": []
-  },
-  {
-    "id": 170,
-    "title": "HANDWERS",
-    "image": "data/images/170.jpg",
-    "tags": [
-      "магазин",
-      "доставка"
-    ],
-    "url": "https://handwers.com/ru/",
-    "date": 1525946421,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "dostavka"
     ],
     "awards": []
   }

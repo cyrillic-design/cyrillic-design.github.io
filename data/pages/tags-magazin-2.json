@@ -1,5 +1,24 @@
 [
   {
+    "id": 574,
+    "title": "NYLON ORCHID by P.Y.E X FKSHM",
+    "image": "data/images/574.jpg",
+    "tags": [
+      "магазин",
+      "breadhead"
+    ],
+    "url": "https://nylonorchid.pyeoptics.com/",
+    "date": 1566640851,
+    "edit_date": 1583183812,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "breadhead"
+    ],
+    "awards": []
+  },
+  {
     "id": 570,
     "title": "Rehabshop",
     "image": "data/images/570.jpg",
@@ -384,27 +403,6 @@
       "krasota",
       "magazin",
       "loremipsumlab"
-    ],
-    "awards": []
-  },
-  {
-    "id": 347,
-    "title": "Gracia Ceramica",
-    "image": "data/images/347.jpg",
-    "tags": [
-      "промо",
-      "магазин",
-      "производство"
-    ],
-    "url": "http://www.graciaceramica.com/",
-    "date": 1541584853,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "magazin",
-      "proizvodstvo"
     ],
     "awards": []
   }
