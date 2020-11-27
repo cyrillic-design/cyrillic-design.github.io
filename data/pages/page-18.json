@@ -1,5 +1,24 @@
 [
   {
+    "id": 462,
+    "title": "Балтийск",
+    "image": "data/images/462.jpg",
+    "tags": [
+      "город",
+      "кружок"
+    ],
+    "url": "https://pillau.city/",
+    "date": 1551866413,
+    "edit_date": 1583185363,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "gorod",
+      "kruzhok"
+    ],
+    "awards": []
+  },
+  {
     "id": 461,
     "title": "Co loft",
     "image": "data/images/461.jpg",
@@ -379,25 +398,6 @@
       "finansi",
       "servis",
       "shchuka"
-    ],
-    "awards": []
-  },
-  {
-    "id": 438,
-    "title": "Блог о дизайне в РБК",
-    "image": "data/images/438.jpg",
-    "tags": [
-      "блог",
-      "брендинг"
-    ],
-    "url": "http://branding.rbc.ru/",
-    "date": 1550138412,
-    "edit_date": 1583185362,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "blog",
-      "brending"
     ],
     "awards": []
   }

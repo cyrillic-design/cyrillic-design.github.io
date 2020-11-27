@@ -1,5 +1,24 @@
 [
   {
+    "id": 831,
+    "title": "Strelka shop",
+    "caption": "Strelka shop\nhttps://store.strelka.com/\n\n#магазин",
+    "image": "data/images/831.jpg",
+    "tags": [
+      "магазин"
+    ],
+    "url": "https://store.strelka.com/",
+    "date": 1606479767,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin"
+    ],
+    "awards": []
+  },
+  {
     "id": 830,
     "title": "(SPUTNIK)",
     "caption": "(SPUTNIK)\nhttps://sputnik-bags.ru/\n\n#магазин #nonobjectiveworks\nСпасибо за ссылку @masterlobster",
@@ -405,23 +424,6 @@
       "magazin",
       "servis",
       "artlebedev"
-    ],
-    "awards": []
-  },
-  {
-    "id": 579,
-    "title": "Магазин КликКлак",
-    "image": "data/images/579.jpg",
-    "tags": [
-      "магазин"
-    ],
-    "url": "https://klikklak.shop/",
-    "date": 1567936815,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin"
     ],
     "awards": []
   }

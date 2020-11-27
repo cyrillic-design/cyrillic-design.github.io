@@ -1,5 +1,22 @@
 [
   {
+    "id": 172,
+    "title": "re:Store",
+    "image": "data/images/172.jpg",
+    "tags": [
+      "магазин"
+    ],
+    "url": "https://www.re-store.ru/",
+    "date": 1526119218,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin"
+    ],
+    "awards": []
+  },
+  {
     "id": 170,
     "title": "HANDWERS",
     "image": "data/images/170.jpg",

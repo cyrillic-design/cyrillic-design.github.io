@@ -1,5 +1,22 @@
 [
   {
+    "id": 579,
+    "title": "Магазин КликКлак",
+    "image": "data/images/579.jpg",
+    "tags": [
+      "магазин"
+    ],
+    "url": "https://klikklak.shop/",
+    "date": 1567936815,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin"
+    ],
+    "awards": []
+  },
+  {
     "id": 574,
     "title": "NYLON ORCHID by P.Y.E X FKSHM",
     "image": "data/images/574.jpg",
@@ -382,27 +399,6 @@
       "moda",
       "odezhda",
       "magazin"
-    ],
-    "awards": []
-  },
-  {
-    "id": 366,
-    "title": "Kto Tut Beauty",
-    "image": "data/images/366.jpg",
-    "tags": [
-      "красота",
-      "магазин",
-      "loremipsumlab"
-    ],
-    "url": "https://ktotutbeauty.com/",
-    "date": 1543140018,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "krasota",
-      "magazin",
-      "loremipsumlab"
     ],
     "awards": []
   }

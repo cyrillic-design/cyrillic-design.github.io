@@ -1,5 +1,26 @@
 [
   {
+    "id": 366,
+    "title": "Kto Tut Beauty",
+    "image": "data/images/366.jpg",
+    "tags": [
+      "красота",
+      "магазин",
+      "loremipsumlab"
+    ],
+    "url": "https://ktotutbeauty.com/",
+    "date": 1543140018,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "krasota",
+      "magazin",
+      "loremipsumlab"
+    ],
+    "awards": []
+  },
+  {
     "id": 347,
     "title": "Gracia Ceramica",
     "image": "data/images/347.jpg",
@@ -376,23 +397,6 @@
     ],
     "url": "http://remarket-shop.ru/",
     "date": 1526464806,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin"
-    ],
-    "awards": []
-  },
-  {
-    "id": 172,
-    "title": "re:Store",
-    "image": "data/images/172.jpg",
-    "tags": [
-      "магазин"
-    ],
-    "url": "https://www.re-store.ru/",
-    "date": 1526119218,
     "edit_date": 1583185536,
     "isHighlighted": false,
     "isRemoved": false,

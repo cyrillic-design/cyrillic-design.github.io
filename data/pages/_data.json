@@ -10858,5 +10858,20 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "831": {
+    "id": 831,
+    "title": "Strelka shop",
+    "caption": "Strelka shop\nhttps://store.strelka.com/\n\n#магазин",
+    "image": "831.jpg",
+    "tags": [
+      "магазин"
+    ],
+    "url": "https://store.strelka.com/",
+    "date": 1606479767,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
