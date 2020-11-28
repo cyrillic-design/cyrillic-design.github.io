@@ -10888,5 +10888,21 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "833": {
+    "id": 833,
+    "title": "Masha Kasatkina",
+    "caption": "Masha Kasatkina\nhttp://mashakasatkina.com/\n\n#портфолио #readymag",
+    "image": "833.jpg",
+    "tags": [
+      "портфолио",
+      "readymag"
+    ],
+    "url": "http://mashakasatkina.com/",
+    "date": 1606600480,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
