@@ -10904,5 +10904,20 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "834": {
+    "id": 834,
+    "title": "Октябрь Скейтшоп",
+    "caption": "Октябрь Скейтшоп\nhttps://oktyabrskateshop.ru/\n\n#магазин",
+    "image": "834.jpg",
+    "tags": [
+      "магазин"
+    ],
+    "url": "https://oktyabrskateshop.ru/",
+    "date": 1606636801,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

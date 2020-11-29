@@ -1,5 +1,24 @@
 [
   {
+    "id": 834,
+    "title": "Октябрь Скейтшоп",
+    "caption": "Октябрь Скейтшоп\nhttps://oktyabrskateshop.ru/\n\n#магазин",
+    "image": "data/images/834.jpg",
+    "tags": [
+      "магазин"
+    ],
+    "url": "https://oktyabrskateshop.ru/",
+    "date": 1606636801,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin"
+    ],
+    "awards": []
+  },
+  {
     "id": 831,
     "title": "Strelka shop",
     "caption": "Strelka shop\nhttps://store.strelka.com/\n\n#магазин",
@@ -402,28 +421,6 @@
     "slugs": [
       "magazin",
       "facultative"
-    ],
-    "awards": []
-  },
-  {
-    "id": 580,
-    "title": "Forward",
-    "caption": "Forward\nhttps://xn--d1aiavecq8cxb.xn--p1ai/\n\n#магазин #сервис #artlebedev",
-    "image": "data/images/580.jpg",
-    "tags": [
-      "магазин",
-      "сервис",
-      "artlebedev"
-    ],
-    "url": "https://xn--d1aiavecq8cxb.xn--p1ai/",
-    "date": 1568023219,
-    "edit_date": 1583247394,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "servis",
-      "artlebedev"
     ],
     "awards": []
   }

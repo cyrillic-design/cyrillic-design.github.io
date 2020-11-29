@@ -1,5 +1,27 @@
 [
   {
+    "id": 580,
+    "title": "Forward",
+    "caption": "Forward\nhttps://xn--d1aiavecq8cxb.xn--p1ai/\n\n#магазин #сервис #artlebedev",
+    "image": "data/images/580.jpg",
+    "tags": [
+      "магазин",
+      "сервис",
+      "artlebedev"
+    ],
+    "url": "https://xn--d1aiavecq8cxb.xn--p1ai/",
+    "date": 1568023219,
+    "edit_date": 1583247394,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "servis",
+      "artlebedev"
+    ],
+    "awards": []
+  },
+  {
     "id": 579,
     "title": "Магазин КликКлак",
     "image": "data/images/579.jpg",
@@ -378,27 +400,6 @@
       "magazin",
       "proizvodstvo",
       "greensight"
-    ],
-    "awards": []
-  },
-  {
-    "id": 371,
-    "title": "KM20",
-    "image": "data/images/371.jpg",
-    "tags": [
-      "мода",
-      "одежда",
-      "магазин"
-    ],
-    "url": "https://www.km20.ru/",
-    "date": 1543572012,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "moda",
-      "odezhda",
-      "magazin"
     ],
     "awards": []
   }

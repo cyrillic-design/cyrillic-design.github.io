@@ -1,5 +1,22 @@
 [
   {
+    "id": 176,
+    "title": "re:market",
+    "image": "data/images/176.jpg",
+    "tags": [
+      "магазин"
+    ],
+    "url": "http://remarket-shop.ru/",
+    "date": 1526464806,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin"
+    ],
+    "awards": []
+  },
+  {
     "id": 172,
     "title": "re:Store",
     "image": "data/images/172.jpg",
