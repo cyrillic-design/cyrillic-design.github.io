@@ -1,0 +1,25 @@
+[
+  {
+    "id": 835,
+    "title": "",
+    "caption": "zerno.school\nhttps://zerno.school/\n\n#образование #readymag #машакасаткина\nСпасибо за ссылку @Dmitry_Shcherbyna",
+    "image": "data/images/835.jpg",
+    "tags": [
+      "образование",
+      "readymag",
+      "машакасаткина"
+    ],
+    "url": "https://zerno.school/",
+    "date": 1606802407,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "readymag",
+      "mashakasatkina"
+    ],
+    "awards": []
+  }
+]
