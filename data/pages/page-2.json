@@ -1,5 +1,26 @@
 [
   {
+    "id": 814,
+    "title": "Кристина Колесникова",
+    "caption": "Кристина Колесникова\nhttps://kriskol.ru/\n\n#образование #tilda",
+    "image": "data/images/814.jpg",
+    "tags": [
+      "образование",
+      "tilda"
+    ],
+    "url": "https://kriskol.ru/",
+    "date": 1605180555,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "tilda"
+    ],
+    "awards": []
+  },
+  {
     "id": 813,
     "title": "Intervals Festival",
     "caption": "Intervals Festival\nhttps://intervalsfest.com/\n\n#заглушка #мероприятие #readymag #dreamlaser",
@@ -426,33 +447,6 @@
       "spetsproekt",
       "obrazovanie",
       "kruzhok"
-    ],
-    "awards": []
-  },
-  {
-    "id": 789,
-    "title": "Как поёт искусственный интеллект",
-    "caption": "Как поёт искусственный интеллект\nhttps://readymag.com/marykobanenko/musicai/\n\n#спецпроект #музыка #образование #readymag #машакобаненко\nСпасибо за ссылку @marykobanenko",
-    "image": "data/images/789.jpg",
-    "tags": [
-      "спецпроект",
-      "музыка",
-      "образование",
-      "readymag",
-      "машакобаненко"
-    ],
-    "url": "https://readymag.com/marykobanenko/musicai/",
-    "date": 1603455413,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "muzika",
-      "obrazovanie",
-      "readymag",
-      "mashakobanenko"
     ],
     "awards": []
   }

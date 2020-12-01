@@ -10936,5 +10936,20 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "837": {
+    "id": 837,
+    "title": "Strelka Institute",
+    "caption": "Strelka Institute\nhttps://strelka.com/ru/\n\n#образование\nСпасибо за ссылку @loskomag",
+    "image": "837.jpg",
+    "tags": [
+      "образование"
+    ],
+    "url": "https://strelka.com/ru/",
+    "date": 1606831209,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
