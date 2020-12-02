@@ -1,5 +1,28 @@
 [
   {
+    "id": 840,
+    "title": "Лето целого года",
+    "caption": "Лето целого года\nhttps://navzvade.ru\n\n#спецпроект #образование #кружок",
+    "image": "data/images/840.jpg",
+    "tags": [
+      "спецпроект",
+      "образование",
+      "кружок"
+    ],
+    "url": "https://navzvade.ru",
+    "date": 1606910824,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "obrazovanie",
+      "kruzhok"
+    ],
+    "awards": []
+  },
+  {
     "id": 811,
     "title": "Село Глазок",
     "caption": "Село Глазок\nhttps://seloglazok.ru/\n\n#спецпроект #образование  #кружок\nСпасибо за ссылку @AndyAbramov",

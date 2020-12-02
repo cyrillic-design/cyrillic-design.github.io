@@ -10967,5 +10967,22 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "840": {
+    "id": 840,
+    "title": "Лето целого года",
+    "caption": "Лето целого года\nhttps://navzvade.ru\n\n#спецпроект #образование #кружок",
+    "image": "840.jpg",
+    "tags": [
+      "спецпроект",
+      "образование",
+      "кружок"
+    ],
+    "url": "https://navzvade.ru",
+    "date": 1606910824,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

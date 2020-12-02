@@ -1,5 +1,28 @@
 [
   {
+    "id": 840,
+    "title": "Лето целого года",
+    "caption": "Лето целого года\nhttps://navzvade.ru\n\n#спецпроект #образование #кружок",
+    "image": "data/images/840.jpg",
+    "tags": [
+      "спецпроект",
+      "образование",
+      "кружок"
+    ],
+    "url": "https://navzvade.ru",
+    "date": 1606910824,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "obrazovanie",
+      "kruzhok"
+    ],
+    "awards": []
+  },
+  {
     "id": 823,
     "title": "Конструктор",
     "caption": "Конструктор\nhttps://constructor.jewish-museum.ru/ru\n\n#спецпроект #игра #музей #materialist",
@@ -466,31 +489,6 @@
       "iskusstvo",
       "tilda",
       "netlab"
-    ],
-    "awards": []
-  },
-  {
-    "id": 729,
-    "title": "Сижу дома",
-    "caption": "Сижу дома\nhttp://stau-acasa.tilda.ws/\n\n#спецпроект #здоровье #tilda #onbureau",
-    "image": "data/images/729.jpg",
-    "tags": [
-      "спецпроект",
-      "здоровье",
-      "tilda",
-      "onbureau"
-    ],
-    "url": "http://stau-acasa.tilda.ws/",
-    "date": 1590487296,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "zdorove",
-      "tilda",
-      "onbureau"
     ],
     "awards": []
   }

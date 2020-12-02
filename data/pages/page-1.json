@@ -1,5 +1,28 @@
 [
   {
+    "id": 840,
+    "title": "Лето целого года",
+    "caption": "Лето целого года\nhttps://navzvade.ru\n\n#спецпроект #образование #кружок",
+    "image": "data/images/840.jpg",
+    "tags": [
+      "спецпроект",
+      "образование",
+      "кружок"
+    ],
+    "url": "https://navzvade.ru",
+    "date": 1606910824,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "obrazovanie",
+      "kruzhok"
+    ],
+    "awards": []
+  },
+  {
     "id": 839,
     "title": "Барьер очистители для воды",
     "caption": "Барьер очистители для воды\nhttps://wd.barrier.ru/\n\n#промо #max\nСпасибо за ссылку @max_kanalchik",
@@ -413,32 +436,6 @@
     "slugs": [
       "agentstvo",
       "portfolio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 816,
-    "title": "MY FRUIT!",
-    "caption": "MY FRUIT!\nhttps://myfruit.com.ua/\n\n#сервис #магазин #tilda #кириллжарков",
-    "image": "data/images/816.jpg",
-    "tags": [
-      "сервис",
-      "магазин",
-      "tilda",
-      "кириллжарков"
-    ],
-    "url": "https://myfruit.com.ua/",
-    "date": 1605437594,
-    "edit_date": 1605476891,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "magazin",
-      "tilda",
-      "kirillzharkov"
     ],
     "awards": []
   }
