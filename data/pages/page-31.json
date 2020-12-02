@@ -1,5 +1,28 @@
 [
   {
+    "id": 196,
+    "title": "Esquire",
+    "image": "data/images/196.jpg",
+    "tags": [
+      "журнал",
+      "люди",
+      "новости",
+      "мода"
+    ],
+    "url": "https://esquire.ru/",
+    "date": 1528106414,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "lyudi",
+      "novosti",
+      "moda"
+    ],
+    "awards": []
+  },
+  {
     "id": 195,
     "title": "FRUIT UP",
     "image": "data/images/195.jpg",
@@ -392,29 +415,6 @@
     "isRemoved": false,
     "slugs": [
       "magazin"
-    ],
-    "awards": []
-  },
-  {
-    "id": 175,
-    "title": "Ладожская Усадьба",
-    "image": "data/images/175.jpg",
-    "tags": [
-      "букинг",
-      "услуги",
-      "развлечения",
-      "cloudmill"
-    ],
-    "url": "http://ladoga.hellem.ru/",
-    "date": 1526378415,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "buking",
-      "uslugi",
-      "razvlecheniya",
-      "cloudmill"
     ],
     "awards": []
   }

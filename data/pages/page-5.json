@@ -1,5 +1,26 @@
 [
   {
+    "id": 750,
+    "title": "Unit",
+    "caption": "Unit\nhttps://unit-studio.ru/\n\n#производство #wemakefab",
+    "image": "data/images/750.jpg",
+    "tags": [
+      "производство",
+      "wemakefab"
+    ],
+    "url": "https://unit-studio.ru/",
+    "date": 1595412031,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "wemakefab"
+    ],
+    "awards": []
+  },
+  {
     "id": 749,
     "title": "СЛЫШ",
     "caption": "СЛЫШ\nhttps://podfest.ru/\n\n#мероприятие #readymag #артемматюшкин #nonobjectiveworks\nСпасибо за ссылку @AndyAbramov",
@@ -444,32 +465,6 @@
       "obrazovanie",
       "meropriyatie",
       "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 730,
-    "title": "Курс прозы «Глагол»",
-    "caption": "Курс прозы «Глагол»\nhttp://glglgl.ru/\n\n#образование #мероприятие #readymag #nonobjectiveworks",
-    "image": "data/images/730.jpg",
-    "tags": [
-      "образование",
-      "мероприятие",
-      "readymag",
-      "nonobjectiveworks"
-    ],
-    "url": "http://glglgl.ru/",
-    "date": 1590573617,
-    "edit_date": 1600870401,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "meropriyatie",
-      "readymag",
-      "nonobjectiveworks"
     ],
     "awards": []
   }

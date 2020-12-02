@@ -1,5 +1,26 @@
 [
   {
+    "id": 839,
+    "title": "Барьер очистители для воды",
+    "caption": "Барьер очистители для воды\nhttps://wd.barrier.ru/\n\n#промо #max\nСпасибо за ссылку @max_kanalchik",
+    "image": "data/images/839.jpg",
+    "tags": [
+      "промо",
+      "max"
+    ],
+    "url": "https://wd.barrier.ru/",
+    "date": 1606896008,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "max"
+    ],
+    "awards": []
+  },
+  {
     "id": 808,
     "title": "Березки",
     "caption": "Березки\nhttps://readymag.com/glebstul/beryozki/\n\n#промо #readymag #nadyapetrova",
@@ -453,29 +474,6 @@
     "slugs": [
       "promo",
       "violettapostnova"
-    ],
-    "awards": []
-  },
-  {
-    "id": 684,
-    "title": "Яндекс.Заправки",
-    "caption": "Яндекс.Заправки\nhttps://zapravki.yandex.ru/\n\n☆ #приложение #сервис #промо #яндекс",
-    "image": "data/images/684.jpg",
-    "tags": [
-      "приложение",
-      "сервис",
-      "промо",
-      "яндекс"
-    ],
-    "url": "https://zapravki.yandex.ru/",
-    "date": 1583920822,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "prilozhenie",
-      "servis",
-      "promo",
-      "yandeks"
     ],
     "awards": []
   }
