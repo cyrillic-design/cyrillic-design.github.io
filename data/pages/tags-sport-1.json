@@ -1,5 +1,28 @@
 [
   {
+    "id": 842,
+    "title": "Зенит 84",
+    "caption": "Зенит 84\nhttp://1984.infografika.agency/\n\n#спецпроект #спорт #история\nСпасибо за ссылку @egorkomarov",
+    "image": "data/images/842.jpg",
+    "tags": [
+      "спецпроект",
+      "спорт",
+      "история"
+    ],
+    "url": "http://1984.infografika.agency/",
+    "date": 1607004008,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "sport",
+      "istoriya"
+    ],
+    "awards": []
+  },
+  {
     "id": 825,
     "title": "Гол.ру",
     "caption": "Гол.ру\nhttps://gol.ru/\n\n#спорт #новости #сми #charmer",
