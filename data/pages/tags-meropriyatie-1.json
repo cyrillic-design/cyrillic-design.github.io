@@ -1,5 +1,30 @@
 [
   {
+    "id": 841,
+    "title": "Новый театр",
+    "caption": "Новый театр\nhttps://newteatr.com/\n\n#мероприятие #искусство #readymag #redcollar",
+    "image": "data/images/841.jpg",
+    "tags": [
+      "мероприятие",
+      "искусство",
+      "readymag",
+      "redcollar"
+    ],
+    "url": "https://newteatr.com/",
+    "date": 1606982407,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "iskusstvo",
+      "readymag",
+      "redcollar"
+    ],
+    "awards": []
+  },
+  {
     "id": 820,
     "title": "LEVEL UP FORUM",
     "caption": "LEVEL UP FORUM\nhttps://levelup-forum.ru/\n\n#мероприятие #образование #tilda #никитаковров",
@@ -466,28 +491,6 @@
       "obrazovanie",
       "meropriyatie",
       "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 675,
-    "title": "Театральная школа Karavaev Lab",
-    "caption": "Театральная школа Karavaev Lab\nhttps://karavaev-lab.ru/\n\n☆ #образование #мероприятие #tilda",
-    "image": "data/images/675.jpg",
-    "tags": [
-      "образование",
-      "мероприятие",
-      "tilda"
-    ],
-    "url": "https://karavaev-lab.ru/",
-    "date": 1583316024,
-    "edit_date": 1583524339,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "meropriyatie",
-      "tilda"
     ],
     "awards": []
   }
