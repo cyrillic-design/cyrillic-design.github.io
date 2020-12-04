@@ -11020,5 +11020,22 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "843": {
+    "id": 843,
+    "title": "Журнал Винвестора",
+    "caption": "Журнал Винвестора\nhttps://winvestor.media/\n\n#журнал #финансы #инвестиции\nСпасибо за ссылку @Dmitry_Shcherbyna",
+    "image": "843.jpg",
+    "tags": [
+      "журнал",
+      "финансы",
+      "инвестиции"
+    ],
+    "url": "https://winvestor.media/",
+    "date": 1607068808,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

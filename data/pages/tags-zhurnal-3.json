@@ -1,5 +1,26 @@
 [
   {
+    "id": 99,
+    "title": "Т—Ж",
+    "image": "data/images/99.jpg",
+    "tags": [
+      "финансы",
+      "журнал",
+      "медиа"
+    ],
+    "url": "https://journal.tinkoff.ru/",
+    "date": 1519812007,
+    "edit_date": 1583185563,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "finansi",
+      "zhurnal",
+      "media"
+    ],
+    "awards": []
+  },
+  {
     "id": 76,
     "title": "Republic",
     "image": "data/images/76.jpg",
