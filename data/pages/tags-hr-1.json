@@ -1,5 +1,28 @@
 [
   {
+    "id": 846,
+    "title": "Работа в компании Северсталь",
+    "caption": "Работа в компании Северсталь\nhttps://career.severstal.com/\n\n#производство #hr #artlebedev",
+    "image": "data/images/846.jpg",
+    "tags": [
+      "производство",
+      "hr",
+      "artlebedev"
+    ],
+    "url": "https://career.severstal.com/",
+    "date": 1607421607,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "hr",
+      "artlebedev"
+    ],
+    "awards": []
+  },
+  {
     "id": 763,
     "title": "Буду",
     "caption": "Буду\nhttps://budu.jobs/\n\n#сервис #работа #каталог #hr",

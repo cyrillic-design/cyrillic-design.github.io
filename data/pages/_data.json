@@ -11073,5 +11073,22 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "846": {
+    "id": 846,
+    "title": "Работа в компании Северсталь",
+    "caption": "Работа в компании Северсталь\nhttps://career.severstal.com/\n\n#производство #hr #artlebedev",
+    "image": "846.jpg",
+    "tags": [
+      "производство",
+      "hr",
+      "artlebedev"
+    ],
+    "url": "https://career.severstal.com/",
+    "date": 1607421607,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
