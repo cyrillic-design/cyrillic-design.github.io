@@ -1,5 +1,27 @@
 [
   {
+    "id": 676,
+    "title": "LUXENGLISH",
+    "caption": "LUXENGLISH\nhttps://luxenglish.ru/\n\n☆ #образование #мероприятие #readymag",
+    "image": "data/images/676.jpg",
+    "tags": [
+      "образование",
+      "мероприятие",
+      "readymag"
+    ],
+    "url": "https://luxenglish.ru/",
+    "date": 1583402410,
+    "edit_date": 1583666034,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "meropriyatie",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 675,
     "title": "Театральная школа Karavaev Lab",
     "caption": "Театральная школа Karavaev Lab\nhttps://karavaev-lab.ru/\n\n☆ #образование #мероприятие #tilda",
@@ -380,26 +402,6 @@
     "slugs": [
       "meropriyatie",
       "yandeks"
-    ],
-    "awards": []
-  },
-  {
-    "id": 481,
-    "title": "Pluton",
-    "caption": "Pluton\nhttps://pluton.moscow/\n\n#музыка #мероприятие",
-    "image": "data/images/481.jpg",
-    "tags": [
-      "музыка",
-      "мероприятие"
-    ],
-    "url": "https://pluton.moscow/",
-    "date": 1553594440,
-    "edit_date": 1583439485,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "muzika",
-      "meropriyatie"
     ],
     "awards": []
   }

@@ -1,5 +1,22 @@
 [
   {
+    "id": 536,
+    "title": "Школа дизайна НИУ ВШЭ",
+    "image": "data/images/536.jpg",
+    "tags": [
+      "образование"
+    ],
+    "url": "https://design.hse.ru/",
+    "date": 1561024839,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie"
+    ],
+    "awards": []
+  },
+  {
     "id": 500,
     "title": "Журнал «Код»",
     "image": "data/images/500.jpg",
@@ -379,25 +396,6 @@
     "isRemoved": false,
     "slugs": [
       "meropriyatie",
-      "obrazovanie"
-    ],
-    "awards": []
-  },
-  {
-    "id": 270,
-    "title": "",
-    "image": "data/images/270.jpg",
-    "tags": [
-      "журнал",
-      "образование"
-    ],
-    "url": "https://platfor.ma/",
-    "date": 1534500003,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "zhurnal",
       "obrazovanie"
     ],
     "awards": []

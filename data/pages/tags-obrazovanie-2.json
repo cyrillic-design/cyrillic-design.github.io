@@ -1,5 +1,28 @@
 [
   {
+    "id": 714,
+    "title": "Яндекс.Практикум",
+    "caption": "Яндекс.Практикум\nhttps://praktikum.yandex.ru/\n\n#образование #шад #яндекс",
+    "image": "data/images/714.jpg",
+    "tags": [
+      "образование",
+      "шад",
+      "яндекс"
+    ],
+    "url": "https://praktikum.yandex.ru/",
+    "date": 1587117611,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "shad",
+      "yandeks"
+    ],
+    "awards": []
+  },
+  {
     "id": 712,
     "title": "Флоу",
     "caption": "Флоу\nhttps://flow.yandex.ru/\n\n#образование #шад #яндекс\nСпасибо за ссылку @AndyAbramov",
@@ -413,23 +436,6 @@
     "slugs": [
       "obrazovanie",
       "yandeks"
-    ],
-    "awards": []
-  },
-  {
-    "id": 536,
-    "title": "Школа дизайна НИУ ВШЭ",
-    "image": "data/images/536.jpg",
-    "tags": [
-      "образование"
-    ],
-    "url": "https://design.hse.ru/",
-    "date": 1561024839,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie"
     ],
     "awards": []
   }

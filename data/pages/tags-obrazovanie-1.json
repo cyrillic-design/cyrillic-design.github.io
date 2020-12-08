@@ -1,5 +1,30 @@
 [
   {
+    "id": 847,
+    "title": "Grow this, Grow that: Product designer",
+    "caption": "Grow this, Grow that: Product designer\nhttps://vectorly.team/grow-this-grow-that-ru/product-designer\n\n#мероприятие #подкаст #образование #webflow\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/847.jpg",
+    "tags": [
+      "мероприятие",
+      "подкаст",
+      "образование",
+      "webflow"
+    ],
+    "url": "https://vectorly.team/grow-this-grow-that-ru/product-designer",
+    "date": 1607446132,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "podkast",
+      "obrazovanie",
+      "webflow"
+    ],
+    "awards": []
+  },
+  {
     "id": 840,
     "title": "Лето целого года",
     "caption": "Лето целого года\nhttps://navzvade.ru/\n\n#спецпроект #образование #кружок",
@@ -438,29 +463,6 @@
       "obrazovanie",
       "readymag",
       "tanyaegoshina"
-    ],
-    "awards": []
-  },
-  {
-    "id": 714,
-    "title": "Яндекс.Практикум",
-    "caption": "Яндекс.Практикум\nhttps://praktikum.yandex.ru/\n\n#образование #шад #яндекс",
-    "image": "data/images/714.jpg",
-    "tags": [
-      "образование",
-      "шад",
-      "яндекс"
-    ],
-    "url": "https://praktikum.yandex.ru/",
-    "date": 1587117611,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "shad",
-      "yandeks"
     ],
     "awards": []
   }
