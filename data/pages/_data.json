@@ -11108,5 +11108,22 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "848": {
+    "id": 848,
+    "title": "Путеводитель по Краснодарскому краю",
+    "caption": "Путеводитель по Краснодарскому краю\nhttp://kk.specials.zapovednik.space/\n\n#спецпроект #культура #readymag\nСпасибо за ссылку @Dmitry_Shcherbyna",
+    "image": "848.jpg",
+    "tags": [
+      "спецпроект",
+      "культура",
+      "readymag"
+    ],
+    "url": "http://kk.specials.zapovednik.space/",
+    "date": 1607508008,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

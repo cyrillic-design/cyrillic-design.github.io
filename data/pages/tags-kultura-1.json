@@ -1,5 +1,28 @@
 [
   {
+    "id": 848,
+    "title": "Путеводитель по Краснодарскому краю",
+    "caption": "Путеводитель по Краснодарскому краю\nhttp://kk.specials.zapovednik.space/\n\n#спецпроект #культура #readymag\nСпасибо за ссылку @Dmitry_Shcherbyna",
+    "image": "data/images/848.jpg",
+    "tags": [
+      "спецпроект",
+      "культура",
+      "readymag"
+    ],
+    "url": "http://kk.specials.zapovednik.space/",
+    "date": 1607508008,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "kultura",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 845,
     "title": "Новгород грядущий",
     "caption": "Новгород грядущий\nhttp://specials.zapovednik.space/velikynovgorod/\n\n#спецпроект #история #культура #readymag #kandales",
@@ -436,27 +459,6 @@
       "spetsproekt",
       "pamyat",
       "dianadubina"
-    ],
-    "awards": []
-  },
-  {
-    "id": 60,
-    "title": "Музей современного искусства «Гараж»",
-    "image": "data/images/60.jpg",
-    "tags": [
-      "культура",
-      "музей",
-      "charmer"
-    ],
-    "url": "garagemca.org",
-    "date": 1518278428,
-    "edit_date": 1583185563,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "kultura",
-      "muzei",
-      "charmer"
     ],
     "awards": []
   }
