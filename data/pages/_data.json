@@ -11125,5 +11125,23 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "849": {
+    "id": 849,
+    "title": "Дом рабочей молодежи Оттендорф",
+    "caption": "Дом рабочей молодежи Оттендорф\nhttps://ottendorf.space/\n\n#спецпроект #история #tilda #gruppa",
+    "image": "849.jpg",
+    "tags": [
+      "спецпроект",
+      "история",
+      "tilda",
+      "gruppa"
+    ],
+    "url": "https://ottendorf.space/",
+    "date": 1607594408,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
