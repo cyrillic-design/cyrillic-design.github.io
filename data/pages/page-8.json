@@ -1,5 +1,26 @@
 [
   {
+    "id": 702,
+    "title": "Losko",
+    "caption": "Losko\nhttps://losko.ru/\n\n#журнал #люди",
+    "image": "data/images/702.jpg",
+    "tags": [
+      "журнал",
+      "люди"
+    ],
+    "url": "https://losko.ru/",
+    "date": 1586070011,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "lyudi"
+    ],
+    "awards": []
+  },
+  {
     "id": 700,
     "title": "Reading clubs Skyeng",
     "caption": "Reading clubs Skyeng\nhttps://readymag.com/u49498434/ReadingSkyeng/\n\n#промо #образование #otherland #readymag",
@@ -460,28 +481,6 @@
       "bank",
       "bks",
       "kukhnyanaraione"
-    ],
-    "awards": []
-  },
-  {
-    "id": 680,
-    "title": "Визуальные Тренды 2020",
-    "caption": "Визуальные Тренды 2020\nhttps://ru.depositphotos.com/trends2020\n\n☆ #тренды #промо #михаилвербицкий",
-    "image": "data/images/680.jpg",
-    "tags": [
-      "тренды",
-      "промо",
-      "михаилвербицкий"
-    ],
-    "url": "https://ru.depositphotos.com/trends2020",
-    "date": 1583661651,
-    "edit_date": 1583666142,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "trendi",
-      "promo",
-      "mikhailverbitskii"
     ],
     "awards": []
   }

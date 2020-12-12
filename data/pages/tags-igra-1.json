@@ -1,5 +1,28 @@
 [
   {
+    "id": 851,
+    "title": "Настольная игра \"Поиграй со шрифтами\"",
+    "caption": "Настольная игра \"Поиграй со шрифтами\"\nhttps://paratype.skillbox.ru/\n\n#промо #игра #tilda",
+    "image": "data/images/851.jpg",
+    "tags": [
+      "промо",
+      "игра",
+      "tilda"
+    ],
+    "url": "https://paratype.skillbox.ru/",
+    "date": 1607767206,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "igra",
+      "tilda"
+    ],
+    "awards": []
+  },
+  {
     "id": 823,
     "title": "Конструктор",
     "caption": "Конструктор\nhttps://constructor.jewish-museum.ru/ru\n\n#спецпроект #игра #музей #materialist",

@@ -1,5 +1,28 @@
 [
   {
+    "id": 851,
+    "title": "Настольная игра \"Поиграй со шрифтами\"",
+    "caption": "Настольная игра \"Поиграй со шрифтами\"\nhttps://paratype.skillbox.ru/\n\n#промо #игра #tilda",
+    "image": "data/images/851.jpg",
+    "tags": [
+      "промо",
+      "игра",
+      "tilda"
+    ],
+    "url": "https://paratype.skillbox.ru/",
+    "date": 1607767206,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "igra",
+      "tilda"
+    ],
+    "awards": []
+  },
+  {
     "id": 849,
     "title": "Дом рабочей молодежи Оттендорф",
     "caption": "Дом рабочей молодежи Оттендорф\nhttps://ottendorf.space/\n\n#спецпроект #история #tilda #gruppa",
@@ -456,30 +479,6 @@
     "slugs": [
       "obrazovanie",
       "meropriyatie",
-      "tilda"
-    ],
-    "awards": []
-  },
-  {
-    "id": 655,
-    "title": "ExperimentFest + Яндекс.Практикум",
-    "caption": "ExperimentFest + Яндекс.Практикум\nhttps://www.experiment-fest.ru/\n\n☆ #мероприятие #яндекс #викторакифьев #tilda\n♡ @AndyAbramov",
-    "image": "data/images/655.jpg",
-    "tags": [
-      "мероприятие",
-      "яндекс",
-      "викторакифьев",
-      "tilda"
-    ],
-    "url": "https://www.experiment-fest.ru/",
-    "date": 1579255225,
-    "edit_date": 1583687238,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "meropriyatie",
-      "yandeks",
-      "viktorakifev",
       "tilda"
     ],
     "awards": []
