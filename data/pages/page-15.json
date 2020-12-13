@@ -1,5 +1,24 @@
 [
   {
+    "id": 550,
+    "title": "Татцентр.ру",
+    "image": "data/images/550.jpg",
+    "tags": [
+      "издание",
+      "stride"
+    ],
+    "url": "http://tatcenter.ru/",
+    "date": 1563191436,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "izdanie",
+      "stride"
+    ],
+    "awards": []
+  },
+  {
     "id": 548,
     "title": "РОССМА",
     "image": "data/images/548.jpg",
@@ -354,27 +373,6 @@
       "promo",
       "moda",
       "zaglushka"
-    ],
-    "awards": []
-  },
-  {
-    "id": 528,
-    "title": "Квартиротека ИКЕА",
-    "image": "data/images/528.jpg",
-    "tags": [
-      "магазин",
-      "доставка",
-      "сервис"
-    ],
-    "url": "https://www.ikea.com/ext/ru/kvartiroteka/",
-    "date": 1559901624,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "dostavka",
-      "servis"
     ],
     "awards": []
   }

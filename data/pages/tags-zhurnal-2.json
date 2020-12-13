@@ -1,5 +1,26 @@
 [
   {
+    "id": 463,
+    "title": "Журнал Авто.ру",
+    "image": "data/images/463.jpg",
+    "tags": [
+      "журнал",
+      "авто",
+      "яндекс"
+    ],
+    "url": "https://mag.auto.ru/",
+    "date": 1551952815,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "avto",
+      "yandeks"
+    ],
+    "awards": []
+  },
+  {
     "id": 436,
     "title": "PRAGMATIKA MEDIA",
     "image": "data/images/436.jpg",
@@ -381,27 +402,6 @@
     "slugs": [
       "magazin",
       "zhurnal"
-    ],
-    "awards": []
-  },
-  {
-    "id": 103,
-    "title": "Inc.Russia",
-    "image": "data/images/103.jpg",
-    "tags": [
-      "журнал",
-      "медиа",
-      "бизнес"
-    ],
-    "url": "https://incrussia.ru/",
-    "date": 1520152874,
-    "edit_date": 1583185563,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "zhurnal",
-      "media",
-      "biznes"
     ],
     "awards": []
   }
