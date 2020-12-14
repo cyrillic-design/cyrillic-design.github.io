@@ -1,5 +1,26 @@
 [
   {
+    "id": 461,
+    "title": "Co loft",
+    "image": "data/images/461.jpg",
+    "tags": [
+      "недвижимость",
+      "промо",
+      "strangebrain"
+    ],
+    "url": "https://coloft.ru/",
+    "date": 1551780011,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "nedvizhimost",
+      "promo",
+      "strangebrain"
+    ],
+    "awards": []
+  },
+  {
     "id": 450,
     "title": "Гостиница Ольга",
     "image": "data/images/450.jpg",
@@ -381,27 +402,6 @@
       "promo",
       "yeda",
       "thefirstthelast"
-    ],
-    "awards": []
-  },
-  {
-    "id": 335,
-    "title": "Глюкометр Сателлит Экспресс",
-    "image": "data/images/335.jpg",
-    "tags": [
-      "промо",
-      "здоровье",
-      "creativepeople"
-    ],
-    "url": "http://satellite-express.ru/",
-    "date": 1540548005,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "zdorove",
-      "creativepeople"
     ],
     "awards": []
   }

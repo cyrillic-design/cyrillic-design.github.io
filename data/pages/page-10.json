@@ -1,5 +1,28 @@
 [
   {
+    "id": 657,
+    "title": "Падение берлинской стены",
+    "image": "data/images/657.jpg",
+    "tags": [
+      "спецпроект",
+      "readymag",
+      "аланаликов",
+      "сашакац"
+    ],
+    "url": "https://mauerfall.diletant.media/",
+    "date": 1579687256,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "readymag",
+      "alanalikov",
+      "sashakats"
+    ],
+    "awards": []
+  },
+  {
     "id": 656,
     "title": "GoKirtan",
     "image": "data/images/656.jpg",
@@ -388,27 +411,6 @@
       "lyudi",
       "pomoshch",
       "sulliwan"
-    ],
-    "awards": []
-  },
-  {
-    "id": 636,
-    "title": "Шапша",
-    "image": "data/images/636.jpg",
-    "tags": [
-      "спецпроект",
-      "люди",
-      "кружок"
-    ],
-    "url": "https://shapsha.io/",
-    "date": 1575626449,
-    "edit_date": 1583183700,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "lyudi",
-      "kruzhok"
     ],
     "awards": []
   }

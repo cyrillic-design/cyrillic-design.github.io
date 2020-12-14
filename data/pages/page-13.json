@@ -1,5 +1,22 @@
 [
   {
+    "id": 596,
+    "title": "GaidLine",
+    "image": "data/images/596.jpg",
+    "tags": [
+      "журнал"
+    ],
+    "url": "http://justice.gaidline.media/",
+    "date": 1569943902,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal"
+    ],
+    "awards": []
+  },
+  {
     "id": 595,
     "title": "Державні послуги онлайн",
     "image": "data/images/595.jpg",
@@ -367,23 +384,6 @@
       "servis",
       "yeda",
       "dostavka"
-    ],
-    "awards": []
-  },
-  {
-    "id": 571,
-    "title": "Valve Index",
-    "image": "data/images/571.jpg",
-    "tags": [
-      "промо"
-    ],
-    "url": "https://www.valvesoftware.com/ru/index",
-    "date": 1566210899,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo"
     ],
     "awards": []
   }

@@ -1,5 +1,22 @@
 [
   {
+    "id": 409,
+    "title": "Evrone",
+    "image": "data/images/409.jpg",
+    "tags": [
+      "портфолио"
+    ],
+    "url": "https://evrone.ru/",
+    "date": 1547373613,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio"
+    ],
+    "awards": []
+  },
+  {
     "id": 404,
     "title": "Banda agency",
     "image": "data/images/404.jpg",
@@ -355,27 +372,6 @@
     "isRemoved": false,
     "slugs": [
       "agentstvo",
-      "portfolio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 241,
-    "title": "спіілка дизайн бюро",
-    "image": "data/images/241.jpg",
-    "tags": [
-      "студия",
-      "дизайн",
-      "портфолио"
-    ],
-    "url": "http://spiilka.com.ua/",
-    "date": 1531994420,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "studiya",
-      "dizain",
       "portfolio"
     ],
     "awards": []

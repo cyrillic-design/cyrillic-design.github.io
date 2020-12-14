@@ -11193,5 +11193,24 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "853": {
+    "id": 853,
+    "title": "Кривицкий — адвокаты бизнеса",
+    "caption": "Кривицкий — адвокаты бизнеса\nhttps://krivitzky.ru/\n\n#промо #портфолио #услуги #бизнес #artlebedev",
+    "image": "853.jpg",
+    "tags": [
+      "промо",
+      "портфолио",
+      "услуги",
+      "бизнес",
+      "artlebedev"
+    ],
+    "url": "https://krivitzky.ru/",
+    "date": 1607935323,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

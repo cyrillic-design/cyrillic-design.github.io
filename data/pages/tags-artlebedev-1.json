@@ -1,5 +1,32 @@
 [
   {
+    "id": 853,
+    "title": "Кривицкий — адвокаты бизнеса",
+    "caption": "Кривицкий — адвокаты бизнеса\nhttps://krivitzky.ru/\n\n#промо #портфолио #услуги #бизнес #artlebedev",
+    "image": "data/images/853.jpg",
+    "tags": [
+      "промо",
+      "портфолио",
+      "услуги",
+      "бизнес",
+      "artlebedev"
+    ],
+    "url": "https://krivitzky.ru/",
+    "date": 1607935323,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "portfolio",
+      "uslugi",
+      "biznes",
+      "artlebedev"
+    ],
+    "awards": []
+  },
+  {
     "id": 846,
     "title": "Работа в компании Северсталь",
     "caption": "Работа в компании Северсталь\nhttps://career.severstal.com/\n\n#производство #hr #artlebedev",

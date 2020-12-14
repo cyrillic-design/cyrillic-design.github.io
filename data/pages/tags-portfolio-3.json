@@ -1,5 +1,24 @@
 [
   {
+    "id": 553,
+    "title": "Пётр Юшин",
+    "image": "data/images/553.jpg",
+    "tags": [
+      "портфолио",
+      "perushevandkhmelev"
+    ],
+    "url": "https://yushinpetr.com/ru/",
+    "date": 1563444011,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "perushevandkhmelev"
+    ],
+    "awards": []
+  },
+  {
     "id": 551,
     "title": "БюроБюро",
     "image": "data/images/551.jpg",
@@ -349,23 +368,6 @@
     "slugs": [
       "portfolio",
       "studiya"
-    ],
-    "awards": []
-  },
-  {
-    "id": 409,
-    "title": "Evrone",
-    "image": "data/images/409.jpg",
-    "tags": [
-      "портфолио"
-    ],
-    "url": "https://evrone.ru/",
-    "date": 1547373613,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio"
     ],
     "awards": []
   }
