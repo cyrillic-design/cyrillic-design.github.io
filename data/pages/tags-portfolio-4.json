@@ -1,5 +1,24 @@
 [
   {
+    "id": 416,
+    "title": "История будущего",
+    "image": "data/images/416.jpg",
+    "tags": [
+      "портфолио",
+      "студия"
+    ],
+    "url": "http://futurehistory.ru/",
+    "date": 1547978408,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "studiya"
+    ],
+    "awards": []
+  },
+  {
     "id": 409,
     "title": "Evrone",
     "image": "data/images/409.jpg",
@@ -353,25 +372,6 @@
     "isRemoved": false,
     "slugs": [
       "studiya",
-      "portfolio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 245,
-    "title": "Geex Arts",
-    "image": "data/images/245.jpg",
-    "tags": [
-      "агентство",
-      "портфолио"
-    ],
-    "url": "https://geex-arts.com/",
-    "date": 1532340021,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "agentstvo",
       "portfolio"
     ],
     "awards": []
