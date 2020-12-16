@@ -1,5 +1,26 @@
 [
   {
+    "id": 373,
+    "title": "ТМК",
+    "image": "data/images/373.jpg",
+    "tags": [
+      "магазин",
+      "производство",
+      "greensight"
+    ],
+    "url": "https://www.tmktools.ru/",
+    "date": 1543744814,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "proizvodstvo",
+      "greensight"
+    ],
+    "awards": []
+  },
+  {
     "id": 371,
     "title": "KM20",
     "image": "data/images/371.jpg",
@@ -387,25 +408,6 @@
     "slugs": [
       "magazin",
       "hellobarty"
-    ],
-    "awards": []
-  },
-  {
-    "id": 178,
-    "title": "Lamp In Room",
-    "image": "data/images/178.jpg",
-    "tags": [
-      "магазин",
-      "braind"
-    ],
-    "url": "https://www.lampinroom.ru/",
-    "date": 1526637607,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "braind"
     ],
     "awards": []
   }

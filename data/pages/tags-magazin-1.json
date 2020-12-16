@@ -1,5 +1,26 @@
 [
   {
+    "id": 856,
+    "title": "Playthings to Love",
+    "caption": "Playthings to Love\nhttps://shop.kotok.toys/\n\n#магазин #vigbo\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/856.jpg",
+    "tags": [
+      "магазин",
+      "vigbo"
+    ],
+    "url": "https://shop.kotok.toys/",
+    "date": 1608112808,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "vigbo"
+    ],
+    "awards": []
+  },
+  {
     "id": 834,
     "title": "Октябрь Скейтшоп",
     "caption": "Октябрь Скейтшоп\nhttps://oktyabrskateshop.ru/\n\n#магазин",
@@ -402,25 +423,6 @@
     "isRemoved": false,
     "slugs": [
       "magazin"
-    ],
-    "awards": []
-  },
-  {
-    "id": 581,
-    "title": "P.Y.E",
-    "image": "data/images/581.jpg",
-    "tags": [
-      "магазин",
-      "facultative"
-    ],
-    "url": "https://pyeoptics.com/",
-    "date": 1568109625,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "facultative"
     ],
     "awards": []
   }

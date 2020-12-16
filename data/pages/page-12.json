@@ -1,5 +1,26 @@
 [
   {
+    "id": 618,
+    "title": "Как читать Набокова",
+    "image": "data/images/618.jpg",
+    "tags": [
+      "спецпроект",
+      "readymag",
+      "азбукааттикус"
+    ],
+    "url": "https://nabokov.azbooka.ru/",
+    "date": 1572343260,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "readymag",
+      "azbukaattikus"
+    ],
+    "awards": []
+  },
+  {
     "id": 617,
     "title": "NETTO",
     "image": "data/images/617.jpg",
@@ -374,25 +395,6 @@
       "spetsproekt",
       "muzika",
       "yandeks"
-    ],
-    "awards": []
-  },
-  {
-    "id": 598,
-    "title": "FGA",
-    "image": "data/images/598.jpg",
-    "tags": [
-      "портфолио",
-      "groznovco"
-    ],
-    "url": "http://fga.art/",
-    "date": 1570607452,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio",
-      "groznovco"
     ],
     "awards": []
   }

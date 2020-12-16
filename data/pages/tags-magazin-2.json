@@ -1,5 +1,24 @@
 [
   {
+    "id": 581,
+    "title": "P.Y.E",
+    "image": "data/images/581.jpg",
+    "tags": [
+      "магазин",
+      "facultative"
+    ],
+    "url": "https://pyeoptics.com/",
+    "date": 1568109625,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "facultative"
+    ],
+    "awards": []
+  },
+  {
     "id": 580,
     "title": "Forward",
     "caption": "Forward\nhttps://xn--d1aiavecq8cxb.xn--p1ai/\n\n#магазин #сервис #artlebedev",
@@ -379,27 +398,6 @@
       "moda",
       "magazin",
       "itsagency"
-    ],
-    "awards": []
-  },
-  {
-    "id": 373,
-    "title": "ТМК",
-    "image": "data/images/373.jpg",
-    "tags": [
-      "магазин",
-      "производство",
-      "greensight"
-    ],
-    "url": "https://www.tmktools.ru/",
-    "date": 1543744814,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "proizvodstvo",
-      "greensight"
     ],
     "awards": []
   }
