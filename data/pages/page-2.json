@@ -1,5 +1,24 @@
 [
   {
+    "id": 834,
+    "title": "Октябрь Скейтшоп",
+    "caption": "Октябрь Скейтшоп\nhttps://oktyabrskateshop.ru/\n\n#магазин",
+    "image": "data/images/834.jpg",
+    "tags": [
+      "магазин"
+    ],
+    "url": "https://oktyabrskateshop.ru/",
+    "date": 1606636801,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin"
+    ],
+    "awards": []
+  },
+  {
     "id": 833,
     "title": "Masha Kasatkina",
     "caption": "Masha Kasatkina\nhttp://mashakasatkina.com/\n\n#портфолио #readymag",
@@ -428,28 +447,6 @@
       "meropriyatie",
       "readymag",
       "dreamlaser"
-    ],
-    "awards": []
-  },
-  {
-    "id": 812,
-    "title": "Wannabelike — Illarion Gordon",
-    "caption": "Wannabelike — Illarion Gordon\nhttps://wannabelike.ru/gordon/\n\n#образование #readymag",
-    "image": "data/images/812.jpg",
-    "tags": [
-      "образование",
-      "readymag"
-    ],
-    "url": "https://wannabelike.ru/gordon/",
-    "date": 1605002436,
-    "edit_date": 1605008929,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "readymag"
     ],
     "awards": []
   }

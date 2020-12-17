@@ -11246,5 +11246,22 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "857": {
+    "id": 857,
+    "title": "Вселенная Тинькофф",
+    "caption": "Вселенная Тинькофф\nhttps://universe.project.tinkoff.ru/\n\n#финансы #банк #спецпроект",
+    "image": "857.jpg",
+    "tags": [
+      "финансы",
+      "банк",
+      "спецпроект"
+    ],
+    "url": "https://universe.project.tinkoff.ru/",
+    "date": 1608199206,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

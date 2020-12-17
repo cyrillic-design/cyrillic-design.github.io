@@ -1,5 +1,28 @@
 [
   {
+    "id": 857,
+    "title": "Вселенная Тинькофф",
+    "caption": "Вселенная Тинькофф\nhttps://universe.project.tinkoff.ru/\n\n#финансы #банк #спецпроект",
+    "image": "data/images/857.jpg",
+    "tags": [
+      "финансы",
+      "банк",
+      "спецпроект"
+    ],
+    "url": "https://universe.project.tinkoff.ru/",
+    "date": 1608199206,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "finansi",
+      "bank",
+      "spetsproekt"
+    ],
+    "awards": []
+  },
+  {
     "id": 791,
     "title": "Fintech Design Conf",
     "caption": "Fintech Design Conf\nhttps://fintechdesign.ru/\n\n#мероприятие #финансы #банк",
@@ -435,27 +458,6 @@
       "finansi",
       "bank",
       "chulakov"
-    ],
-    "awards": []
-  },
-  {
-    "id": 174,
-    "title": "РОСГОССТРАХ БАНК",
-    "image": "data/images/174.jpg",
-    "tags": [
-      "банк",
-      "финансы",
-      "aic"
-    ],
-    "url": "https://www.rgsbank.ru/",
-    "date": 1526292021,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "bank",
-      "finansi",
-      "aic"
     ],
     "awards": []
   }
