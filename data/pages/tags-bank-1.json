@@ -1,5 +1,30 @@
 [
   {
+    "id": 858,
+    "title": "Дело Модульбанка",
+    "caption": "Дело Модульбанка\nhttps://delo.modulbank.ru/\n\n#издание #финансы #банк #update\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/858.jpg",
+    "tags": [
+      "издание",
+      "финансы",
+      "банк",
+      "update"
+    ],
+    "url": "https://delo.modulbank.ru/",
+    "date": 1608285607,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "izdanie",
+      "finansi",
+      "bank",
+      "update"
+    ],
+    "awards": []
+  },
+  {
     "id": 857,
     "title": "Вселенная Тинькофф",
     "caption": "Вселенная Тинькофф\nhttps://universe.project.tinkoff.ru/\n\n#финансы #банк #спецпроект",
@@ -437,27 +462,6 @@
       "finansi",
       "biznes",
       "bks"
-    ],
-    "awards": []
-  },
-  {
-    "id": 208,
-    "title": "Мегафон Банк",
-    "image": "data/images/208.jpg",
-    "tags": [
-      "финансы",
-      "банк",
-      "chulakov"
-    ],
-    "url": "https://bank.megafon.ru/",
-    "date": 1529143211,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "finansi",
-      "bank",
-      "chulakov"
     ],
     "awards": []
   }

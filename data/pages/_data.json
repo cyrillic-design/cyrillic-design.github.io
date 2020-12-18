@@ -11263,5 +11263,23 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "858": {
+    "id": 858,
+    "title": "Дело Модульбанка",
+    "caption": "Дело Модульбанка\nhttps://delo.modulbank.ru/\n\n#издание #финансы #банк #update\nСпасибо за ссылку @AndyAbramov",
+    "image": "858.jpg",
+    "tags": [
+      "издание",
+      "финансы",
+      "банк",
+      "update"
+    ],
+    "url": "https://delo.modulbank.ru/",
+    "date": 1608285607,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

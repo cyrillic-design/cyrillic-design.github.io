@@ -1,5 +1,26 @@
 [
   {
+    "id": 208,
+    "title": "Мегафон Банк",
+    "image": "data/images/208.jpg",
+    "tags": [
+      "финансы",
+      "банк",
+      "chulakov"
+    ],
+    "url": "https://bank.megafon.ru/",
+    "date": 1529143211,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "finansi",
+      "bank",
+      "chulakov"
+    ],
+    "awards": []
+  },
+  {
     "id": 174,
     "title": "РОСГОССТРАХ БАНК",
     "image": "data/images/174.jpg",
