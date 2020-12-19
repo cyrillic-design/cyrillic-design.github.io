@@ -1,5 +1,26 @@
 [
   {
+    "id": 353,
+    "title": "Orient Finans Bank",
+    "image": "data/images/353.jpg",
+    "tags": [
+      "банк",
+      "финансы",
+      "artlebedev"
+    ],
+    "url": "https://ofb.uz/",
+    "date": 1542103221,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "bank",
+      "finansi",
+      "artlebedev"
+    ],
+    "awards": []
+  },
+  {
     "id": 301,
     "title": "Яндекс.Касса",
     "image": "data/images/301.jpg",
@@ -410,27 +431,6 @@
     "slugs": [
       "finansi",
       "bank"
-    ],
-    "awards": []
-  },
-  {
-    "id": 99,
-    "title": "Т—Ж",
-    "image": "data/images/99.jpg",
-    "tags": [
-      "финансы",
-      "журнал",
-      "медиа"
-    ],
-    "url": "https://journal.tinkoff.ru/",
-    "date": 1519812007,
-    "edit_date": 1583185563,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "finansi",
-      "zhurnal",
-      "media"
     ],
     "awards": []
   }
