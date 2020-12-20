@@ -1,5 +1,26 @@
 [
   {
+    "id": 334,
+    "title": "SOLO",
+    "image": "data/images/334.jpg",
+    "tags": [
+      "сервис",
+      "доставка",
+      "еда"
+    ],
+    "url": "https://solofood.ru/",
+    "date": 1540461619,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "dostavka",
+      "yeda"
+    ],
+    "awards": []
+  },
+  {
     "id": 331,
     "title": "homeapp",
     "image": "data/images/331.jpg",
@@ -381,23 +402,6 @@
     "date": 1528624801,
     "edit_date": 1583185536,
     "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "servis"
-    ],
-    "awards": []
-  },
-  {
-    "id": 199,
-    "title": "Bookmate",
-    "image": "data/images/199.jpg",
-    "tags": [
-      "сервис"
-    ],
-    "url": "https://ru.bookmate.com/",
-    "date": 1528365608,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
       "servis"

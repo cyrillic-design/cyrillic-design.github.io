@@ -11299,5 +11299,22 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "860": {
+    "id": 860,
+    "title": "Troove",
+    "caption": "Troove\nhttps://troove.ru/\n\n#промо #сервис #приложение\nСпасибо за ссылку @Hovsky",
+    "image": "860.jpg",
+    "tags": [
+      "промо",
+      "сервис",
+      "приложение"
+    ],
+    "url": "https://troove.ru/",
+    "date": 1608458406,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

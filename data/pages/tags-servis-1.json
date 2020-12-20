@@ -1,5 +1,28 @@
 [
   {
+    "id": 860,
+    "title": "Troove",
+    "caption": "Troove\nhttps://troove.ru/\n\n#промо #сервис #приложение\nСпасибо за ссылку @Hovsky",
+    "image": "data/images/860.jpg",
+    "tags": [
+      "промо",
+      "сервис",
+      "приложение"
+    ],
+    "url": "https://troove.ru/",
+    "date": 1608458406,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "servis",
+      "prilozhenie"
+    ],
+    "awards": []
+  },
+  {
     "id": 859,
     "title": "МТС Твой бизнес — Квиз",
     "caption": "МТС Твой бизнес — Квиз\nhttps://tb.mts.ru/quiz/\n\n#финансы #сервис #игра #бизнес\nСпасибо за ссылку @stasplkv",
@@ -453,24 +476,6 @@
       "servis",
       "dannie",
       "artlebedev"
-    ],
-    "awards": []
-  },
-  {
-    "id": 671,
-    "title": "Просто-Ремонт",
-    "caption": "Просто-Ремонт\nhttps://prosto-remont.com/\n\n☆ #сервис",
-    "image": "data/images/671.jpg",
-    "tags": [
-      "сервис"
-    ],
-    "url": "https://prosto-remont.com/",
-    "date": 1583143227,
-    "edit_date": 1583663787,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis"
     ],
     "awards": []
   }

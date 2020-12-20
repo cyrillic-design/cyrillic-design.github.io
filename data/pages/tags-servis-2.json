@@ -1,5 +1,23 @@
 [
   {
+    "id": 671,
+    "title": "Просто-Ремонт",
+    "caption": "Просто-Ремонт\nhttps://prosto-remont.com/\n\n☆ #сервис",
+    "image": "data/images/671.jpg",
+    "tags": [
+      "сервис"
+    ],
+    "url": "https://prosto-remont.com/",
+    "date": 1583143227,
+    "edit_date": 1583663787,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis"
+    ],
+    "awards": []
+  },
+  {
     "id": 670,
     "title": "Единый Транспортный Портал",
     "caption": "Единый Транспортный Портал\nhttps://transport.mos.ru/\n\n☆ #город #сервис #artlebedev",
@@ -372,25 +390,6 @@
       "promo",
       "prilozhenie",
       "servis"
-    ],
-    "awards": []
-  },
-  {
-    "id": 506,
-    "title": "BestDoctor",
-    "image": "data/images/506.jpg",
-    "tags": [
-      "сервис",
-      "здоровье"
-    ],
-    "url": "https://bestdoctor.ru/",
-    "date": 1557914456,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "zdorove"
     ],
     "awards": []
   }
