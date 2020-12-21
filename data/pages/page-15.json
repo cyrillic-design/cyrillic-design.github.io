@@ -1,5 +1,22 @@
 [
   {
+    "id": 558,
+    "title": "Кружок — Музыка",
+    "image": "data/images/558.jpg",
+    "tags": [
+      "спецпроект"
+    ],
+    "url": "https://music.kruzhok.io",
+    "date": 1564135219,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt"
+    ],
+    "awards": []
+  },
+  {
     "id": 557,
     "title": "WRS99",
     "caption": "WRS99\nhttps://wrs99.store\n\n#промо #whiterussianstudio",
@@ -353,23 +370,6 @@
       "servis",
       "muzika",
       "stride"
-    ],
-    "awards": []
-  },
-  {
-    "id": 536,
-    "title": "Школа дизайна НИУ ВШЭ",
-    "image": "data/images/536.jpg",
-    "tags": [
-      "образование"
-    ],
-    "url": "https://design.hse.ru/",
-    "date": 1561024839,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie"
     ],
     "awards": []
   }

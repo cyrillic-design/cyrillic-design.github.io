@@ -1,5 +1,26 @@
 [
   {
+    "id": 88,
+    "title": "РайффайзенБанк",
+    "image": "data/images/88.jpg",
+    "tags": [
+      "банк",
+      "финансы",
+      "aic"
+    ],
+    "url": "https://www.raiffeisen.ru/",
+    "date": 1519288519,
+    "edit_date": 1583185563,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "bank",
+      "finansi",
+      "aic"
+    ],
+    "awards": []
+  },
+  {
     "id": 87,
     "title": "Buddha pizza",
     "image": "data/images/87.jpg",

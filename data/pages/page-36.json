@@ -1,5 +1,28 @@
 [
   {
+    "id": 115,
+    "title": "Президент России",
+    "image": "data/images/115.jpg",
+    "tags": [
+      "государство",
+      "медиа",
+      "россия",
+      "labag"
+    ],
+    "url": "http://kremlin.ru/",
+    "date": 1521108016,
+    "edit_date": 1583185535,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "gosudarstvo",
+      "media",
+      "rossiya",
+      "labag"
+    ],
+    "awards": []
+  },
+  {
     "id": 114,
     "title": "Додо Пицца",
     "image": "data/images/114.jpg",
@@ -397,27 +420,6 @@
       "promo",
       "samsung",
       "rbk"
-    ],
-    "awards": []
-  },
-  {
-    "id": 88,
-    "title": "РайффайзенБанк",
-    "image": "data/images/88.jpg",
-    "tags": [
-      "банк",
-      "финансы",
-      "aic"
-    ],
-    "url": "https://www.raiffeisen.ru/",
-    "date": 1519288519,
-    "edit_date": 1583185563,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "bank",
-      "finansi",
-      "aic"
     ],
     "awards": []
   }
