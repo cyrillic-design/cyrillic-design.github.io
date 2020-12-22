@@ -1,5 +1,22 @@
 [
   {
+    "id": 339,
+    "title": "Майк Юхтенко",
+    "image": "data/images/339.jpg",
+    "tags": [
+      "портфолио"
+    ],
+    "url": "http://maicle.ru/",
+    "date": 1540893615,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio"
+    ],
+    "awards": []
+  },
+  {
     "id": 338,
     "title": "SpicyNoSpicy",
     "image": "data/images/338.jpg",
@@ -389,27 +406,6 @@
       "iskusstvo",
       "yevreiskiimuzei",
       "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 319,
-    "title": "Программа «Открытые двери» на Airbnb",
-    "image": "data/images/319.jpg",
-    "tags": [
-      "люди",
-      "помощь",
-      "airbnb"
-    ],
-    "url": "https://www.airbnb.ru/openhomes",
-    "date": 1538645430,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "lyudi",
-      "pomoshch",
-      "airbnb"
     ],
     "awards": []
   }
