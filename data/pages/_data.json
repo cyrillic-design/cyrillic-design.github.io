@@ -11349,5 +11349,21 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "863": {
+    "id": 863,
+    "title": "Итоги года ВКонтакте",
+    "caption": "Итоги года ВКонтакте\nhttps://vk.com/2020\n\n#спецпроект #итоги",
+    "image": "863.jpg",
+    "tags": [
+      "спецпроект",
+      "итоги"
+    ],
+    "url": "https://vk.com/2020",
+    "date": 1608717607,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

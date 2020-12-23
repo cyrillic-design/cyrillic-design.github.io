@@ -1,5 +1,26 @@
 [
   {
+    "id": 863,
+    "title": "Итоги года ВКонтакте",
+    "caption": "Итоги года ВКонтакте\nhttps://vk.com/2020\n\n#спецпроект #итоги",
+    "image": "data/images/863.jpg",
+    "tags": [
+      "спецпроект",
+      "итоги"
+    ],
+    "url": "https://vk.com/2020",
+    "date": 1608717607,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "itogi"
+    ],
+    "awards": []
+  },
+  {
     "id": 410,
     "title": "КиноПоиск — Итоги 2018 года",
     "image": "data/images/410.jpg",

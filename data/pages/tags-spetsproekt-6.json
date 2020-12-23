@@ -1,5 +1,22 @@
 [
   {
+    "id": 149,
+    "title": "Выпуск 90",
+    "image": "data/images/149.jpg",
+    "tags": [
+      "спецпроект"
+    ],
+    "url": "https://90.theoryandpractice.ru/",
+    "date": 1523961893,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt"
+    ],
+    "awards": []
+  },
+  {
     "id": 144,
     "title": "+1",
     "image": "data/images/144.jpg",
