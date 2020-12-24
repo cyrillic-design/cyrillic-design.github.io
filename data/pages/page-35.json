@@ -1,5 +1,24 @@
 [
   {
+    "id": 139,
+    "title": "Yota",
+    "image": "data/images/139.jpg",
+    "tags": [
+      "провайдер",
+      "услуги"
+    ],
+    "url": "https://www.yota.ru/",
+    "date": 1523181607,
+    "edit_date": 1583185535,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "provaider",
+      "uslugi"
+    ],
+    "awards": []
+  },
+  {
     "id": 138,
     "title": "pcc world",
     "image": "data/images/138.jpg",
@@ -392,31 +411,6 @@
       "provaider",
       "uslugi",
       "ony"
-    ],
-    "awards": []
-  },
-  {
-    "id": 119,
-    "title": "Живая память",
-    "image": "data/images/119.jpg",
-    "tags": [
-      "спецпроект",
-      "государство",
-      "люди",
-      "история",
-      "google"
-    ],
-    "url": "http://pisma.prlib.ru/",
-    "date": 1521453616,
-    "edit_date": 1583185535,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "gosudarstvo",
-      "lyudi",
-      "istoriya",
-      "google"
     ],
     "awards": []
   }

@@ -1,5 +1,24 @@
 [
   {
+    "id": 160,
+    "title": "Дистопия",
+    "image": "data/images/160.jpg",
+    "tags": [
+      "издание",
+      "искусство"
+    ],
+    "url": "http://dystopia.me/",
+    "date": 1524909617,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "izdanie",
+      "iskusstvo"
+    ],
+    "awards": []
+  },
+  {
     "id": 159,
     "title": "Servermall",
     "image": "data/images/159.jpg",
@@ -386,25 +405,6 @@
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
-      "uslugi"
-    ],
-    "awards": []
-  },
-  {
-    "id": 139,
-    "title": "Yota",
-    "image": "data/images/139.jpg",
-    "tags": [
-      "провайдер",
-      "услуги"
-    ],
-    "url": "https://www.yota.ru/",
-    "date": 1523181607,
-    "edit_date": 1583185535,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "provaider",
       "uslugi"
     ],
     "awards": []
