@@ -1,5 +1,28 @@
 [
   {
+    "id": 179,
+    "title": "Телеграф",
+    "image": "data/images/179.jpg",
+    "tags": [
+      "журнал",
+      "образование",
+      "люди",
+      "the23"
+    ],
+    "url": "http://telegraf.design/",
+    "date": 1526724012,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "obrazovanie",
+      "lyudi",
+      "the23"
+    ],
+    "awards": []
+  },
+  {
     "id": 178,
     "title": "Lamp In Room",
     "image": "data/images/178.jpg",
@@ -391,25 +414,6 @@
     "slugs": [
       "izdanie",
       "iskusstvo"
-    ],
-    "awards": []
-  },
-  {
-    "id": 159,
-    "title": "Servermall",
-    "image": "data/images/159.jpg",
-    "tags": [
-      "магазин",
-      "промо"
-    ],
-    "url": "https://servermall.ru/",
-    "date": 1524823212,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "promo"
     ],
     "awards": []
   }

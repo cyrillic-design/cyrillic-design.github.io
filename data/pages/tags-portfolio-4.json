@@ -1,5 +1,26 @@
 [
   {
+    "id": 430,
+    "title": "Cross Art Studio",
+    "image": "data/images/430.jpg",
+    "tags": [
+      "портфолио",
+      "студия",
+      "flat12"
+    ],
+    "url": "http://art-cross.ru",
+    "date": 1549447217,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "studiya",
+      "flat12"
+    ],
+    "awards": []
+  },
+  {
     "id": 420,
     "title": "Kelnik",
     "image": "data/images/420.jpg",
@@ -353,25 +374,6 @@
     "isRemoved": false,
     "slugs": [
       "agentstvo",
-      "portfolio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 252,
-    "title": "Студия Олега Чулакова",
-    "image": "data/images/252.jpg",
-    "tags": [
-      "студия",
-      "портфолио"
-    ],
-    "url": "https://chulakov.ru/",
-    "date": 1532944822,
-    "edit_date": 1583185435,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "studiya",
       "portfolio"
     ],
     "awards": []

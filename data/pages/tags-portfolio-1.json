@@ -1,5 +1,26 @@
 [
   {
+    "id": 864,
+    "title": "Студия genue",
+    "caption": "Студия genue\nhttps://genue.ru/\n\n#портфолио #update",
+    "image": "data/images/864.jpg",
+    "tags": [
+      "портфолио",
+      "update"
+    ],
+    "url": "https://genue.ru/",
+    "date": 1608804008,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "update"
+    ],
+    "awards": []
+  },
+  {
     "id": 861,
     "title": "Trinity",
     "caption": "Trinity\nhttps://trinitymonsters.com/\n\n#портфолио #eshgruppa\nP.S. Поправьте Сапёр - играть невозможно :)",
@@ -406,27 +427,6 @@
       "portfolio",
       "readymag",
       "octo"
-    ],
-    "awards": []
-  },
-  {
-    "id": 733,
-    "title": "Beans Agency",
-    "caption": "Beans Agency\nhttps://beans.agency/uk/\n\n#портфолио #агентство",
-    "image": "data/images/733.jpg",
-    "tags": [
-      "портфолио",
-      "агентство"
-    ],
-    "url": "https://beans.agency/uk/",
-    "date": 1591092008,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio",
-      "agentstvo"
     ],
     "awards": []
   }
