@@ -1,5 +1,30 @@
 [
   {
+    "id": 866,
+    "title": "Lubimovka Festival",
+    "caption": "Lubimovka Festival\nhttps://new.lubimovka.ru/\n\n#мероприятие #брендинг #readymag #shishki",
+    "image": "data/images/866.jpg",
+    "tags": [
+      "мероприятие",
+      "брендинг",
+      "readymag",
+      "shishki"
+    ],
+    "url": "https://new.lubimovka.ru/",
+    "date": 1608890407,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "brending",
+      "readymag",
+      "shishki"
+    ],
+    "awards": []
+  },
+  {
     "id": 865,
     "title": "ПОМОЩЬ",
     "caption": "ПОМОЩЬ\nhttps://pomosch.app/\n\n#благотворительность #помощь #приложение #ony",
@@ -438,33 +463,6 @@
       "proizvodstvo",
       "hr",
       "artlebedev"
-    ],
-    "awards": []
-  },
-  {
-    "id": 845,
-    "title": "Новгород грядущий",
-    "caption": "Новгород грядущий\nhttp://specials.zapovednik.space/velikynovgorod/\n\n#спецпроект #история #культура #readymag #kandales",
-    "image": "data/images/845.jpg",
-    "tags": [
-      "спецпроект",
-      "история",
-      "культура",
-      "readymag",
-      "kandales"
-    ],
-    "url": "http://specials.zapovednik.space/velikynovgorod/",
-    "date": 1607335208,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "istoriya",
-      "kultura",
-      "readymag",
-      "kandales"
     ],
     "awards": []
   }

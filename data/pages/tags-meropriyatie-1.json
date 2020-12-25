@@ -1,5 +1,30 @@
 [
   {
+    "id": 866,
+    "title": "Lubimovka Festival",
+    "caption": "Lubimovka Festival\nhttps://new.lubimovka.ru/\n\n#мероприятие #брендинг #readymag #shishki",
+    "image": "data/images/866.jpg",
+    "tags": [
+      "мероприятие",
+      "брендинг",
+      "readymag",
+      "shishki"
+    ],
+    "url": "https://new.lubimovka.ru/",
+    "date": 1608890407,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "brending",
+      "readymag",
+      "shishki"
+    ],
+    "awards": []
+  },
+  {
     "id": 847,
     "title": "Grow this, Grow that: Product designer",
     "caption": "Grow this, Grow that: Product designer\nhttps://vectorly.team/grow-this-grow-that-ru/product-designer\n\n#мероприятие #подкаст #образование #webflow\nСпасибо за ссылку @AndyAbramov",
@@ -470,30 +495,6 @@
     "slugs": [
       "obrazovanie",
       "meropriyatie"
-    ],
-    "awards": []
-  },
-  {
-    "id": 683,
-    "title": "В моем репертуаре",
-    "caption": "В моем репертуаре\nhttps://truetoform.me/\n\n☆ #сервис #промо #мероприятие #readymag",
-    "image": "data/images/683.jpg",
-    "tags": [
-      "сервис",
-      "промо",
-      "мероприятие",
-      "readymag"
-    ],
-    "url": "https://truetoform.me/",
-    "date": 1583834419,
-    "edit_date": 1583834486,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "promo",
-      "meropriyatie",
-      "readymag"
     ],
     "awards": []
   }

@@ -11399,5 +11399,23 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "866": {
+    "id": 866,
+    "title": "Lubimovka Festival",
+    "caption": "Lubimovka Festival\nhttps://new.lubimovka.ru/\n\n#мероприятие #брендинг #readymag #shishki",
+    "image": "866.jpg",
+    "tags": [
+      "мероприятие",
+      "брендинг",
+      "readymag",
+      "shishki"
+    ],
+    "url": "https://new.lubimovka.ru/",
+    "date": 1608890407,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
