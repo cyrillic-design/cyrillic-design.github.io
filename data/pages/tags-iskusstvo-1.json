@@ -1,5 +1,28 @@
 [
   {
+    "id": 867,
+    "title": "Zuzeum",
+    "caption": "Zuzeum\nhttps://www.zuzeum.com/ru/\n\n#искусство #мероприятие #культура",
+    "image": "data/images/867.jpg",
+    "tags": [
+      "искусство",
+      "мероприятие",
+      "культура"
+    ],
+    "url": "https://www.zuzeum.com/ru/",
+    "date": 1608976806,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "iskusstvo",
+      "meropriyatie",
+      "kultura"
+    ],
+    "awards": []
+  },
+  {
     "id": 841,
     "title": "Новый театр",
     "caption": "Новый театр\nhttps://newteatr.com/\n\n#мероприятие #искусство #readymag #redcollar",

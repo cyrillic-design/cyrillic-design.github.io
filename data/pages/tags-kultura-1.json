@@ -1,5 +1,28 @@
 [
   {
+    "id": 867,
+    "title": "Zuzeum",
+    "caption": "Zuzeum\nhttps://www.zuzeum.com/ru/\n\n#искусство #мероприятие #культура",
+    "image": "data/images/867.jpg",
+    "tags": [
+      "искусство",
+      "мероприятие",
+      "культура"
+    ],
+    "url": "https://www.zuzeum.com/ru/",
+    "date": 1608976806,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "iskusstvo",
+      "meropriyatie",
+      "kultura"
+    ],
+    "awards": []
+  },
+  {
     "id": 848,
     "title": "Путеводитель по Краснодарскому краю",
     "caption": "Путеводитель по Краснодарскому краю\nhttp://kk.specials.zapovednik.space/\n\n#спецпроект #культура #readymag\nСпасибо за ссылку @Dmitry_Shcherbyna",
@@ -436,29 +459,6 @@
       "muzika",
       "pamyat",
       "coda"
-    ],
-    "awards": []
-  },
-  {
-    "id": 62,
-    "title": "Иван Айвазовский. К 200-летию со дня рождения",
-    "image": "data/images/62.jpg",
-    "tags": [
-      "культура",
-      "спецпроект",
-      "память",
-      "dianadubina"
-    ],
-    "url": "http://ivanaivazovsky.life/",
-    "date": 1518364834,
-    "edit_date": 1583185563,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "kultura",
-      "spetsproekt",
-      "pamyat",
-      "dianadubina"
     ],
     "awards": []
   }

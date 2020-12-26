@@ -1,5 +1,28 @@
 [
   {
+    "id": 867,
+    "title": "Zuzeum",
+    "caption": "Zuzeum\nhttps://www.zuzeum.com/ru/\n\n#искусство #мероприятие #культура",
+    "image": "data/images/867.jpg",
+    "tags": [
+      "искусство",
+      "мероприятие",
+      "культура"
+    ],
+    "url": "https://www.zuzeum.com/ru/",
+    "date": 1608976806,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "iskusstvo",
+      "meropriyatie",
+      "kultura"
+    ],
+    "awards": []
+  },
+  {
     "id": 866,
     "title": "Lubimovka Festival",
     "caption": "Lubimovka Festival\nhttps://new.lubimovka.ru/\n\n#мероприятие #брендинг #помощь #readymag #shishki",
@@ -443,29 +466,6 @@
       "podkast",
       "obrazovanie",
       "webflow"
-    ],
-    "awards": []
-  },
-  {
-    "id": 846,
-    "title": "Работа в компании Северсталь",
-    "caption": "Работа в компании Северсталь\nhttps://career.severstal.com/\n\n#производство #hr #artlebedev",
-    "image": "data/images/846.jpg",
-    "tags": [
-      "производство",
-      "hr",
-      "artlebedev"
-    ],
-    "url": "https://career.severstal.com/",
-    "date": 1607421607,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "proizvodstvo",
-      "hr",
-      "artlebedev"
     ],
     "awards": []
   }

@@ -1,5 +1,24 @@
 [
   {
+    "id": 609,
+    "title": "kinofood",
+    "image": "data/images/609.jpg",
+    "tags": [
+      "спецпроект",
+      "qmrktng"
+    ],
+    "url": "https://readymag.com/u25128492/kinofood/",
+    "date": 1571565613,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "qmrktng"
+    ],
+    "awards": []
+  },
+  {
     "id": 608,
     "title": "Школа китайского языка Лаоши в Москве",
     "image": "data/images/608.jpg",
@@ -359,27 +378,6 @@
     "slugs": [
       "zhurnal",
       "ony"
-    ],
-    "awards": []
-  },
-  {
-    "id": 587,
-    "title": "KIOSK",
-    "image": "data/images/587.jpg",
-    "tags": [
-      "магазин",
-      "портфолио",
-      "designworkout"
-    ],
-    "url": "https://kiosk.works/",
-    "date": 1568455242,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "portfolio",
-      "designworkout"
     ],
     "awards": []
   }

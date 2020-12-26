@@ -1,5 +1,26 @@
 [
   {
+    "id": 777,
+    "title": "ИИ И КИНО",
+    "caption": "ИИ И КИНО\nhttps://readymag.com/u799818405/2146390/\n\n#спецпроект #readymag",
+    "image": "data/images/777.jpg",
+    "tags": [
+      "спецпроект",
+      "readymag"
+    ],
+    "url": "https://readymag.com/u799818405/2146390/",
+    "date": 1601028004,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 776,
     "title": "yazdes art",
     "caption": "yazdes art\nhttps://yazdes.art/\n\n#мероприятие #образование #readymag #nonobjectiveworks",
@@ -442,29 +463,6 @@
       "spetsproekt",
       "obrazovanie",
       "servis"
-    ],
-    "awards": []
-  },
-  {
-    "id": 757,
-    "title": "Международный фестиваль дебютного кино в Новой Голландии",
-    "caption": "Международный фестиваль дебютного кино в Новой Голландии\nhttps://nhifilmfest.com/\n\n#мероприятие #кино #whiterussianstudio",
-    "image": "data/images/757.jpg",
-    "tags": [
-      "мероприятие",
-      "кино",
-      "whiterussianstudio"
-    ],
-    "url": "https://nhifilmfest.com/",
-    "date": 1598282375,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "meropriyatie",
-      "kino",
-      "whiterussianstudio"
     ],
     "awards": []
   }

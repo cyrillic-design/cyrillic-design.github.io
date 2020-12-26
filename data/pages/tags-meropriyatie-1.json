@@ -1,5 +1,28 @@
 [
   {
+    "id": 867,
+    "title": "Zuzeum",
+    "caption": "Zuzeum\nhttps://www.zuzeum.com/ru/\n\n#искусство #мероприятие #культура",
+    "image": "data/images/867.jpg",
+    "tags": [
+      "искусство",
+      "мероприятие",
+      "культура"
+    ],
+    "url": "https://www.zuzeum.com/ru/",
+    "date": 1608976806,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "iskusstvo",
+      "meropriyatie",
+      "kultura"
+    ],
+    "awards": []
+  },
+  {
     "id": 866,
     "title": "Lubimovka Festival",
     "caption": "Lubimovka Festival\nhttps://new.lubimovka.ru/\n\n#мероприятие #брендинг #помощь #readymag #shishki",
@@ -477,27 +500,6 @@
       "otchet",
       "readymag",
       "artemtarasov"
-    ],
-    "awards": []
-  },
-  {
-    "id": 709,
-    "title": "Wanna be like Rozov",
-    "caption": "Wanna be like Rozov\nhttps://wannabelike.ru/rozov/\n\n#образование #мероприятие",
-    "image": "data/images/709.jpg",
-    "tags": [
-      "образование",
-      "мероприятие"
-    ],
-    "url": "https://wannabelike.ru/rozov/",
-    "date": 1586685615,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "meropriyatie"
     ],
     "awards": []
   }

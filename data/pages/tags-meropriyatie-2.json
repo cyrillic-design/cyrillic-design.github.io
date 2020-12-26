@@ -1,5 +1,26 @@
 [
   {
+    "id": 709,
+    "title": "Wanna be like Rozov",
+    "caption": "Wanna be like Rozov\nhttps://wannabelike.ru/rozov/\n\n#образование #мероприятие",
+    "image": "data/images/709.jpg",
+    "tags": [
+      "образование",
+      "мероприятие"
+    ],
+    "url": "https://wannabelike.ru/rozov/",
+    "date": 1586685615,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "meropriyatie"
+    ],
+    "awards": []
+  },
+  {
     "id": 683,
     "title": "В моем репертуаре",
     "caption": "В моем репертуаре\nhttps://truetoform.me/\n\n☆ #сервис #промо #мероприятие #readymag",
@@ -386,27 +407,6 @@
     "isRemoved": false,
     "slugs": [
       "meropriyatie"
-    ],
-    "awards": []
-  },
-  {
-    "id": 507,
-    "title": "Институт Музыкальных Инициатив",
-    "image": "data/images/507.jpg",
-    "tags": [
-      "музыка",
-      "мероприятие",
-      "sulliwan"
-    ],
-    "url": "https://i-m-i.ru/",
-    "date": 1558000856,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "muzika",
-      "meropriyatie",
-      "sulliwan"
     ],
     "awards": []
   }
