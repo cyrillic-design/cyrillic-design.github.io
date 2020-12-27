@@ -1,5 +1,26 @@
 [
   {
+    "id": 345,
+    "title": "Falafel + AIC",
+    "image": "data/images/345.jpg",
+    "tags": [
+      "промо",
+      "магазин",
+      "aic"
+    ],
+    "url": "http://aic.falafelbooks.com/",
+    "date": 1541412018,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "magazin",
+      "aic"
+    ],
+    "awards": []
+  },
+  {
     "id": 344,
     "title": "Блинная Сковородка",
     "image": "data/images/344.jpg",
@@ -387,27 +408,6 @@
     "slugs": [
       "odezhda",
       "magazin"
-    ],
-    "awards": []
-  },
-  {
-    "id": 325,
-    "title": "Google Science Fair",
-    "image": "data/images/325.jpg",
-    "tags": [
-      "конкурс",
-      "образование",
-      "google"
-    ],
-    "url": "https://www.googlesciencefair.com/intl/ru/",
-    "date": 1539338448,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "konkurs",
-      "obrazovanie",
-      "google"
     ],
     "awards": []
   }

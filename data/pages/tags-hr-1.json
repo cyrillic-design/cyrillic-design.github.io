@@ -1,5 +1,26 @@
 [
   {
+    "id": 868,
+    "title": "Эйч",
+    "caption": "Эйч\nhttps://h.budu.jobs/\n\n#hr #сервис",
+    "image": "data/images/868.jpg",
+    "tags": [
+      "hr",
+      "сервис"
+    ],
+    "url": "https://h.budu.jobs/",
+    "date": 1609063206,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "hr",
+      "servis"
+    ],
+    "awards": []
+  },
+  {
     "id": 846,
     "title": "Работа в компании Северсталь",
     "caption": "Работа в компании Северсталь\nhttps://career.severstal.com/\n\n#производство #hr #artlebedev",

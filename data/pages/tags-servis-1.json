@@ -1,5 +1,26 @@
 [
   {
+    "id": 868,
+    "title": "Эйч",
+    "caption": "Эйч\nhttps://h.budu.jobs/\n\n#hr #сервис",
+    "image": "data/images/868.jpg",
+    "tags": [
+      "hr",
+      "сервис"
+    ],
+    "url": "https://h.budu.jobs/",
+    "date": 1609063206,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "hr",
+      "servis"
+    ],
+    "awards": []
+  },
+  {
     "id": 860,
     "title": "Troove",
     "caption": "Troove\nhttps://troove.ru/\n\n#промо #сервис #приложение\nСпасибо за ссылку @Hovsky",
@@ -454,28 +475,6 @@
       "bank",
       "bks",
       "kukhnyanaraione"
-    ],
-    "awards": []
-  },
-  {
-    "id": 679,
-    "title": "Если быть точным",
-    "caption": "Если быть точным\nhttps://tochno.st/\n\n☆ #сервис #данные #artlebedev",
-    "image": "data/images/679.jpg",
-    "tags": [
-      "сервис",
-      "данные",
-      "artlebedev"
-    ],
-    "url": "https://tochno.st/",
-    "date": 1583575215,
-    "edit_date": 1605315178,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "dannie",
-      "artlebedev"
     ],
     "awards": []
   }
