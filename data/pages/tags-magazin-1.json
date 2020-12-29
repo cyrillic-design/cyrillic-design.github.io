@@ -1,5 +1,28 @@
 [
   {
+    "id": 871,
+    "title": "Новогодний стол от Брикета",
+    "caption": "Новогодний стол от Брикета\nhttp://2021.briketmarket.com/\n\n#спецпроект #магазин #readymag",
+    "image": "data/images/871.jpg",
+    "tags": [
+      "спецпроект",
+      "магазин",
+      "readymag"
+    ],
+    "url": "http://2021.briketmarket.com/",
+    "date": 1609236007,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "magazin",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 856,
     "title": "Playthings to Love",
     "caption": "Playthings to Love\nhttps://shop.kotok.toys/\n\n#магазин #vigbo\nСпасибо за ссылку @AndyAbramov",
@@ -406,23 +429,6 @@
       "magazin",
       "portfolio",
       "designworkout"
-    ],
-    "awards": []
-  },
-  {
-    "id": 583,
-    "title": "Косметика Тины Канделаки",
-    "image": "data/images/583.jpg",
-    "tags": [
-      "магазин"
-    ],
-    "url": "https://ansaligy.com/",
-    "date": 1568196030,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin"
     ],
     "awards": []
   }

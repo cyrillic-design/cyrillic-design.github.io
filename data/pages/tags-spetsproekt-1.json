@@ -1,5 +1,28 @@
 [
   {
+    "id": 871,
+    "title": "Новогодний стол от Брикета",
+    "caption": "Новогодний стол от Брикета\nhttp://2021.briketmarket.com/\n\n#спецпроект #магазин #readymag",
+    "image": "data/images/871.jpg",
+    "tags": [
+      "спецпроект",
+      "магазин",
+      "readymag"
+    ],
+    "url": "http://2021.briketmarket.com/",
+    "date": 1609236007,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "magazin",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 863,
     "title": "Итоги года ВКонтакте",
     "caption": "Итоги года ВКонтакте\nhttps://vk.com/2020\n\n#спецпроект #итоги",
@@ -451,30 +474,6 @@
     "slugs": [
       "spetsproekt",
       "annasherryuble"
-    ],
-    "awards": []
-  },
-  {
-    "id": 758,
-    "title": "Brave New World",
-    "caption": "Brave New World\nhttps://bnw.budu.jobs/\n\n#спецпроект #образование #сервис\nСпасибо за ссылку @kkkarterrr",
-    "image": "data/images/758.jpg",
-    "tags": [
-      "спецпроект",
-      "образование",
-      "сервис"
-    ],
-    "url": "https://bnw.budu.jobs/",
-    "date": 1598349611,
-    "edit_date": 1598350429,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "obrazovanie",
-      "servis"
     ],
     "awards": []
   }

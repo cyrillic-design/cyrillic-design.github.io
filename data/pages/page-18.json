@@ -1,5 +1,24 @@
 [
   {
+    "id": 501,
+    "title": "Vasilkov",
+    "image": "data/images/501.jpg",
+    "tags": [
+      "недвижимость",
+      "advancedteam"
+    ],
+    "url": "https://vasilkovrealty.com.ua/",
+    "date": 1556272973,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "nedvizhimost",
+      "advancedteam"
+    ],
+    "awards": []
+  },
+  {
     "id": 500,
     "title": "Журнал «Код»",
     "image": "data/images/500.jpg",
@@ -376,25 +395,6 @@
     "slugs": [
       "muzika",
       "meropriyatie"
-    ],
-    "awards": []
-  },
-  {
-    "id": 480,
-    "title": "25.03. Реквием",
-    "image": "data/images/480.jpg",
-    "tags": [
-      "память",
-      "такиедела"
-    ],
-    "url": "https://requiem.takiedela.ru/",
-    "date": 1553517061,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "pamyat",
-      "takiedela"
     ],
     "awards": []
   }

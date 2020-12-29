@@ -1,5 +1,28 @@
 [
   {
+    "id": 871,
+    "title": "Новогодний стол от Брикета",
+    "caption": "Новогодний стол от Брикета\nhttp://2021.briketmarket.com/\n\n#спецпроект #магазин #readymag",
+    "image": "data/images/871.jpg",
+    "tags": [
+      "спецпроект",
+      "магазин",
+      "readymag"
+    ],
+    "url": "http://2021.briketmarket.com/",
+    "date": 1609236007,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "magazin",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 866,
     "title": "Lubimovka Festival",
     "caption": "Lubimovka Festival\nhttps://new.lubimovka.ru/\n\n#мероприятие #брендинг #помощь #readymag #shishki",
@@ -451,32 +474,6 @@
       "obrazovanie",
       "readymag",
       "mashakobanenko"
-    ],
-    "awards": []
-  },
-  {
-    "id": 782,
-    "title": "Рокет Ворк",
-    "caption": "Рокет Ворк\nhttps://promo.rocketwork.ru/\n\n#промо #банк #финансы #readymag",
-    "image": "data/images/782.jpg",
-    "tags": [
-      "промо",
-      "банк",
-      "финансы",
-      "readymag"
-    ],
-    "url": "https://promo.rocketwork.ru/",
-    "date": 1602578046,
-    "edit_date": 1602578112,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "bank",
-      "finansi",
-      "readymag"
     ],
     "awards": []
   }
