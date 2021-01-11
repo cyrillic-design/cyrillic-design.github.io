@@ -2,20 +2,23 @@
   {
     "id": 873,
     "title": "Letterdog",
-    "caption": "Letterdog\nhttps://letterdog.by/\n\n#портфолио #tilda",
+    "caption": "Letterdog\nhttps://letterdog.by/\n\n#портфолио #производство #tilda",
     "image": "data/images/873.jpg",
     "tags": [
       "портфолио",
+      "производство",
       "tilda"
     ],
     "url": "https://letterdog.by/",
     "date": 1610368320,
+    "edit_date": 1610368379,
     "isMonth": false,
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
       "portfolio",
+      "proizvodstvo",
       "tilda"
     ],
     "awards": []
