@@ -1,5 +1,26 @@
 [
   {
+    "id": 874,
+    "title": "Wannabelike",
+    "caption": "Wannabelike\nhttps://wannabelike.ru/\n\n#образование #readymag\nСпасибо за ссылку @blinklinks",
+    "image": "data/images/874.jpg",
+    "tags": [
+      "образование",
+      "readymag"
+    ],
+    "url": "https://wannabelike.ru/",
+    "date": 1610445616,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 873,
     "title": "Letterdog",
     "caption": "Letterdog\nhttps://letterdog.by/\n\n#портфолио #производство #tilda",
@@ -439,29 +460,6 @@
       "zhurnal",
       "smi",
       "charmer"
-    ],
-    "awards": []
-  },
-  {
-    "id": 851,
-    "title": "Настольная игра \"Поиграй со шрифтами\"",
-    "caption": "Настольная игра \"Поиграй со шрифтами\"\nhttps://paratype.skillbox.ru/\n\n#промо #игра #tilda",
-    "image": "data/images/851.jpg",
-    "tags": [
-      "промо",
-      "игра",
-      "tilda"
-    ],
-    "url": "https://paratype.skillbox.ru/",
-    "date": 1607767206,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "igra",
-      "tilda"
     ],
     "awards": []
   }
