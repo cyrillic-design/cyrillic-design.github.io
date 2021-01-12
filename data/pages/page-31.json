@@ -1,5 +1,27 @@
 [
   {
+    "id": 228,
+    "title": "Dumb Startups",
+    "caption": "Dumb Startups\nhttp://dumbstartup.co/\n\n#образование #люди #бизнес",
+    "image": "data/images/228.jpg",
+    "tags": [
+      "образование",
+      "люди",
+      "бизнес"
+    ],
+    "url": "http://dumbstartup.co/",
+    "date": 1530871218,
+    "edit_date": 1583417729,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "lyudi",
+      "biznes"
+    ],
+    "awards": []
+  },
+  {
     "id": 227,
     "title": "Кинопоиск на SmartTV",
     "image": "data/images/227.jpg",
@@ -380,27 +402,6 @@
     "slugs": [
       "agentstvo",
       "portfolio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 208,
-    "title": "Мегафон Банк",
-    "image": "data/images/208.jpg",
-    "tags": [
-      "финансы",
-      "банк",
-      "chulakov"
-    ],
-    "url": "https://bank.megafon.ru/",
-    "date": 1529143211,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "finansi",
-      "bank",
-      "chulakov"
     ],
     "awards": []
   }
