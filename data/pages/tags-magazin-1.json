@@ -147,17 +147,17 @@
   {
     "id": 816,
     "title": "MY FRUIT!",
-    "caption": "MY FRUIT!\nhttps://myfruit.com.ua/\n\n#сервис #магазин #tilda #кириллжарков",
+    "caption": "MY FRUIT!\nhttps://myfruit.com.ua/\n\n#сервис #магазин #tilda #кириллжаркий",
     "image": "data/images/816.jpg",
     "tags": [
       "сервис",
       "магазин",
       "tilda",
-      "кириллжарков"
+      "кириллжаркий"
     ],
     "url": "https://myfruit.com.ua/",
     "date": 1605437594,
-    "edit_date": 1605476891,
+    "edit_date": 1610529465,
     "isMonth": false,
     "isYear": false,
     "isHighlighted": false,
@@ -166,7 +166,7 @@
       "servis",
       "magazin",
       "tilda",
-      "kirillzharkov"
+      "kirillzharkii"
     ],
     "awards": []
   },
