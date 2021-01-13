@@ -1,5 +1,26 @@
 [
   {
+    "id": 168,
+    "title": "АВ Экспресс",
+    "image": "data/images/168.jpg",
+    "tags": [
+      "магазин",
+      "доставка",
+      "aic"
+    ],
+    "url": "https://express.av.ru/",
+    "date": 1525773610,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "dostavka",
+      "aic"
+    ],
+    "awards": []
+  },
+  {
     "id": 167,
     "title": "Wepster",
     "image": "data/images/167.jpg",
@@ -389,31 +410,6 @@
     "isRemoved": false,
     "slugs": [
       "spetsproekt"
-    ],
-    "awards": []
-  },
-  {
-    "id": 148,
-    "title": "Ведомости",
-    "image": "data/images/148.jpg",
-    "tags": [
-      "новости",
-      "газета",
-      "бизнес",
-      "финансы",
-      "charmer"
-    ],
-    "url": "https://m.vedomosti.ru/",
-    "date": 1523872822,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "novosti",
-      "gazeta",
-      "biznes",
-      "finansi",
-      "charmer"
     ],
     "awards": []
   }
