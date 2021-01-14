@@ -1,5 +1,26 @@
 [
   {
+    "id": 352,
+    "title": "Теремок",
+    "image": "data/images/352.jpg",
+    "tags": [
+      "еда",
+      "доставка",
+      "adndigitalstudio"
+    ],
+    "url": "https://new.teremok.ru/",
+    "date": 1542016843,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "yeda",
+      "dostavka",
+      "adndigitalstudio"
+    ],
+    "awards": []
+  },
+  {
     "id": 351,
     "title": "TREND FORECASTING WORKSHOP",
     "image": "data/images/351.jpg",
@@ -385,25 +406,6 @@
     "slugs": [
       "novosti",
       "agentstvo"
-    ],
-    "awards": []
-  },
-  {
-    "id": 331,
-    "title": "homeapp",
-    "image": "data/images/331.jpg",
-    "tags": [
-      "сервис",
-      "недвижимость"
-    ],
-    "url": "http://homeapp.ru/",
-    "date": 1540202441,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "nedvizhimost"
     ],
     "awards": []
   }

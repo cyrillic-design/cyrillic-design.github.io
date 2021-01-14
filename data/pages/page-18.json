@@ -1,5 +1,26 @@
 [
   {
+    "id": 507,
+    "title": "Институт Музыкальных Инициатив",
+    "image": "data/images/507.jpg",
+    "tags": [
+      "музыка",
+      "мероприятие",
+      "sulliwan"
+    ],
+    "url": "https://i-m-i.ru/",
+    "date": 1558000856,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "muzika",
+      "meropriyatie",
+      "sulliwan"
+    ],
+    "awards": []
+  },
+  {
     "id": 506,
     "title": "BestDoctor",
     "image": "data/images/506.jpg",
@@ -372,27 +393,6 @@
     "slugs": [
       "zhurnal",
       "dizain"
-    ],
-    "awards": []
-  },
-  {
-    "id": 484,
-    "title": "ВОНО — Свободный Пульт",
-    "image": "data/images/484.jpg",
-    "tags": [
-      "спецпроект",
-      "музыка",
-      "воно"
-    ],
-    "url": "http://svobodnypult.vonopaper.com",
-    "date": 1553853668,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "muzika",
-      "vono"
     ],
     "awards": []
   }

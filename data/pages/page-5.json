@@ -1,5 +1,26 @@
 [
   {
+    "id": 784,
+    "title": "Медиазона Беларусь",
+    "caption": "Медиазона Беларусь\nhttps://mediazona.by/\n\n#новости #сми",
+    "image": "data/images/784.jpg",
+    "tags": [
+      "новости",
+      "сми"
+    ],
+    "url": "https://mediazona.by/",
+    "date": 1602756008,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "novosti",
+      "smi"
+    ],
+    "awards": []
+  },
+  {
     "id": 783,
     "title": "Почтатех",
     "caption": "Почтатех\nhttps://pochta.tech/\n\n#промо #сервис #портфолио\nСпасибо за ссылку @pochekueva",
@@ -447,27 +468,6 @@
       "servis",
       "prilozhenie",
       "promo",
-      "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 764,
-    "title": "tonya baydina",
-    "caption": "tonya baydina\nhttps://rhot.design/\n\n#портфолио #readymag",
-    "image": "data/images/764.jpg",
-    "tags": [
-      "портфолио",
-      "readymag"
-    ],
-    "url": "https://rhot.design/",
-    "date": 1599559210,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio",
       "readymag"
     ],
     "awards": []
