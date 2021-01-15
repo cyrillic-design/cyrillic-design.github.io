@@ -1,5 +1,28 @@
 [
   {
+    "id": 877,
+    "title": "РеФорма",
+    "caption": "РеФорма\nhttps://re-forma.org/\n\n#образование #tilda #redis",
+    "image": "data/images/877.jpg",
+    "tags": [
+      "образование",
+      "tilda",
+      "redis"
+    ],
+    "url": "https://re-forma.org/",
+    "date": 1610704807,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "tilda",
+      "redis"
+    ],
+    "awards": []
+  },
+  {
     "id": 874,
     "title": "Wannabelike",
     "caption": "Wannabelike\nhttps://wannabelike.ru/\n\n#образование #readymag\nСпасибо за ссылку @blinklinks",
@@ -433,32 +456,6 @@
       "obrazovanie",
       "meropriyatie",
       "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 730,
-    "title": "Курс прозы «Глагол»",
-    "caption": "Курс прозы «Глагол»\nhttp://glglgl.ru/\n\n#образование #мероприятие #readymag #nonobjectiveworks",
-    "image": "data/images/730.jpg",
-    "tags": [
-      "образование",
-      "мероприятие",
-      "readymag",
-      "nonobjectiveworks"
-    ],
-    "url": "http://glglgl.ru/",
-    "date": 1590573617,
-    "edit_date": 1600870401,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "meropriyatie",
-      "readymag",
-      "nonobjectiveworks"
     ],
     "awards": []
   }

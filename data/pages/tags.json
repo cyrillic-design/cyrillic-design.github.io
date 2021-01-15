@@ -1434,5 +1434,9 @@
   {
     "title": "nextpage",
     "slug": "nextpage"
+  },
+  {
+    "title": "redis",
+    "slug": "redis"
   }
 ]

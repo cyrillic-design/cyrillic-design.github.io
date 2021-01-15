@@ -11553,5 +11553,22 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "877": {
+    "id": 877,
+    "title": "РеФорма",
+    "caption": "РеФорма\nhttps://re-forma.org/\n\n#образование #tilda #redis",
+    "image": "877.jpg",
+    "tags": [
+      "образование",
+      "tilda",
+      "redis"
+    ],
+    "url": "https://re-forma.org/",
+    "date": 1610704807,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
