@@ -1,5 +1,24 @@
 [
   {
+    "id": 553,
+    "title": "Пётр Юшин",
+    "image": "data/images/553.jpg",
+    "tags": [
+      "портфолио",
+      "perushevandkhmelev"
+    ],
+    "url": "https://yushinpetr.com/ru/",
+    "date": 1563444011,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "perushevandkhmelev"
+    ],
+    "awards": []
+  },
+  {
     "id": 552,
     "title": "COLLIDER",
     "image": "data/images/552.jpg",
@@ -348,25 +367,6 @@
       "servis",
       "zaglushka",
       "prilozhenie"
-    ],
-    "awards": []
-  },
-  {
-    "id": 531,
-    "title": "SHU",
-    "image": "data/images/531.jpg",
-    "tags": [
-      "одежда",
-      "магазин"
-    ],
-    "url": "https://shuclothes.com/ru/",
-    "date": 1560420033,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "odezhda",
-      "magazin"
     ],
     "awards": []
   }
