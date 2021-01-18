@@ -1,5 +1,26 @@
 [
   {
+    "id": 879,
+    "title": "Книга «Эссенция сенца»",
+    "caption": "Книга «Эссенция сенца»\nhttps://sencessence.ru/\n\n#промо #астрошок\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/879.jpg",
+    "tags": [
+      "промо",
+      "астрошок"
+    ],
+    "url": "https://sencessence.ru/",
+    "date": 1610997218,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "astroshok"
+    ],
+    "awards": []
+  },
+  {
     "id": 234,
     "title": "Фасадные решения",
     "image": "data/images/234.jpg",

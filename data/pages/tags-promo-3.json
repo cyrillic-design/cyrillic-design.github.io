@@ -1,5 +1,26 @@
 [
   {
+    "id": 638,
+    "title": "Женщины в дизайне",
+    "image": "data/images/638.jpg",
+    "tags": [
+      "подкаст",
+      "промо",
+      "readymag"
+    ],
+    "url": "https://designingwomen.readymag.com/podcast/",
+    "date": 1576663258,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "podkast",
+      "promo",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 631,
     "title": "Staya",
     "image": "data/images/631.jpg",
@@ -382,26 +403,6 @@
       "spetsproekt",
       "promo",
       "rbk"
-    ],
-    "awards": []
-  },
-  {
-    "id": 471,
-    "title": "Intervals",
-    "caption": "Intervals\nhttp://intervalsfest.com/\n\n#мероприятие #промо",
-    "image": "data/images/471.jpg",
-    "tags": [
-      "мероприятие",
-      "промо"
-    ],
-    "url": "http://intervalsfest.com/",
-    "date": 1552644017,
-    "edit_date": 1583423594,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "meropriyatie",
-      "promo"
     ],
     "awards": []
   }
