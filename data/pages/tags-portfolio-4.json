@@ -1,5 +1,24 @@
 [
   {
+    "id": 444,
+    "title": "Студия Артемия Лебедева",
+    "image": "data/images/444.jpg",
+    "tags": [
+      "студия",
+      "портфолио"
+    ],
+    "url": "https://www.artlebedev.ru/",
+    "date": 1550656838,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "studiya",
+      "portfolio"
+    ],
+    "awards": []
+  },
+  {
     "id": 432,
     "title": "Embacy",
     "image": "data/images/432.jpg",
@@ -359,23 +378,6 @@
     "isRemoved": false,
     "slugs": [
       "studiya",
-      "portfolio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 269,
-    "title": "Игорь Штанг",
-    "image": "data/images/269.jpg",
-    "tags": [
-      "портфолио"
-    ],
-    "url": "http://igorshtang.ru/",
-    "date": 1534413620,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
       "portfolio"
     ],
     "awards": []
