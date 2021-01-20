@@ -1,5 +1,32 @@
 [
   {
+    "id": 789,
+    "title": "Как поёт искусственный интеллект",
+    "caption": "Как поёт искусственный интеллект\nhttps://readymag.com/marykobanenko/musicai/\n\n#спецпроект #музыка #образование #readymag #машакобаненко\nСпасибо за ссылку @marykobanenko",
+    "image": "data/images/789.jpg",
+    "tags": [
+      "спецпроект",
+      "музыка",
+      "образование",
+      "readymag",
+      "машакобаненко"
+    ],
+    "url": "https://readymag.com/marykobanenko/musicai/",
+    "date": 1603455413,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "muzika",
+      "obrazovanie",
+      "readymag",
+      "mashakobanenko"
+    ],
+    "awards": []
+  },
+  {
     "id": 788,
     "title": "Современник",
     "caption": "Современник\nhttps://new.sovremennik.ru/\n\n#культура #театр #eshgruppa",
@@ -433,31 +460,6 @@
       "promo",
       "yeda",
       "dadacreative"
-    ],
-    "awards": []
-  },
-  {
-    "id": 769,
-    "title": "Черноморка",
-    "caption": "Черноморка\nhttps://chernomorka.online/\n\n#производство #еда #доставка #vintage\nСпасибо за ссылку @AndyAbramov",
-    "image": "data/images/769.jpg",
-    "tags": [
-      "производство",
-      "еда",
-      "доставка",
-      "vintage"
-    ],
-    "url": "https://chernomorka.online/",
-    "date": 1600164015,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "proizvodstvo",
-      "yeda",
-      "dostavka",
-      "vintage"
     ],
     "awards": []
   }

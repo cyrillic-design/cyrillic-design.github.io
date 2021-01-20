@@ -1,5 +1,28 @@
 [
   {
+    "id": 657,
+    "title": "Падение берлинской стены",
+    "image": "data/images/657.jpg",
+    "tags": [
+      "спецпроект",
+      "readymag",
+      "аланаликов",
+      "сашакац"
+    ],
+    "url": "https://mauerfall.diletant.media/",
+    "date": 1579687256,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "readymag",
+      "alanalikov",
+      "sashakats"
+    ],
+    "awards": []
+  },
+  {
     "id": 656,
     "title": "GoKirtan",
     "image": "data/images/656.jpg",
@@ -415,27 +438,6 @@
       "bank",
       "finansi",
       "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 151,
-    "title": "Свет изнутри",
-    "image": "data/images/151.jpg",
-    "tags": [
-      "спецпроект",
-      "readymag",
-      "катяузиенко"
-    ],
-    "url": "https://readymag.com/kaatisha/shine/",
-    "date": 1524132003,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "readymag",
-      "katyauzienko"
     ],
     "awards": []
   }
