@@ -1,5 +1,24 @@
 [
   {
+    "id": 369,
+    "title": "Мапа станаўлення Беларусі",
+    "image": "data/images/369.jpg",
+    "tags": [
+      "спецпроект",
+      "история"
+    ],
+    "url": "http://map.letapis.by/by/",
+    "date": 1543399222,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "istoriya"
+    ],
+    "awards": []
+  },
+  {
     "id": 368,
     "title": "Третьяковская галерея: Уроки Ларионова",
     "image": "data/images/368.jpg",
@@ -386,29 +405,6 @@
     "slugs": [
       "spetsproekt",
       "batenkadavitransformer"
-    ],
-    "awards": []
-  },
-  {
-    "id": 215,
-    "title": "Виктор Цой",
-    "image": "data/images/215.jpg",
-    "tags": [
-      "спецпроект",
-      "музыка",
-      "память",
-      "netlab"
-    ],
-    "url": "http://kino.inspiration.vision/",
-    "date": 1529748004,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "muzika",
-      "pamyat",
-      "netlab"
     ],
     "awards": []
   }

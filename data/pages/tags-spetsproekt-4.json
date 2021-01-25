@@ -1,5 +1,26 @@
 [
   {
+    "id": 575,
+    "title": "Современные российские дизайнеры шрифта",
+    "image": "data/images/575.jpg",
+    "tags": [
+      "спецпроект",
+      "readymag",
+      "лисицкий"
+    ],
+    "url": "https://readymag.com/deedandreward/russiandesigners/",
+    "date": 1567677608,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "readymag",
+      "lisitskii"
+    ],
+    "awards": []
+  },
+  {
     "id": 565,
     "title": "Большая Коча",
     "image": "data/images/565.jpg",
@@ -394,25 +415,6 @@
       "muzika",
       "spetsproekt",
       "cherenkevich"
-    ],
-    "awards": []
-  },
-  {
-    "id": 369,
-    "title": "Мапа станаўлення Беларусі",
-    "image": "data/images/369.jpg",
-    "tags": [
-      "спецпроект",
-      "история"
-    ],
-    "url": "http://map.letapis.by/by/",
-    "date": 1543399222,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "istoriya"
     ],
     "awards": []
   }

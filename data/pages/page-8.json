@@ -1,5 +1,31 @@
 [
   {
+    "id": 730,
+    "title": "Курс прозы «Глагол»",
+    "caption": "Курс прозы «Глагол»\nhttp://glglgl.ru/\n\n#образование #мероприятие #readymag #nonobjectiveworks",
+    "image": "data/images/730.jpg",
+    "tags": [
+      "образование",
+      "мероприятие",
+      "readymag",
+      "nonobjectiveworks"
+    ],
+    "url": "http://glglgl.ru/",
+    "date": 1590573617,
+    "edit_date": 1600870401,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "meropriyatie",
+      "readymag",
+      "nonobjectiveworks"
+    ],
+    "awards": []
+  },
+  {
     "id": 729,
     "title": "Сижу дома",
     "caption": "Сижу дома\nhttp://stau-acasa.tilda.ws/\n\n#спецпроект #здоровье #tilda #onbureau",
@@ -450,35 +476,6 @@
     "slugs": [
       "agentstvo",
       "creativepeople"
-    ],
-    "awards": []
-  },
-  {
-    "id": 710,
-    "title": "Personal Profiles – Just Talk / 20.03.2020",
-    "caption": "Personal Profiles – Just Talk / 20.03.2020\nhttps://profiles.taragraphy.com/\n\n#образование #люди #мероприятие #отчет #readymag #artemtarasov\nСпасибо за ссылку @designgest_live",
-    "image": "data/images/710.jpg",
-    "tags": [
-      "образование",
-      "люди",
-      "мероприятие",
-      "отчет",
-      "readymag",
-      "artemtarasov"
-    ],
-    "url": "https://profiles.taragraphy.com/",
-    "date": 1586772007,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "lyudi",
-      "meropriyatie",
-      "otchet",
-      "readymag",
-      "artemtarasov"
     ],
     "awards": []
   }
