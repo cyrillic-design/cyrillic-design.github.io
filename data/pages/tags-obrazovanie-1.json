@@ -1,5 +1,24 @@
 [
   {
+    "id": 883,
+    "title": "Webium",
+    "caption": "Webium\nhttps://webium.ru/\n\n#образование",
+    "image": "data/images/883.jpg",
+    "tags": [
+      "образование"
+    ],
+    "url": "https://webium.ru/",
+    "date": 1611736566,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie"
+    ],
+    "awards": []
+  },
+  {
     "id": 877,
     "title": "РеФорма",
     "caption": "РеФорма\nhttps://re-forma.org/\n\n#образование #tilda #redis",
@@ -432,29 +451,6 @@
     "isRemoved": false,
     "slugs": [
       "obrazovanie",
-      "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 731,
-    "title": "Графический дизайн — Bang bang education",
-    "caption": "Графический дизайн — Bang bang education\nhttps://graphdesign.bangbangeducation.ru\n\n#образование #мероприятие #readymag \nСпасибо за ссылку @alexgolyanov",
-    "image": "data/images/731.jpg",
-    "tags": [
-      "образование",
-      "мероприятие",
-      "readymag"
-    ],
-    "url": "https://graphdesign.bangbangeducation.ru",
-    "date": 1590756852,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "meropriyatie",
       "readymag"
     ],
     "awards": []
