@@ -1,5 +1,26 @@
 [
   {
+    "id": 537,
+    "title": "ZharaX",
+    "image": "data/images/537.jpg",
+    "tags": [
+      "сервис",
+      "музыка",
+      "stride"
+    ],
+    "url": "https://zhara-x.com/",
+    "date": 1561111239,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "muzika",
+      "stride"
+    ],
+    "awards": []
+  },
+  {
     "id": 536,
     "title": "Школа дизайна НИУ ВШЭ",
     "image": "data/images/536.jpg",
@@ -359,27 +380,6 @@
       "magazin",
       "proizvodstvo",
       "max"
-    ],
-    "awards": []
-  },
-  {
-    "id": 515,
-    "title": "Сибирский Деловой Союз",
-    "image": "data/images/515.jpg",
-    "tags": [
-      "производство",
-      "холдинг",
-      "мэйк"
-    ],
-    "url": "https://hcsds.ru/ru/",
-    "date": 1558692007,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "proizvodstvo",
-      "kholding",
-      "meik"
     ],
     "awards": []
   }

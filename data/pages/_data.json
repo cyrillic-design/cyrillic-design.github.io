@@ -11669,5 +11669,20 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "884": {
+    "id": 884,
+    "title": "Школа Wemakefab",
+    "caption": "Школа Wemakefab\nhttps://wemakefab.school/\n\n#образование",
+    "image": "884.jpg",
+    "tags": [
+      "образование"
+    ],
+    "url": "https://wemakefab.school/",
+    "date": 1612166721,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

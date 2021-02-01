@@ -1,5 +1,26 @@
 [
   {
+    "id": 157,
+    "title": "Мастерская Брусникина",
+    "image": "data/images/157.jpg",
+    "tags": [
+      "культура",
+      "театр",
+      "charmer"
+    ],
+    "url": "https://masterbrus.com/",
+    "date": 1524650415,
+    "edit_date": 1583185536,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "kultura",
+      "teatr",
+      "charmer"
+    ],
+    "awards": []
+  },
+  {
     "id": 156,
     "title": "Rocket Home Pig",
     "image": "data/images/156.jpg",
@@ -387,27 +408,6 @@
     "slugs": [
       "obrazovanie",
       "servis"
-    ],
-    "awards": []
-  },
-  {
-    "id": 136,
-    "title": "Полка",
-    "image": "data/images/136.jpg",
-    "tags": [
-      "образование",
-      "культура",
-      "charmer"
-    ],
-    "url": "https://polka.academy/",
-    "date": 1522922423,
-    "edit_date": 1583185535,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "kultura",
-      "charmer"
     ],
     "awards": []
   }
