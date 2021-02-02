@@ -1,5 +1,24 @@
 [
   {
+    "id": 385,
+    "title": "Pure",
+    "image": "data/images/385.jpg",
+    "tags": [
+      "сервис",
+      "датинг"
+    ],
+    "url": "https://pure.sex/ru/",
+    "date": 1544608815,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "dating"
+    ],
+    "awards": []
+  },
+  {
     "id": 384,
     "title": "Конференция «Управление изменениями. Global Russians»",
     "image": "data/images/384.jpg",
@@ -383,27 +402,6 @@
       "promo",
       "meropriyatie",
       "kruzhok"
-    ],
-    "awards": []
-  },
-  {
-    "id": 362,
-    "title": "Дело Модульбанка",
-    "image": "data/images/362.jpg",
-    "tags": [
-      "издание",
-      "финансы",
-      "банк"
-    ],
-    "url": "https://delo.modulbank.ru/",
-    "date": 1542880808,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "izdanie",
-      "finansi",
-      "bank"
     ],
     "awards": []
   }

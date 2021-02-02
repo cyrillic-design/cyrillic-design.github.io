@@ -1,5 +1,26 @@
 [
   {
+    "id": 863,
+    "title": "Итоги года ВКонтакте",
+    "caption": "Итоги года ВКонтакте\nhttps://vk.com/2020\n\n#спецпроект #итоги",
+    "image": "data/images/863.jpg",
+    "tags": [
+      "спецпроект",
+      "итоги"
+    ],
+    "url": "https://vk.com/2020",
+    "date": 1608717607,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "itogi"
+    ],
+    "awards": []
+  },
+  {
     "id": 862,
     "title": "ZET Academy",
     "caption": "ZET Academy\nhttps://zetacademy.by/\n\n#образованиие #readymag",
@@ -444,29 +465,6 @@
       "zhurnal",
       "finansi",
       "investitsii"
-    ],
-    "awards": []
-  },
-  {
-    "id": 842,
-    "title": "Зенит 84",
-    "caption": "Зенит 84\nhttp://1984.infografika.agency/\n\n#спецпроект #спорт #история\nСпасибо за ссылку @egorkomarov",
-    "image": "data/images/842.jpg",
-    "tags": [
-      "спецпроект",
-      "спорт",
-      "история"
-    ],
-    "url": "http://1984.infografika.agency/",
-    "date": 1607004008,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "sport",
-      "istoriya"
     ],
     "awards": []
   }

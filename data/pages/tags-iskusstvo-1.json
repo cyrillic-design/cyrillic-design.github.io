@@ -1,5 +1,30 @@
 [
   {
+    "id": 886,
+    "title": "2-я Триеннале российского современного искусства",
+    "caption": "2-я Триеннале российского современного искусства\nhttps://triennial.garagemca.org/ru/\n\n#мероприятие #искусство #materialist #perushevkhmelev\nСпасибо за ссылку @gurick",
+    "image": "data/images/886.jpg",
+    "tags": [
+      "мероприятие",
+      "искусство",
+      "materialist",
+      "perushevkhmelev"
+    ],
+    "url": "https://triennial.garagemca.org/ru/",
+    "date": 1612257855,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "iskusstvo",
+      "materialist",
+      "perushevkhmelev"
+    ],
+    "awards": []
+  },
+  {
     "id": 867,
     "title": "Zuzeum",
     "caption": "Zuzeum\nhttps://www.zuzeum.com/ru/\n\n#искусство #мероприятие #культура",
@@ -454,27 +479,6 @@
     "slugs": [
       "izdanie",
       "iskusstvo"
-    ],
-    "awards": []
-  },
-  {
-    "id": 142,
-    "title": "Третьяковская галерея",
-    "image": "data/images/142.jpg",
-    "tags": [
-      "культура",
-      "искусство",
-      "ony"
-    ],
-    "url": "https://www.tretyakovgallery.ru/",
-    "date": 1523354426,
-    "edit_date": 1583185535,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "kultura",
-      "iskusstvo",
-      "ony"
     ],
     "awards": []
   }
