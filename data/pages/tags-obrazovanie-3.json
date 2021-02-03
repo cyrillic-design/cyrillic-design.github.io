@@ -1,5 +1,28 @@
 [
   {
+    "id": 614,
+    "title": "Цех",
+    "image": "data/images/614.jpg",
+    "tags": [
+      "образование",
+      "медиа",
+      "журнал",
+      "charmer"
+    ],
+    "url": "https://zeh.media/",
+    "date": 1571997639,
+    "edit_date": 1583183700,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "media",
+      "zhurnal",
+      "charmer"
+    ],
+    "awards": []
+  },
+  {
     "id": 608,
     "title": "Школа китайского языка Лаоши в Москве",
     "image": "data/images/608.jpg",
@@ -368,25 +391,6 @@
     "slugs": [
       "obrazovanie",
       "whiterussianstudio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 308,
-    "title": "Sun and stuff",
-    "image": "data/images/308.jpg",
-    "tags": [
-      "спецпроект",
-      "образование"
-    ],
-    "url": "http://sunandstuff.com/",
-    "date": 1537696803,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "obrazovanie"
     ],
     "awards": []
   }

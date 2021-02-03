@@ -11702,5 +11702,22 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "888": {
+    "id": 888,
+    "title": "Bang Bang Education",
+    "caption": "Bang Bang Education\nhttps://bangbangeducation.ru/\n\n#образование #electricredstudio #astroshock\nСпасибо за ссылку @VPuschkarev",
+    "image": "888.jpg",
+    "tags": [
+      "образование",
+      "electricredstudio",
+      "astroshock"
+    ],
+    "url": "https://bangbangeducation.ru/",
+    "date": 1612356613,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

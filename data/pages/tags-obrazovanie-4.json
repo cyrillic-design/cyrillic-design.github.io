@@ -1,5 +1,24 @@
 [
   {
+    "id": 308,
+    "title": "Sun and stuff",
+    "image": "data/images/308.jpg",
+    "tags": [
+      "спецпроект",
+      "образование"
+    ],
+    "url": "http://sunandstuff.com/",
+    "date": 1537696803,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "obrazovanie"
+    ],
+    "awards": []
+  },
+  {
     "id": 302,
     "title": "Периодическая система химических элементов Д. И. Менделеева",
     "image": "data/images/302.jpg",
@@ -394,25 +413,6 @@
       "obrazovanie",
       "media",
       "nauka"
-    ],
-    "awards": []
-  },
-  {
-    "id": 122,
-    "title": "R/m Design Almanac",
-    "image": "data/images/122.jpg",
-    "tags": [
-      "образование",
-      "readymag"
-    ],
-    "url": "https://almanac-rus.readymag.com/",
-    "date": 1521712804,
-    "edit_date": 1583185535,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "readymag"
     ],
     "awards": []
   }
