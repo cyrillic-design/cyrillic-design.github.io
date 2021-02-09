@@ -1,5 +1,26 @@
 [
   {
+    "id": 648,
+    "title": "Тренды 2020",
+    "image": "data/images/648.jpg",
+    "tags": [
+      "спецпроект",
+      "промо",
+      "образование"
+    ],
+    "url": "https://2020.skillbox.ru/",
+    "date": 1577527207,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "promo",
+      "obrazovanie"
+    ],
+    "awards": []
+  },
+  {
     "id": 647,
     "title": "АВТОМОБИЛЬ!",
     "image": "data/images/647.jpg",
@@ -392,23 +413,6 @@
       "lyudi",
       "promo",
       "voskhoddigital"
-    ],
-    "awards": []
-  },
-  {
-    "id": 628,
-    "title": "Чипса",
-    "image": "data/images/628.jpg",
-    "tags": [
-      "портфолио"
-    ],
-    "url": "https://chipsa.ru/",
-    "date": 1574157606,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio"
     ],
     "awards": []
   }
