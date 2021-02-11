@@ -1,5 +1,28 @@
 [
   {
+    "id": 629,
+    "title": "Путешествие в темноте",
+    "image": "data/images/629.jpg",
+    "tags": [
+      "музей",
+      "люди",
+      "промо",
+      "voskhoddigital"
+    ],
+    "url": "https://tripinthedark.ru/",
+    "date": 1574416892,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "muzei",
+      "lyudi",
+      "promo",
+      "voskhoddigital"
+    ],
+    "awards": []
+  },
+  {
     "id": 628,
     "title": "Чипса",
     "image": "data/images/628.jpg",
@@ -382,25 +405,6 @@
       "proizvodstvo",
       "yeda",
       "nimax"
-    ],
-    "awards": []
-  },
-  {
-    "id": 609,
-    "title": "kinofood",
-    "image": "data/images/609.jpg",
-    "tags": [
-      "спецпроект",
-      "qmrktng"
-    ],
-    "url": "https://readymag.com/u25128492/kinofood/",
-    "date": 1571565613,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "qmrktng"
     ],
     "awards": []
   }

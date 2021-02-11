@@ -1,5 +1,28 @@
 [
   {
+    "id": 891,
+    "title": "STRELKA INSTITUTE 20:20",
+    "caption": "STRELKA INSTITUTE 20:20\nhttps://2020.strelka.com/\n\n#образование #отчет #readymag\nСпасибо за ссылку @mjsnui",
+    "image": "data/images/891.jpg",
+    "tags": [
+      "образование",
+      "отчет",
+      "readymag"
+    ],
+    "url": "https://2020.strelka.com/",
+    "date": 1613068662,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "otchet",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 890,
     "title": "между прочим",
     "caption": "между прочим\nhttps://mezhduprochim.ru/\n\n#образование #readymag #nonobjectiveworks #артемматюшкин #тимофейлебедев",
@@ -430,29 +453,6 @@
       "obrazovanie",
       "readymag",
       "nonobjectiveworks"
-    ],
-    "awards": []
-  },
-  {
-    "id": 772,
-    "title": "Voice",
-    "caption": "Voice\nhttp://voicevoicevoicevoice.ru/\n\n#образование #readymag #dadacreative\nСпасибо за ссылку @AnnaTsybina",
-    "image": "data/images/772.jpg",
-    "tags": [
-      "образование",
-      "readymag",
-      "dadacreative"
-    ],
-    "url": "http://voicevoicevoicevoice.ru/",
-    "date": 1600423214,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "readymag",
-      "dadacreative"
     ],
     "awards": []
   }

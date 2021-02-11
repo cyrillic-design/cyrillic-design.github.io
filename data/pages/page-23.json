@@ -1,5 +1,26 @@
 [
   {
+    "id": 411,
+    "title": "The Book",
+    "image": "data/images/411.jpg",
+    "tags": [
+      "недвижимость",
+      "промо",
+      "beta"
+    ],
+    "url": "http://thebook.moscow/",
+    "date": 1547546467,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "nedvizhimost",
+      "promo",
+      "beta"
+    ],
+    "awards": []
+  },
+  {
     "id": 410,
     "title": "КиноПоиск — Итоги 2018 года",
     "image": "data/images/410.jpg",
@@ -377,25 +398,6 @@
       "servis",
       "zdorove",
       "breadhead"
-    ],
-    "awards": []
-  },
-  {
-    "id": 390,
-    "title": "СУВЕНИР-3",
-    "image": "data/images/390.jpg",
-    "tags": [
-      "музыка",
-      "whiterussianstudio"
-    ],
-    "url": "http://souvenirjazz.com/",
-    "date": 1544954410,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "muzika",
-      "whiterussianstudio"
     ],
     "awards": []
   }

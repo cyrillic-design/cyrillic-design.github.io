@@ -11755,5 +11755,22 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "891": {
+    "id": 891,
+    "title": "STRELKA INSTITUTE 20:20",
+    "caption": "STRELKA INSTITUTE 20:20\nhttps://2020.strelka.com/\n\n#образование #отчет #readymag\nСпасибо за ссылку @mjsnui",
+    "image": "891.jpg",
+    "tags": [
+      "образование",
+      "отчет",
+      "readymag"
+    ],
+    "url": "https://2020.strelka.com/",
+    "date": 1613068662,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

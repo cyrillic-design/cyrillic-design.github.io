@@ -1,5 +1,26 @@
 [
   {
+    "id": 142,
+    "title": "Третьяковская галерея",
+    "image": "data/images/142.jpg",
+    "tags": [
+      "культура",
+      "искусство",
+      "ony"
+    ],
+    "url": "https://www.tretyakovgallery.ru/",
+    "date": 1523354426,
+    "edit_date": 1583185535,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "kultura",
+      "iskusstvo",
+      "ony"
+    ],
+    "awards": []
+  },
+  {
     "id": 140,
     "title": "«СК «Ингосстрах-Жизнь»",
     "image": "data/images/140.jpg",
@@ -382,29 +403,6 @@
     "slugs": [
       "obrazovanie",
       "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 121,
-    "title": "Arzamas",
-    "image": "data/images/121.jpg",
-    "tags": [
-      "образование",
-      "медиа",
-      "культура",
-      "charmer"
-    ],
-    "url": "https://arzamas.academy/",
-    "date": 1521626418,
-    "edit_date": 1583185535,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "media",
-      "kultura",
-      "charmer"
     ],
     "awards": []
   }
