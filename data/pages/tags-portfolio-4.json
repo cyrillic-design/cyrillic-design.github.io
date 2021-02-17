@@ -1,5 +1,22 @@
 [
   {
+    "id": 477,
+    "title": "POTEHA developers",
+    "image": "data/images/477.jpg",
+    "tags": [
+      "портфолио"
+    ],
+    "url": "https://potehadevs.com",
+    "date": 1553162411,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio"
+    ],
+    "awards": []
+  },
+  {
     "id": 447,
     "title": "DADA Agency",
     "image": "data/images/447.jpg",
@@ -356,28 +373,6 @@
     "isRemoved": false,
     "slugs": [
       "agentstvo",
-      "portfolio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 291,
-    "title": "ONY",
-    "caption": "ONY\nhttps://ony.ru/\n\n#агентство #дизайн #портфолио",
-    "image": "data/images/291.jpg",
-    "tags": [
-      "агентство",
-      "дизайн",
-      "портфолио"
-    ],
-    "url": "https://ony.ru/",
-    "date": 1536228002,
-    "edit_date": 1583385193,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "agentstvo",
-      "dizain",
       "portfolio"
     ],
     "awards": []

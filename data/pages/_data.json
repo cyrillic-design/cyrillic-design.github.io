@@ -11787,5 +11787,21 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "893": {
+    "id": 893,
+    "title": "komnata",
+    "caption": "komnata\nhttps://komnata.agency/ru/\n\n#портфолио #readymag\nСпасибо за ссылку @Arturkay",
+    "image": "893.jpg",
+    "tags": [
+      "портфолио",
+      "readymag"
+    ],
+    "url": "https://komnata.agency/ru/",
+    "date": 1613556021,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
