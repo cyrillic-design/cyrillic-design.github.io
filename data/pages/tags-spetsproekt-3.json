@@ -1,5 +1,27 @@
 [
   {
+    "id": 663,
+    "title": "Я себя люблю",
+    "caption": "Я себя люблю\nhttps://ilovemyself.kultrab.com/\n\n☆ #спецпроект #readymag #таняегошина",
+    "image": "data/images/663.jpg",
+    "tags": [
+      "спецпроект",
+      "readymag",
+      "таняегошина"
+    ],
+    "url": "https://ilovemyself.kultrab.com/",
+    "date": 1582020052,
+    "edit_date": 1605315087,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "readymag",
+      "tanyaegoshina"
+    ],
+    "awards": []
+  },
+  {
     "id": 657,
     "title": "Падение берлинской стены",
     "image": "data/images/657.jpg",
@@ -388,27 +410,6 @@
     "slugs": [
       "spetsproekt",
       "meduza"
-    ],
-    "awards": []
-  },
-  {
-    "id": 578,
-    "title": "Письма врагов народа",
-    "image": "data/images/578.jpg",
-    "tags": [
-      "спецпроект",
-      "readymag",
-      "такиедела"
-    ],
-    "url": "http://vraginaroda.takiedela.ru/",
-    "date": 1567850410,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "readymag",
-      "takiedela"
     ],
     "awards": []
   }

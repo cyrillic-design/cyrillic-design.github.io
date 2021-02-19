@@ -1,5 +1,30 @@
 [
   {
+    "id": 894,
+    "title": "Chornobyl",
+    "caption": "Chornobyl\nhttps://chornobyl.today/\n\n#спецпроект #история #otherland #banda",
+    "image": "data/images/894.jpg",
+    "tags": [
+      "спецпроект",
+      "история",
+      "otherland",
+      "banda"
+    ],
+    "url": "https://chornobyl.today/",
+    "date": 1613738495,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "istoriya",
+      "otherland",
+      "banda"
+    ],
+    "awards": []
+  },
+  {
     "id": 882,
     "title": "Black Sea Coast Mutation — KULTRAB",
     "caption": "Black Sea Coast Mutation — KULTRAB\nhttps://blackseacoastmutation.kultrab.com/\n\n#спецпроект #readymag #таняегошина",
@@ -453,27 +478,6 @@
       "obrazovanie",
       "readymag",
       "mashakobanenko"
-    ],
-    "awards": []
-  },
-  {
-    "id": 777,
-    "title": "ИИ И КИНО",
-    "caption": "ИИ И КИНО\nhttps://readymag.com/u799818405/2146390/\n\n#спецпроект #readymag",
-    "image": "data/images/777.jpg",
-    "tags": [
-      "спецпроект",
-      "readymag"
-    ],
-    "url": "https://readymag.com/u799818405/2146390/",
-    "date": 1601028004,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "readymag"
     ],
     "awards": []
   }

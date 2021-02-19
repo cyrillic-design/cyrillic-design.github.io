@@ -1,5 +1,30 @@
 [
   {
+    "id": 849,
+    "title": "Дом рабочей молодежи Оттендорф",
+    "caption": "Дом рабочей молодежи Оттендорф\nhttps://ottendorf.space/\n\n#спецпроект #история #tilda #gruppa",
+    "image": "data/images/849.jpg",
+    "tags": [
+      "спецпроект",
+      "история",
+      "tilda",
+      "gruppa"
+    ],
+    "url": "https://ottendorf.space/",
+    "date": 1607594408,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "istoriya",
+      "tilda",
+      "gruppa"
+    ],
+    "awards": []
+  },
+  {
     "id": 848,
     "title": "Путеводитель по Краснодарскому краю",
     "caption": "Путеводитель по Краснодарскому краю\nhttp://kk.specials.zapovednik.space/\n\n#спецпроект #культура #readymag\nСпасибо за ссылку @Dmitry_Shcherbyna",
@@ -420,29 +445,6 @@
       "portfolio",
       "readymag",
       "trudagecy"
-    ],
-    "awards": []
-  },
-  {
-    "id": 826,
-    "title": "MaeshAE",
-    "caption": "MaeshAE\nhttps://maesh.ru/\n\n#услуги #tilda #invibe",
-    "image": "data/images/826.jpg",
-    "tags": [
-      "услуги",
-      "tilda",
-      "invibe"
-    ],
-    "url": "https://maesh.ru/",
-    "date": 1606296219,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "uslugi",
-      "tilda",
-      "invibe"
     ],
     "awards": []
   }
