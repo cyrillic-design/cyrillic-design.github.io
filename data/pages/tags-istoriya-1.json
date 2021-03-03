@@ -1,5 +1,30 @@
 [
   {
+    "id": 896,
+    "title": "Иосиф Бродский. Продолжение пространства",
+    "caption": "Иосиф Бродский. Продолжение пространства\nhttps://josephbrodsky.space/\n\n#спецпроект #история #readymag #иванкардашев",
+    "image": "data/images/896.jpg",
+    "tags": [
+      "спецпроект",
+      "история",
+      "readymag",
+      "иванкардашев"
+    ],
+    "url": "https://josephbrodsky.space/",
+    "date": 1614797607,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "istoriya",
+      "readymag",
+      "ivankardashev"
+    ],
+    "awards": []
+  },
+  {
     "id": 894,
     "title": "Chornobyl",
     "caption": "Chornobyl\nhttps://chornobyl.today/\n\n#спецпроект #история #otherland #banda",
@@ -448,28 +473,6 @@
       "spetsproekt",
       "istoriya",
       "muzika"
-    ],
-    "awards": []
-  },
-  {
-    "id": 261,
-    "title": "ФК «Зенит» — История формы",
-    "caption": "ФК «Зенит» — История формы\nhttps://forma.fc-zenit.ru/ru\n\n#спорт #история #мегафон",
-    "image": "data/images/261.jpg",
-    "tags": [
-      "спорт",
-      "история",
-      "мегафон"
-    ],
-    "url": "https://forma.fc-zenit.ru/ru",
-    "date": 1533722417,
-    "edit_date": 1586172531,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "sport",
-      "istoriya",
-      "megafon"
     ],
     "awards": []
   }

@@ -1,5 +1,26 @@
 [
   {
+    "id": 242,
+    "title": "Русские машины на страже смерти",
+    "image": "data/images/242.jpg",
+    "tags": [
+      "спецпроект",
+      "батенькадавытрансформер",
+      "alfred"
+    ],
+    "url": "http://21093.batenka.ru/",
+    "date": 1532080820,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "batenkadavitransformer",
+      "alfred"
+    ],
+    "awards": []
+  },
+  {
     "id": 232,
     "title": "Обитель чёрного дьявола",
     "image": "data/images/232.jpg",

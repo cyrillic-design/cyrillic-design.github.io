@@ -11821,5 +11821,23 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "896": {
+    "id": 896,
+    "title": "Иосиф Бродский. Продолжение пространства",
+    "caption": "Иосиф Бродский. Продолжение пространства\nhttps://josephbrodsky.space/\n\n#спецпроект #история #readymag #иванкардашев",
+    "image": "896.jpg",
+    "tags": [
+      "спецпроект",
+      "история",
+      "readymag",
+      "иванкардашев"
+    ],
+    "url": "https://josephbrodsky.space/",
+    "date": 1614797607,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

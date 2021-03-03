@@ -1,5 +1,30 @@
 [
   {
+    "id": 896,
+    "title": "Иосиф Бродский. Продолжение пространства",
+    "caption": "Иосиф Бродский. Продолжение пространства\nhttps://josephbrodsky.space/\n\n#спецпроект #история #readymag #иванкардашев",
+    "image": "data/images/896.jpg",
+    "tags": [
+      "спецпроект",
+      "история",
+      "readymag",
+      "иванкардашев"
+    ],
+    "url": "https://josephbrodsky.space/",
+    "date": 1614797607,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "istoriya",
+      "readymag",
+      "ivankardashev"
+    ],
+    "awards": []
+  },
+  {
     "id": 893,
     "title": "komnata",
     "caption": "komnata\nhttps://komnata.agency/ru/\n\n#портфолио #readymag\nСпасибо за ссылку @Arturkay",
@@ -448,28 +473,6 @@
       "meropriyatie",
       "readymag",
       "dreamlaser"
-    ],
-    "awards": []
-  },
-  {
-    "id": 812,
-    "title": "Wannabelike — Illarion Gordon",
-    "caption": "Wannabelike — Illarion Gordon\nhttps://wannabelike.ru/gordon/\n\n#образование #readymag",
-    "image": "data/images/812.jpg",
-    "tags": [
-      "образование",
-      "readymag"
-    ],
-    "url": "https://wannabelike.ru/gordon/",
-    "date": 1605002436,
-    "edit_date": 1605008929,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "readymag"
     ],
     "awards": []
   }
