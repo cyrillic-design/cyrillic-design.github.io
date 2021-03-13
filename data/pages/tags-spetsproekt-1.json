@@ -1,5 +1,27 @@
 [
   {
+    "id": 897,
+    "title": "leta",
+    "caption": "leta\nhttps://leta.today/\n\n#спецпроект #readymag",
+    "image": "data/images/897.jpg",
+    "tags": [
+      "спецпроект",
+      "readymag"
+    ],
+    "url": "https://leta.today/",
+    "date": 1615637366,
+    "edit_date": 1615662442,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 896,
     "title": "Иосиф Бродский. Продолжение пространства",
     "caption": "Иосиф Бродский. Продолжение пространства\nhttps://josephbrodsky.space/\n\n#спецпроект #история #readymag #иванкардашев",
@@ -453,29 +475,6 @@
       "spetsproekt",
       "readymag",
       "lilyaakhmetova"
-    ],
-    "awards": []
-  },
-  {
-    "id": 790,
-    "title": "Деревня Сардаял",
-    "caption": "Деревня Сардаял\nhttps://sardayal.ru/\n\n#спецпроект #образование #кружок",
-    "image": "data/images/790.jpg",
-    "tags": [
-      "спецпроект",
-      "образование",
-      "кружок"
-    ],
-    "url": "https://sardayal.ru/",
-    "date": 1603537567,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "obrazovanie",
-      "kruzhok"
     ],
     "awards": []
   }

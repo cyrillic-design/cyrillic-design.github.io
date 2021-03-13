@@ -1,5 +1,27 @@
 [
   {
+    "id": 592,
+    "title": "Защитники, которых никто не защитил",
+    "caption": "Защитники, которых никто не защитил\nhttps://www.advgazeta.ru/repressed-lawyers/\n\n#спецпроект #адвокатскаягазета #artperformance",
+    "image": "data/images/592.jpg",
+    "tags": [
+      "спецпроект",
+      "адвокатскаягазета",
+      "artperformance"
+    ],
+    "url": "https://www.advgazeta.ru/repressed-lawyers/",
+    "date": 1569233377,
+    "edit_date": 1583340438,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "advokatskayagazeta",
+      "artperformance"
+    ],
+    "awards": []
+  },
+  {
     "id": 586,
     "title": "Без Меня Егору Летову — 55 лет",
     "image": "data/images/586.jpg",
@@ -390,27 +412,6 @@
       "spetsproekt",
       "istoriya",
       "itechgroup"
-    ],
-    "awards": []
-  },
-  {
-    "id": 389,
-    "title": "Лесная Анкета - разговор с Ильей Долговым",
-    "image": "data/images/389.jpg",
-    "tags": [
-      "издание",
-      "спецпроект",
-      "воно"
-    ],
-    "url": "http://lesnaya.vonopaper.com/",
-    "date": 1544868009,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "izdanie",
-      "spetsproekt",
-      "vono"
     ],
     "awards": []
   }

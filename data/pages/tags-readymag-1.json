@@ -1,5 +1,27 @@
 [
   {
+    "id": 897,
+    "title": "leta",
+    "caption": "leta\nhttps://leta.today/\n\n#спецпроект #readymag",
+    "image": "data/images/897.jpg",
+    "tags": [
+      "спецпроект",
+      "readymag"
+    ],
+    "url": "https://leta.today/",
+    "date": 1615637366,
+    "edit_date": 1615662442,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 896,
     "title": "Иосиф Бродский. Продолжение пространства",
     "caption": "Иосиф Бродский. Продолжение пространства\nhttps://josephbrodsky.space/\n\n#спецпроект #история #readymag #иванкардашев",
@@ -448,31 +470,6 @@
       "studiya",
       "readymag",
       "saint"
-    ],
-    "awards": []
-  },
-  {
-    "id": 813,
-    "title": "Intervals Festival",
-    "caption": "Intervals Festival\nhttps://intervalsfest.com/\n\n#заглушка #мероприятие #readymag #dreamlaser",
-    "image": "data/images/813.jpg",
-    "tags": [
-      "заглушка",
-      "мероприятие",
-      "readymag",
-      "dreamlaser"
-    ],
-    "url": "https://intervalsfest.com/",
-    "date": 1605089906,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "zaglushka",
-      "meropriyatie",
-      "readymag",
-      "dreamlaser"
     ],
     "awards": []
   }
