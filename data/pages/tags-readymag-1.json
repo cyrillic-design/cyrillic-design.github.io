@@ -1,5 +1,30 @@
 [
   {
+    "id": 898,
+    "title": "День клиента",
+    "caption": "День клиента\nhttps://clientsday.localkitchen.ru/\n\n#спецпроект #еда #readymag #кухнянарайоне\nСпасибо за ссылку @winkeyless",
+    "image": "data/images/898.jpg",
+    "tags": [
+      "спецпроект",
+      "еда",
+      "readymag",
+      "кухнянарайоне"
+    ],
+    "url": "https://clientsday.localkitchen.ru/",
+    "date": 1616158175,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "yeda",
+      "readymag",
+      "kukhnyanaraione"
+    ],
+    "awards": []
+  },
+  {
     "id": 897,
     "title": "leta",
     "caption": "leta\nhttps://leta.today/\n\n#спецпроект #readymag",
@@ -445,31 +470,6 @@
       "portfolio",
       "readymag",
       "trudagecy"
-    ],
-    "awards": []
-  },
-  {
-    "id": 819,
-    "title": "DAAT Production",
-    "caption": "DAAT Production\nhttps://daat.pro/\n\n#портфолио #студия #readymag #saint",
-    "image": "data/images/819.jpg",
-    "tags": [
-      "портфолио",
-      "студия",
-      "readymag",
-      "saint"
-    ],
-    "url": "https://daat.pro/",
-    "date": 1605688759,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio",
-      "studiya",
-      "readymag",
-      "saint"
     ],
     "awards": []
   }

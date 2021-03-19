@@ -1,5 +1,30 @@
 [
   {
+    "id": 898,
+    "title": "День клиента",
+    "caption": "День клиента\nhttps://clientsday.localkitchen.ru/\n\n#спецпроект #еда #readymag #кухнянарайоне\nСпасибо за ссылку @winkeyless",
+    "image": "data/images/898.jpg",
+    "tags": [
+      "спецпроект",
+      "еда",
+      "readymag",
+      "кухнянарайоне"
+    ],
+    "url": "https://clientsday.localkitchen.ru/",
+    "date": 1616158175,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "yeda",
+      "readymag",
+      "kukhnyanaraione"
+    ],
+    "awards": []
+  },
+  {
     "id": 798,
     "title": "Тотальный Хэллоуин!",
     "caption": "Тотальный Хэллоуин!\nhttps://totalhalloween.localkitchen.ru/\n\n#промо #доставка #readymag #кухнянарайоне\nСпасибо за ссылку @ivanedorn",

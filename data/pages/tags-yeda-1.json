@@ -1,5 +1,30 @@
 [
   {
+    "id": 898,
+    "title": "День клиента",
+    "caption": "День клиента\nhttps://clientsday.localkitchen.ru/\n\n#спецпроект #еда #readymag #кухнянарайоне\nСпасибо за ссылку @winkeyless",
+    "image": "data/images/898.jpg",
+    "tags": [
+      "спецпроект",
+      "еда",
+      "readymag",
+      "кухнянарайоне"
+    ],
+    "url": "https://clientsday.localkitchen.ru/",
+    "date": 1616158175,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "yeda",
+      "readymag",
+      "kukhnyanaraione"
+    ],
+    "awards": []
+  },
+  {
     "id": 878,
     "title": "Носок",
     "caption": "Носок\nhttps://nosok.localkitchen.ru/\n\n#промо #еда #доставка #readymag",
@@ -426,27 +451,6 @@
     "slugs": [
       "yeda",
       "dostavka"
-    ],
-    "awards": []
-  },
-  {
-    "id": 206,
-    "title": "Частная лавочка",
-    "image": "data/images/206.jpg",
-    "tags": [
-      "производство",
-      "еда",
-      "chipsa"
-    ],
-    "url": "http://lavochkamarket.ru/",
-    "date": 1528970420,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "proizvodstvo",
-      "yeda",
-      "chipsa"
     ],
     "awards": []
   }
