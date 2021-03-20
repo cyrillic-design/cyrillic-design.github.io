@@ -1,5 +1,26 @@
 [
   {
+    "id": 876,
+    "title": "Бібліотека Юрія Вітренка",
+    "caption": "Бібліотека Юрія Вітренка\nhttps://www.vitrenkolibrary.com/\n\n#бизнес #nextpage",
+    "image": "data/images/876.jpg",
+    "tags": [
+      "бизнес",
+      "nextpage"
+    ],
+    "url": "https://www.vitrenkolibrary.com/",
+    "date": 1610618407,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "biznes",
+      "nextpage"
+    ],
+    "awards": []
+  },
+  {
     "id": 875,
     "title": "Блог OneSoil",
     "caption": "Блог OneSoil\nhttps://blog.onesoil.ai/ru\n\n#блог #tilda #update",
@@ -433,33 +454,6 @@
       "podkast",
       "readymag",
       "nonobjectiveworks"
-    ],
-    "awards": []
-  },
-  {
-    "id": 853,
-    "title": "Кривицкий — адвокаты бизнеса",
-    "caption": "Кривицкий — адвокаты бизнеса\nhttps://krivitzky.ru/\n\n#промо #портфолио #услуги #бизнес #artlebedev",
-    "image": "data/images/853.jpg",
-    "tags": [
-      "промо",
-      "портфолио",
-      "услуги",
-      "бизнес",
-      "artlebedev"
-    ],
-    "url": "https://krivitzky.ru/",
-    "date": 1607935323,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "portfolio",
-      "uslugi",
-      "biznes",
-      "artlebedev"
     ],
     "awards": []
   }

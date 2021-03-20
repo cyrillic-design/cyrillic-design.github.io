@@ -1,5 +1,29 @@
 [
   {
+    "id": 683,
+    "title": "В моем репертуаре",
+    "caption": "В моем репертуаре\nhttps://truetoform.me/\n\n☆ #сервис #промо #мероприятие #readymag",
+    "image": "data/images/683.jpg",
+    "tags": [
+      "сервис",
+      "промо",
+      "мероприятие",
+      "readymag"
+    ],
+    "url": "https://truetoform.me/",
+    "date": 1583834419,
+    "edit_date": 1583834486,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "promo",
+      "meropriyatie",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 681,
     "title": "Накормим весь малый бизнес",
     "caption": "Накормим весь малый бизнес\nhttps://sfera.ru/landing/localkitchen/\n\n☆ #сервис #промо #банк #бкс #кухнянарайоне",
@@ -374,27 +398,6 @@
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
-      "servis"
-    ],
-    "awards": []
-  },
-  {
-    "id": 528,
-    "title": "Квартиротека ИКЕА",
-    "image": "data/images/528.jpg",
-    "tags": [
-      "магазин",
-      "доставка",
-      "сервис"
-    ],
-    "url": "https://www.ikea.com/ext/ru/kvartiroteka/",
-    "date": 1559901624,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "dostavka",
       "servis"
     ],
     "awards": []

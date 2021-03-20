@@ -1,5 +1,28 @@
 [
   {
+    "id": 899,
+    "title": "Эйч",
+    "caption": "Эйч\nhttps://h.budu.jobs/\n\n#сервис #hr #update",
+    "image": "data/images/899.jpg",
+    "tags": [
+      "сервис",
+      "hr",
+      "update"
+    ],
+    "url": "https://h.budu.jobs/",
+    "date": 1616234441,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "hr",
+      "update"
+    ],
+    "awards": []
+  },
+  {
     "id": 875,
     "title": "Блог OneSoil",
     "caption": "Блог OneSoil\nhttps://blog.onesoil.ai/ru\n\n#блог #tilda #update",

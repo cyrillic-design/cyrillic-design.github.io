@@ -1,5 +1,26 @@
 [
   {
+    "id": 220,
+    "title": "Fins",
+    "image": "data/images/220.jpg",
+    "tags": [
+      "финансы",
+      "сервис",
+      "бкс"
+    ],
+    "url": "https://fins.money/",
+    "date": 1530180010,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "finansi",
+      "servis",
+      "bks"
+    ],
+    "awards": []
+  },
+  {
     "id": 218,
     "title": "ДомКлик",
     "image": "data/images/218.jpg",
