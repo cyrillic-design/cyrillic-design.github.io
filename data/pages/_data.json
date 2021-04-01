@@ -11907,5 +11907,23 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "901": {
+    "id": 901,
+    "title": "The Pansionat",
+    "caption": "The Pansionat\nhttps://thepansionat.ru/\n\n#промо #приложение #readymag #кухнянарайоне",
+    "image": "901.jpg",
+    "tags": [
+      "промо",
+      "приложение",
+      "readymag",
+      "кухнянарайоне"
+    ],
+    "url": "https://thepansionat.ru/",
+    "date": 1617294426,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

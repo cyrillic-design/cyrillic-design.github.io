@@ -1,5 +1,30 @@
 [
   {
+    "id": 901,
+    "title": "The Pansionat",
+    "caption": "The Pansionat\nhttps://thepansionat.ru/\n\n#промо #приложение #readymag #кухнянарайоне",
+    "image": "data/images/901.jpg",
+    "tags": [
+      "промо",
+      "приложение",
+      "readymag",
+      "кухнянарайоне"
+    ],
+    "url": "https://thepansionat.ru/",
+    "date": 1617294426,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "prilozhenie",
+      "readymag",
+      "kukhnyanaraione"
+    ],
+    "awards": []
+  },
+  {
     "id": 898,
     "title": "День клиента",
     "caption": "День клиента\nhttps://clientsday.localkitchen.ru/\n\n#спецпроект #еда #readymag #кухнянарайоне\nСпасибо за ссылку @winkeyless",
