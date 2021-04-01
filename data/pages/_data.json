@@ -11891,5 +11891,21 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "900": {
+    "id": 900,
+    "title": "Трехгорная мануфактура",
+    "caption": "Трехгорная мануфактура\nhttps://trekhgorka.ru/\n\n#промо #ony",
+    "image": "900.jpg",
+    "tags": [
+      "промо",
+      "ony"
+    ],
+    "url": "https://trekhgorka.ru/",
+    "date": 1617269763,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

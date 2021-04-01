@@ -1,5 +1,26 @@
 [
   {
+    "id": 900,
+    "title": "Трехгорная мануфактура",
+    "caption": "Трехгорная мануфактура\nhttps://trekhgorka.ru/\n\n#промо #ony",
+    "image": "data/images/900.jpg",
+    "tags": [
+      "промо",
+      "ony"
+    ],
+    "url": "https://trekhgorka.ru/",
+    "date": 1617269763,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "ony"
+    ],
+    "awards": []
+  },
+  {
     "id": 879,
     "title": "Книга «Эссенция сенца»",
     "caption": "Книга «Эссенция сенца»\nhttps://sencessence.ru/\n\n#промо #астрошок\nСпасибо за ссылку @AndyAbramov",
@@ -448,32 +469,6 @@
       "promo",
       "portfolio",
       "whiterussianstudio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 724,
-    "title": "Контейнеров больше нет",
-    "caption": "Контейнеров больше нет\nhttps://box.localkitchen.ru/\n\n#доставка #еда #промо #кухнянарайоне\nСпасибо за ссылку @as_kiryanov",
-    "image": "data/images/724.jpg",
-    "tags": [
-      "доставка",
-      "еда",
-      "промо",
-      "кухнянарайоне"
-    ],
-    "url": "https://box.localkitchen.ru/",
-    "date": 1589450415,
-    "edit_date": 1603460416,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "dostavka",
-      "yeda",
-      "promo",
-      "kukhnyanaraione"
     ],
     "awards": []
   }

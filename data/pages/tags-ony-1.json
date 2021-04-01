@@ -1,5 +1,26 @@
 [
   {
+    "id": 900,
+    "title": "Трехгорная мануфактура",
+    "caption": "Трехгорная мануфактура\nhttps://trekhgorka.ru/\n\n#промо #ony",
+    "image": "data/images/900.jpg",
+    "tags": [
+      "промо",
+      "ony"
+    ],
+    "url": "https://trekhgorka.ru/",
+    "date": 1617269763,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "ony"
+    ],
+    "awards": []
+  },
+  {
     "id": 865,
     "title": "ПОМОЩЬ",
     "caption": "ПОМОЩЬ\nhttps://pomosch.app/\n\n#благотворительность #помощь #приложение #ony",

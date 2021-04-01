@@ -1,5 +1,28 @@
 [
   {
+    "id": 877,
+    "title": "РеФорма",
+    "caption": "РеФорма\nhttps://re-forma.org/\n\n#образование #tilda #redis",
+    "image": "data/images/877.jpg",
+    "tags": [
+      "образование",
+      "tilda",
+      "redis"
+    ],
+    "url": "https://re-forma.org/",
+    "date": 1610704807,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "tilda",
+      "redis"
+    ],
+    "awards": []
+  },
+  {
     "id": 876,
     "title": "Бібліотека Юрія Вітренка",
     "caption": "Бібліотека Юрія Вітренка\nhttps://www.vitrenkolibrary.com/\n\n#бизнес #nextpage",
@@ -429,31 +452,6 @@
     "slugs": [
       "magazin",
       "vigbo"
-    ],
-    "awards": []
-  },
-  {
-    "id": 854,
-    "title": "хотели как лучше",
-    "caption": "хотели как лучше\nhttps://wannabest.ru/\n\n#портфолио #подкаст #readymag #nonobjectiveworks",
-    "image": "data/images/854.jpg",
-    "tags": [
-      "портфолио",
-      "подкаст",
-      "readymag",
-      "nonobjectiveworks"
-    ],
-    "url": "https://wannabest.ru/",
-    "date": 1608026407,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio",
-      "podkast",
-      "readymag",
-      "nonobjectiveworks"
     ],
     "awards": []
   }
