@@ -1,5 +1,32 @@
 [
   {
+    "id": 903,
+    "title": "Соковыжималка Juicy Salif",
+    "caption": "Соковыжималка Juicy Salif \nhttps://juicysalif.com/\n\n#спецпроект #история #образование #readymag #pragmatica\nСпасибо за ссылку @katebainova",
+    "image": "data/images/903.jpg",
+    "tags": [
+      "спецпроект",
+      "история",
+      "образование",
+      "readymag",
+      "pragmatica"
+    ],
+    "url": "https://juicysalif.com/",
+    "date": 1617444037,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "istoriya",
+      "obrazovanie",
+      "readymag",
+      "pragmatica"
+    ],
+    "awards": []
+  },
+  {
     "id": 896,
     "title": "Иосиф Бродский. Продолжение пространства",
     "caption": "Иосиф Бродский. Продолжение пространства\nhttps://josephbrodsky.space/\n\n#спецпроект #история #readymag #иванкардашев",
@@ -452,27 +479,6 @@
       "promo",
       "istoriya",
       "avto"
-    ],
-    "awards": []
-  },
-  {
-    "id": 268,
-    "title": "Схема",
-    "image": "data/images/268.jpg",
-    "tags": [
-      "спецпроект",
-      "история",
-      "музыка"
-    ],
-    "url": "http://cxema.tight.media/",
-    "date": 1534327220,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "istoriya",
-      "muzika"
     ],
     "awards": []
   }

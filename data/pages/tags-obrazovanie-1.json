@@ -1,5 +1,32 @@
 [
   {
+    "id": 903,
+    "title": "Соковыжималка Juicy Salif",
+    "caption": "Соковыжималка Juicy Salif \nhttps://juicysalif.com/\n\n#спецпроект #история #образование #readymag #pragmatica\nСпасибо за ссылку @katebainova",
+    "image": "data/images/903.jpg",
+    "tags": [
+      "спецпроект",
+      "история",
+      "образование",
+      "readymag",
+      "pragmatica"
+    ],
+    "url": "https://juicysalif.com/",
+    "date": 1617444037,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "istoriya",
+      "obrazovanie",
+      "readymag",
+      "pragmatica"
+    ],
+    "awards": []
+  },
+  {
     "id": 891,
     "title": "STRELKA INSTITUTE 20:20",
     "caption": "STRELKA INSTITUTE 20:20\nhttps://2020.strelka.com/\n\n#образование #отчет #readymag\nСпасибо за ссылку @mjsnui",
@@ -428,31 +455,6 @@
       "obrazovanie",
       "tilda",
       "kamchatka"
-    ],
-    "awards": []
-  },
-  {
-    "id": 776,
-    "title": "yazdes art",
-    "caption": "yazdes art\nhttps://yazdes.art/\n\n#мероприятие #образование #readymag #nonobjectiveworks",
-    "image": "data/images/776.jpg",
-    "tags": [
-      "мероприятие",
-      "образование",
-      "readymag",
-      "nonobjectiveworks"
-    ],
-    "url": "https://yazdes.art/",
-    "date": 1600941611,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "meropriyatie",
-      "obrazovanie",
-      "readymag",
-      "nonobjectiveworks"
     ],
     "awards": []
   }

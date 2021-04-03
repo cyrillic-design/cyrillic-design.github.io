@@ -1,5 +1,30 @@
 [
   {
+    "id": 776,
+    "title": "yazdes art",
+    "caption": "yazdes art\nhttps://yazdes.art/\n\n#мероприятие #образование #readymag #nonobjectiveworks",
+    "image": "data/images/776.jpg",
+    "tags": [
+      "мероприятие",
+      "образование",
+      "readymag",
+      "nonobjectiveworks"
+    ],
+    "url": "https://yazdes.art/",
+    "date": 1600941611,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "obrazovanie",
+      "readymag",
+      "nonobjectiveworks"
+    ],
+    "awards": []
+  },
+  {
     "id": 772,
     "title": "Voice",
     "caption": "Voice\nhttp://voicevoicevoicevoice.ru/\n\n#образование #readymag #dadacreative\nСпасибо за ссылку @AnnaTsybina",
@@ -445,27 +470,6 @@
     "slugs": [
       "obrazovanie",
       "meropriyatie"
-    ],
-    "awards": []
-  },
-  {
-    "id": 648,
-    "title": "Тренды 2020",
-    "image": "data/images/648.jpg",
-    "tags": [
-      "спецпроект",
-      "промо",
-      "образование"
-    ],
-    "url": "https://2020.skillbox.ru/",
-    "date": 1577527207,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "promo",
-      "obrazovanie"
     ],
     "awards": []
   }
