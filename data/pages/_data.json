@@ -11944,5 +11944,20 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "904": {
+    "id": 904,
+    "title": "Arrival Live",
+    "caption": "Arrival Live\nhttps://meetup.arrival.com/\n\n#мероприятие",
+    "image": "904.jpg",
+    "tags": [
+      "мероприятие"
+    ],
+    "url": "https://meetup.arrival.com/",
+    "date": 1617951664,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

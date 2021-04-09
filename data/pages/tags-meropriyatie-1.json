@@ -1,5 +1,24 @@
 [
   {
+    "id": 904,
+    "title": "Arrival Live",
+    "caption": "Arrival Live\nhttps://meetup.arrival.com/\n\n#мероприятие",
+    "image": "data/images/904.jpg",
+    "tags": [
+      "мероприятие"
+    ],
+    "url": "https://meetup.arrival.com/",
+    "date": 1617951664,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie"
+    ],
+    "awards": []
+  },
+  {
     "id": 886,
     "title": "2-я Триеннале российского современного искусства",
     "caption": "2-я Триеннале российского современного искусства\nhttps://triennial.garagemca.org/ru/\n\n#мероприятие #искусство #materialist #perushevkhmelev\nСпасибо за ссылку @gurick",
@@ -470,32 +489,6 @@
       "meropriyatie",
       "readymag",
       "nonobjectiveworks"
-    ],
-    "awards": []
-  },
-  {
-    "id": 717,
-    "title": "Визионеры",
-    "caption": "Визионеры\nhttps://award.plus-one.ru/\n\n#мероприятие #наука #люди #tilda",
-    "image": "data/images/717.jpg",
-    "tags": [
-      "мероприятие",
-      "наука",
-      "люди",
-      "tilda"
-    ],
-    "url": "https://award.plus-one.ru/",
-    "date": 1587376812,
-    "edit_date": 1587383308,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "meropriyatie",
-      "nauka",
-      "lyudi",
-      "tilda"
     ],
     "awards": []
   }
