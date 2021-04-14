@@ -1,5 +1,28 @@
 [
   {
+    "id": 906,
+    "title": "Method zero",
+    "caption": "Method zero\nhttps://www.methodzero.io/\n\n#портфолио #услуги #pinkman",
+    "image": "data/images/906.jpg",
+    "tags": [
+      "портфолио",
+      "услуги",
+      "pinkman"
+    ],
+    "url": "https://www.methodzero.io/",
+    "date": 1618389675,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "uslugi",
+      "pinkman"
+    ],
+    "awards": []
+  },
+  {
     "id": 489,
     "title": "DataFork",
     "image": "data/images/489.jpg",

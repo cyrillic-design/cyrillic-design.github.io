@@ -1,5 +1,24 @@
 [
   {
+    "id": 114,
+    "title": "Додо Пицца",
+    "image": "data/images/114.jpg",
+    "tags": [
+      "доставка",
+      "еда"
+    ],
+    "url": "https://dodopizza.ru/",
+    "date": 1521021612,
+    "edit_date": 1583185535,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "dostavka",
+      "yeda"
+    ],
+    "awards": []
+  },
+  {
     "id": 113,
     "title": "Кружок — Тур Россия",
     "image": "data/images/113.jpg",
@@ -399,29 +418,6 @@
       "bank",
       "finansi",
       "aic"
-    ],
-    "awards": []
-  },
-  {
-    "id": 87,
-    "title": "Buddha pizza",
-    "image": "data/images/87.jpg",
-    "tags": [
-      "магазин",
-      "доставка",
-      "еда",
-      "solardigital"
-    ],
-    "url": "https://buddhapizza.com/",
-    "date": 1519207214,
-    "edit_date": 1583185563,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "dostavka",
-      "yeda",
-      "solardigital"
     ],
     "awards": []
   }

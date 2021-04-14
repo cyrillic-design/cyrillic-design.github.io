@@ -11975,5 +11975,22 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "906": {
+    "id": 906,
+    "title": "Method zero",
+    "caption": "Method zero\nhttps://www.methodzero.io/\n\n#портфолио #услуги #pinkman",
+    "image": "906.jpg",
+    "tags": [
+      "портфолио",
+      "услуги",
+      "pinkman"
+    ],
+    "url": "https://www.methodzero.io/",
+    "date": 1618389675,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
