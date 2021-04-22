@@ -1,5 +1,28 @@
 [
   {
+    "id": 907,
+    "title": "IT-Музей DataArt",
+    "caption": "IT-Музей DataArt\nhttps://museum.dataart.com/\n\n#спецпроект #музей #история",
+    "image": "data/images/907.jpg",
+    "tags": [
+      "спецпроект",
+      "музей",
+      "история"
+    ],
+    "url": "https://museum.dataart.com/",
+    "date": 1619075430,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "muzei",
+      "istoriya"
+    ],
+    "awards": []
+  },
+  {
     "id": 823,
     "title": "Конструктор",
     "caption": "Конструктор\nhttps://constructor.jewish-museum.ru/ru\n\n#спецпроект #игра #музей #materialist",

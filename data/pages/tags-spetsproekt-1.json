@@ -1,5 +1,28 @@
 [
   {
+    "id": 907,
+    "title": "IT-Музей DataArt",
+    "caption": "IT-Музей DataArt\nhttps://museum.dataart.com/\n\n#спецпроект #музей #история",
+    "image": "data/images/907.jpg",
+    "tags": [
+      "спецпроект",
+      "музей",
+      "история"
+    ],
+    "url": "https://museum.dataart.com/",
+    "date": 1619075430,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "muzei",
+      "istoriya"
+    ],
+    "awards": []
+  },
+  {
     "id": 903,
     "title": "Соковыжималка Juicy Salif",
     "caption": "Соковыжималка Juicy Salif \nhttps://juicysalif.com/\n\n#спецпроект #история #образование #readymag #pragmatica\nСпасибо за ссылку @katebainova",
@@ -454,33 +477,6 @@
       "spetsproekt",
       "obrazovanie",
       "kruzhok"
-    ],
-    "awards": []
-  },
-  {
-    "id": 805,
-    "title": "Эдуард Путерброт «Фрагмент занавеса №16»",
-    "caption": "Эдуард Путерброт «Фрагмент занавеса №16»\nhttps://puterbrot.mkalamuseum.ru/\n\n#мероприятие #спецпроект #искусство #readymag #nonobjectiveworks\nСпасибо за ссылку @AndyAbramov",
-    "image": "data/images/805.jpg",
-    "tags": [
-      "мероприятие",
-      "спецпроект",
-      "искусство",
-      "readymag",
-      "nonobjectiveworks"
-    ],
-    "url": "https://puterbrot.mkalamuseum.ru/",
-    "date": 1604394018,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "meropriyatie",
-      "spetsproekt",
-      "iskusstvo",
-      "readymag",
-      "nonobjectiveworks"
     ],
     "awards": []
   }

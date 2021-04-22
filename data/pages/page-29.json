@@ -1,5 +1,24 @@
 [
   {
+    "id": 298,
+    "title": "SETTERS",
+    "image": "data/images/298.jpg",
+    "tags": [
+      "агентство",
+      "портфолио"
+    ],
+    "url": "https://setters.agency/",
+    "date": 1536832821,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "agentstvo",
+      "portfolio"
+    ],
+    "awards": []
+  },
+  {
     "id": 297,
     "title": "Биохакинг сквозь века",
     "image": "data/images/297.jpg",
@@ -388,25 +407,6 @@
       "magazin",
       "moda",
       "facility"
-    ],
-    "awards": []
-  },
-  {
-    "id": 278,
-    "title": "Калашников",
-    "image": "data/images/278.jpg",
-    "tags": [
-      "промо",
-      "магазин"
-    ],
-    "url": "http://ak.kalashnikovgroup.ru/",
-    "date": 1535104820,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "magazin"
     ],
     "awards": []
   }

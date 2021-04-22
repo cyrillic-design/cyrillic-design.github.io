@@ -1,5 +1,28 @@
 [
   {
+    "id": 907,
+    "title": "IT-Музей DataArt",
+    "caption": "IT-Музей DataArt\nhttps://museum.dataart.com/\n\n#спецпроект #музей #история",
+    "image": "data/images/907.jpg",
+    "tags": [
+      "спецпроект",
+      "музей",
+      "история"
+    ],
+    "url": "https://museum.dataart.com/",
+    "date": 1619075430,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "muzei",
+      "istoriya"
+    ],
+    "awards": []
+  },
+  {
     "id": 903,
     "title": "Соковыжималка Juicy Salif",
     "caption": "Соковыжималка Juicy Salif \nhttps://juicysalif.com/\n\n#спецпроект #история #образование #readymag #pragmatica\nСпасибо за ссылку @katebainova",
@@ -458,27 +481,6 @@
     "slugs": [
       "spetsproekt",
       "istoriya"
-    ],
-    "awards": []
-  },
-  {
-    "id": 333,
-    "title": "TIMELESS",
-    "image": "data/images/333.jpg",
-    "tags": [
-      "промо",
-      "история",
-      "авто"
-    ],
-    "url": "https://www.timeless.ee/?lang=rus",
-    "date": 1540375216,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "istoriya",
-      "avto"
     ],
     "awards": []
   }
