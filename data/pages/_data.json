@@ -12013,14 +12013,16 @@
   "908": {
     "id": 908,
     "title": "Second Friend Store",
-    "caption": "Second Friend Store\nhttp://10years.secondfriendstore.ru/\n\n#мероприятие #мода\nСпасибо за ссылку @readymag_official",
+    "caption": "Second Friend Store\nhttp://10years.secondfriendstore.ru/\n\n#мероприятие #мода #reradymag\nСпасибо за ссылку @readymag_official",
     "image": "908.jpg",
     "tags": [
       "мероприятие",
-      "мода"
+      "мода",
+      "reradymag"
     ],
     "url": "http://10years.secondfriendstore.ru/",
     "date": 1619348926,
+    "edit_date": 1619349282,
     "isMonth": false,
     "isYear": false,
     "isHighlighted": false,
