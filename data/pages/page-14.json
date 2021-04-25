@@ -1,5 +1,24 @@
 [
   {
+    "id": 624,
+    "title": "Правила удобного дорожного движения",
+    "image": "data/images/624.jpg",
+    "tags": [
+      "спецпроект",
+      "артельуткина"
+    ],
+    "url": "http://probok.net/pdd/",
+    "date": 1573725620,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "artelutkina"
+    ],
+    "awards": []
+  },
+  {
     "id": 623,
     "title": "Astris",
     "image": "data/images/623.jpg",
@@ -383,25 +402,6 @@
     "isRemoved": false,
     "slugs": [
       "meropriyatie"
-    ],
-    "awards": []
-  },
-  {
-    "id": 604,
-    "title": "ESH Print",
-    "image": "data/images/604.jpg",
-    "tags": [
-      "сервис",
-      "eshgruppa"
-    ],
-    "url": "https://www.eshprint.com/",
-    "date": 1571133674,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "eshgruppa"
     ],
     "awards": []
   }

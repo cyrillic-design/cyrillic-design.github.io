@@ -1,5 +1,26 @@
 [
   {
+    "id": 908,
+    "title": "Second Friend Store",
+    "caption": "Second Friend Store\nhttp://10years.secondfriendstore.ru/\n\n#мероприятие #мода\nСпасибо за ссылку @readymag_official",
+    "image": "data/images/908.jpg",
+    "tags": [
+      "мероприятие",
+      "мода"
+    ],
+    "url": "http://10years.secondfriendstore.ru/",
+    "date": 1619348926,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "moda"
+    ],
+    "awards": []
+  },
+  {
     "id": 904,
     "title": "Arrival Live",
     "caption": "Arrival Live\nhttps://meetup.arrival.com/\n\n#мероприятие",
@@ -463,32 +484,6 @@
       "obrazovanie",
       "meropriyatie",
       "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 730,
-    "title": "Курс прозы «Глагол»",
-    "caption": "Курс прозы «Глагол»\nhttp://glglgl.ru/\n\n#образование #мероприятие #readymag #nonobjectiveworks",
-    "image": "data/images/730.jpg",
-    "tags": [
-      "образование",
-      "мероприятие",
-      "readymag",
-      "nonobjectiveworks"
-    ],
-    "url": "http://glglgl.ru/",
-    "date": 1590573617,
-    "edit_date": 1600870401,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "meropriyatie",
-      "readymag",
-      "nonobjectiveworks"
     ],
     "awards": []
   }

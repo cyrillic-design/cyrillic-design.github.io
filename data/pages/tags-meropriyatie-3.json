@@ -1,5 +1,24 @@
 [
   {
+    "id": 544,
+    "title": "Приходи и свети",
+    "image": "data/images/544.jpg",
+    "tags": [
+      "мероприятие",
+      "промо"
+    ],
+    "url": "http://sveti-intervalsfest.com/",
+    "date": 1562070785,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "promo"
+    ],
+    "awards": []
+  },
+  {
     "id": 524,
     "title": "К19",
     "image": "data/images/524.jpg",
@@ -380,27 +399,6 @@
       "festival",
       "gorod",
       "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 257,
-    "title": "2018 FORMULA 1 AZERBAIJAN GRAND PRIX",
-    "image": "data/images/257.jpg",
-    "tags": [
-      "спорт",
-      "мероприятие",
-      "chulakov"
-    ],
-    "url": "https://www.bakucitycircuit.com/ru",
-    "date": 1533376805,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "sport",
-      "meropriyatie",
-      "chulakov"
     ],
     "awards": []
   }

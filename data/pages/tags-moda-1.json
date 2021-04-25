@@ -1,5 +1,26 @@
 [
   {
+    "id": 908,
+    "title": "Second Friend Store",
+    "caption": "Second Friend Store\nhttp://10years.secondfriendstore.ru/\n\n#мероприятие #мода\nСпасибо за ссылку @readymag_official",
+    "image": "data/images/908.jpg",
+    "tags": [
+      "мероприятие",
+      "мода"
+    ],
+    "url": "http://10years.secondfriendstore.ru/",
+    "date": 1619348926,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "moda"
+    ],
+    "awards": []
+  },
+  {
     "id": 554,
     "title": "Золотое яблоко",
     "image": "data/images/554.jpg",
