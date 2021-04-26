@@ -1,5 +1,26 @@
 [
   {
+    "id": 909,
+    "title": "Everybook",
+    "caption": "Everybook\nhttps://everybook.ru/\n\n#сервис #приложение",
+    "image": "data/images/909.jpg",
+    "tags": [
+      "сервис",
+      "приложение"
+    ],
+    "url": "https://everybook.ru/",
+    "date": 1619425025,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "prilozhenie"
+    ],
+    "awards": []
+  },
+  {
     "id": 899,
     "title": "Эйч",
     "caption": "Эйч\nhttps://h.budu.jobs/\n\n#сервис #hr #update",
@@ -447,29 +468,6 @@
       "dostavka",
       "servis",
       "tilda"
-    ],
-    "awards": []
-  },
-  {
-    "id": 684,
-    "title": "Яндекс.Заправки",
-    "caption": "Яндекс.Заправки\nhttps://zapravki.yandex.ru/\n\n☆ #приложение #сервис #промо #яндекс",
-    "image": "data/images/684.jpg",
-    "tags": [
-      "приложение",
-      "сервис",
-      "промо",
-      "яндекс"
-    ],
-    "url": "https://zapravki.yandex.ru/",
-    "date": 1583920822,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "prilozhenie",
-      "servis",
-      "promo",
-      "yandeks"
     ],
     "awards": []
   }
