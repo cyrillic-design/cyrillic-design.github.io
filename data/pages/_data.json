@@ -12043,5 +12043,23 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "910": {
+    "id": 910,
+    "title": "Armenian IT",
+    "caption": "Armenian IT\nhttps://armenianit.dataart.com/\n\n#спецпроект #история #readymag #ильякоробов",
+    "image": "910.jpg",
+    "tags": [
+      "спецпроект",
+      "история",
+      "readymag",
+      "ильякоробов"
+    ],
+    "url": "https://armenianit.dataart.com/",
+    "date": 1619451602,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

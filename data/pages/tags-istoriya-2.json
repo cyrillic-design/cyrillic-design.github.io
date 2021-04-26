@@ -1,5 +1,24 @@
 [
   {
+    "id": 369,
+    "title": "Мапа станаўлення Беларусі",
+    "image": "data/images/369.jpg",
+    "tags": [
+      "спецпроект",
+      "история"
+    ],
+    "url": "http://map.letapis.by/by/",
+    "date": 1543399222,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "istoriya"
+    ],
+    "awards": []
+  },
+  {
     "id": 333,
     "title": "TIMELESS",
     "image": "data/images/333.jpg",
