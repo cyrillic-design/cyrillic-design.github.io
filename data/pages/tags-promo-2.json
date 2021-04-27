@@ -1,5 +1,30 @@
 [
   {
+    "id": 732,
+    "title": "Кинотеатр под пледиком",
+    "caption": "Кинотеатр под пледиком\nhttps://kino.localkitchen.ru/\n\n#промо #еда #readymag #кухнянарайоне",
+    "image": "data/images/732.jpg",
+    "tags": [
+      "промо",
+      "еда",
+      "readymag",
+      "кухнянарайоне"
+    ],
+    "url": "https://kino.localkitchen.ru/",
+    "date": 1591005610,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "yeda",
+      "readymag",
+      "kukhnyanaraione"
+    ],
+    "awards": []
+  },
+  {
     "id": 727,
     "title": "Рекламное агентство ПИКЧЕР",
     "caption": "Рекламное агентство ПИКЧЕР\nhttps://aaaaa.team/\n\n#агентство #промо #портфолио #whiterussianstudio",
@@ -434,27 +459,6 @@
       "bank",
       "promo",
       "roketbank"
-    ],
-    "awards": []
-  },
-  {
-    "id": 645,
-    "title": "Гоголевский 12",
-    "image": "data/images/645.jpg",
-    "tags": [
-      "промо",
-      "недвижимость",
-      "art3d"
-    ],
-    "url": "http://gogolevsky12.ru/",
-    "date": 1577268028,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "nedvizhimost",
-      "art3d"
     ],
     "awards": []
   }

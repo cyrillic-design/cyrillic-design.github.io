@@ -1,5 +1,28 @@
 [
   {
+    "id": 911,
+    "title": "Береговой — жизнь на берегу Москвы-реки",
+    "caption": "Береговой — жизнь на берегу Москвы-реки\nhttps://beregovoy-kvartal.ru/\n\n#промо #недвижимость #idaproject\nСпасибо за ссылку @esttmay",
+    "image": "data/images/911.jpg",
+    "tags": [
+      "промо",
+      "недвижимость",
+      "idaproject"
+    ],
+    "url": "https://beregovoy-kvartal.ru/",
+    "date": 1619510463,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "nedvizhimost",
+      "idaproject"
+    ],
+    "awards": []
+  },
+  {
     "id": 901,
     "title": "The Pansionat",
     "caption": "The Pansionat\nhttps://thepansionat.ru/\n\n#промо #приложение #readymag #кухнянарайоне",
@@ -444,31 +467,6 @@
     "slugs": [
       "meropriyatie",
       "promo"
-    ],
-    "awards": []
-  },
-  {
-    "id": 732,
-    "title": "Кинотеатр под пледиком",
-    "caption": "Кинотеатр под пледиком\nhttps://kino.localkitchen.ru/\n\n#промо #еда #readymag #кухнянарайоне",
-    "image": "data/images/732.jpg",
-    "tags": [
-      "промо",
-      "еда",
-      "readymag",
-      "кухнянарайоне"
-    ],
-    "url": "https://kino.localkitchen.ru/",
-    "date": 1591005610,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "yeda",
-      "readymag",
-      "kukhnyanaraione"
     ],
     "awards": []
   }

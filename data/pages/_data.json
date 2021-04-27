@@ -12061,5 +12061,22 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "911": {
+    "id": 911,
+    "title": "Береговой — жизнь на берегу Москвы-реки",
+    "caption": "Береговой — жизнь на берегу Москвы-реки\nhttps://beregovoy-kvartal.ru/\n\n#промо #недвижимость #idaproject\nСпасибо за ссылку @esttmay",
+    "image": "911.jpg",
+    "tags": [
+      "промо",
+      "недвижимость",
+      "idaproject"
+    ],
+    "url": "https://beregovoy-kvartal.ru/",
+    "date": 1619510463,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

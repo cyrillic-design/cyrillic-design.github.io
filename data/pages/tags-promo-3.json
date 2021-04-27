@@ -1,5 +1,26 @@
 [
   {
+    "id": 645,
+    "title": "Гоголевский 12",
+    "image": "data/images/645.jpg",
+    "tags": [
+      "промо",
+      "недвижимость",
+      "art3d"
+    ],
+    "url": "http://gogolevsky12.ru/",
+    "date": 1577268028,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "nedvizhimost",
+      "art3d"
+    ],
+    "awards": []
+  },
+  {
     "id": 642,
     "title": "Tilda Podcast",
     "image": "data/images/642.jpg",
@@ -381,25 +402,6 @@
     "isRemoved": false,
     "slugs": [
       "nedvizhimost",
-      "promo"
-    ],
-    "awards": []
-  },
-  {
-    "id": 490,
-    "title": "Высокая кухня на районе",
-    "image": "data/images/490.jpg",
-    "tags": [
-      "еда",
-      "промо"
-    ],
-    "url": "https://high.localkitchen.ru/",
-    "date": 1554372028,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "yeda",
       "promo"
     ],
     "awards": []

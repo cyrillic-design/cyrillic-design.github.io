@@ -1,5 +1,28 @@
 [
   {
+    "id": 911,
+    "title": "Береговой — жизнь на берегу Москвы-реки",
+    "caption": "Береговой — жизнь на берегу Москвы-реки\nhttps://beregovoy-kvartal.ru/\n\n#промо #недвижимость #idaproject\nСпасибо за ссылку @esttmay",
+    "image": "data/images/911.jpg",
+    "tags": [
+      "промо",
+      "недвижимость",
+      "idaproject"
+    ],
+    "url": "https://beregovoy-kvartal.ru/",
+    "date": 1619510463,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "nedvizhimost",
+      "idaproject"
+    ],
+    "awards": []
+  },
+  {
     "id": 778,
     "title": "Театральный",
     "caption": "Театральный\nhttps://teatrhome.com/\n\n#промо #недвижимость #tilda #дмитрийносков",
@@ -394,27 +417,6 @@
       "nedvizhimost",
       "servis",
       "sberbank"
-    ],
-    "awards": []
-  },
-  {
-    "id": 205,
-    "title": "Авиатор",
-    "image": "data/images/205.jpg",
-    "tags": [
-      "недвижимость",
-      "промо",
-      "its"
-    ],
-    "url": "http://dom-aviator.ru/",
-    "date": 1528884016,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "nedvizhimost",
-      "promo",
-      "its"
     ],
     "awards": []
   }
