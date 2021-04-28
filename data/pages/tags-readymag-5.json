@@ -1,5 +1,52 @@
 [
   {
+    "id": 575,
+    "title": "Современные российские дизайнеры шрифта",
+    "image": "data/images/575.jpg",
+    "tags": [
+      "спецпроект",
+      "readymag",
+      "лисицкий"
+    ],
+    "url": "https://readymag.com/deedandreward/russiandesigners/",
+    "date": 1567677608,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "readymag",
+      "lisitskii"
+    ],
+    "awards": []
+  },
+  {
+    "id": 560,
+    "title": "Здесь и сейчас. Атлас творческих студий",
+    "caption": "Здесь и сейчас. Атлас творческих студий\nhttps://hereandnow.moscow/\n\n#мероприятие #искусство #спецпроект #readymag #aic",
+    "image": "data/images/560.jpg",
+    "tags": [
+      "мероприятие",
+      "искусство",
+      "спецпроект",
+      "readymag",
+      "aic"
+    ],
+    "url": "https://hereandnow.moscow/",
+    "date": 1564740033,
+    "edit_date": 1583440361,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "iskusstvo",
+      "spetsproekt",
+      "readymag",
+      "aic"
+    ],
+    "awards": []
+  },
+  {
     "id": 497,
     "title": "Коопирайтеры",
     "image": "data/images/497.jpg",

@@ -1,5 +1,26 @@
 [
   {
+    "id": 396,
+    "title": "Дом-музей Карамзиных на Венце",
+    "image": "data/images/396.jpg",
+    "tags": [
+      "спецпроект",
+      "история",
+      "itechgroup"
+    ],
+    "url": "http://www.karamzin.info/home/",
+    "date": 1545472806,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "istoriya",
+      "itechgroup"
+    ],
+    "awards": []
+  },
+  {
     "id": 369,
     "title": "Мапа станаўлення Беларусі",
     "image": "data/images/369.jpg",

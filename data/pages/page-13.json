@@ -1,5 +1,24 @@
 [
   {
+    "id": 649,
+    "title": "bobber",
+    "image": "data/images/649.jpg",
+    "tags": [
+      "магазин",
+      "thepromotion"
+    ],
+    "url": "https://bobberbottle.com/",
+    "date": 1577613609,
+    "edit_date": 1583183700,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "thepromotion"
+    ],
+    "awards": []
+  },
+  {
     "id": 648,
     "title": "Тренды 2020",
     "image": "data/images/648.jpg",
@@ -389,29 +408,6 @@
     "slugs": [
       "promo",
       "portfolio",
-      "voskhoddigital"
-    ],
-    "awards": []
-  },
-  {
-    "id": 629,
-    "title": "Путешествие в темноте",
-    "image": "data/images/629.jpg",
-    "tags": [
-      "музей",
-      "люди",
-      "промо",
-      "voskhoddigital"
-    ],
-    "url": "https://tripinthedark.ru/",
-    "date": 1574416892,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "muzei",
-      "lyudi",
-      "promo",
       "voskhoddigital"
     ],
     "awards": []

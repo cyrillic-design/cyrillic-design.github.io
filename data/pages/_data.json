@@ -12094,5 +12094,24 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "913": {
+    "id": 913,
+    "title": "Shigeo Fukuda",
+    "caption": "Shigeo Fukuda\nhttps://readymag.com/margo.li/fukuda/\n\n#спецпроект #история #readymag #маргаритали\nСпасибо за ссылку #readymag",
+    "image": "913.jpg",
+    "tags": [
+      "спецпроект",
+      "история",
+      "readymag",
+      "маргаритали",
+      "readymag"
+    ],
+    "url": "https://readymag.com/margo.li/fukuda/",
+    "date": 1619625050,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

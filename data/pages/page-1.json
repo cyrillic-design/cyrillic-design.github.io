@@ -1,5 +1,32 @@
 [
   {
+    "id": 913,
+    "title": "Shigeo Fukuda",
+    "caption": "Shigeo Fukuda\nhttps://readymag.com/margo.li/fukuda/\n\n#спецпроект #история #readymag #маргаритали\nСпасибо за ссылку #readymag",
+    "image": "data/images/913.jpg",
+    "tags": [
+      "спецпроект",
+      "история",
+      "readymag",
+      "маргаритали",
+      "readymag"
+    ],
+    "url": "https://readymag.com/margo.li/fukuda/",
+    "date": 1619625050,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "istoriya",
+      "readymag",
+      "margaritali",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 912,
     "title": "Лепота",
     "caption": "Лепота\nhttps://bangbangeducation.ru/movie/lepota\n\n#промо #образование\nСпасибо за ссылку @ivanedorn",
@@ -429,29 +456,6 @@
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 891,
-    "title": "STRELKA INSTITUTE 20:20",
-    "caption": "STRELKA INSTITUTE 20:20\nhttps://2020.strelka.com/\n\n#образование #отчет #readymag\nСпасибо за ссылку @mjsnui",
-    "image": "data/images/891.jpg",
-    "tags": [
-      "образование",
-      "отчет",
-      "readymag"
-    ],
-    "url": "https://2020.strelka.com/",
-    "date": 1613068662,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "otchet",
-      "readymag"
     ],
     "awards": []
   }

@@ -1,5 +1,32 @@
 [
   {
+    "id": 913,
+    "title": "Shigeo Fukuda",
+    "caption": "Shigeo Fukuda\nhttps://readymag.com/margo.li/fukuda/\n\n#спецпроект #история #readymag #маргаритали\nСпасибо за ссылку #readymag",
+    "image": "data/images/913.jpg",
+    "tags": [
+      "спецпроект",
+      "история",
+      "readymag",
+      "маргаритали",
+      "readymag"
+    ],
+    "url": "https://readymag.com/margo.li/fukuda/",
+    "date": 1619625050,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "istoriya",
+      "readymag",
+      "margaritali",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 910,
     "title": "Armenian IT",
     "caption": "Armenian IT\nhttps://armenianit.dataart.com/\n\n#спецпроект #история #readymag #ильякоробов",
@@ -466,27 +493,6 @@
       "dizain",
       "readymag",
       "dmitriikuchev"
-    ],
-    "awards": []
-  },
-  {
-    "id": 396,
-    "title": "Дом-музей Карамзиных на Венце",
-    "image": "data/images/396.jpg",
-    "tags": [
-      "спецпроект",
-      "история",
-      "itechgroup"
-    ],
-    "url": "http://www.karamzin.info/home/",
-    "date": 1545472806,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "istoriya",
-      "itechgroup"
     ],
     "awards": []
   }

@@ -1,5 +1,24 @@
 [
   {
+    "id": 59,
+    "title": "Группа компаний ПИК",
+    "image": "data/images/59.jpg",
+    "tags": [
+      "недвижимость",
+      "пик"
+    ],
+    "url": "pik.ru",
+    "date": 1518253242,
+    "edit_date": 1583185563,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "nedvizhimost",
+      "pik"
+    ],
+    "awards": []
+  },
+  {
     "id": 56,
     "title": "Батенька, да вы трансформер",
     "image": "data/images/56.jpg",

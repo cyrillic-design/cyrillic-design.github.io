@@ -1,5 +1,59 @@
 [
   {
+    "id": 913,
+    "title": "Shigeo Fukuda",
+    "caption": "Shigeo Fukuda\nhttps://readymag.com/margo.li/fukuda/\n\n#спецпроект #история #readymag #маргаритали\nСпасибо за ссылку #readymag",
+    "image": "data/images/913.jpg",
+    "tags": [
+      "спецпроект",
+      "история",
+      "readymag",
+      "маргаритали",
+      "readymag"
+    ],
+    "url": "https://readymag.com/margo.li/fukuda/",
+    "date": 1619625050,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "istoriya",
+      "readymag",
+      "margaritali",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
+    "id": 913,
+    "title": "Shigeo Fukuda",
+    "caption": "Shigeo Fukuda\nhttps://readymag.com/margo.li/fukuda/\n\n#спецпроект #история #readymag #маргаритали\nСпасибо за ссылку #readymag",
+    "image": "data/images/913.jpg",
+    "tags": [
+      "спецпроект",
+      "история",
+      "readymag",
+      "маргаритали",
+      "readymag"
+    ],
+    "url": "https://readymag.com/margo.li/fukuda/",
+    "date": 1619625050,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "istoriya",
+      "readymag",
+      "margaritali",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 910,
     "title": "Armenian IT",
     "caption": "Armenian IT\nhttps://armenianit.dataart.com/\n\n#спецпроект #история #readymag #ильякоробов",
@@ -424,54 +478,6 @@
     "isRemoved": false,
     "slugs": [
       "obrazovaniie",
-      "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 854,
-    "title": "хотели как лучше",
-    "caption": "хотели как лучше\nhttps://wannabest.ru/\n\n#портфолио #подкаст #readymag #nonobjectiveworks",
-    "image": "data/images/854.jpg",
-    "tags": [
-      "портфолио",
-      "подкаст",
-      "readymag",
-      "nonobjectiveworks"
-    ],
-    "url": "https://wannabest.ru/",
-    "date": 1608026407,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio",
-      "podkast",
-      "readymag",
-      "nonobjectiveworks"
-    ],
-    "awards": []
-  },
-  {
-    "id": 848,
-    "title": "Путеводитель по Краснодарскому краю",
-    "caption": "Путеводитель по Краснодарскому краю\nhttp://kk.specials.zapovednik.space/\n\n#спецпроект #культура #readymag\nСпасибо за ссылку @Dmitry_Shcherbyna",
-    "image": "data/images/848.jpg",
-    "tags": [
-      "спецпроект",
-      "культура",
-      "readymag"
-    ],
-    "url": "http://kk.specials.zapovednik.space/",
-    "date": 1607508008,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "kultura",
       "readymag"
     ],
     "awards": []
