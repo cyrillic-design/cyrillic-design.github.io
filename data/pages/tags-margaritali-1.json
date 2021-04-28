@@ -2,18 +2,17 @@
   {
     "id": 913,
     "title": "Shigeo Fukuda",
-    "caption": "Shigeo Fukuda\nhttps://readymag.com/margo.li/fukuda/\n\n#спецпроект #история #readymag #маргаритали\nСпасибо за ссылку #readymag_official",
+    "caption": "Shigeo Fukuda\nhttps://readymag.com/margo.li/fukuda/\n\n#спецпроект #история #readymag #маргаритали\nСпасибо за ссылку @readymag_official",
     "image": "data/images/913.jpg",
     "tags": [
       "спецпроект",
       "история",
       "readymag",
-      "маргаритали",
-      "readymag_official"
+      "маргаритали"
     ],
     "url": "https://readymag.com/margo.li/fukuda/",
     "date": 1619625050,
-    "edit_date": 1619625077,
+    "edit_date": 1619625107,
     "isMonth": false,
     "isYear": false,
     "isHighlighted": false,
@@ -22,8 +21,7 @@
       "spetsproekt",
       "istoriya",
       "readymag",
-      "margaritali",
-      "readymag_official"
+      "margaritali"
     ],
     "awards": []
   }
