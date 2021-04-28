@@ -1,5 +1,26 @@
 [
   {
+    "id": 363,
+    "title": "КРУЖОК ФЕСТИВАЛЬ",
+    "image": "data/images/363.jpg",
+    "tags": [
+      "промо",
+      "мероприятие",
+      "кружок"
+    ],
+    "url": "http://festival.kruzhok.io/",
+    "date": 1542967216,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "meropriyatie",
+      "kruzhok"
+    ],
+    "awards": []
+  },
+  {
     "id": 361,
     "title": "Умные плейлисты на Яндекс.Музыке",
     "image": "data/images/361.jpg",
@@ -391,27 +412,6 @@
       "proizvodstvo",
       "promo",
       "xdesign"
-    ],
-    "awards": []
-  },
-  {
-    "id": 217,
-    "title": "Krasmilk",
-    "image": "data/images/217.jpg",
-    "tags": [
-      "производство",
-      "промо",
-      "chipsa"
-    ],
-    "url": "http://krasmilk.ru/",
-    "date": 1529920814,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "proizvodstvo",
-      "promo",
-      "chipsa"
     ],
     "awards": []
   }
