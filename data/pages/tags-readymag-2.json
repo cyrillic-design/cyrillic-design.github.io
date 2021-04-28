@@ -1,30 +1,5 @@
 [
   {
-    "id": 854,
-    "title": "хотели как лучше",
-    "caption": "хотели как лучше\nhttps://wannabest.ru/\n\n#портфолио #подкаст #readymag #nonobjectiveworks",
-    "image": "data/images/854.jpg",
-    "tags": [
-      "портфолио",
-      "подкаст",
-      "readymag",
-      "nonobjectiveworks"
-    ],
-    "url": "https://wannabest.ru/",
-    "date": 1608026407,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio",
-      "podkast",
-      "readymag",
-      "nonobjectiveworks"
-    ],
-    "awards": []
-  },
-  {
     "id": 848,
     "title": "Путеводитель по Краснодарскому краю",
     "caption": "Путеводитель по Краснодарскому краю\nhttp://kk.specials.zapovednik.space/\n\n#спецпроект #культура #readymag\nСпасибо за ссылку @Dmitry_Shcherbyna",
@@ -474,6 +449,29 @@
       "obrazovanie",
       "readymag",
       "nonobjectiveworks"
+    ],
+    "awards": []
+  },
+  {
+    "id": 774,
+    "title": "aic.union©",
+    "caption": "aic.union©\nhttps://aic.partners/\n\n#промо #readymag #aic\nСпасибо за ссылку @lemur_lucky",
+    "image": "data/images/774.jpg",
+    "tags": [
+      "промо",
+      "readymag",
+      "aic"
+    ],
+    "url": "https://aic.partners/",
+    "date": 1600611438,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "readymag",
+      "aic"
     ],
     "awards": []
   }

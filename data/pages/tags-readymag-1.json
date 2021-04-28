@@ -2,17 +2,18 @@
   {
     "id": 913,
     "title": "Shigeo Fukuda",
-    "caption": "Shigeo Fukuda\nhttps://readymag.com/margo.li/fukuda/\n\n#спецпроект #история #readymag #маргаритали\nСпасибо за ссылку #readymag",
+    "caption": "Shigeo Fukuda\nhttps://readymag.com/margo.li/fukuda/\n\n#спецпроект #история #readymag #маргаритали\nСпасибо за ссылку #readymag_official",
     "image": "data/images/913.jpg",
     "tags": [
       "спецпроект",
       "история",
       "readymag",
       "маргаритали",
-      "readymag"
+      "readymag_official"
     ],
     "url": "https://readymag.com/margo.li/fukuda/",
     "date": 1619625050,
+    "edit_date": 1619625077,
     "isMonth": false,
     "isYear": false,
     "isHighlighted": false,
@@ -22,34 +23,7 @@
       "istoriya",
       "readymag",
       "margaritali",
-      "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 913,
-    "title": "Shigeo Fukuda",
-    "caption": "Shigeo Fukuda\nhttps://readymag.com/margo.li/fukuda/\n\n#спецпроект #история #readymag #маргаритали\nСпасибо за ссылку #readymag",
-    "image": "data/images/913.jpg",
-    "tags": [
-      "спецпроект",
-      "история",
-      "readymag",
-      "маргаритали",
-      "readymag"
-    ],
-    "url": "https://readymag.com/margo.li/fukuda/",
-    "date": 1619625050,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "istoriya",
-      "readymag",
-      "margaritali",
-      "readymag"
+      "readymag_official"
     ],
     "awards": []
   },
@@ -479,6 +453,31 @@
     "slugs": [
       "obrazovaniie",
       "readymag"
+    ],
+    "awards": []
+  },
+  {
+    "id": 854,
+    "title": "хотели как лучше",
+    "caption": "хотели как лучше\nhttps://wannabest.ru/\n\n#портфолио #подкаст #readymag #nonobjectiveworks",
+    "image": "data/images/854.jpg",
+    "tags": [
+      "портфолио",
+      "подкаст",
+      "readymag",
+      "nonobjectiveworks"
+    ],
+    "url": "https://wannabest.ru/",
+    "date": 1608026407,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "podkast",
+      "readymag",
+      "nonobjectiveworks"
     ],
     "awards": []
   }
