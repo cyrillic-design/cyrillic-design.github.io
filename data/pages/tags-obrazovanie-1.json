@@ -1,5 +1,26 @@
 [
   {
+    "id": 917,
+    "title": "Школа Управления Максима Десятых",
+    "caption": "Школа Управления Максима Десятых\nhttps://www.desyatykh.school/\n\n#образование #pragmatica\nСпасибо за ссылку @censor_online",
+    "image": "data/images/917.jpg",
+    "tags": [
+      "образование",
+      "pragmatica"
+    ],
+    "url": "https://www.desyatykh.school/",
+    "date": 1619704938,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "pragmatica"
+    ],
+    "awards": []
+  },
+  {
     "id": 914,
     "title": "MBA «Лидеры изменений»",
     "caption": "MBA «Лидеры изменений»\nhttps://skillbox.pro/\n\n#бизнес #образование #tilda",
@@ -424,29 +445,6 @@
     "isRemoved": false,
     "slugs": [
       "obrazovanie"
-    ],
-    "awards": []
-  },
-  {
-    "id": 790,
-    "title": "Деревня Сардаял",
-    "caption": "Деревня Сардаял\nhttps://sardayal.ru/\n\n#спецпроект #образование #кружок",
-    "image": "data/images/790.jpg",
-    "tags": [
-      "спецпроект",
-      "образование",
-      "кружок"
-    ],
-    "url": "https://sardayal.ru/",
-    "date": 1603537567,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "obrazovanie",
-      "kruzhok"
     ],
     "awards": []
   }

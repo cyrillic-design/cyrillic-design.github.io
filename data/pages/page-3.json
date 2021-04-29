@@ -1,5 +1,28 @@
 [
   {
+    "id": 871,
+    "title": "Новогодний стол от Брикета",
+    "caption": "Новогодний стол от Брикета\nhttp://2021.briketmarket.com/\n\n#спецпроект #магазин #readymag",
+    "image": "data/images/871.jpg",
+    "tags": [
+      "спецпроект",
+      "магазин",
+      "readymag"
+    ],
+    "url": "http://2021.briketmarket.com/",
+    "date": 1609236007,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "magazin",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 869,
     "title": "Спектр формы",
     "caption": "Спектр формы\nhttps://www.whyreka.com/spectrum\n\n#дизайн #сервис\nСпасибо за ссылку @DesignBoard",
@@ -436,31 +459,6 @@
     "slugs": [
       "blagotvoritelnost",
       "pomoshch"
-    ],
-    "awards": []
-  },
-  {
-    "id": 849,
-    "title": "Дом рабочей молодежи Оттендорф",
-    "caption": "Дом рабочей молодежи Оттендорф\nhttps://ottendorf.space/\n\n#спецпроект #история #tilda #gruppa",
-    "image": "data/images/849.jpg",
-    "tags": [
-      "спецпроект",
-      "история",
-      "tilda",
-      "gruppa"
-    ],
-    "url": "https://ottendorf.space/",
-    "date": 1607594408,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "istoriya",
-      "tilda",
-      "gruppa"
     ],
     "awards": []
   }

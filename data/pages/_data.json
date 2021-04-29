@@ -12165,5 +12165,21 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "917": {
+    "id": 917,
+    "title": "Школа Управления Максима Десятых",
+    "caption": "Школа Управления Максима Десятых\nhttps://www.desyatykh.school/\n\n#образование #pragmatica\nСпасибо за ссылку @censor_online",
+    "image": "917.jpg",
+    "tags": [
+      "образование",
+      "pragmatica"
+    ],
+    "url": "https://www.desyatykh.school/",
+    "date": 1619704938,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
