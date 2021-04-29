@@ -1,5 +1,28 @@
 [
   {
+    "id": 914,
+    "title": "MBA «Лидеры изменений»",
+    "caption": "MBA «Лидеры изменений»\nhttps://skillbox.pro/\n\n#бизнес #образование #tilda",
+    "image": "data/images/914.jpg",
+    "tags": [
+      "бизнес",
+      "образование",
+      "tilda"
+    ],
+    "url": "https://skillbox.pro/",
+    "date": 1619683470,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "biznes",
+      "obrazovanie",
+      "tilda"
+    ],
+    "awards": []
+  },
+  {
     "id": 912,
     "title": "Лепота",
     "caption": "Лепота\nhttps://bangbangeducation.ru/movie/lepota\n\n#промо #образование\nСпасибо за ссылку @ivanedorn",
@@ -424,33 +447,6 @@
       "spetsproekt",
       "obrazovanie",
       "kruzhok"
-    ],
-    "awards": []
-  },
-  {
-    "id": 789,
-    "title": "Как поёт искусственный интеллект",
-    "caption": "Как поёт искусственный интеллект\nhttps://readymag.com/marykobanenko/musicai/\n\n#спецпроект #музыка #образование #readymag #машакобаненко\nСпасибо за ссылку @marykobanenko",
-    "image": "data/images/789.jpg",
-    "tags": [
-      "спецпроект",
-      "музыка",
-      "образование",
-      "readymag",
-      "машакобаненко"
-    ],
-    "url": "https://readymag.com/marykobanenko/musicai/",
-    "date": 1603455413,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "muzika",
-      "obrazovanie",
-      "readymag",
-      "mashakobanenko"
     ],
     "awards": []
   }

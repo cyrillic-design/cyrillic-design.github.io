@@ -1,5 +1,28 @@
 [
   {
+    "id": 914,
+    "title": "MBA «Лидеры изменений»",
+    "caption": "MBA «Лидеры изменений»\nhttps://skillbox.pro/\n\n#бизнес #образование #tilda",
+    "image": "data/images/914.jpg",
+    "tags": [
+      "бизнес",
+      "образование",
+      "tilda"
+    ],
+    "url": "https://skillbox.pro/",
+    "date": 1619683470,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "biznes",
+      "obrazovanie",
+      "tilda"
+    ],
+    "awards": []
+  },
+  {
     "id": 876,
     "title": "Бібліотека Юрія Вітренка",
     "caption": "Бібліотека Юрія Вітренка\nhttps://www.vitrenkolibrary.com/\n\n#бизнес #nextpage",
