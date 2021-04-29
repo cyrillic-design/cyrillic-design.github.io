@@ -1,0 +1,23 @@
+[
+  {
+    "id": 106,
+    "title": "Goods",
+    "image": "data/images/106.jpg",
+    "tags": [
+      "маркетплейс",
+      "магазин",
+      "мвидео"
+    ],
+    "url": "https://goods.ru/",
+    "date": 1520330593,
+    "edit_date": 1583185563,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "marketpleis",
+      "magazin",
+      "mvideo"
+    ],
+    "awards": []
+  }
+]

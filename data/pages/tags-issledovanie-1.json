@@ -1,0 +1,80 @@
+[
+  {
+    "id": 768,
+    "title": "TYPICAL.OKR",
+    "caption": "TYPICAL.OKR\nhttps://typicalokr.co/\n\n#исследование #сервис #typical #readymag",
+    "image": "data/images/768.jpg",
+    "tags": [
+      "исследование",
+      "сервис",
+      "typical",
+      "readymag"
+    ],
+    "url": "https://typicalokr.co/",
+    "date": 1600068393,
+    "edit_date": 1600088036,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "issledovanie",
+      "servis",
+      "typical",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
+    "id": 718,
+    "title": "Что такое дом?",
+    "caption": "Что такое дом?\nhttps://dom.batenka.ru/\n\n#спецпроект #исследование #readymag #пик #батенькадавытрансформер",
+    "image": "data/images/718.jpg",
+    "tags": [
+      "спецпроект",
+      "исследование",
+      "readymag",
+      "пик",
+      "батенькадавытрансформер"
+    ],
+    "url": "https://dom.batenka.ru/",
+    "date": 1587463207,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "issledovanie",
+      "readymag",
+      "pik",
+      "batenkadavitransformer"
+    ],
+    "awards": []
+  },
+  {
+    "id": 327,
+    "title": "Тестовое задание для Mail ru",
+    "image": "data/images/327.jpg",
+    "tags": [
+      "тестовоезадание",
+      "исследование",
+      "readymag",
+      "ивансемкин",
+      "mailru"
+    ],
+    "url": "https://readymag.com/u63516304/1094764/",
+    "date": 1539597634,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "testovoezadanie",
+      "issledovanie",
+      "readymag",
+      "ivansemkin",
+      "mailru"
+    ],
+    "awards": []
+  }
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "id": 858,
+    "title": "Дело Модульбанка",
+    "caption": "Дело Модульбанка\nhttps://delo.modulbank.ru/\n\n#издание #финансы #банк #update\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/858.jpg",
+    "tags": [
+      "издание",
+      "финансы",
+      "банк",
+      "update"
+    ],
+    "url": "https://delo.modulbank.ru/",
+    "date": 1608285607,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "izdanie",
+      "finansi",
+      "bank",
+      "update"
+    ],
+    "awards": []
+  },
+  {
+    "id": 563,
+    "title": "Simple Wine News",
+    "image": "data/images/563.jpg",
+    "tags": [
+      "издание",
+      "charmer"
+    ],
+    "url": "https://simplewinenews.ru/",
+    "date": 1565344863,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "izdanie",
+      "charmer"
+    ],
+    "awards": []
+  },
+  {
+    "id": 550,
+    "title": "Татцентр.ру",
+    "image": "data/images/550.jpg",
+    "tags": [
+      "издание",
+      "stride"
+    ],
+    "url": "http://tatcenter.ru/",
+    "date": 1563191436,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "izdanie",
+      "stride"
+    ],
+    "awards": []
+  },
+  {
+    "id": 512,
+    "title": "Верблюд в огне",
+    "image": "data/images/512.jpg",
+    "tags": [
+      "издание",
+      "новости"
+    ],
+    "url": "https://verbludvogne.ru/",
+    "date": 1558432804,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "izdanie",
+      "novosti"
+    ],
+    "awards": []
+  },
+  {
+    "id": 508,
+    "title": "Meduza",
+    "image": "data/images/508.jpg",
+    "tags": [
+      "издание",
+      "новости"
+    ],
+    "url": "https://meduza.io/",
+    "date": 1558087259,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "izdanie",
+      "novosti"
+    ],
+    "awards": []
+  },
+  {
+    "id": 495,
+    "title": "ZIMA Magazine",
+    "image": "data/images/495.jpg",
+    "tags": [
+      "издание",
+      "wednesday"
+    ],
+    "url": "https://zimamagazine.com/",
+    "date": 1554976849,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "izdanie",
+      "wednesday"
+    ],
+    "awards": []
+  },
+  {
+    "id": 437,
+    "title": "Curious",
+    "image": "data/images/437.jpg",
+    "tags": [
+      "издание"
+    ],
+    "url": "https://curious.ru",
+    "date": 1550052010,
+    "edit_date": 1583185362,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "izdanie"
+    ],
+    "awards": []
+  },
+  {
+    "id": 389,
+    "title": "Лесная Анкета - разговор с Ильей Долговым",
+    "image": "data/images/389.jpg",
+    "tags": [
+      "издание",
+      "спецпроект",
+      "воно"
+    ],
+    "url": "http://lesnaya.vonopaper.com/",
+    "date": 1544868009,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "izdanie",
+      "spetsproekt",
+      "vono"
+    ],
+    "awards": []
+  },
+  {
+    "id": 370,
+    "title": "Wonderzine",
+    "image": "data/images/370.jpg",
+    "tags": [
+      "издание"
+    ],
+    "url": "https://www.wonderzine.com/",
+    "date": 1543485623,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "izdanie"
+    ],
+    "awards": []
+  },
+  {
+    "id": 362,
+    "title": "Дело Модульбанка",
+    "image": "data/images/362.jpg",
+    "tags": [
+      "издание",
+      "финансы",
+      "банк"
+    ],
+    "url": "https://delo.modulbank.ru/",
+    "date": 1542880808,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "izdanie",
+      "finansi",
+      "bank"
+    ],
+    "awards": []
+  },
+  {
+    "id": 254,
+    "title": "The Blueprint",
+    "image": "data/images/254.jpg",
+    "tags": [
+      "издание",
+      "мода",
+      "культура"
+    ],
+    "url": "https://theblueprint.ru/",
+    "date": 1533117614,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "izdanie",
+      "moda",
+      "kultura"
+    ],
+    "awards": []
+  },
+  {
+    "id": 246,
+    "title": "Щи",
+    "image": "data/images/246.jpg",
+    "tags": [
+      "журнал",
+      "издание"
+    ],
+    "url": "http://schi.media/",
+    "date": 1532426406,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "izdanie"
+    ],
+    "awards": []
+  },
+  {
+    "id": 224,
+    "title": "Мамихлапинатана",
+    "caption": "Мамихлапинатана\nhttp://mamihlapinatana.ru/\n\n#медиа #издание",
+    "image": "data/images/224.jpg",
+    "tags": [
+      "медиа",
+      "издание"
+    ],
+    "url": "http://mamihlapinatana.ru/",
+    "date": 1530525621,
+    "edit_date": 1583439686,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "media",
+      "izdanie"
+    ],
+    "awards": []
+  },
+  {
+    "id": 165,
+    "title": "Áccent",
+    "image": "data/images/165.jpg",
+    "tags": [
+      "медиа",
+      "издание",
+      "образование",
+      "платформа",
+      "setka"
+    ],
+    "url": "https://accent.setka.io/ru/",
+    "date": 1525421388,
+    "edit_date": 1583185536,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "media",
+      "izdanie",
+      "obrazovanie",
+      "platforma",
+      "setka"
+    ],
+    "awards": []
+  },
+  {
+    "id": 162,
+    "title": "Никея",
+    "caption": "Никея\nhttps://nikeabooks.ru/\n\n#магазин #издание",
+    "image": "data/images/162.jpg",
+    "tags": [
+      "магазин",
+      "издание"
+    ],
+    "url": "https://nikeabooks.ru/",
+    "date": 1525168811,
+    "edit_date": 1583439722,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "izdanie"
+    ],
+    "awards": []
+  },
+  {
+    "id": 160,
+    "title": "Дистопия",
+    "image": "data/images/160.jpg",
+    "tags": [
+      "издание",
+      "искусство"
+    ],
+    "url": "http://dystopia.me/",
+    "date": 1524909617,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "izdanie",
+      "iskusstvo"
+    ],
+    "awards": []
+  }
+]

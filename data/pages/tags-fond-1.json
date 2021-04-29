@@ -1,0 +1,92 @@
+[
+  {
+    "id": 736,
+    "title": "V-A-C",
+    "caption": "V-A-C\nhttps://v-a-c.org/ru\n\n#фонд #производство\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/736.jpg",
+    "tags": [
+      "фонд",
+      "производство"
+    ],
+    "url": "https://v-a-c.org/ru",
+    "date": 1592072200,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "fond",
+      "proizvodstvo"
+    ],
+    "awards": []
+  },
+  {
+    "id": 637,
+    "title": "Благотворительный фонд «‎Шалаш»‎",
+    "image": "data/images/637.jpg",
+    "tags": [
+      "фонд",
+      "люди",
+      "помощь",
+      "sulliwan"
+    ],
+    "url": "https://shalash.academy/",
+    "date": 1576231245,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "fond",
+      "lyudi",
+      "pomoshch",
+      "sulliwan"
+    ],
+    "awards": []
+  },
+  {
+    "id": 171,
+    "title": "Legacy",
+    "image": "data/images/171.jpg",
+    "tags": [
+      "фонд",
+      "бизнес",
+      "финансы",
+      "сибирикс"
+    ],
+    "url": "http://legacy-ef.com/",
+    "date": 1526032809,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "fond",
+      "biznes",
+      "finansi",
+      "sibiriks"
+    ],
+    "awards": []
+  },
+  {
+    "id": 90,
+    "title": "СПИД.ЦЕНТР",
+    "image": "data/images/90.jpg",
+    "tags": [
+      "благотворительность",
+      "фонд",
+      "люди",
+      "charmer"
+    ],
+    "url": "https://spid.center/ru",
+    "date": 1519466413,
+    "edit_date": 1583185563,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "blagotvoritelnost",
+      "fond",
+      "lyudi",
+      "charmer"
+    ],
+    "awards": []
+  }
+]

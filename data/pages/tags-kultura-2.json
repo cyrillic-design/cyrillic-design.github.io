@@ -1,0 +1,46 @@
+[
+  {
+    "id": 62,
+    "title": "Иван Айвазовский. К 200-летию со дня рождения",
+    "image": "data/images/62.jpg",
+    "tags": [
+      "культура",
+      "спецпроект",
+      "память",
+      "dianadubina"
+    ],
+    "url": "http://ivanaivazovsky.life/",
+    "date": 1518364834,
+    "edit_date": 1583185563,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "kultura",
+      "spetsproekt",
+      "pamyat",
+      "dianadubina"
+    ],
+    "awards": []
+  },
+  {
+    "id": 60,
+    "title": "Музей современного искусства «Гараж»",
+    "image": "data/images/60.jpg",
+    "tags": [
+      "культура",
+      "музей",
+      "charmer"
+    ],
+    "url": "garagemca.org",
+    "date": 1518278428,
+    "edit_date": 1583185563,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "kultura",
+      "muzei",
+      "charmer"
+    ],
+    "awards": []
+  }
+]

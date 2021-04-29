@@ -1,0 +1,25 @@
+[
+  {
+    "id": 657,
+    "title": "Падение берлинской стены",
+    "image": "data/images/657.jpg",
+    "tags": [
+      "спецпроект",
+      "readymag",
+      "аланаликов",
+      "сашакац"
+    ],
+    "url": "https://mauerfall.diletant.media/",
+    "date": 1579687256,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "readymag",
+      "alanalikov",
+      "sashakats"
+    ],
+    "awards": []
+  }
+]

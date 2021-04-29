@@ -1,0 +1,23 @@
+[
+  {
+    "id": 329,
+    "title": "СТС Love",
+    "image": "data/images/329.jpg",
+    "tags": [
+      "тв",
+      "видео",
+      "стс"
+    ],
+    "url": "https://ctclove.ru/",
+    "date": 1539770479,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "tv",
+      "video",
+      "sts"
+    ],
+    "awards": []
+  }
+]

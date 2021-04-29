@@ -1,0 +1,381 @@
+[
+  {
+    "id": 446,
+    "title": "REDO Cold brew coffee",
+    "image": "data/images/446.jpg",
+    "tags": [
+      "магазин",
+      "производство",
+      "brainylab"
+    ],
+    "url": "https://redocoldbrew.ru/",
+    "date": 1550829620,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "proizvodstvo",
+      "brainylab"
+    ],
+    "awards": []
+  },
+  {
+    "id": 428,
+    "title": "Hochbach GmbH",
+    "image": "data/images/428.jpg",
+    "tags": [
+      "производство",
+      "negativelabs"
+    ],
+    "url": "https://www.hochbach.de/ru/",
+    "date": 1549015205,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "negativelabs"
+    ],
+    "awards": []
+  },
+  {
+    "id": 373,
+    "title": "ТМК",
+    "image": "data/images/373.jpg",
+    "tags": [
+      "магазин",
+      "производство",
+      "greensight"
+    ],
+    "url": "https://www.tmktools.ru/",
+    "date": 1543744814,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "proizvodstvo",
+      "greensight"
+    ],
+    "awards": []
+  },
+  {
+    "id": 347,
+    "title": "Gracia Ceramica",
+    "image": "data/images/347.jpg",
+    "tags": [
+      "промо",
+      "магазин",
+      "производство"
+    ],
+    "url": "http://www.graciaceramica.com/",
+    "date": 1541584853,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "magazin",
+      "proizvodstvo"
+    ],
+    "awards": []
+  },
+  {
+    "id": 307,
+    "title": "TEXX",
+    "image": "data/images/307.jpg",
+    "tags": [
+      "промо",
+      "производство"
+    ],
+    "url": "http://msk-gps.ru/",
+    "date": 1537610451,
+    "edit_date": 1583185436,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "proizvodstvo"
+    ],
+    "awards": []
+  },
+  {
+    "id": 276,
+    "title": "MATRONA",
+    "image": "data/images/276.jpg",
+    "tags": [
+      "производство",
+      "мода",
+      "магазин"
+    ],
+    "url": "http://matrona.me/",
+    "date": 1534932016,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "moda",
+      "magazin"
+    ],
+    "awards": []
+  },
+  {
+    "id": 274,
+    "title": "Экомилк",
+    "image": "data/images/274.jpg",
+    "tags": [
+      "промо",
+      "производство"
+    ],
+    "url": "http://ecomilk.ru/",
+    "date": 1534759210,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "proizvodstvo"
+    ],
+    "awards": []
+  },
+  {
+    "id": 260,
+    "title": "MASH KARA",
+    "image": "data/images/260.jpg",
+    "tags": [
+      "производство",
+      "мода",
+      "xdesign"
+    ],
+    "url": "https://mashkara.com/",
+    "date": 1533636015,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "moda",
+      "xdesign"
+    ],
+    "awards": []
+  },
+  {
+    "id": 237,
+    "title": "Группа компаний «Грейн Холдинг»",
+    "caption": "Группа компаний «Грейн Холдинг»\nhttp://grainholding.ru/\n\n#производство #artlebedev",
+    "image": "data/images/237.jpg",
+    "tags": [
+      "производство",
+      "artlebedev"
+    ],
+    "url": "http://grainholding.ru/",
+    "date": 1531648809,
+    "edit_date": 1583247383,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "artlebedev"
+    ],
+    "awards": []
+  },
+  {
+    "id": 234,
+    "title": "Фасадные решения",
+    "image": "data/images/234.jpg",
+    "tags": [
+      "услуги",
+      "производство",
+      "астрошок"
+    ],
+    "url": "http://facadesolutions.ru/",
+    "date": 1531389622,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "uslugi",
+      "proizvodstvo",
+      "astroshok"
+    ],
+    "awards": []
+  },
+  {
+    "id": 221,
+    "title": "ФАРТ",
+    "image": "data/images/221.jpg",
+    "tags": [
+      "производство",
+      "промо",
+      "xdesign"
+    ],
+    "url": "http://trubochka.ru/",
+    "date": 1530266410,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "promo",
+      "xdesign"
+    ],
+    "awards": []
+  },
+  {
+    "id": 217,
+    "title": "Krasmilk",
+    "image": "data/images/217.jpg",
+    "tags": [
+      "производство",
+      "промо",
+      "chipsa"
+    ],
+    "url": "http://krasmilk.ru/",
+    "date": 1529920814,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "promo",
+      "chipsa"
+    ],
+    "awards": []
+  },
+  {
+    "id": 210,
+    "title": "Фабрика «Диванчик»",
+    "image": "data/images/210.jpg",
+    "tags": [
+      "производство",
+      "фабрика",
+      "магазин",
+      "okcmedia"
+    ],
+    "url": "https://divanchik.ru/",
+    "date": 1529316019,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "fabrika",
+      "magazin",
+      "okcmedia"
+    ],
+    "awards": []
+  },
+  {
+    "id": 206,
+    "title": "Частная лавочка",
+    "image": "data/images/206.jpg",
+    "tags": [
+      "производство",
+      "еда",
+      "chipsa"
+    ],
+    "url": "http://lavochkamarket.ru/",
+    "date": 1528970420,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "yeda",
+      "chipsa"
+    ],
+    "awards": []
+  },
+  {
+    "id": 203,
+    "title": "AL5 Алюминий Завод",
+    "image": "data/images/203.jpg",
+    "tags": [
+      "производство",
+      "услуги",
+      "мануфактура"
+    ],
+    "url": "http://al5factory.com/ru",
+    "date": 1528711207,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "uslugi",
+      "manufaktura"
+    ],
+    "awards": []
+  },
+  {
+    "id": 198,
+    "title": "Укркабель",
+    "image": "data/images/198.jpg",
+    "tags": [
+      "производство",
+      "услуги",
+      "facility"
+    ],
+    "url": "http://ukrcable.com.ua/ru",
+    "date": 1528279204,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "uslugi",
+      "facility"
+    ],
+    "awards": []
+  },
+  {
+    "id": 185,
+    "title": "EMKA",
+    "image": "data/images/185.jpg",
+    "tags": [
+      "производство",
+      "магазин",
+      "одежда",
+      "мода",
+      "icrea"
+    ],
+    "url": "https://www.emkafashion.ru/",
+    "date": 1527242423,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "magazin",
+      "odezhda",
+      "moda",
+      "icrea"
+    ],
+    "awards": []
+  },
+  {
+    "id": 146,
+    "title": "Cardinal & Margo",
+    "image": "data/images/146.jpg",
+    "tags": [
+      "магазин",
+      "одежда",
+      "производство",
+      "дзендизайн"
+    ],
+    "url": "http://cardinal-hats.ru/",
+    "date": 1523700009,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "odezhda",
+      "proizvodstvo",
+      "dzendizain"
+    ],
+    "awards": []
+  }
+]

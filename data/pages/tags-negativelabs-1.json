@@ -1,0 +1,21 @@
+[
+  {
+    "id": 428,
+    "title": "Hochbach GmbH",
+    "image": "data/images/428.jpg",
+    "tags": [
+      "производство",
+      "negativelabs"
+    ],
+    "url": "https://www.hochbach.de/ru/",
+    "date": 1549015205,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "negativelabs"
+    ],
+    "awards": []
+  }
+]

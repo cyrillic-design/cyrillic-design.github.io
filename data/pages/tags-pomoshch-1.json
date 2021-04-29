@@ -1,0 +1,192 @@
+[
+  {
+    "id": 866,
+    "title": "Lubimovka Festival",
+    "caption": "Lubimovka Festival\nhttps://new.lubimovka.ru/\n\n#мероприятие #брендинг #помощь #readymag #shishki",
+    "image": "data/images/866.jpg",
+    "tags": [
+      "мероприятие",
+      "брендинг",
+      "помощь",
+      "readymag",
+      "shishki"
+    ],
+    "url": "https://new.lubimovka.ru/",
+    "date": 1608890407,
+    "edit_date": 1608894017,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "brending",
+      "pomoshch",
+      "readymag",
+      "shishki"
+    ],
+    "awards": []
+  },
+  {
+    "id": 865,
+    "title": "ПОМОЩЬ",
+    "caption": "ПОМОЩЬ\nhttps://pomosch.app/\n\n#благотворительность #помощь #приложение #ony",
+    "image": "data/images/865.jpg",
+    "tags": [
+      "благотворительность",
+      "помощь",
+      "приложение",
+      "ony"
+    ],
+    "url": "https://pomosch.app/",
+    "date": 1608824927,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "blagotvoritelnost",
+      "pomoshch",
+      "prilozhenie",
+      "ony"
+    ],
+    "awards": []
+  },
+  {
+    "id": 850,
+    "title": "Airbnb org",
+    "caption": "Airbnb org\nhttps://ru.airbnb.org/\n\n#благотворительность #помощь",
+    "image": "data/images/850.jpg",
+    "tags": [
+      "благотворительность",
+      "помощь"
+    ],
+    "url": "https://ru.airbnb.org/",
+    "date": 1607680806,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "blagotvoritelnost",
+      "pomoshch"
+    ],
+    "awards": []
+  },
+  {
+    "id": 807,
+    "title": "Жизненный путь",
+    "caption": "Жизненный путь\nhttps://liferoute.org/\n\n#благотворительность #люди #помощь #charmer\nСпасибо за ссылку @nuinuinu",
+    "image": "data/images/807.jpg",
+    "tags": [
+      "благотворительность",
+      "люди",
+      "помощь",
+      "charmer"
+    ],
+    "url": "https://liferoute.org/",
+    "date": 1604484014,
+    "edit_date": 1604495529,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "blagotvoritelnost",
+      "lyudi",
+      "pomoshch",
+      "charmer"
+    ],
+    "awards": []
+  },
+  {
+    "id": 698,
+    "title": "1 рубль — это много, когда нас много",
+    "caption": "1 рубль — это много, когда нас много\nhttps://nuzhnapomosh.ru/crisis/\n\n#благотворительность #помощь #люди #лучшедома",
+    "image": "data/images/698.jpg",
+    "tags": [
+      "благотворительность",
+      "помощь",
+      "люди",
+      "лучшедома"
+    ],
+    "url": "https://nuzhnapomosh.ru/crisis/",
+    "date": 1585833389,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "blagotvoritelnost",
+      "pomoshch",
+      "lyudi",
+      "luchshedoma"
+    ],
+    "awards": []
+  },
+  {
+    "id": 637,
+    "title": "Благотворительный фонд «‎Шалаш»‎",
+    "image": "data/images/637.jpg",
+    "tags": [
+      "фонд",
+      "люди",
+      "помощь",
+      "sulliwan"
+    ],
+    "url": "https://shalash.academy/",
+    "date": 1576231245,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "fond",
+      "lyudi",
+      "pomoshch",
+      "sulliwan"
+    ],
+    "awards": []
+  },
+  {
+    "id": 478,
+    "title": "Алия: психологическая поддержка в перинатальной потере",
+    "image": "data/images/478.jpg",
+    "tags": [
+      "помощь",
+      "услуги",
+      "verks"
+    ],
+    "url": "https://babyloss.ru/",
+    "date": 1553248815,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "pomoshch",
+      "uslugi",
+      "verks"
+    ],
+    "awards": []
+  },
+  {
+    "id": 319,
+    "title": "Программа «Открытые двери» на Airbnb",
+    "image": "data/images/319.jpg",
+    "tags": [
+      "люди",
+      "помощь",
+      "airbnb"
+    ],
+    "url": "https://www.airbnb.ru/openhomes",
+    "date": 1538645430,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "lyudi",
+      "pomoshch",
+      "airbnb"
+    ],
+    "awards": []
+  }
+]

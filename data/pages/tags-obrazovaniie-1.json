@@ -1,0 +1,23 @@
+[
+  {
+    "id": 862,
+    "title": "ZET Academy",
+    "caption": "ZET Academy\nhttps://zetacademy.by/\n\n#образованиие #readymag",
+    "image": "data/images/862.jpg",
+    "tags": [
+      "образованиие",
+      "readymag"
+    ],
+    "url": "https://zetacademy.by/",
+    "date": 1608631207,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovaniie",
+      "readymag"
+    ],
+    "awards": []
+  }
+]

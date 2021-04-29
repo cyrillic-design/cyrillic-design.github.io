@@ -1,0 +1,44 @@
+[
+  {
+    "id": 279,
+    "title": "SIASPACE",
+    "image": "data/images/279.jpg",
+    "tags": [
+      "магазин",
+      "мода",
+      "facility"
+    ],
+    "url": "https://siaspace.com/",
+    "date": 1535191203,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "moda",
+      "facility"
+    ],
+    "awards": []
+  },
+  {
+    "id": 198,
+    "title": "Укркабель",
+    "image": "data/images/198.jpg",
+    "tags": [
+      "производство",
+      "услуги",
+      "facility"
+    ],
+    "url": "http://ukrcable.com.ua/ru",
+    "date": 1528279204,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "uslugi",
+      "facility"
+    ],
+    "awards": []
+  }
+]

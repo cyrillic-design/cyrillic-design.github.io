@@ -1,0 +1,25 @@
+[
+  {
+    "id": 611,
+    "title": "Символы оттепели",
+    "image": "data/images/611.jpg",
+    "tags": [
+      "спецпроект",
+      "readymag",
+      "garage",
+      "василийподрядчиков"
+    ],
+    "url": "https://moscow-modernism.garagemca.org",
+    "date": 1571738430,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "readymag",
+      "garage",
+      "vasiliipodryadchikov"
+    ],
+    "awards": []
+  }
+]

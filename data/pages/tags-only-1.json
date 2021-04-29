@@ -1,0 +1,44 @@
+[
+  {
+    "id": 653,
+    "title": "Неон",
+    "image": "data/images/653.jpg",
+    "tags": [
+      "услуги",
+      "промо",
+      "only"
+    ],
+    "url": "http://advneon.ru/",
+    "date": 1579082416,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "uslugi",
+      "promo",
+      "only"
+    ],
+    "awards": []
+  },
+  {
+    "id": 450,
+    "title": "Гостиница Ольга",
+    "image": "data/images/450.jpg",
+    "tags": [
+      "услуги",
+      "промо",
+      "only"
+    ],
+    "url": "http://olgahotel.site/",
+    "date": 1551175212,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "uslugi",
+      "promo",
+      "only"
+    ],
+    "awards": []
+  }
+]

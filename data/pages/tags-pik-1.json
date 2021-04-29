@@ -1,0 +1,67 @@
+[
+  {
+    "id": 718,
+    "title": "Что такое дом?",
+    "caption": "Что такое дом?\nhttps://dom.batenka.ru/\n\n#спецпроект #исследование #readymag #пик #батенькадавытрансформер",
+    "image": "data/images/718.jpg",
+    "tags": [
+      "спецпроект",
+      "исследование",
+      "readymag",
+      "пик",
+      "батенькадавытрансформер"
+    ],
+    "url": "https://dom.batenka.ru/",
+    "date": 1587463207,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "issledovanie",
+      "readymag",
+      "pik",
+      "batenkadavitransformer"
+    ],
+    "awards": []
+  },
+  {
+    "id": 513,
+    "title": "ПИК Медиа",
+    "image": "data/images/513.jpg",
+    "tags": [
+      "журнал",
+      "пик"
+    ],
+    "url": "https://pik.media/",
+    "date": 1558519213,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "pik"
+    ],
+    "awards": []
+  },
+  {
+    "id": 59,
+    "title": "Группа компаний ПИК",
+    "image": "data/images/59.jpg",
+    "tags": [
+      "недвижимость",
+      "пик"
+    ],
+    "url": "pik.ru",
+    "date": 1518253242,
+    "edit_date": 1583185563,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "nedvizhimost",
+      "pik"
+    ],
+    "awards": []
+  }
+]

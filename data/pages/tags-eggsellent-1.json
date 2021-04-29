@@ -1,0 +1,30 @@
+[
+  {
+    "id": 689,
+    "title": "НИИ ЗаЯ",
+    "caption": "НИИ ЗаЯ\nhttps://breakfast.localkitchen.ru/\n\n#спецпроект #доставка #eggsellent #кухнянарайоне #readymag\nСпасибо за ссылку @genue",
+    "image": "data/images/689.jpg",
+    "tags": [
+      "спецпроект",
+      "доставка",
+      "eggsellent",
+      "кухнянарайоне",
+      "readymag"
+    ],
+    "url": "https://breakfast.localkitchen.ru/",
+    "date": 1584354235,
+    "edit_date": 1584360840,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "dostavka",
+      "eggsellent",
+      "kukhnyanaraione",
+      "readymag"
+    ],
+    "awards": []
+  }
+]

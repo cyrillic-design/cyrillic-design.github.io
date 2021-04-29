@@ -1,0 +1,439 @@
+[
+  {
+    "id": 730,
+    "title": "Курс прозы «Глагол»",
+    "caption": "Курс прозы «Глагол»\nhttp://glglgl.ru/\n\n#образование #мероприятие #readymag #nonobjectiveworks",
+    "image": "data/images/730.jpg",
+    "tags": [
+      "образование",
+      "мероприятие",
+      "readymag",
+      "nonobjectiveworks"
+    ],
+    "url": "http://glglgl.ru/",
+    "date": 1590573617,
+    "edit_date": 1600870401,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "meropriyatie",
+      "readymag",
+      "nonobjectiveworks"
+    ],
+    "awards": []
+  },
+  {
+    "id": 717,
+    "title": "Визионеры",
+    "caption": "Визионеры\nhttps://award.plus-one.ru/\n\n#мероприятие #наука #люди #tilda",
+    "image": "data/images/717.jpg",
+    "tags": [
+      "мероприятие",
+      "наука",
+      "люди",
+      "tilda"
+    ],
+    "url": "https://award.plus-one.ru/",
+    "date": 1587376812,
+    "edit_date": 1587383308,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "nauka",
+      "lyudi",
+      "tilda"
+    ],
+    "awards": []
+  },
+  {
+    "id": 710,
+    "title": "Personal Profiles – Just Talk / 20.03.2020",
+    "caption": "Personal Profiles – Just Talk / 20.03.2020\nhttps://profiles.taragraphy.com/\n\n#образование #люди #мероприятие #отчет #readymag #artemtarasov\nСпасибо за ссылку @designgest_live",
+    "image": "data/images/710.jpg",
+    "tags": [
+      "образование",
+      "люди",
+      "мероприятие",
+      "отчет",
+      "readymag",
+      "artemtarasov"
+    ],
+    "url": "https://profiles.taragraphy.com/",
+    "date": 1586772007,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "lyudi",
+      "meropriyatie",
+      "otchet",
+      "readymag",
+      "artemtarasov"
+    ],
+    "awards": []
+  },
+  {
+    "id": 709,
+    "title": "Wanna be like Rozov",
+    "caption": "Wanna be like Rozov\nhttps://wannabelike.ru/rozov/\n\n#образование #мероприятие",
+    "image": "data/images/709.jpg",
+    "tags": [
+      "образование",
+      "мероприятие"
+    ],
+    "url": "https://wannabelike.ru/rozov/",
+    "date": 1586685615,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "meropriyatie"
+    ],
+    "awards": []
+  },
+  {
+    "id": 683,
+    "title": "В моем репертуаре",
+    "caption": "В моем репертуаре\nhttps://truetoform.me/\n\n☆ #сервис #промо #мероприятие #readymag",
+    "image": "data/images/683.jpg",
+    "tags": [
+      "сервис",
+      "промо",
+      "мероприятие",
+      "readymag"
+    ],
+    "url": "https://truetoform.me/",
+    "date": 1583834419,
+    "edit_date": 1583834486,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "promo",
+      "meropriyatie",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
+    "id": 676,
+    "title": "LUXENGLISH",
+    "caption": "LUXENGLISH\nhttps://luxenglish.ru/\n\n☆ #образование #мероприятие #readymag",
+    "image": "data/images/676.jpg",
+    "tags": [
+      "образование",
+      "мероприятие",
+      "readymag"
+    ],
+    "url": "https://luxenglish.ru/",
+    "date": 1583402410,
+    "edit_date": 1583666034,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "meropriyatie",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
+    "id": 675,
+    "title": "Театральная школа Karavaev Lab",
+    "caption": "Театральная школа Karavaev Lab\nhttps://karavaev-lab.ru/\n\n☆ #образование #мероприятие #tilda",
+    "image": "data/images/675.jpg",
+    "tags": [
+      "образование",
+      "мероприятие",
+      "tilda"
+    ],
+    "url": "https://karavaev-lab.ru/",
+    "date": 1583316024,
+    "edit_date": 1583524339,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "meropriyatie",
+      "tilda"
+    ],
+    "awards": []
+  },
+  {
+    "id": 667,
+    "title": "Книги у моря — Петербургский книжный фестиваль",
+    "caption": "Книги у моря — Петербургский книжный фестиваль\nhttp://booksandsea.ru/\n\n☆ #мероприятие #readymag #aidapacheva",
+    "image": "data/images/667.jpg",
+    "tags": [
+      "мероприятие",
+      "readymag",
+      "aidapacheva"
+    ],
+    "url": "http://booksandsea.ru/",
+    "date": 1582642963,
+    "edit_date": 1584344503,
+    "isMonth": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "readymag",
+      "aidapacheva"
+    ],
+    "awards": []
+  },
+  {
+    "id": 660,
+    "title": "International Digital Retail Forum 2020",
+    "image": "data/images/660.jpg",
+    "tags": [
+      "мероприятие",
+      "24ttl"
+    ],
+    "url": "https://www.idrf.online/",
+    "date": 1580983260,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "24ttl"
+    ],
+    "awards": []
+  },
+  {
+    "id": 658,
+    "title": "Piano Trio Fest",
+    "caption": "Piano Trio Fest\nhttps://pianotriofest.com/\n\n☆ #мероприятие #музыка #readymag #zholud\n♡ @nowhow",
+    "image": "data/images/658.jpg",
+    "tags": [
+      "мероприятие",
+      "музыка",
+      "readymag",
+      "zholud"
+    ],
+    "url": "https://pianotriofest.com/",
+    "date": 1579773656,
+    "edit_date": 1583439463,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "muzika",
+      "readymag",
+      "zholud"
+    ],
+    "awards": []
+  },
+  {
+    "id": 655,
+    "title": "ExperimentFest + Яндекс.Практикум",
+    "caption": "ExperimentFest + Яндекс.Практикум\nhttps://www.experiment-fest.ru/\n\n☆ #мероприятие #яндекс #викторакифьев #tilda\n♡ @AndyAbramov",
+    "image": "data/images/655.jpg",
+    "tags": [
+      "мероприятие",
+      "яндекс",
+      "викторакифьев",
+      "tilda"
+    ],
+    "url": "https://www.experiment-fest.ru/",
+    "date": 1579255225,
+    "edit_date": 1583687238,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "yandeks",
+      "viktorakifev",
+      "tilda"
+    ],
+    "awards": []
+  },
+  {
+    "id": 650,
+    "title": "Лекторий Skillbox",
+    "image": "data/images/650.jpg",
+    "tags": [
+      "образование",
+      "мероприятие"
+    ],
+    "url": "https://events.skillbox.ru/designmeetup",
+    "date": 1577700014,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "meropriyatie"
+    ],
+    "awards": []
+  },
+  {
+    "id": 632,
+    "title": "Большой музей",
+    "caption": "Большой музей\nhttps://bm.digital/\n\n#медиа #искусство #мероприятие",
+    "image": "data/images/632.jpg",
+    "tags": [
+      "медиа",
+      "искусство",
+      "мероприятие"
+    ],
+    "url": "https://bm.digital/",
+    "date": 1574848867,
+    "edit_date": 1583439499,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "media",
+      "iskusstvo",
+      "meropriyatie"
+    ],
+    "awards": []
+  },
+  {
+    "id": 607,
+    "title": "DW ERA",
+    "image": "data/images/607.jpg",
+    "tags": [
+      "мероприятие",
+      "designworkout"
+    ],
+    "url": "https://era.designworkout.ru/",
+    "date": 1571392807,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "designworkout"
+    ],
+    "awards": []
+  },
+  {
+    "id": 605,
+    "title": "Саша Долгополов",
+    "image": "data/images/605.jpg",
+    "tags": [
+      "мероприятие"
+    ],
+    "url": "http://sashadolgopolov.ru/",
+    "date": 1571220053,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie"
+    ],
+    "awards": []
+  },
+  {
+    "id": 603,
+    "title": "Атлас ВМаяковский",
+    "image": "data/images/603.jpg",
+    "tags": [
+      "мероприятие",
+      "groznovco"
+    ],
+    "url": "http://vmayakovsky.com/",
+    "date": 1571047236,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "groznovco"
+    ],
+    "awards": []
+  },
+  {
+    "id": 602,
+    "title": "Briket Market",
+    "image": "data/images/602.jpg",
+    "tags": [
+      "заглушка",
+      "мероприятие"
+    ],
+    "url": "https://briketmarket.com/",
+    "date": 1570960829,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zaglushka",
+      "meropriyatie"
+    ],
+    "awards": []
+  },
+  {
+    "id": 577,
+    "title": "Фестиваль Petshop Days",
+    "image": "data/images/577.jpg",
+    "tags": [
+      "мероприятие"
+    ],
+    "url": "https://petshopdays.ru/",
+    "date": 1567764010,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie"
+    ],
+    "awards": []
+  },
+  {
+    "id": 560,
+    "title": "Здесь и сейчас. Атлас творческих студий",
+    "caption": "Здесь и сейчас. Атлас творческих студий\nhttps://hereandnow.moscow/\n\n#мероприятие #искусство #спецпроект #readymag #aic",
+    "image": "data/images/560.jpg",
+    "tags": [
+      "мероприятие",
+      "искусство",
+      "спецпроект",
+      "readymag",
+      "aic"
+    ],
+    "url": "https://hereandnow.moscow/",
+    "date": 1564740033,
+    "edit_date": 1583440361,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "iskusstvo",
+      "spetsproekt",
+      "readymag",
+      "aic"
+    ],
+    "awards": []
+  },
+  {
+    "id": 547,
+    "title": "Инвентаризация",
+    "image": "data/images/547.jpg",
+    "tags": [
+      "мероприятие",
+      "совет"
+    ],
+    "url": "https://inventoryfest.ru/",
+    "date": 1562603964,
+    "edit_date": 1583183812,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "sovet"
+    ],
+    "awards": []
+  }
+]

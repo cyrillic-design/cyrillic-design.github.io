@@ -1,0 +1,69 @@
+[
+  {
+    "id": 906,
+    "title": "Method zero",
+    "caption": "Method zero\nhttps://www.methodzero.io/\n\n#портфолио #услуги #pinkman",
+    "image": "data/images/906.jpg",
+    "tags": [
+      "портфолио",
+      "услуги",
+      "pinkman"
+    ],
+    "url": "https://www.methodzero.io/",
+    "date": 1618389675,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "uslugi",
+      "pinkman"
+    ],
+    "awards": []
+  },
+  {
+    "id": 489,
+    "title": "DataFork",
+    "image": "data/images/489.jpg",
+    "tags": [
+      "данные",
+      "аналитика",
+      "финансы",
+      "pinkman"
+    ],
+    "url": "http://dataf.org",
+    "date": 1554285626,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "dannie",
+      "analitika",
+      "finansi",
+      "pinkman"
+    ],
+    "awards": []
+  },
+  {
+    "id": 354,
+    "title": "Вакансии Simple",
+    "image": "data/images/354.jpg",
+    "tags": [
+      "каталог",
+      "simple",
+      "pinkman"
+    ],
+    "url": "http://careers.simple.ru/",
+    "date": 1542189650,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "katalog",
+      "simple",
+      "pinkman"
+    ],
+    "awards": []
+  }
+]

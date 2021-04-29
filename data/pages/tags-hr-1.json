@@ -1,0 +1,130 @@
+[
+  {
+    "id": 899,
+    "title": "Эйч",
+    "caption": "Эйч\nhttps://h.budu.jobs/\n\n#сервис #hr #update",
+    "image": "data/images/899.jpg",
+    "tags": [
+      "сервис",
+      "hr",
+      "update"
+    ],
+    "url": "https://h.budu.jobs/",
+    "date": 1616234441,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "hr",
+      "update"
+    ],
+    "awards": []
+  },
+  {
+    "id": 868,
+    "title": "Эйч",
+    "caption": "Эйч\nhttps://h.budu.jobs/\n\n#hr #сервис",
+    "image": "data/images/868.jpg",
+    "tags": [
+      "hr",
+      "сервис"
+    ],
+    "url": "https://h.budu.jobs/",
+    "date": 1609063206,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "hr",
+      "servis"
+    ],
+    "awards": []
+  },
+  {
+    "id": 846,
+    "title": "Работа в компании Северсталь",
+    "caption": "Работа в компании Северсталь\nhttps://career.severstal.com/\n\n#производство #hr #artlebedev",
+    "image": "data/images/846.jpg",
+    "tags": [
+      "производство",
+      "hr",
+      "artlebedev"
+    ],
+    "url": "https://career.severstal.com/",
+    "date": 1607421607,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "hr",
+      "artlebedev"
+    ],
+    "awards": []
+  },
+  {
+    "id": 763,
+    "title": "Буду",
+    "caption": "Буду\nhttps://budu.jobs/\n\n#сервис #работа #каталог #hr",
+    "image": "data/images/763.jpg",
+    "tags": [
+      "сервис",
+      "работа",
+      "каталог",
+      "hr"
+    ],
+    "url": "https://budu.jobs/",
+    "date": 1599468126,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "rabota",
+      "katalog",
+      "hr"
+    ],
+    "awards": []
+  },
+  {
+    "id": 590,
+    "title": "Careers Rasa Design Team",
+    "image": "data/images/590.jpg",
+    "tags": [
+      "hr",
+      "портфолио"
+    ],
+    "url": "https://careers.rasa.team/",
+    "date": 1569060028,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "hr",
+      "portfolio"
+    ],
+    "awards": []
+  },
+  {
+    "id": 455,
+    "title": "Skyeng job review",
+    "image": "data/images/455.jpg",
+    "tags": [
+      "hr"
+    ],
+    "url": "https://readymag.com/u49498434/1315502/",
+    "date": 1551261614,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "hr"
+    ],
+    "awards": []
+  }
+]

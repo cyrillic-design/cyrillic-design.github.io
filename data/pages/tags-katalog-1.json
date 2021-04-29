@@ -1,0 +1,153 @@
+[
+  {
+    "id": 763,
+    "title": "Буду",
+    "caption": "Буду\nhttps://budu.jobs/\n\n#сервис #работа #каталог #hr",
+    "image": "data/images/763.jpg",
+    "tags": [
+      "сервис",
+      "работа",
+      "каталог",
+      "hr"
+    ],
+    "url": "https://budu.jobs/",
+    "date": 1599468126,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "rabota",
+      "katalog",
+      "hr"
+    ],
+    "awards": []
+  },
+  {
+    "id": 726,
+    "title": "Calendaur",
+    "caption": "Calendaur\nhttps://calendaur.com/\n\n#сервис #каталог\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/726.jpg",
+    "tags": [
+      "сервис",
+      "каталог"
+    ],
+    "url": "https://calendaur.com/",
+    "date": 1589796087,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "katalog"
+    ],
+    "awards": []
+  },
+  {
+    "id": 699,
+    "title": "Место возможностей",
+    "caption": "Место возможностей\nhttps://homechallenge.ru/\n\n#каталог #образование #лучшедома #readymag\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/699.jpg",
+    "tags": [
+      "каталог",
+      "образование",
+      "лучшедома",
+      "readymag"
+    ],
+    "url": "https://homechallenge.ru/",
+    "date": 1585897225,
+    "edit_date": 1603460387,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "katalog",
+      "obrazovanie",
+      "luchshedoma",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
+    "id": 696,
+    "title": "Гараж — Самоизоляция",
+    "caption": "Гараж — Самоизоляция\nhttps://self-isolation.garagemca.org/\n\n#спецпроект #образование #каталог #искусство #лучшедома #readymag\nСпасибо за ссылку @readymag_official",
+    "image": "data/images/696.jpg",
+    "tags": [
+      "спецпроект",
+      "образование",
+      "каталог",
+      "искусство",
+      "лучшедома",
+      "readymag"
+    ],
+    "url": "https://self-isolation.garagemca.org/",
+    "date": 1585724442,
+    "edit_date": 1585832256,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "obrazovanie",
+      "katalog",
+      "iskusstvo",
+      "luchshedoma",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
+    "id": 692,
+    "title": "ТРАКТОР",
+    "caption": "ТРАКТОР\nhttps://traktor.cc/\n\n#онлайн #каталог #лучшедома #tilda #the23\nСпасибо за ссылку @the23_design",
+    "image": "data/images/692.jpg",
+    "tags": [
+      "онлайн",
+      "каталог",
+      "лучшедома",
+      "tilda",
+      "the23"
+    ],
+    "url": "https://traktor.cc/",
+    "date": 1585044016,
+    "edit_date": 1587210028,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "onlain",
+      "katalog",
+      "luchshedoma",
+      "tilda",
+      "the23"
+    ],
+    "awards": []
+  },
+  {
+    "id": 354,
+    "title": "Вакансии Simple",
+    "image": "data/images/354.jpg",
+    "tags": [
+      "каталог",
+      "simple",
+      "pinkman"
+    ],
+    "url": "http://careers.simple.ru/",
+    "date": 1542189650,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "katalog",
+      "simple",
+      "pinkman"
+    ],
+    "awards": []
+  }
+]

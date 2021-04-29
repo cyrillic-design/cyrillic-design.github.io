@@ -1,0 +1,52 @@
+[
+  {
+    "id": 886,
+    "title": "2-я Триеннале российского современного искусства",
+    "caption": "2-я Триеннале российского современного искусства\nhttps://triennial.garagemca.org/ru/\n\n#мероприятие #искусство #materialist #perushevkhmelev\nСпасибо за ссылку @gurick",
+    "image": "data/images/886.jpg",
+    "tags": [
+      "мероприятие",
+      "искусство",
+      "materialist",
+      "perushevkhmelev"
+    ],
+    "url": "https://triennial.garagemca.org/ru/",
+    "date": 1612257855,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "iskusstvo",
+      "materialist",
+      "perushevkhmelev"
+    ],
+    "awards": []
+  },
+  {
+    "id": 823,
+    "title": "Конструктор",
+    "caption": "Конструктор\nhttps://constructor.jewish-museum.ru/ru\n\n#спецпроект #игра #музей #materialist",
+    "image": "data/images/823.jpg",
+    "tags": [
+      "спецпроект",
+      "игра",
+      "музей",
+      "materialist"
+    ],
+    "url": "https://constructor.jewish-museum.ru/ru",
+    "date": 1606123850,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "igra",
+      "muzei",
+      "materialist"
+    ],
+    "awards": []
+  }
+]

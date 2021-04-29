@@ -1,0 +1,475 @@
+[
+  {
+    "id": 818,
+    "title": "Интернет журнал Materia",
+    "caption": "Интернет журнал Materia\nhttps://themateria.pro/\n\n#журнал #люди\nСпасибо за ссылку @dimaglumov",
+    "image": "data/images/818.jpg",
+    "tags": [
+      "журнал",
+      "люди"
+    ],
+    "url": "https://themateria.pro/",
+    "date": 1605612738,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "lyudi"
+    ],
+    "awards": []
+  },
+  {
+    "id": 807,
+    "title": "Жизненный путь",
+    "caption": "Жизненный путь\nhttps://liferoute.org/\n\n#благотворительность #люди #помощь #charmer\nСпасибо за ссылку @nuinuinu",
+    "image": "data/images/807.jpg",
+    "tags": [
+      "благотворительность",
+      "люди",
+      "помощь",
+      "charmer"
+    ],
+    "url": "https://liferoute.org/",
+    "date": 1604484014,
+    "edit_date": 1604495529,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "blagotvoritelnost",
+      "lyudi",
+      "pomoshch",
+      "charmer"
+    ],
+    "awards": []
+  },
+  {
+    "id": 781,
+    "title": "Міністерство цифрової трансформації України",
+    "caption": "Міністерство цифрової трансформації України\nhttps://thedigital.gov.ua/\n\n#государство #люди #блог\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/781.jpg",
+    "tags": [
+      "государство",
+      "люди",
+      "блог"
+    ],
+    "url": "https://thedigital.gov.ua/",
+    "date": 1601901605,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "gosudarstvo",
+      "lyudi",
+      "blog"
+    ],
+    "awards": []
+  },
+  {
+    "id": 767,
+    "title": "Державні послуги онлайн | Дія",
+    "caption": "Державні послуги онлайн | Дія\nhttps://diia.gov.ua/\n\n#сервис #государство #люди\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/767.jpg",
+    "tags": [
+      "сервис",
+      "государство",
+      "люди"
+    ],
+    "url": "https://diia.gov.ua/",
+    "date": 1599904831,
+    "edit_date": 1600174311,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "gosudarstvo",
+      "lyudi"
+    ],
+    "awards": []
+  },
+  {
+    "id": 744,
+    "title": "Суперсобака",
+    "caption": "Суперсобака\nhttp://love.super-sobaka.ru/\n\n#благотворительность #животные #люди #petrik #eshgruppa \nСпасибо за ссылку @KPEMEHb90",
+    "image": "data/images/744.jpg",
+    "tags": [
+      "благотворительность",
+      "животные",
+      "люди",
+      "petrik",
+      "eshgruppa"
+    ],
+    "url": "http://love.super-sobaka.ru/",
+    "date": 1594286861,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "blagotvoritelnost",
+      "zhivotnie",
+      "lyudi",
+      "petrik",
+      "eshgruppa"
+    ],
+    "awards": []
+  },
+  {
+    "id": 728,
+    "title": "Путеводитель по Тобольску",
+    "caption": "Путеводитель по Тобольску\nhttps://opentobolsk.ru/\n\n#город #люди #спецпроект #readymag\nСпасибо за ссылку @readymag_official",
+    "image": "data/images/728.jpg",
+    "tags": [
+      "город",
+      "люди",
+      "спецпроект",
+      "readymag"
+    ],
+    "url": "https://opentobolsk.ru/",
+    "date": 1590141611,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "gorod",
+      "lyudi",
+      "spetsproekt",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
+    "id": 720,
+    "title": "Даниловский рынок",
+    "caption": "Даниловский рынок\nhttps://danilovskymarket.ru/ru\n\n#промо #доставка #еда #люди #breadhead\nСпасибо за ссылку @uxfail",
+    "image": "data/images/720.jpg",
+    "tags": [
+      "промо",
+      "доставка",
+      "еда",
+      "люди",
+      "breadhead"
+    ],
+    "url": "https://danilovskymarket.ru/ru",
+    "date": 1588154443,
+    "edit_date": 1603460403,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "dostavka",
+      "yeda",
+      "lyudi",
+      "breadhead"
+    ],
+    "awards": []
+  },
+  {
+    "id": 717,
+    "title": "Визионеры",
+    "caption": "Визионеры\nhttps://award.plus-one.ru/\n\n#мероприятие #наука #люди #tilda",
+    "image": "data/images/717.jpg",
+    "tags": [
+      "мероприятие",
+      "наука",
+      "люди",
+      "tilda"
+    ],
+    "url": "https://award.plus-one.ru/",
+    "date": 1587376812,
+    "edit_date": 1587383308,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "nauka",
+      "lyudi",
+      "tilda"
+    ],
+    "awards": []
+  },
+  {
+    "id": 710,
+    "title": "Personal Profiles – Just Talk / 20.03.2020",
+    "caption": "Personal Profiles – Just Talk / 20.03.2020\nhttps://profiles.taragraphy.com/\n\n#образование #люди #мероприятие #отчет #readymag #artemtarasov\nСпасибо за ссылку @designgest_live",
+    "image": "data/images/710.jpg",
+    "tags": [
+      "образование",
+      "люди",
+      "мероприятие",
+      "отчет",
+      "readymag",
+      "artemtarasov"
+    ],
+    "url": "https://profiles.taragraphy.com/",
+    "date": 1586772007,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "lyudi",
+      "meropriyatie",
+      "otchet",
+      "readymag",
+      "artemtarasov"
+    ],
+    "awards": []
+  },
+  {
+    "id": 707,
+    "title": "EG 2020",
+    "caption": "EG 2020\nhttps://eg2020.ru/\n\n#спецпроект #телекоммуникации #люди\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/707.jpg",
+    "tags": [
+      "спецпроект",
+      "телекоммуникации",
+      "люди"
+    ],
+    "url": "https://eg2020.ru/",
+    "date": 1586512826,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "telekommunikatsii",
+      "lyudi"
+    ],
+    "awards": []
+  },
+  {
+    "id": 702,
+    "title": "Losko",
+    "caption": "Losko\nhttps://losko.ru/\n\n#журнал #люди",
+    "image": "data/images/702.jpg",
+    "tags": [
+      "журнал",
+      "люди"
+    ],
+    "url": "https://losko.ru/",
+    "date": 1586070011,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "lyudi"
+    ],
+    "awards": []
+  },
+  {
+    "id": 698,
+    "title": "1 рубль — это много, когда нас много",
+    "caption": "1 рубль — это много, когда нас много\nhttps://nuzhnapomosh.ru/crisis/\n\n#благотворительность #помощь #люди #лучшедома",
+    "image": "data/images/698.jpg",
+    "tags": [
+      "благотворительность",
+      "помощь",
+      "люди",
+      "лучшедома"
+    ],
+    "url": "https://nuzhnapomosh.ru/crisis/",
+    "date": 1585833389,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "blagotvoritelnost",
+      "pomoshch",
+      "lyudi",
+      "luchshedoma"
+    ],
+    "awards": []
+  },
+  {
+    "id": 637,
+    "title": "Благотворительный фонд «‎Шалаш»‎",
+    "image": "data/images/637.jpg",
+    "tags": [
+      "фонд",
+      "люди",
+      "помощь",
+      "sulliwan"
+    ],
+    "url": "https://shalash.academy/",
+    "date": 1576231245,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "fond",
+      "lyudi",
+      "pomoshch",
+      "sulliwan"
+    ],
+    "awards": []
+  },
+  {
+    "id": 636,
+    "title": "Шапша",
+    "image": "data/images/636.jpg",
+    "tags": [
+      "спецпроект",
+      "люди",
+      "кружок"
+    ],
+    "url": "https://shapsha.io/",
+    "date": 1575626449,
+    "edit_date": 1583183700,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "lyudi",
+      "kruzhok"
+    ],
+    "awards": []
+  },
+  {
+    "id": 633,
+    "title": "ВДНХ",
+    "image": "data/images/633.jpg",
+    "tags": [
+      "события",
+      "город",
+      "люди",
+      "смена"
+    ],
+    "url": "https://new.vdnh.ru/",
+    "date": 1575108085,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "sobitiya",
+      "gorod",
+      "lyudi",
+      "smena"
+    ],
+    "awards": []
+  },
+  {
+    "id": 629,
+    "title": "Путешествие в темноте",
+    "image": "data/images/629.jpg",
+    "tags": [
+      "музей",
+      "люди",
+      "промо",
+      "voskhoddigital"
+    ],
+    "url": "https://tripinthedark.ru/",
+    "date": 1574416892,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "muzei",
+      "lyudi",
+      "promo",
+      "voskhoddigital"
+    ],
+    "awards": []
+  },
+  {
+    "id": 566,
+    "title": "ТРАНЗИСТОР",
+    "image": "data/images/566.jpg",
+    "tags": [
+      "музыка",
+      "люди",
+      "стасполяков"
+    ],
+    "url": "https://trnsstr.ru",
+    "date": 1565604039,
+    "edit_date": 1583183812,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "muzika",
+      "lyudi",
+      "staspolyakov"
+    ],
+    "awards": []
+  },
+  {
+    "id": 413,
+    "title": "Село Хрюг",
+    "caption": "Село Хрюг\nhttps://khrug.ru/index.html\n\n#спецпроект #люди #кружок",
+    "image": "data/images/413.jpg",
+    "tags": [
+      "спецпроект",
+      "люди",
+      "кружок"
+    ],
+    "url": "https://khrug.ru/index.html",
+    "date": 1547719215,
+    "edit_date": 1583423738,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "lyudi",
+      "kruzhok"
+    ],
+    "awards": []
+  },
+  {
+    "id": 382,
+    "title": "Храм Патриаршего подворья",
+    "image": "data/images/382.jpg",
+    "tags": [
+      "люди",
+      "религия",
+      "itechgroup"
+    ],
+    "url": "https://peredelkino.online/",
+    "date": 1544349618,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "lyudi",
+      "religiya",
+      "itechgroup"
+    ],
+    "awards": []
+  },
+  {
+    "id": 348,
+    "title": "Гусь-Хрустальный",
+    "image": "data/images/348.jpg",
+    "tags": [
+      "город",
+      "люди",
+      "кружок"
+    ],
+    "url": "https://khrustalny.city/",
+    "date": 1541674073,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "gorod",
+      "lyudi",
+      "kruzhok"
+    ],
+    "awards": []
+  }
+]
