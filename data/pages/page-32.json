@@ -1,24 +1,5 @@
 [
   {
-    "id": 245,
-    "title": "Geex Arts",
-    "image": "data/images/245.jpg",
-    "tags": [
-      "агентство",
-      "портфолио"
-    ],
-    "url": "https://geex-arts.com/",
-    "date": 1532340021,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "agentstvo",
-      "portfolio"
-    ],
-    "awards": []
-  },
-  {
     "id": 244,
     "title": "Фламп",
     "image": "data/images/244.jpg",
@@ -400,6 +381,25 @@
     "isRemoved": false,
     "slugs": [
       "agentstvo",
+      "portfolio"
+    ],
+    "awards": []
+  },
+  {
+    "id": 225,
+    "title": "ROKY",
+    "image": "data/images/225.jpg",
+    "tags": [
+      "студия",
+      "портфолио"
+    ],
+    "url": "https://roky.rocks/",
+    "date": 1530607376,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "studiya",
       "portfolio"
     ],
     "awards": []

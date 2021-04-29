@@ -1,24 +1,5 @@
 [
   {
-    "id": 524,
-    "title": "К19",
-    "image": "data/images/524.jpg",
-    "tags": [
-      "мероприятие",
-      "paratype"
-    ],
-    "url": "https://moderncyrillic.org/",
-    "date": 1559557038,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "meropriyatie",
-      "paratype"
-    ],
-    "awards": []
-  },
-  {
     "id": 523,
     "title": "ruby russia",
     "image": "data/images/523.jpg",
@@ -386,6 +367,27 @@
     "slugs": [
       "nedvizhimost",
       "advancedteam"
+    ],
+    "awards": []
+  },
+  {
+    "id": 500,
+    "title": "Журнал «Код»",
+    "image": "data/images/500.jpg",
+    "tags": [
+      "образование",
+      "журнал",
+      "яндекс"
+    ],
+    "url": "https://thecode.media/",
+    "date": 1555927218,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "zhurnal",
+      "yandeks"
     ],
     "awards": []
   }

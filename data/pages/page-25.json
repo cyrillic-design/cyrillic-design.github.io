@@ -1,24 +1,5 @@
 [
   {
-    "id": 392,
-    "title": "Жилой комплекс Bauman House",
-    "image": "data/images/392.jpg",
-    "tags": [
-      "недвижимость",
-      "beta"
-    ],
-    "url": "http://baumanhouse.ru/",
-    "date": 1545127259,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "nedvizhimost",
-      "beta"
-    ],
-    "awards": []
-  },
-  {
     "id": 391,
     "title": "Faster",
     "image": "data/images/391.jpg",
@@ -398,6 +379,25 @@
     "isRemoved": false,
     "slugs": [
       "izdanie"
+    ],
+    "awards": []
+  },
+  {
+    "id": 369,
+    "title": "Мапа станаўлення Беларусі",
+    "image": "data/images/369.jpg",
+    "tags": [
+      "спецпроект",
+      "история"
+    ],
+    "url": "http://map.letapis.by/by/",
+    "date": 1543399222,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "istoriya"
     ],
     "awards": []
   }

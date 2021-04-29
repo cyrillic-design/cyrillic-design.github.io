@@ -12143,9 +12143,10 @@
     ],
     "url": "https://nplus.pro/",
     "date": 1619690327,
+    "edit_date": 1619690663,
     "isMonth": false,
     "isYear": false,
     "isHighlighted": false,
-    "isRemoved": false
+    "isRemoved": true
   }
 }

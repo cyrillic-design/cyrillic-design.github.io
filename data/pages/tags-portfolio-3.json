@@ -1,25 +1,5 @@
 [
   {
-    "id": 600,
-    "title": "РА «ВОСХОД»",
-    "caption": "РА «ВОСХОД»\nhttps://voskhod.agency/\n\n#агентство #портфолио",
-    "image": "data/images/600.jpg",
-    "tags": [
-      "агентство",
-      "портфолио"
-    ],
-    "url": "https://voskhod.agency/",
-    "date": 1570788023,
-    "edit_date": 1583340469,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "agentstvo",
-      "portfolio"
-    ],
-    "awards": []
-  },
-  {
     "id": 598,
     "title": "FGA",
     "image": "data/images/598.jpg",
@@ -363,6 +343,26 @@
     "slugs": [
       "portfolio",
       "sulliwan"
+    ],
+    "awards": []
+  },
+  {
+    "id": 482,
+    "title": "Юлия Засс",
+    "caption": "Юлия Засс\nhttps://juliazass.com/ru\n\n#портфолио #tilda",
+    "image": "data/images/482.jpg",
+    "tags": [
+      "портфолио",
+      "tilda"
+    ],
+    "url": "https://juliazass.com/ru",
+    "date": 1553680823,
+    "edit_date": 1583440323,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "tilda"
     ],
     "awards": []
   }

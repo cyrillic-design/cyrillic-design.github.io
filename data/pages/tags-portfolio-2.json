@@ -1,28 +1,5 @@
 [
   {
-    "id": 783,
-    "title": "Почтатех",
-    "caption": "Почтатех\nhttps://pochta.tech/\n\n#промо #сервис #портфолио\nСпасибо за ссылку @pochekueva",
-    "image": "data/images/783.jpg",
-    "tags": [
-      "промо",
-      "сервис",
-      "портфолио"
-    ],
-    "url": "https://pochta.tech/",
-    "date": 1602669606,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "servis",
-      "portfolio"
-    ],
-    "awards": []
-  },
-  {
     "id": 775,
     "title": "Полина Соколова",
     "caption": "Полина Соколова\nhttps://www.makesome.design/ru/\n\n#портфолио\nСпасибо за ссылку @AndyAbramov",
@@ -405,6 +382,26 @@
       "spetsproekt",
       "the23",
       "tilda"
+    ],
+    "awards": []
+  },
+  {
+    "id": 600,
+    "title": "РА «ВОСХОД»",
+    "caption": "РА «ВОСХОД»\nhttps://voskhod.agency/\n\n#агентство #портфолио",
+    "image": "data/images/600.jpg",
+    "tags": [
+      "агентство",
+      "портфолио"
+    ],
+    "url": "https://voskhod.agency/",
+    "date": 1570788023,
+    "edit_date": 1583340469,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "agentstvo",
+      "portfolio"
     ],
     "awards": []
   }
