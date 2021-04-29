@@ -186,20 +186,21 @@
   {
     "id": 862,
     "title": "ZET Academy",
-    "caption": "ZET Academy\nhttps://zetacademy.by/\n\n#образованиие #readymag",
+    "caption": "ZET Academy\nhttps://zetacademy.by/\n\n#образование #readymag",
     "image": "data/images/862.jpg",
     "tags": [
-      "образованиие",
+      "образование",
       "readymag"
     ],
     "url": "https://zetacademy.by/",
     "date": 1608631207,
+    "edit_date": 1619714517,
     "isMonth": false,
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
-      "obrazovaniie",
+      "obrazovanie",
       "readymag"
     ],
     "awards": []

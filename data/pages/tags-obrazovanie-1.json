@@ -247,6 +247,28 @@
     "awards": []
   },
   {
+    "id": 862,
+    "title": "ZET Academy",
+    "caption": "ZET Academy\nhttps://zetacademy.by/\n\n#образование #readymag",
+    "image": "data/images/862.jpg",
+    "tags": [
+      "образование",
+      "readymag"
+    ],
+    "url": "https://zetacademy.by/",
+    "date": 1608631207,
+    "edit_date": 1619714517,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 847,
     "title": "Grow this, Grow that: Product designer",
     "caption": "Grow this, Grow that: Product designer\nhttps://vectorly.team/grow-this-grow-that-ru/product-designer\n\n#мероприятие #подкаст #образование #webflow\nСпасибо за ссылку @AndyAbramov",
@@ -426,25 +448,6 @@
       "spetsproekt",
       "obrazovanie",
       "kruzhok"
-    ],
-    "awards": []
-  },
-  {
-    "id": 809,
-    "title": "School of advanced studies",
-    "caption": "School of advanced studies\nhttps://sas.utmn.ru/ru/\n\n#образование \nСпасибо за ссылку @AndyAbramov",
-    "image": "data/images/809.jpg",
-    "tags": [
-      "образование"
-    ],
-    "url": "https://sas.utmn.ru/ru/",
-    "date": 1604659250,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie"
     ],
     "awards": []
   }

@@ -1,5 +1,24 @@
 [
   {
+    "id": 809,
+    "title": "School of advanced studies",
+    "caption": "School of advanced studies\nhttps://sas.utmn.ru/ru/\n\n#образование \nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/809.jpg",
+    "tags": [
+      "образование"
+    ],
+    "url": "https://sas.utmn.ru/ru/",
+    "date": 1604659250,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie"
+    ],
+    "awards": []
+  },
+  {
     "id": 790,
     "title": "Деревня Сардаял",
     "caption": "Деревня Сардаял\nhttps://sardayal.ru/\n\n#спецпроект #образование #кружок",
@@ -450,36 +469,6 @@
     "slugs": [
       "katalog",
       "obrazovanie",
-      "luchshedoma",
-      "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 696,
-    "title": "Гараж — Самоизоляция",
-    "caption": "Гараж — Самоизоляция\nhttps://self-isolation.garagemca.org/\n\n#спецпроект #образование #каталог #искусство #лучшедома #readymag\nСпасибо за ссылку @readymag_official",
-    "image": "data/images/696.jpg",
-    "tags": [
-      "спецпроект",
-      "образование",
-      "каталог",
-      "искусство",
-      "лучшедома",
-      "readymag"
-    ],
-    "url": "https://self-isolation.garagemca.org/",
-    "date": 1585724442,
-    "edit_date": 1585832256,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "obrazovanie",
-      "katalog",
-      "iskusstvo",
       "luchshedoma",
       "readymag"
     ],
