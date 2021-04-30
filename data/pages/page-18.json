@@ -1,5 +1,24 @@
 [
   {
+    "id": 548,
+    "title": "РОССМА",
+    "image": "data/images/548.jpg",
+    "tags": [
+      "производство",
+      "студияевгенияярового"
+    ],
+    "url": "https://rossma.ru/",
+    "date": 1562666479,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "studiyaevgeniyayarovogo"
+    ],
+    "awards": []
+  },
+  {
     "id": 547,
     "title": "Инвентаризация",
     "image": "data/images/547.jpg",
@@ -355,27 +374,6 @@
     "slugs": [
       "magazin",
       "dostavka",
-      "servis"
-    ],
-    "awards": []
-  },
-  {
-    "id": 527,
-    "title": "Российский экологический оператор",
-    "image": "data/images/527.jpg",
-    "tags": [
-      "производство",
-      "промо",
-      "сервис"
-    ],
-    "url": "https://reo.ru/",
-    "date": 1559815232,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "proizvodstvo",
-      "promo",
       "servis"
     ],
     "awards": []
