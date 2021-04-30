@@ -1,5 +1,24 @@
 [
   {
+    "id": 415,
+    "title": "Аэропорт Кольцово",
+    "image": "data/images/415.jpg",
+    "tags": [
+      "сервис",
+      "uplab"
+    ],
+    "url": "http://svx.aero/",
+    "date": 1547892005,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "uplab"
+    ],
+    "awards": []
+  },
+  {
     "id": 414,
     "title": "Lure",
     "image": "data/images/414.jpg",
@@ -384,23 +403,6 @@
     "slugs": [
       "obrazovanie",
       "servis"
-    ],
-    "awards": []
-  },
-  {
-    "id": 394,
-    "title": "Яндекс.Телефон с Алисой",
-    "image": "data/images/394.jpg",
-    "tags": [
-      "промо"
-    ],
-    "url": "https://phone.yandex.ru/promo/alice",
-    "date": 1545300020,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo"
     ],
     "awards": []
   }
