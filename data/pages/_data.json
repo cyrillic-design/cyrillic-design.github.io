@@ -12252,5 +12252,21 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "923": {
+    "id": 923,
+    "title": "Пьесы Ивана Вырыпаева",
+    "caption": "Пьесы Ивана Вырыпаева\nhttps://vyrypaev.com/ru/\n\n#портфолио #eshgruppa",
+    "image": "923.jpg",
+    "tags": [
+      "портфолио",
+      "eshgruppa"
+    ],
+    "url": "https://vyrypaev.com/ru/",
+    "date": 1620122465,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

@@ -1,5 +1,26 @@
 [
   {
+    "id": 923,
+    "title": "Пьесы Ивана Вырыпаева",
+    "caption": "Пьесы Ивана Вырыпаева\nhttps://vyrypaev.com/ru/\n\n#портфолио #eshgruppa",
+    "image": "data/images/923.jpg",
+    "tags": [
+      "портфолио",
+      "eshgruppa"
+    ],
+    "url": "https://vyrypaev.com/ru/",
+    "date": 1620122465,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "eshgruppa"
+    ],
+    "awards": []
+  },
+  {
     "id": 861,
     "title": "Trinity",
     "caption": "Trinity\nhttps://trinitymonsters.com/\n\n#портфолио #eshgruppa\nP.S. Поправьте Сапёр - играть невозможно :)",
