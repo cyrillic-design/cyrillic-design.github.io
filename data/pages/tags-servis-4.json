@@ -1,5 +1,26 @@
 [
   {
+    "id": 391,
+    "title": "Faster",
+    "image": "data/images/391.jpg",
+    "tags": [
+      "сервис",
+      "здоровье",
+      "breadhead"
+    ],
+    "url": "https://faster.ru/",
+    "date": 1545040816,
+    "edit_date": 1583185395,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "zdorove",
+      "breadhead"
+    ],
+    "awards": []
+  },
+  {
     "id": 385,
     "title": "Pure",
     "image": "data/images/385.jpg",
@@ -390,25 +411,6 @@
       "servis",
       "kino",
       "kinopoisk"
-    ],
-    "awards": []
-  },
-  {
-    "id": 223,
-    "title": "Советские фильмы на английском языке",
-    "image": "data/images/223.jpg",
-    "tags": [
-      "сервис",
-      "кино"
-    ],
-    "url": "https://sovietmoviesonline.com/ru/",
-    "date": 1530439218,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "kino"
     ],
     "awards": []
   }
