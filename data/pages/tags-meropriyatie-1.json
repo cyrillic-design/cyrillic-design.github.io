@@ -1,5 +1,28 @@
 [
   {
+    "id": 925,
+    "title": "Севкабель Порт",
+    "caption": "Севкабель Порт\nhttps://sevcableport.ru/ru\n\n#мероприятие #афиша #breadhead",
+    "image": "data/images/925.jpg",
+    "tags": [
+      "мероприятие",
+      "афиша",
+      "breadhead"
+    ],
+    "url": "https://sevcableport.ru/ru",
+    "date": 1620208868,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "afisha",
+      "breadhead"
+    ],
+    "awards": []
+  },
+  {
     "id": 908,
     "title": "Second Friend Store",
     "caption": "Second Friend Store\nhttp://10years.secondfriendstore.ru/\n\n#мероприятие #мода #readymag\nСпасибо за ссылку @readymag_official",
@@ -464,29 +487,6 @@
     "slugs": [
       "meropriyatie",
       "promo"
-    ],
-    "awards": []
-  },
-  {
-    "id": 731,
-    "title": "Графический дизайн — Bang bang education",
-    "caption": "Графический дизайн — Bang bang education\nhttps://graphdesign.bangbangeducation.ru\n\n#образование #мероприятие #readymag \nСпасибо за ссылку @alexgolyanov",
-    "image": "data/images/731.jpg",
-    "tags": [
-      "образование",
-      "мероприятие",
-      "readymag"
-    ],
-    "url": "https://graphdesign.bangbangeducation.ru",
-    "date": 1590756852,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "meropriyatie",
-      "readymag"
     ],
     "awards": []
   }

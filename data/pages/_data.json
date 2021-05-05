@@ -12285,5 +12285,22 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "925": {
+    "id": 925,
+    "title": "Севкабель Порт",
+    "caption": "Севкабель Порт\nhttps://sevcableport.ru/ru\n\n#мероприятие #афиша #breadhead",
+    "image": "925.jpg",
+    "tags": [
+      "мероприятие",
+      "афиша",
+      "breadhead"
+    ],
+    "url": "https://sevcableport.ru/ru",
+    "date": 1620208868,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

@@ -1,5 +1,28 @@
 [
   {
+    "id": 707,
+    "title": "EG 2020",
+    "caption": "EG 2020\nhttps://eg2020.ru/\n\n#спецпроект #телекоммуникации #люди\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/707.jpg",
+    "tags": [
+      "спецпроект",
+      "телекоммуникации",
+      "люди"
+    ],
+    "url": "https://eg2020.ru/",
+    "date": 1586512826,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "telekommunikatsii",
+      "lyudi"
+    ],
+    "awards": []
+  },
+  {
     "id": 706,
     "title": "Ableton — Learning Music",
     "caption": "Ableton — Learning Music\nhttps://learningmusic.ableton.com/ru/\n\n#образование #музыка\nСпасибо за ссылку @privet_solnce",
@@ -456,27 +479,6 @@
       "magazin",
       "iskusstvo",
       "redo"
-    ],
-    "awards": []
-  },
-  {
-    "id": 686,
-    "title": "plotnik design",
-    "caption": "plotnik design\nhttps://plotnik.design/\n\n☆ #портфолио #readymag",
-    "image": "data/images/686.jpg",
-    "tags": [
-      "портфолио",
-      "readymag"
-    ],
-    "url": "https://plotnik.design/",
-    "date": 1584093614,
-    "edit_date": 1584347782,
-    "isMonth": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio",
-      "readymag"
     ],
     "awards": []
   }
