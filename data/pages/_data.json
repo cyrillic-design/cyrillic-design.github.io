@@ -12268,5 +12268,22 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "924": {
+    "id": 924,
+    "title": "Лаврус",
+    "caption": "Лаврус\nhttps://lavrus.art/\n\n#образование #искусство #artlebedev\nСпасибо за ссылку @AndyAbramov",
+    "image": "924.jpg",
+    "tags": [
+      "образование",
+      "искусство",
+      "artlebedev"
+    ],
+    "url": "https://lavrus.art/",
+    "date": 1620198064,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

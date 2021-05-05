@@ -1,5 +1,28 @@
 [
   {
+    "id": 924,
+    "title": "Лаврус",
+    "caption": "Лаврус\nhttps://lavrus.art/\n\n#образование #искусство #artlebedev\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/924.jpg",
+    "tags": [
+      "образование",
+      "искусство",
+      "artlebedev"
+    ],
+    "url": "https://lavrus.art/",
+    "date": 1620198064,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "iskusstvo",
+      "artlebedev"
+    ],
+    "awards": []
+  },
+  {
     "id": 853,
     "title": "Кривицкий — адвокаты бизнеса",
     "caption": "Кривицкий — адвокаты бизнеса\nhttps://krivitzky.ru/\n\n#промо #портфолио #услуги #бизнес #artlebedev",

@@ -1,5 +1,28 @@
 [
   {
+    "id": 924,
+    "title": "Лаврус",
+    "caption": "Лаврус\nhttps://lavrus.art/\n\n#образование #искусство #artlebedev\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/924.jpg",
+    "tags": [
+      "образование",
+      "искусство",
+      "artlebedev"
+    ],
+    "url": "https://lavrus.art/",
+    "date": 1620198064,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "iskusstvo",
+      "artlebedev"
+    ],
+    "awards": []
+  },
+  {
     "id": 917,
     "title": "Школа Управления Максима Десятых",
     "caption": "Школа Управления Максима Десятых\nhttps://www.desyatykh.school/\n\n#образование #pragmatica\nСпасибо за ссылку @censor_online",
@@ -424,30 +447,6 @@
     "slugs": [
       "obrazovanie",
       "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 811,
-    "title": "Село Глазок",
-    "caption": "Село Глазок\nhttps://seloglazok.ru/\n\n#спецпроект #образование  #кружок\nСпасибо за ссылку @AndyAbramov",
-    "image": "data/images/811.jpg",
-    "tags": [
-      "спецпроект",
-      "образование",
-      "кружок"
-    ],
-    "url": "https://seloglazok.ru/",
-    "date": 1604917789,
-    "edit_date": 1604918337,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "obrazovanie",
-      "kruzhok"
     ],
     "awards": []
   }

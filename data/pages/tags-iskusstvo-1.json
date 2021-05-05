@@ -1,5 +1,28 @@
 [
   {
+    "id": 924,
+    "title": "Лаврус",
+    "caption": "Лаврус\nhttps://lavrus.art/\n\n#образование #искусство #artlebedev\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/924.jpg",
+    "tags": [
+      "образование",
+      "искусство",
+      "artlebedev"
+    ],
+    "url": "https://lavrus.art/",
+    "date": 1620198064,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "iskusstvo",
+      "artlebedev"
+    ],
+    "awards": []
+  },
+  {
     "id": 886,
     "title": "2-я Триеннале российского современного искусства",
     "caption": "2-я Триеннале российского современного искусства\nhttps://triennial.garagemca.org/ru/\n\n#мероприятие #искусство #materialist #perushevkhmelev\nСпасибо за ссылку @gurick",
@@ -460,25 +483,6 @@
       "iskusstvo",
       "lentaru",
       "tretyakovskayagalereya"
-    ],
-    "awards": []
-  },
-  {
-    "id": 160,
-    "title": "Дистопия",
-    "image": "data/images/160.jpg",
-    "tags": [
-      "издание",
-      "искусство"
-    ],
-    "url": "http://dystopia.me/",
-    "date": 1524909617,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "izdanie",
-      "iskusstvo"
     ],
     "awards": []
   }
