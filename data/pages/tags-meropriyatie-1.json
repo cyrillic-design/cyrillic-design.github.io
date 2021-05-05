@@ -2,15 +2,17 @@
   {
     "id": 925,
     "title": "Севкабель Порт",
-    "caption": "Севкабель Порт\nhttps://sevcableport.ru/ru\n\n#мероприятие #афиша #breadhead",
+    "caption": "Севкабель Порт\nhttps://sevcableport.ru/ru\n\n#мероприятие #афиша #fullfort #breadhead",
     "image": "data/images/925.jpg",
     "tags": [
       "мероприятие",
       "афиша",
+      "fullfort",
       "breadhead"
     ],
     "url": "https://sevcableport.ru/ru",
     "date": 1620208868,
+    "edit_date": 1620214946,
     "isMonth": false,
     "isYear": false,
     "isHighlighted": false,
@@ -18,6 +20,7 @@
     "slugs": [
       "meropriyatie",
       "afisha",
+      "fullfort",
       "breadhead"
     ],
     "awards": []
