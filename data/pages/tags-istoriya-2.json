@@ -1,5 +1,26 @@
 [
   {
+    "id": 457,
+    "title": "Карта истории ГУЛАГа",
+    "image": "data/images/457.jpg",
+    "tags": [
+      "данные",
+      "история",
+      "urbica"
+    ],
+    "url": "https://gulagmap.ru/",
+    "date": 1551434419,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "dannie",
+      "istoriya",
+      "urbica"
+    ],
+    "awards": []
+  },
+  {
     "id": 408,
     "title": "Краткая история дизайна",
     "image": "data/images/408.jpg",
