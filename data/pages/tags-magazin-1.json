@@ -1,5 +1,28 @@
 [
   {
+    "id": 926,
+    "title": "Galka world",
+    "caption": "Galka world\nhttps://galka.world/\n\n#производство #магазин #readymag\nСпасибо за ссылку @stasplkv",
+    "image": "data/images/926.jpg",
+    "tags": [
+      "производство",
+      "магазин",
+      "readymag"
+    ],
+    "url": "https://galka.world/",
+    "date": 1620284466,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "magazin",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 871,
     "title": "Новогодний стол от Брикета",
     "caption": "Новогодний стол от Брикета\nhttp://2021.briketmarket.com/\n\n#спецпроект #магазин #readymag",
@@ -408,27 +431,6 @@
     "slugs": [
       "magazin",
       "promo"
-    ],
-    "awards": []
-  },
-  {
-    "id": 587,
-    "title": "KIOSK",
-    "image": "data/images/587.jpg",
-    "tags": [
-      "магазин",
-      "портфолио",
-      "designworkout"
-    ],
-    "url": "https://kiosk.works/",
-    "date": 1568455242,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "portfolio",
-      "designworkout"
     ],
     "awards": []
   }

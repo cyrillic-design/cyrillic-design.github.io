@@ -1,5 +1,28 @@
 [
   {
+    "id": 926,
+    "title": "Galka world",
+    "caption": "Galka world\nhttps://galka.world/\n\n#производство #магазин #readymag\nСпасибо за ссылку @stasplkv",
+    "image": "data/images/926.jpg",
+    "tags": [
+      "производство",
+      "магазин",
+      "readymag"
+    ],
+    "url": "https://galka.world/",
+    "date": 1620284466,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "magazin",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 873,
     "title": "Letterdog",
     "caption": "Letterdog\nhttps://letterdog.by/\n\n#портфолио #производство #tilda",
@@ -402,27 +425,6 @@
       "zdorove",
       "proizvodstvo",
       "redcollar"
-    ],
-    "awards": []
-  },
-  {
-    "id": 492,
-    "title": "Jewlia",
-    "image": "data/images/492.jpg",
-    "tags": [
-      "магазин",
-      "производство",
-      "красота"
-    ],
-    "url": "https://jewlia.ru/",
-    "date": 1554804040,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "proizvodstvo",
-      "krasota"
     ],
     "awards": []
   }

@@ -12304,5 +12304,22 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "926": {
+    "id": 926,
+    "title": "Galka world",
+    "caption": "Galka world\nhttps://galka.world/\n\n#производство #магазин #readymag\nСпасибо за ссылку @stasplkv",
+    "image": "926.jpg",
+    "tags": [
+      "производство",
+      "магазин",
+      "readymag"
+    ],
+    "url": "https://galka.world/",
+    "date": 1620284466,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

@@ -1,5 +1,26 @@
 [
   {
+    "id": 182,
+    "title": "Беру",
+    "image": "data/images/182.jpg",
+    "tags": [
+      "магазин",
+      "маркетплейс",
+      "яндекс"
+    ],
+    "url": "https://beru.ru/",
+    "date": 1526983229,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "marketpleis",
+      "yandeks"
+    ],
+    "awards": []
+  },
+  {
     "id": 180,
     "title": "MODI",
     "image": "data/images/180.jpg",
@@ -376,25 +397,6 @@
       "dostavka",
       "yeda",
       "breadhead"
-    ],
-    "awards": []
-  },
-  {
-    "id": 75,
-    "title": "Bork",
-    "image": "data/images/75.jpg",
-    "tags": [
-      "магазин",
-      "промо"
-    ],
-    "url": "https://www.bork.ru",
-    "date": 1518602432,
-    "edit_date": 1583185563,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "promo"
     ],
     "awards": []
   }

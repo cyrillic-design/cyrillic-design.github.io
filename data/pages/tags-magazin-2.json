@@ -1,5 +1,26 @@
 [
   {
+    "id": 587,
+    "title": "KIOSK",
+    "image": "data/images/587.jpg",
+    "tags": [
+      "магазин",
+      "портфолио",
+      "designworkout"
+    ],
+    "url": "https://kiosk.works/",
+    "date": 1568455242,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "portfolio",
+      "designworkout"
+    ],
+    "awards": []
+  },
+  {
     "id": 583,
     "title": "Косметика Тины Канделаки",
     "image": "data/images/583.jpg",
@@ -373,27 +394,6 @@
     "slugs": [
       "avto",
       "magazin"
-    ],
-    "awards": []
-  },
-  {
-    "id": 422,
-    "title": "ВкусВилл",
-    "image": "data/images/422.jpg",
-    "tags": [
-      "сервис",
-      "магазин",
-      "max"
-    ],
-    "url": "https://new.vkusvill.ru",
-    "date": 1548496819,
-    "edit_date": 1583185362,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "magazin",
-      "max"
     ],
     "awards": []
   }
