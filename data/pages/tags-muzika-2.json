@@ -1,5 +1,26 @@
 [
   {
+    "id": 309,
+    "title": "TIGHT magazine",
+    "image": "data/images/309.jpg",
+    "tags": [
+      "журнал",
+      "музыка",
+      "дизайн"
+    ],
+    "url": "https://www.tight.media/",
+    "date": 1537783205,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "muzika",
+      "dizain"
+    ],
+    "awards": []
+  },
+  {
     "id": 287,
     "title": "Richterfest 2018",
     "image": "data/images/287.jpg",

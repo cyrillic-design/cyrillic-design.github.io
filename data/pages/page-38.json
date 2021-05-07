@@ -1,5 +1,26 @@
 [
   {
+    "id": 134,
+    "title": "Utair",
+    "image": "data/images/134.jpg",
+    "tags": [
+      "авиакомпания",
+      "услуги",
+      "путешествия"
+    ],
+    "url": "https://www.utair.ru/",
+    "date": 1522749619,
+    "edit_date": 1583185535,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "aviakompaniya",
+      "uslugi",
+      "puteshestviya"
+    ],
+    "awards": []
+  },
+  {
     "id": 133,
     "title": "BERNÍK & partneri",
     "caption": "BERNÍK & partneri\nhttps://www.bernik-partneri.sk/ru\n\n#бизнес #услуги #ideil",
@@ -397,25 +418,6 @@
       "media",
       "rossiya",
       "labag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 114,
-    "title": "Додо Пицца",
-    "image": "data/images/114.jpg",
-    "tags": [
-      "доставка",
-      "еда"
-    ],
-    "url": "https://dodopizza.ru/",
-    "date": 1521021612,
-    "edit_date": 1583185535,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "dostavka",
-      "yeda"
     ],
     "awards": []
   }

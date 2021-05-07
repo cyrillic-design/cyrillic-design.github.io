@@ -1,5 +1,30 @@
 [
   {
+    "id": 928,
+    "title": "Запоздавший",
+    "caption": "Запоздавший\nhttps://readymag.com/LizaPalgunova/zapozdavchii/\n\n#музыка #портфолио #readymag #елизаветапальгунова\nСпасибо за ссылку @readymag_official",
+    "image": "data/images/928.jpg",
+    "tags": [
+      "музыка",
+      "портфолио",
+      "readymag",
+      "елизаветапальгунова"
+    ],
+    "url": "https://readymag.com/LizaPalgunova/zapozdavchii/",
+    "date": 1620381704,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "muzika",
+      "portfolio",
+      "readymag",
+      "yelizavetapalgunova"
+    ],
+    "awards": []
+  },
+  {
     "id": 829,
     "title": "Папино Молоко",
     "caption": "Папино Молоко\nhttps://papinomoloko.com/\n\n#магазин #музыка #tilda\nСпасибо за ссылку @AndyAbramov",
@@ -404,27 +429,6 @@
       "muzika",
       "spetsproekt",
       "cherenkevich"
-    ],
-    "awards": []
-  },
-  {
-    "id": 309,
-    "title": "TIGHT magazine",
-    "image": "data/images/309.jpg",
-    "tags": [
-      "журнал",
-      "музыка",
-      "дизайн"
-    ],
-    "url": "https://www.tight.media/",
-    "date": 1537783205,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "zhurnal",
-      "muzika",
-      "dizain"
     ],
     "awards": []
   }
