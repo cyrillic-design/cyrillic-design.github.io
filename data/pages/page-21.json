@@ -1,5 +1,22 @@
 [
   {
+    "id": 491,
+    "title": "Кода",
+    "image": "data/images/491.jpg",
+    "tags": [
+      "медиа"
+    ],
+    "url": "https://codaru.com/",
+    "date": 1554717656,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "media"
+    ],
+    "awards": []
+  },
+  {
     "id": 490,
     "title": "Высокая кухня на районе",
     "image": "data/images/490.jpg",
@@ -377,29 +394,6 @@
     "slugs": [
       "meropriyatie",
       "promo"
-    ],
-    "awards": []
-  },
-  {
-    "id": 470,
-    "title": "Самое эмейзинг обновление Рокета!",
-    "image": "data/images/470.jpg",
-    "tags": [
-      "промо",
-      "приложение",
-      "банк",
-      "финансы"
-    ],
-    "url": "https://rocketbank.ru/new-app",
-    "date": 1552557616,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "prilozhenie",
-      "bank",
-      "finansi"
     ],
     "awards": []
   }

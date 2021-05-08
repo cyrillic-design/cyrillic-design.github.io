@@ -12358,5 +12358,20 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "929": {
+    "id": 929,
+    "title": "Orientir",
+    "caption": "Orientir\nhttps://orientir.studio/\n\n#портфолио\nСпасибо за ссылку @AndyAbramov",
+    "image": "929.jpg",
+    "tags": [
+      "портфолио"
+    ],
+    "url": "https://orientir.studio/",
+    "date": 1620468072,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
