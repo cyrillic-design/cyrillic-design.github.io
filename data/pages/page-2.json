@@ -1,5 +1,29 @@
 [
   {
+    "id": 908,
+    "title": "Second Friend Store",
+    "caption": "Second Friend Store\nhttp://10years.secondfriendstore.ru/\n\n#мероприятие #мода #readymag\nСпасибо за ссылку @readymag_official",
+    "image": "data/images/908.jpg",
+    "tags": [
+      "мероприятие",
+      "мода",
+      "readymag"
+    ],
+    "url": "http://10years.secondfriendstore.ru/",
+    "date": 1619348926,
+    "edit_date": 1619349292,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "moda",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 907,
     "title": "IT-Музей DataArt",
     "caption": "IT-Музей DataArt\nhttps://museum.dataart.com/\n\n#спецпроект #музей #история",
@@ -436,25 +460,6 @@
       "iskusstvo",
       "materialist",
       "perushevkhmelev"
-    ],
-    "awards": []
-  },
-  {
-    "id": 884,
-    "title": "Школа Wemakefab",
-    "caption": "Школа Wemakefab\nhttps://wemakefab.school/\n\n#образование",
-    "image": "data/images/884.jpg",
-    "tags": [
-      "образование"
-    ],
-    "url": "https://wemakefab.school/",
-    "date": 1612166721,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie"
     ],
     "awards": []
   }
