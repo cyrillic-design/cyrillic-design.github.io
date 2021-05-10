@@ -1,5 +1,26 @@
 [
   {
+    "id": 931,
+    "title": "Свои",
+    "caption": "Свои\nhttps://svoi.io/\n\n#журнал #недвижимость",
+    "image": "data/images/931.jpg",
+    "tags": [
+      "журнал",
+      "недвижимость"
+    ],
+    "url": "https://svoi.io/",
+    "date": 1620640867,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "nedvizhimost"
+    ],
+    "awards": []
+  },
+  {
     "id": 852,
     "title": "Важные истории",
     "caption": "Важные истории\nhttps://istories.media/\n\n#журнал #сми #charmer",
@@ -412,25 +433,6 @@
       "obrazovanie",
       "zhurnal",
       "yandeks"
-    ],
-    "awards": []
-  },
-  {
-    "id": 485,
-    "title": "UXPUB",
-    "image": "data/images/485.jpg",
-    "tags": [
-      "журнал",
-      "дизайн"
-    ],
-    "url": "https://ux.pub/",
-    "date": 1553940023,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "zhurnal",
-      "dizain"
     ],
     "awards": []
   }
