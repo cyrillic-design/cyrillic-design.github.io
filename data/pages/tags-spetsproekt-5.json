@@ -1,5 +1,26 @@
 [
   {
+    "id": 476,
+    "title": "За каждым успехом стоит мечта",
+    "image": "data/images/476.jpg",
+    "tags": [
+      "спецпроект",
+      "промо",
+      "рбк"
+    ],
+    "url": "http://galaxynote9.rbc.ru/",
+    "date": 1553076011,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "promo",
+      "rbk"
+    ],
+    "awards": []
+  },
+  {
     "id": 465,
     "title": "AZBUKA",
     "image": "data/images/465.jpg",
@@ -396,31 +417,6 @@
     "slugs": [
       "spetsproekt",
       "lentaru"
-    ],
-    "awards": []
-  },
-  {
-    "id": 312,
-    "title": "Бунтарь. Воин. Атеист",
-    "image": "data/images/312.jpg",
-    "tags": [
-      "спецпроект",
-      "промо",
-      "искусство",
-      "lentaru",
-      "третьяковскаягалерея"
-    ],
-    "url": "https://vereshchagin.lenta.ru/",
-    "date": 1538041141,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "promo",
-      "iskusstvo",
-      "lentaru",
-      "tretyakovskayagalereya"
     ],
     "awards": []
   }

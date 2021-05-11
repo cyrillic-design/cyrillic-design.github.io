@@ -1,5 +1,26 @@
 [
   {
+    "id": 375,
+    "title": "60 беларускамоўных гітоў сучаснасьці",
+    "image": "data/images/375.jpg",
+    "tags": [
+      "музыка",
+      "спецпроект",
+      "cherenkevich"
+    ],
+    "url": "http://tuzin.letapis.by/",
+    "date": 1543917619,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "muzika",
+      "spetsproekt",
+      "cherenkevich"
+    ],
+    "awards": []
+  },
+  {
     "id": 309,
     "title": "TIGHT magazine",
     "image": "data/images/309.jpg",

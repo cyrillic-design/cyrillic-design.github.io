@@ -1,5 +1,30 @@
 [
   {
+    "id": 932,
+    "title": "West Coast vs East Coast",
+    "caption": "West Coast vs East Coast\nhttps://readymag.com/raznorabochee/moog-vs-buchla/\n\n#спецпроект #история #музыка #readymag\nСпасибо за ссылку @readymag_official",
+    "image": "data/images/932.jpg",
+    "tags": [
+      "спецпроект",
+      "история",
+      "музыка",
+      "readymag"
+    ],
+    "url": "https://readymag.com/raznorabochee/moog-vs-buchla/",
+    "date": 1620727269,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "istoriya",
+      "muzika",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 927,
     "title": "Бутылка",
     "caption": "Бутылка\nhttps://bottlehouse.ru/ru\n\n#город #история #промо #charmer\nСпасибо за ссылку @voronokin",
@@ -475,29 +500,6 @@
       "istoriya",
       "readymag",
       "dashapochekueva"
-    ],
-    "awards": []
-  },
-  {
-    "id": 473,
-    "title": "Soviet Design Timeline 1962 —1992",
-    "image": "data/images/473.jpg",
-    "tags": [
-      "история",
-      "дизайн",
-      "readymag",
-      "antonbalakin"
-    ],
-    "url": "http://sovietdesignstory.com/",
-    "date": 1552816802,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "istoriya",
-      "dizain",
-      "readymag",
-      "antonbalakin"
     ],
     "awards": []
   }

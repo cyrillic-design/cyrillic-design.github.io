@@ -1,5 +1,30 @@
 [
   {
+    "id": 932,
+    "title": "West Coast vs East Coast",
+    "caption": "West Coast vs East Coast\nhttps://readymag.com/raznorabochee/moog-vs-buchla/\n\n#спецпроект #история #музыка #readymag\nСпасибо за ссылку @readymag_official",
+    "image": "data/images/932.jpg",
+    "tags": [
+      "спецпроект",
+      "история",
+      "музыка",
+      "readymag"
+    ],
+    "url": "https://readymag.com/raznorabochee/moog-vs-buchla/",
+    "date": 1620727269,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "istoriya",
+      "muzika",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 919,
     "title": "TOMORO",
     "caption": "TOMORO\nhttps://tomoro.ru/\n\n#спецпроект #webflow\nСпасибо за ссылку @AndyAbramov",
@@ -451,30 +476,6 @@
       "spetsproekt",
       "sport",
       "istoriya"
-    ],
-    "awards": []
-  },
-  {
-    "id": 840,
-    "title": "Лето целого года",
-    "caption": "Лето целого года\nhttps://navzvade.ru/\n\n#спецпроект #образование #кружок",
-    "image": "data/images/840.jpg",
-    "tags": [
-      "спецпроект",
-      "образование",
-      "кружок"
-    ],
-    "url": "https://navzvade.ru/",
-    "date": 1606910824,
-    "edit_date": 1606910834,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "obrazovanie",
-      "kruzhok"
     ],
     "awards": []
   }

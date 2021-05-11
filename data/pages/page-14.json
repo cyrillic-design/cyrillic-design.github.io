@@ -1,5 +1,22 @@
 [
   {
+    "id": 646,
+    "title": "Ценципер",
+    "image": "data/images/646.jpg",
+    "tags": [
+      "портфолио"
+    ],
+    "url": "https://tsentsiper.com/",
+    "date": 1577354411,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio"
+    ],
+    "awards": []
+  },
+  {
     "id": 645,
     "title": "Гоголевский 12",
     "image": "data/images/645.jpg",
@@ -389,23 +406,6 @@
     "slugs": [
       "portfolio",
       "whiterussianstudio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 626,
-    "title": "Ivanovo - Museum",
-    "image": "data/images/626.jpg",
-    "tags": [
-      "искусство"
-    ],
-    "url": "http://textilemuseum.ru/ru/",
-    "date": 1573898425,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "iskusstvo"
     ],
     "awards": []
   }

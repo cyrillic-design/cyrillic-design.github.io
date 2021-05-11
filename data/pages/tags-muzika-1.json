@@ -1,5 +1,30 @@
 [
   {
+    "id": 932,
+    "title": "West Coast vs East Coast",
+    "caption": "West Coast vs East Coast\nhttps://readymag.com/raznorabochee/moog-vs-buchla/\n\n#спецпроект #история #музыка #readymag\nСпасибо за ссылку @readymag_official",
+    "image": "data/images/932.jpg",
+    "tags": [
+      "спецпроект",
+      "история",
+      "музыка",
+      "readymag"
+    ],
+    "url": "https://readymag.com/raznorabochee/moog-vs-buchla/",
+    "date": 1620727269,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "istoriya",
+      "muzika",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 928,
     "title": "Запоздавший",
     "caption": "Запоздавший\nhttps://readymag.com/LizaPalgunova/zapozdavchii/\n\n#музыка #портфолио #readymag #елизаветапальгунова\nСпасибо за ссылку @readymag_official",
@@ -408,27 +433,6 @@
       "muzika",
       "portfolio",
       "sk41"
-    ],
-    "awards": []
-  },
-  {
-    "id": 375,
-    "title": "60 беларускамоўных гітоў сучаснасьці",
-    "image": "data/images/375.jpg",
-    "tags": [
-      "музыка",
-      "спецпроект",
-      "cherenkevich"
-    ],
-    "url": "http://tuzin.letapis.by/",
-    "date": 1543917619,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "muzika",
-      "spetsproekt",
-      "cherenkevich"
     ],
     "awards": []
   }

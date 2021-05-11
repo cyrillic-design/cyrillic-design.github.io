@@ -12405,5 +12405,23 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "932": {
+    "id": 932,
+    "title": "West Coast vs East Coast",
+    "caption": "West Coast vs East Coast\nhttps://readymag.com/raznorabochee/moog-vs-buchla/\n\n#спецпроект #история #музыка #readymag\nСпасибо за ссылку @readymag_official",
+    "image": "932.jpg",
+    "tags": [
+      "спецпроект",
+      "история",
+      "музыка",
+      "readymag"
+    ],
+    "url": "https://readymag.com/raznorabochee/moog-vs-buchla/",
+    "date": 1620727269,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
