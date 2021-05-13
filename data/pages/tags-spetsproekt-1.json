@@ -1,5 +1,30 @@
 [
   {
+    "id": 933,
+    "title": "Музей Андрея Сахарова",
+    "caption": "Музей Андрея Сахарова\nhttps://www.sakharov.space/\n\n#спецпроект #история #музей #redis\nСпасибо за ссылку @esttmay",
+    "image": "data/images/933.jpg",
+    "tags": [
+      "спецпроект",
+      "история",
+      "музей",
+      "redis"
+    ],
+    "url": "https://www.sakharov.space/",
+    "date": 1620889272,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "istoriya",
+      "muzei",
+      "redis"
+    ],
+    "awards": []
+  },
+  {
     "id": 932,
     "title": "West Coast vs East Coast",
     "caption": "West Coast vs East Coast\nhttps://readymag.com/raznorabochee/moog-vs-buchla/\n\n#спецпроект #история #музыка #readymag\nСпасибо за ссылку @readymag_official",
@@ -453,29 +478,6 @@
       "kultura",
       "readymag",
       "kandales"
-    ],
-    "awards": []
-  },
-  {
-    "id": 842,
-    "title": "Зенит 84",
-    "caption": "Зенит 84\nhttp://1984.infografika.agency/\n\n#спецпроект #спорт #история\nСпасибо за ссылку @egorkomarov",
-    "image": "data/images/842.jpg",
-    "tags": [
-      "спецпроект",
-      "спорт",
-      "история"
-    ],
-    "url": "http://1984.infografika.agency/",
-    "date": 1607004008,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "sport",
-      "istoriya"
     ],
     "awards": []
   }

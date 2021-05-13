@@ -1,5 +1,30 @@
 [
   {
+    "id": 933,
+    "title": "Музей Андрея Сахарова",
+    "caption": "Музей Андрея Сахарова\nhttps://www.sakharov.space/\n\n#спецпроект #история #музей #redis\nСпасибо за ссылку @esttmay",
+    "image": "data/images/933.jpg",
+    "tags": [
+      "спецпроект",
+      "история",
+      "музей",
+      "redis"
+    ],
+    "url": "https://www.sakharov.space/",
+    "date": 1620889272,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "istoriya",
+      "muzei",
+      "redis"
+    ],
+    "awards": []
+  },
+  {
     "id": 932,
     "title": "West Coast vs East Coast",
     "caption": "West Coast vs East Coast\nhttps://readymag.com/raznorabochee/moog-vs-buchla/\n\n#спецпроект #история #музыка #readymag\nСпасибо за ссылку @readymag_official",
@@ -479,27 +504,6 @@
       "istoriya",
       "vladimirvorobyov",
       "gigarama"
-    ],
-    "awards": []
-  },
-  {
-    "id": 475,
-    "title": "Экскурсия в Аушвиц",
-    "image": "data/images/475.jpg",
-    "tags": [
-      "история",
-      "readymag",
-      "дашапочекуева"
-    ],
-    "url": "https://readymag.com/pochekueva/auschwitz/",
-    "date": 1552989658,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "istoriya",
-      "readymag",
-      "dashapochekueva"
     ],
     "awards": []
   }

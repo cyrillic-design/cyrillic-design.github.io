@@ -1,5 +1,30 @@
 [
   {
+    "id": 740,
+    "title": "Саврасов",
+    "caption": "Саврасов\nhttp://savrasovart.ru/\n\n#спецпроект #искусство #tilda #netlab",
+    "image": "data/images/740.jpg",
+    "tags": [
+      "спецпроект",
+      "искусство",
+      "tilda",
+      "netlab"
+    ],
+    "url": "http://savrasovart.ru/",
+    "date": 1592832153,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "iskusstvo",
+      "tilda",
+      "netlab"
+    ],
+    "awards": []
+  },
+  {
     "id": 729,
     "title": "Сижу дома",
     "caption": "Сижу дома\nhttp://stau-acasa.tilda.ws/\n\n#спецпроект #здоровье #tilda #onbureau",
@@ -437,27 +462,6 @@
     "slugs": [
       "spetsproekt",
       "sovet"
-    ],
-    "awards": []
-  },
-  {
-    "id": 619,
-    "title": "Планетроника",
-    "image": "data/images/619.jpg",
-    "tags": [
-      "спецпроект",
-      "музыка",
-      "яндекс"
-    ],
-    "url": "https://planetronica.ru/",
-    "date": 1572688818,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "muzika",
-      "yandeks"
     ],
     "awards": []
   }

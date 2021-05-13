@@ -1,5 +1,26 @@
 [
   {
+    "id": 484,
+    "title": "ВОНО — Свободный Пульт",
+    "image": "data/images/484.jpg",
+    "tags": [
+      "спецпроект",
+      "музыка",
+      "воно"
+    ],
+    "url": "http://svobodnypult.vonopaper.com",
+    "date": 1553853668,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "muzika",
+      "vono"
+    ],
+    "awards": []
+  },
+  {
     "id": 476,
     "title": "За каждым успехом стоит мечта",
     "image": "data/images/476.jpg",
@@ -398,25 +419,6 @@
       "iskusstvo",
       "yevreiskiimuzei",
       "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 317,
-    "title": "Белый квадрат",
-    "image": "data/images/317.jpg",
-    "tags": [
-      "спецпроект",
-      "lentaru"
-    ],
-    "url": "http://sorokin.lenta.ru/",
-    "date": 1538474415,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "lentaru"
     ],
     "awards": []
   }
