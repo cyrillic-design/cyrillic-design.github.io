@@ -1,30 +1,5 @@
 [
   {
-    "id": 716,
-    "title": "Делаю что хочу",
-    "caption": "Делаю что хочу\nhttps://idowhatiwant.kultrab.com/\n\n#спецпроект #образование #readymag #таняегошина\nСпасибо за ссылку @readymag_official",
-    "image": "data/images/716.jpg",
-    "tags": [
-      "спецпроект",
-      "образование",
-      "readymag",
-      "таняегошина"
-    ],
-    "url": "https://idowhatiwant.kultrab.com/",
-    "date": 1587290407,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "obrazovanie",
-      "readymag",
-      "tanyaegoshina"
-    ],
-    "awards": []
-  },
-  {
     "id": 715,
     "title": "Трава, що лікує",
     "caption": "Трава, що лікує\nhttps://cannabis.theukrainians.org/\n\n#спецпроект #здоровье #readymag #rasadesignteam\n18+ Мы не пропагандируем употребление и распространение запрещённых в РФ наркотических веществ и призываем к здоровому образу жизни!",
@@ -480,6 +455,27 @@
       "iskusstvo",
       "luchshedoma",
       "readymag"
+    ],
+    "awards": []
+  },
+  {
+    "id": 695,
+    "title": "XXII CARAT",
+    "caption": "XXII CARAT\nhttps://www.22carat.ae/ru/\n\n#промо #pixies",
+    "image": "data/images/695.jpg",
+    "tags": [
+      "промо",
+      "pixies"
+    ],
+    "url": "https://www.22carat.ae/ru/",
+    "date": 1585724434,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "pixies"
     ],
     "awards": []
   }
