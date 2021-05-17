@@ -1,26 +1,5 @@
 [
   {
-    "id": 695,
-    "title": "XXII CARAT",
-    "caption": "XXII CARAT\nhttps://www.22carat.ae/ru/\n\n#промо #pixies",
-    "image": "data/images/695.jpg",
-    "tags": [
-      "промо",
-      "pixies"
-    ],
-    "url": "https://www.22carat.ae/ru/",
-    "date": 1585724434,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "pixies"
-    ],
-    "awards": []
-  },
-  {
     "id": 694,
     "title": "Typical",
     "caption": "Typical\nhttps://typical.company/\n\n#промо #violettapostnova\nСпасибо за ссылку @nowhow — обязательно подпишитесь на этих ребят, они также собирают красивые сайты, только на латинице.",
@@ -461,6 +440,24 @@
     "slugs": [
       "magazin",
       "dostavka"
+    ],
+    "awards": []
+  },
+  {
+    "id": 671,
+    "title": "Просто-Ремонт",
+    "caption": "Просто-Ремонт\nhttps://prosto-remont.com/\n\n☆ #сервис",
+    "image": "data/images/671.jpg",
+    "tags": [
+      "сервис"
+    ],
+    "url": "https://prosto-remont.com/",
+    "date": 1583143227,
+    "edit_date": 1583663787,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis"
     ],
     "awards": []
   }

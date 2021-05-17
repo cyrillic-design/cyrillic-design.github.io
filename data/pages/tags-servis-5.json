@@ -1,26 +1,5 @@
 [
   {
-    "id": 243,
-    "title": "Кинопоиск Онлайн",
-    "image": "data/images/243.jpg",
-    "tags": [
-      "сервис",
-      "кино",
-      "кинопоиск"
-    ],
-    "url": "https://www.kinopoisk.ru/watch/films/",
-    "date": 1532167221,
-    "edit_date": 1583185435,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "kino",
-      "kinopoisk"
-    ],
-    "awards": []
-  },
-  {
     "id": 223,
     "title": "Советские фильмы на английском языке",
     "image": "data/images/223.jpg",

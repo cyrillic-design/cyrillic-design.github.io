@@ -1,23 +1,5 @@
 [
   {
-    "id": 671,
-    "title": "Просто-Ремонт",
-    "caption": "Просто-Ремонт\nhttps://prosto-remont.com/\n\n☆ #сервис",
-    "image": "data/images/671.jpg",
-    "tags": [
-      "сервис"
-    ],
-    "url": "https://prosto-remont.com/",
-    "date": 1583143227,
-    "edit_date": 1583663787,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis"
-    ],
-    "awards": []
-  },
-  {
     "id": 670,
     "title": "Единый Транспортный Портал",
     "caption": "Единый Транспортный Портал\nhttps://transport.mos.ru/\n\n☆ #город #сервис #artlebedev",
@@ -414,6 +396,27 @@
     "slugs": [
       "magazin",
       "thepromotion"
+    ],
+    "awards": []
+  },
+  {
+    "id": 648,
+    "title": "Тренды 2020",
+    "image": "data/images/648.jpg",
+    "tags": [
+      "спецпроект",
+      "промо",
+      "образование"
+    ],
+    "url": "https://2020.skillbox.ru/",
+    "date": 1577527207,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "promo",
+      "obrazovanie"
     ],
     "awards": []
   }

@@ -1,26 +1,5 @@
 [
   {
-    "id": 181,
-    "title": "Setka Workflow",
-    "image": "data/images/181.jpg",
-    "tags": [
-      "сервис",
-      "услуги",
-      "setka"
-    ],
-    "url": "https://setka.io/ru/workflow/",
-    "date": 1526896811,
-    "edit_date": 1583185536,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "uslugi",
-      "setka"
-    ],
-    "awards": []
-  },
-  {
     "id": 180,
     "title": "MODI",
     "image": "data/images/180.jpg",
@@ -413,6 +392,28 @@
     "slugs": [
       "magazin",
       "izdanie"
+    ],
+    "awards": []
+  },
+  {
+    "id": 161,
+    "title": "Creddy",
+    "caption": "Creddy\nhttps://creddy.ru/\n\n#недвижимость #финансы #промо",
+    "image": "data/images/161.jpg",
+    "tags": [
+      "недвижимость",
+      "финансы",
+      "промо"
+    ],
+    "url": "https://creddy.ru/",
+    "date": 1525082406,
+    "edit_date": 1583247447,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "nedvizhimost",
+      "finansi",
+      "promo"
     ],
     "awards": []
   }
