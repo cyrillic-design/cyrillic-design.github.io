@@ -1,5 +1,28 @@
 [
   {
+    "id": 262,
+    "title": "Телеграф",
+    "image": "data/images/262.jpg",
+    "tags": [
+      "update",
+      "журнал",
+      "дизайн",
+      "the23"
+    ],
+    "url": "http://telegraf.design/",
+    "date": 1533808819,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "update",
+      "zhurnal",
+      "dizain",
+      "the23"
+    ],
+    "awards": []
+  },
+  {
     "id": 261,
     "title": "ФК «Зенит» — История формы",
     "caption": "ФК «Зенит» — История формы\nhttps://forma.fc-zenit.ru/ru\n\n#спорт #история #мегафон",
@@ -371,27 +394,6 @@
       "servis",
       "kino",
       "kinopoisk"
-    ],
-    "awards": []
-  },
-  {
-    "id": 242,
-    "title": "Русские машины на страже смерти",
-    "image": "data/images/242.jpg",
-    "tags": [
-      "спецпроект",
-      "батенькадавытрансформер",
-      "alfred"
-    ],
-    "url": "http://21093.batenka.ru/",
-    "date": 1532080820,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "batenkadavitransformer",
-      "alfred"
     ],
     "awards": []
   }
