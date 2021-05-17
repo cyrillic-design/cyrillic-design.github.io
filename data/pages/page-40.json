@@ -1,24 +1,5 @@
 [
   {
-    "id": 98,
-    "title": "Ciльпо",
-    "image": "data/images/98.jpg",
-    "tags": [
-      "магазин",
-      "еда"
-    ],
-    "url": "https://silpo.ua/",
-    "date": 1519725604,
-    "edit_date": 1583185563,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "yeda"
-    ],
-    "awards": []
-  },
-  {
     "id": 97,
     "title": "Труд",
     "image": "data/images/97.jpg",
@@ -434,6 +415,25 @@
     "slugs": [
       "nedvizhimost",
       "pik"
+    ],
+    "awards": []
+  },
+  {
+    "id": 56,
+    "title": "Батенька, да вы трансформер",
+    "image": "data/images/56.jpg",
+    "tags": [
+      "медиа",
+      "jetstyle"
+    ],
+    "url": "batenka.ru",
+    "date": 1518172932,
+    "edit_date": 1583185563,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "media",
+      "jetstyle"
     ],
     "awards": []
   }

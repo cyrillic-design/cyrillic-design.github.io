@@ -1,26 +1,5 @@
 [
   {
-    "id": 242,
-    "title": "Русские машины на страже смерти",
-    "image": "data/images/242.jpg",
-    "tags": [
-      "спецпроект",
-      "батенькадавытрансформер",
-      "alfred"
-    ],
-    "url": "http://21093.batenka.ru/",
-    "date": 1532080820,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "batenkadavitransformer",
-      "alfred"
-    ],
-    "awards": []
-  },
-  {
     "id": 241,
     "title": "спіілка дизайн бюро",
     "image": "data/images/241.jpg",
@@ -400,6 +379,27 @@
     "slugs": [
       "servis",
       "kino"
+    ],
+    "awards": []
+  },
+  {
+    "id": 222,
+    "title": "Яндекс.Касса",
+    "image": "data/images/222.jpg",
+    "tags": [
+      "финансы",
+      "бизнес",
+      "сервис"
+    ],
+    "url": "https://kassa.yandex.ru/",
+    "date": 1530352817,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "finansi",
+      "biznes",
+      "servis"
     ],
     "awards": []
   }

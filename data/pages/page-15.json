@@ -1,22 +1,5 @@
 [
   {
-    "id": 628,
-    "title": "Чипса",
-    "image": "data/images/628.jpg",
-    "tags": [
-      "портфолио"
-    ],
-    "url": "https://chipsa.ru/",
-    "date": 1574157606,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio"
-    ],
-    "awards": []
-  },
-  {
     "id": 627,
     "title": "Ориентир",
     "caption": "Ориентир\nhttp://orientir.ru/\n\n#портфолио #whiterussianstudio",
@@ -401,6 +384,25 @@
     "slugs": [
       "spetsproekt",
       "qmrktng"
+    ],
+    "awards": []
+  },
+  {
+    "id": 608,
+    "title": "Школа китайского языка Лаоши в Москве",
+    "image": "data/images/608.jpg",
+    "tags": [
+      "образование",
+      "numo"
+    ],
+    "url": "https://msk.laoshi.ru/",
+    "date": 1571479207,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "numo"
     ],
     "awards": []
   }

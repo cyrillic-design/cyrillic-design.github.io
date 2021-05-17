@@ -12472,9 +12472,10 @@
     ],
     "url": "https://bibliotekus.artlebedev.ru/",
     "date": 1621254916,
+    "edit_date": 1621258728,
     "isMonth": false,
     "isYear": false,
     "isHighlighted": false,
-    "isRemoved": false
+    "isRemoved": true
   }
 }
