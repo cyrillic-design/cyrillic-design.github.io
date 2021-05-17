@@ -1,5 +1,32 @@
 [
   {
+    "id": 845,
+    "title": "Новгород грядущий",
+    "caption": "Новгород грядущий\nhttp://specials.zapovednik.space/velikynovgorod/\n\n#спецпроект #история #культура #readymag #kandales",
+    "image": "data/images/845.jpg",
+    "tags": [
+      "спецпроект",
+      "история",
+      "культура",
+      "readymag",
+      "kandales"
+    ],
+    "url": "http://specials.zapovednik.space/velikynovgorod/",
+    "date": 1607335208,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "istoriya",
+      "kultura",
+      "readymag",
+      "kandales"
+    ],
+    "awards": []
+  },
+  {
     "id": 842,
     "title": "Зенит 84",
     "caption": "Зенит 84\nhttp://1984.infografika.agency/\n\n#спецпроект #спорт #история\nСпасибо за ссылку @egorkomarov",
@@ -463,31 +490,6 @@
       "istoriya",
       "readymag",
       "pragmatica"
-    ],
-    "awards": []
-  },
-  {
-    "id": 741,
-    "title": "Русский пантеон",
-    "caption": "Русский пантеон\nhttps://gigarama.ru/russianpanteon/\n\n#спецпроект #история #владимирворобьёв #gigarama\nСпасибо за ссылку @AndyAbramov",
-    "image": "data/images/741.jpg",
-    "tags": [
-      "спецпроект",
-      "история",
-      "владимирворобьёв",
-      "gigarama"
-    ],
-    "url": "https://gigarama.ru/russianpanteon/",
-    "date": 1592906405,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "istoriya",
-      "vladimirvorobyov",
-      "gigarama"
     ],
     "awards": []
   }

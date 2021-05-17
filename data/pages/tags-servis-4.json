@@ -1,5 +1,24 @@
 [
   {
+    "id": 395,
+    "title": "method education",
+    "image": "data/images/395.jpg",
+    "tags": [
+      "образование",
+      "сервис"
+    ],
+    "url": "https://method.education/",
+    "date": 1545386423,
+    "edit_date": 1583185395,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "servis"
+    ],
+    "awards": []
+  },
+  {
     "id": 391,
     "title": "Faster",
     "image": "data/images/391.jpg",
@@ -390,27 +409,6 @@
     "slugs": [
       "servis",
       "soobshchestvo"
-    ],
-    "awards": []
-  },
-  {
-    "id": 243,
-    "title": "Кинопоиск Онлайн",
-    "image": "data/images/243.jpg",
-    "tags": [
-      "сервис",
-      "кино",
-      "кинопоиск"
-    ],
-    "url": "https://www.kinopoisk.ru/watch/films/",
-    "date": 1532167221,
-    "edit_date": 1583185435,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "kino",
-      "kinopoisk"
     ],
     "awards": []
   }
