@@ -12495,5 +12495,22 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": true
+  },
+  "938": {
+    "id": 938,
+    "title": "Библиотекус",
+    "caption": "Библиотекус\nhttps://bibliotekus.artlebedev.ru/\n\n#сервис #спецпроект #artlebedev",
+    "image": "938.jpg",
+    "tags": [
+      "сервис",
+      "спецпроект",
+      "artlebedev"
+    ],
+    "url": "https://bibliotekus.artlebedev.ru/",
+    "date": 1621258871,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
