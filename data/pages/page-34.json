@@ -1,26 +1,5 @@
 [
   {
-    "id": 222,
-    "title": "Яндекс.Касса",
-    "image": "data/images/222.jpg",
-    "tags": [
-      "финансы",
-      "бизнес",
-      "сервис"
-    ],
-    "url": "https://kassa.yandex.ru/",
-    "date": 1530352817,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "finansi",
-      "biznes",
-      "servis"
-    ],
-    "awards": []
-  },
-  {
     "id": 221,
     "title": "ФАРТ",
     "image": "data/images/221.jpg",
@@ -408,6 +387,23 @@
       "proizvodstvo",
       "uslugi",
       "manufaktura"
+    ],
+    "awards": []
+  },
+  {
+    "id": 202,
+    "title": "RealtimeBoard",
+    "image": "data/images/202.jpg",
+    "tags": [
+      "сервис"
+    ],
+    "url": "https://realtimeboard.com/ru/",
+    "date": 1528624801,
+    "edit_date": 1583185536,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "servis"
     ],
     "awards": []
   }

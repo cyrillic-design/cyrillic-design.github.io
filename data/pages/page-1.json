@@ -1,28 +1,5 @@
 [
   {
-    "id": 937,
-    "title": "Библиотекус",
-    "caption": "Библиотекус\nhttps://bibliotekus.artlebedev.ru/\n\n#сервис #спецпроект #artlebedev",
-    "image": "data/images/937.jpg",
-    "tags": [
-      "сервис",
-      "спецпроект",
-      "artlebedev"
-    ],
-    "url": "https://bibliotekus.artlebedev.ru/",
-    "date": 1621258802,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "spetsproekt",
-      "artlebedev"
-    ],
-    "awards": []
-  },
-  {
     "id": 933,
     "title": "Музей Андрея Сахарова",
     "caption": "Музей Андрея Сахарова\nhttps://www.sakharov.space/\n\n#спецпроект #история #музей #redis\nСпасибо за ссылку @esttmay",
@@ -464,6 +441,27 @@
       "istoriya",
       "readymag",
       "margaritali"
+    ],
+    "awards": []
+  },
+  {
+    "id": 912,
+    "title": "Лепота",
+    "caption": "Лепота\nhttps://bangbangeducation.ru/movie/lepota\n\n#промо #образование\nСпасибо за ссылку @ivanedorn",
+    "image": "data/images/912.jpg",
+    "tags": [
+      "промо",
+      "образование"
+    ],
+    "url": "https://bangbangeducation.ru/movie/lepota",
+    "date": 1619597638,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "obrazovanie"
     ],
     "awards": []
   }

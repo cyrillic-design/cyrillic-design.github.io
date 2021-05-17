@@ -1,26 +1,5 @@
 [
   {
-    "id": 450,
-    "title": "Гостиница Ольга",
-    "image": "data/images/450.jpg",
-    "tags": [
-      "услуги",
-      "промо",
-      "only"
-    ],
-    "url": "http://olgahotel.site/",
-    "date": 1551175212,
-    "edit_date": 1583185362,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "uslugi",
-      "promo",
-      "only"
-    ],
-    "awards": []
-  },
-  {
     "id": 449,
     "title": "Pro et Contra",
     "image": "data/images/449.jpg",
@@ -397,6 +376,27 @@
       "spetsproekt",
       "ukraina",
       "evne"
+    ],
+    "awards": []
+  },
+  {
+    "id": 430,
+    "title": "Cross Art Studio",
+    "image": "data/images/430.jpg",
+    "tags": [
+      "портфолио",
+      "студия",
+      "flat12"
+    ],
+    "url": "http://art-cross.ru",
+    "date": 1549447217,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "studiya",
+      "flat12"
     ],
     "awards": []
   }
