@@ -1,30 +1,5 @@
 [
   {
-    "id": 798,
-    "title": "Тотальный Хэллоуин!",
-    "caption": "Тотальный Хэллоуин!\nhttps://totalhalloween.localkitchen.ru/\n\n#промо #доставка #readymag #кухнянарайоне\nСпасибо за ссылку @ivanedorn",
-    "image": "data/images/798.jpg",
-    "tags": [
-      "промо",
-      "доставка",
-      "readymag",
-      "кухнянарайоне"
-    ],
-    "url": "https://totalhalloween.localkitchen.ru/",
-    "date": 1604047260,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "dostavka",
-      "readymag",
-      "kukhnyanaraione"
-    ],
-    "awards": []
-  },
-  {
     "id": 795,
     "title": "I have no website",
     "caption": "I have no website\nhttps://rmn.works/\n\n#портфолио #readymag\nСпасибо за ссылку @AndyAbramov",
@@ -459,6 +434,31 @@
     "slugs": [
       "spetsproekt",
       "readymag"
+    ],
+    "awards": []
+  },
+  {
+    "id": 776,
+    "title": "yazdes art",
+    "caption": "yazdes art\nhttps://yazdes.art/\n\n#мероприятие #образование #readymag #nonobjectiveworks",
+    "image": "data/images/776.jpg",
+    "tags": [
+      "мероприятие",
+      "образование",
+      "readymag",
+      "nonobjectiveworks"
+    ],
+    "url": "https://yazdes.art/",
+    "date": 1600941611,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "obrazovanie",
+      "readymag",
+      "nonobjectiveworks"
     ],
     "awards": []
   }
