@@ -1,5 +1,28 @@
 [
   {
+    "id": 284,
+    "title": "Фестиваль 90 лет Парку Горького",
+    "image": "data/images/284.jpg",
+    "tags": [
+      "мероприятие",
+      "фестиваль",
+      "город",
+      "readymag"
+    ],
+    "url": "http://90-pg.com/",
+    "date": 1535623221,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "festival",
+      "gorod",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 283,
     "title": "Дизайн Альфа-Банка",
     "image": "data/images/283.jpg",
@@ -374,28 +397,6 @@
     "slugs": [
       "nedvizhimost",
       "chulakov"
-    ],
-    "awards": []
-  },
-  {
-    "id": 263,
-    "title": "Десять шрифтов 2017",
-    "caption": "Десять шрифтов 2017 \nhttp://2017.typejournal.ru/\n\n#спецпроект #журналшрифт #readymag",
-    "image": "data/images/263.jpg",
-    "tags": [
-      "спецпроект",
-      "журналшрифт",
-      "readymag"
-    ],
-    "url": "http://2017.typejournal.ru/",
-    "date": 1533895207,
-    "edit_date": 1583247436,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "zhurnalshrift",
-      "readymag"
     ],
     "awards": []
   }

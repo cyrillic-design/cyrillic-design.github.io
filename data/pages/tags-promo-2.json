@@ -1,5 +1,28 @@
 [
   {
+    "id": 760,
+    "title": "MoreMilk",
+    "caption": "MoreMilk\nhttps://moremilk.ru/\n\n#промо #производство #chipsa",
+    "image": "data/images/760.jpg",
+    "tags": [
+      "промо",
+      "производство",
+      "chipsa"
+    ],
+    "url": "https://moremilk.ru/",
+    "date": 1599040865,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "proizvodstvo",
+      "chipsa"
+    ],
+    "awards": []
+  },
+  {
     "id": 759,
     "title": "Ferrumpipe",
     "caption": "Ferrumpipe\nhttps://ferrumpipe.ru/\n\n#производство #промо #cuberto\nСпасибо за ссылку @as_kiryanov",
@@ -438,27 +461,6 @@
       "nedvizhimost",
       "promo",
       "whitemark"
-    ],
-    "awards": []
-  },
-  {
-    "id": 653,
-    "title": "Неон",
-    "image": "data/images/653.jpg",
-    "tags": [
-      "услуги",
-      "промо",
-      "only"
-    ],
-    "url": "http://advneon.ru/",
-    "date": 1579082416,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "uslugi",
-      "promo",
-      "only"
     ],
     "awards": []
   }
