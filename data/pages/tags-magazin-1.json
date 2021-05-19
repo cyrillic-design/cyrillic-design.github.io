@@ -1,5 +1,26 @@
 [
   {
+    "id": 942,
+    "title": "SHU",
+    "caption": "SHU\nhttps://shuclothes.com/ru\n\n#магазин #adeptworks\nСпасибо за ссылку @VPuschkarev",
+    "image": "data/images/942.jpg",
+    "tags": [
+      "магазин",
+      "adeptworks"
+    ],
+    "url": "https://shuclothes.com/ru",
+    "date": 1621407669,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "adeptworks"
+    ],
+    "awards": []
+  },
+  {
     "id": 941,
     "title": "P.Y.E CLIPONS",
     "caption": "P.Y.E CLIPONS\nhttps://clipons.pyeoptics.com/\n\n#магазин #промо #readymag #breadhead\nСпасибо за ссылку @readymag_official",
@@ -418,25 +439,6 @@
     "slugs": [
       "magazin",
       "thepromotion"
-    ],
-    "awards": []
-  },
-  {
-    "id": 631,
-    "title": "Staya",
-    "image": "data/images/631.jpg",
-    "tags": [
-      "промо",
-      "магазин"
-    ],
-    "url": "https://ru.staya.dog/",
-    "date": 1574676070,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "magazin"
     ],
     "awards": []
   }

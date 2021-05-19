@@ -12566,5 +12566,21 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "942": {
+    "id": 942,
+    "title": "SHU",
+    "caption": "SHU\nhttps://shuclothes.com/ru\n\n#магазин #adeptworks\nСпасибо за ссылку @VPuschkarev",
+    "image": "942.jpg",
+    "tags": [
+      "магазин",
+      "adeptworks"
+    ],
+    "url": "https://shuclothes.com/ru",
+    "date": 1621407669,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
