@@ -1,5 +1,24 @@
 [
   {
+    "id": 590,
+    "title": "Careers Rasa Design Team",
+    "image": "data/images/590.jpg",
+    "tags": [
+      "hr",
+      "портфолио"
+    ],
+    "url": "https://careers.rasa.team/",
+    "date": 1569060028,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "hr",
+      "portfolio"
+    ],
+    "awards": []
+  },
+  {
     "id": 589,
     "title": "Экспертный журнал о красоте",
     "image": "data/images/589.jpg",
@@ -356,27 +375,6 @@
     "isRemoved": false,
     "slugs": [
       "keynetstudio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 566,
-    "title": "ТРАНЗИСТОР",
-    "image": "data/images/566.jpg",
-    "tags": [
-      "музыка",
-      "люди",
-      "стасполяков"
-    ],
-    "url": "https://trnsstr.ru",
-    "date": 1565604039,
-    "edit_date": 1583183812,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "muzika",
-      "lyudi",
-      "staspolyakov"
     ],
     "awards": []
   }

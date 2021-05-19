@@ -1,5 +1,27 @@
 [
   {
+    "id": 413,
+    "title": "Село Хрюг",
+    "caption": "Село Хрюг\nhttps://khrug.ru/index.html\n\n#спецпроект #люди #кружок",
+    "image": "data/images/413.jpg",
+    "tags": [
+      "спецпроект",
+      "люди",
+      "кружок"
+    ],
+    "url": "https://khrug.ru/index.html",
+    "date": 1547719215,
+    "edit_date": 1583423738,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "lyudi",
+      "kruzhok"
+    ],
+    "awards": []
+  },
+  {
     "id": 412,
     "title": "Виртуальный русский павильон",
     "image": "data/images/412.jpg",
@@ -379,25 +401,6 @@
     "slugs": [
       "studiya",
       "portfolio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 392,
-    "title": "Жилой комплекс Bauman House",
-    "image": "data/images/392.jpg",
-    "tags": [
-      "недвижимость",
-      "beta"
-    ],
-    "url": "http://baumanhouse.ru/",
-    "date": 1545127259,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "nedvizhimost",
-      "beta"
     ],
     "awards": []
   }
