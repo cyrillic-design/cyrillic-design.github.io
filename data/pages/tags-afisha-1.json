@@ -1,5 +1,32 @@
 [
   {
+    "id": 944,
+    "title": "ДК Рассвет",
+    "caption": "ДК Рассвет\nhttps://dkrassvet.space/\n\n#афиша #мероприятие #культура #образование #александрмосковский",
+    "image": "data/images/944.jpg",
+    "tags": [
+      "афиша",
+      "мероприятие",
+      "культура",
+      "образование",
+      "александрмосковский"
+    ],
+    "url": "https://dkrassvet.space/",
+    "date": 1621859912,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "afisha",
+      "meropriyatie",
+      "kultura",
+      "obrazovanie",
+      "aleksandrmoskovskii"
+    ],
+    "awards": []
+  },
+  {
     "id": 925,
     "title": "Севкабель Порт",
     "caption": "Севкабель Порт\nhttps://sevcableport.ru/ru\n\n#город #мероприятие #афиша #fullfort #breadhead",

@@ -1,5 +1,26 @@
 [
   {
+    "id": 734,
+    "title": "Creachella",
+    "caption": "Creachella\nhttps://creachella.moscow/\n\n#мероприятие #промо",
+    "image": "data/images/734.jpg",
+    "tags": [
+      "мероприятие",
+      "промо"
+    ],
+    "url": "https://creachella.moscow/",
+    "date": 1591264873,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "promo"
+    ],
+    "awards": []
+  },
+  {
     "id": 731,
     "title": "Графический дизайн — Bang bang education",
     "caption": "Графический дизайн — Bang bang education\nhttps://graphdesign.bangbangeducation.ru\n\n#образование #мероприятие #readymag \nСпасибо за ссылку @alexgolyanov",
@@ -411,32 +432,6 @@
     "isRemoved": false,
     "slugs": [
       "meropriyatie"
-    ],
-    "awards": []
-  },
-  {
-    "id": 560,
-    "title": "Здесь и сейчас. Атлас творческих студий",
-    "caption": "Здесь и сейчас. Атлас творческих студий\nhttps://hereandnow.moscow/\n\n#мероприятие #искусство #спецпроект #readymag #aic",
-    "image": "data/images/560.jpg",
-    "tags": [
-      "мероприятие",
-      "искусство",
-      "спецпроект",
-      "readymag",
-      "aic"
-    ],
-    "url": "https://hereandnow.moscow/",
-    "date": 1564740033,
-    "edit_date": 1583440361,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "meropriyatie",
-      "iskusstvo",
-      "spetsproekt",
-      "readymag",
-      "aic"
     ],
     "awards": []
   }

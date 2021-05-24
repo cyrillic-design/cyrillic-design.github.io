@@ -1,5 +1,32 @@
 [
   {
+    "id": 944,
+    "title": "ДК Рассвет",
+    "caption": "ДК Рассвет\nhttps://dkrassvet.space/\n\n#афиша #мероприятие #культура #образование #александрмосковский",
+    "image": "data/images/944.jpg",
+    "tags": [
+      "афиша",
+      "мероприятие",
+      "культура",
+      "образование",
+      "александрмосковский"
+    ],
+    "url": "https://dkrassvet.space/",
+    "date": 1621859912,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "afisha",
+      "meropriyatie",
+      "kultura",
+      "obrazovanie",
+      "aleksandrmoskovskii"
+    ],
+    "awards": []
+  },
+  {
     "id": 924,
     "title": "Лаврус",
     "caption": "Лаврус\nhttps://lavrus.art/\n\n#образование #искусство #artlebedev\nСпасибо за ссылку @AndyAbramov",
@@ -425,28 +452,6 @@
     "slugs": [
       "obrazovanie",
       "tilda"
-    ],
-    "awards": []
-  },
-  {
-    "id": 812,
-    "title": "Wannabelike — Illarion Gordon",
-    "caption": "Wannabelike — Illarion Gordon\nhttps://wannabelike.ru/gordon/\n\n#образование #readymag",
-    "image": "data/images/812.jpg",
-    "tags": [
-      "образование",
-      "readymag"
-    ],
-    "url": "https://wannabelike.ru/gordon/",
-    "date": 1605002436,
-    "edit_date": 1605008929,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "readymag"
     ],
     "awards": []
   }

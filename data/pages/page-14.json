@@ -1,5 +1,26 @@
 [
   {
+    "id": 653,
+    "title": "Неон",
+    "image": "data/images/653.jpg",
+    "tags": [
+      "услуги",
+      "промо",
+      "only"
+    ],
+    "url": "http://advneon.ru/",
+    "date": 1579082416,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "uslugi",
+      "promo",
+      "only"
+    ],
+    "awards": []
+  },
+  {
     "id": 651,
     "title": "Смена 2020",
     "image": "data/images/651.jpg",
@@ -385,28 +406,6 @@
       "gorod",
       "lyudi",
       "smena"
-    ],
-    "awards": []
-  },
-  {
-    "id": 632,
-    "title": "Большой музей",
-    "caption": "Большой музей\nhttps://bm.digital/\n\n#медиа #искусство #мероприятие",
-    "image": "data/images/632.jpg",
-    "tags": [
-      "медиа",
-      "искусство",
-      "мероприятие"
-    ],
-    "url": "https://bm.digital/",
-    "date": 1574848867,
-    "edit_date": 1583439499,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "media",
-      "iskusstvo",
-      "meropriyatie"
     ],
     "awards": []
   }

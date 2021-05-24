@@ -1,5 +1,32 @@
 [
   {
+    "id": 944,
+    "title": "ДК Рассвет",
+    "caption": "ДК Рассвет\nhttps://dkrassvet.space/\n\n#афиша #мероприятие #культура #образование #александрмосковский",
+    "image": "data/images/944.jpg",
+    "tags": [
+      "афиша",
+      "мероприятие",
+      "культура",
+      "образование",
+      "александрмосковский"
+    ],
+    "url": "https://dkrassvet.space/",
+    "date": 1621859912,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "afisha",
+      "meropriyatie",
+      "kultura",
+      "obrazovanie",
+      "aleksandrmoskovskii"
+    ],
+    "awards": []
+  },
+  {
     "id": 867,
     "title": "Zuzeum",
     "caption": "Zuzeum\nhttps://www.zuzeum.com/ru/\n\n#искусство #мероприятие #культура",
@@ -434,31 +461,6 @@
       "media",
       "obrazovanie",
       "kultura"
-    ],
-    "awards": []
-  },
-  {
-    "id": 80,
-    "title": "Памяти Юрия Верменича",
-    "image": "data/images/80.jpg",
-    "tags": [
-      "культура",
-      "спецпроект",
-      "музыка",
-      "память",
-      "coda"
-    ],
-    "url": "http://vermenich.jazzprovince.ru/",
-    "date": 1518775229,
-    "edit_date": 1583185563,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "kultura",
-      "spetsproekt",
-      "muzika",
-      "pamyat",
-      "coda"
     ],
     "awards": []
   }
