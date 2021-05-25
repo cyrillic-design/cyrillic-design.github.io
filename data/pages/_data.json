@@ -12618,5 +12618,21 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "945": {
+    "id": 945,
+    "title": "ПАЗТЬ",
+    "caption": "ПАЗТЬ\nhttps://petrick.co/pazt/\n\n#игра #petrick\nСпасибо за ссылку @AndyAbramov",
+    "image": "945.jpg",
+    "tags": [
+      "игра",
+      "petrick"
+    ],
+    "url": "https://petrick.co/pazt/",
+    "date": 1621963166,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
