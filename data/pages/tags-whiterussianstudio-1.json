@@ -1,5 +1,26 @@
 [
   {
+    "id": 946,
+    "title": "AFF",
+    "caption": "AFF\nhttps://aksenovff.com/\n\n#фонд #whiterussianstudio\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/946.jpg",
+    "tags": [
+      "фонд",
+      "whiterussianstudio"
+    ],
+    "url": "https://aksenovff.com/",
+    "date": 1622382298,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "fond",
+      "whiterussianstudio"
+    ],
+    "awards": []
+  },
+  {
     "id": 757,
     "title": "Международный фестиваль дебютного кино в Новой Голландии",
     "caption": "Международный фестиваль дебютного кино в Новой Голландии\nhttps://nhifilmfest.com/\n\n#мероприятие #кино #whiterussianstudio",

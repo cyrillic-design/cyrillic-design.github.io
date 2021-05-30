@@ -12634,5 +12634,21 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "946": {
+    "id": 946,
+    "title": "AFF",
+    "caption": "AFF\nhttps://aksenovff.com/\n\n#фонд #whiterussianstudio\nСпасибо за ссылку @AndyAbramov",
+    "image": "946.jpg",
+    "tags": [
+      "фонд",
+      "whiterussianstudio"
+    ],
+    "url": "https://aksenovff.com/",
+    "date": 1622382298,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
