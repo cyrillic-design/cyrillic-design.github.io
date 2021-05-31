@@ -1,5 +1,32 @@
 [
   {
+    "id": 743,
+    "title": "Марк Шагал",
+    "caption": "Марк Шагал\nhttps://mchagall.ru/\n\n#спецпроект #искусство #история #readymag #pragmatica \nСпасибо за ссылку @blinklinks",
+    "image": "data/images/743.jpg",
+    "tags": [
+      "спецпроект",
+      "искусство",
+      "история",
+      "readymag",
+      "pragmatica"
+    ],
+    "url": "https://mchagall.ru/",
+    "date": 1594224048,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "iskusstvo",
+      "istoriya",
+      "readymag",
+      "pragmatica"
+    ],
+    "awards": []
+  },
+  {
     "id": 739,
     "title": "UR BUREAU",
     "caption": "UR BUREAU\nhttps://ur-bureau.com/\n\n#портфолио #readymag #octo\nСпасибо за ссылку @trnsstr",
@@ -470,25 +497,6 @@
       "meropriyatie",
       "readymag",
       "aidapacheva"
-    ],
-    "awards": []
-  },
-  {
-    "id": 664,
-    "title": "Дизайн-квартал Флакон",
-    "image": "data/images/664.jpg",
-    "tags": [
-      "промо",
-      "readymag"
-    ],
-    "url": "https://flacon.ru/",
-    "date": 1582112783,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "readymag"
     ],
     "awards": []
   }
