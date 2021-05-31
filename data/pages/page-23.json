@@ -1,5 +1,26 @@
 [
   {
+    "id": 461,
+    "title": "Co loft",
+    "image": "data/images/461.jpg",
+    "tags": [
+      "недвижимость",
+      "промо",
+      "strangebrain"
+    ],
+    "url": "https://coloft.ru/",
+    "date": 1551780011,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "nedvizhimost",
+      "promo",
+      "strangebrain"
+    ],
+    "awards": []
+  },
+  {
     "id": 460,
     "title": "Белая Радуга",
     "image": "data/images/460.jpg",
@@ -377,23 +398,6 @@
     "slugs": [
       "blog",
       "brending"
-    ],
-    "awards": []
-  },
-  {
-    "id": 437,
-    "title": "Curious",
-    "image": "data/images/437.jpg",
-    "tags": [
-      "издание"
-    ],
-    "url": "https://curious.ru",
-    "date": 1550052010,
-    "edit_date": 1583185362,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "izdanie"
     ],
     "awards": []
   }

@@ -1,5 +1,24 @@
 [
   {
+    "id": 635,
+    "title": "Самокат",
+    "image": "data/images/635.jpg",
+    "tags": [
+      "сервис",
+      "доставка"
+    ],
+    "url": "https://samokat.ru/",
+    "date": 1575280808,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "dostavka"
+    ],
+    "awards": []
+  },
+  {
     "id": 634,
     "title": "Signal Future Insights",
     "image": "data/images/634.jpg",
@@ -379,25 +398,6 @@
     "isRemoved": false,
     "slugs": [
       "servis"
-    ],
-    "awards": []
-  },
-  {
-    "id": 615,
-    "title": "Weekend-курс актёрского мастерства",
-    "image": "data/images/615.jpg",
-    "tags": [
-      "образование",
-      "tilda"
-    ],
-    "url": "https://karavaev-lab.ru/wknd",
-    "date": 1572084041,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "tilda"
     ],
     "awards": []
   }

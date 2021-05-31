@@ -1,5 +1,24 @@
 [
   {
+    "id": 367,
+    "title": "Letterwork",
+    "image": "data/images/367.jpg",
+    "tags": [
+      "студия",
+      "портфолио"
+    ],
+    "url": "http://letter.work/",
+    "date": 1543226422,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "studiya",
+      "portfolio"
+    ],
+    "awards": []
+  },
+  {
     "id": 359,
     "title": "Dropbox - Секретные операции",
     "image": "data/images/359.jpg",
@@ -351,25 +370,6 @@
     ],
     "url": "https://flex.media/",
     "date": 1530093605,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "agentstvo",
-      "portfolio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 216,
-    "title": "The Mads",
-    "image": "data/images/216.jpg",
-    "tags": [
-      "агентство",
-      "портфолио"
-    ],
-    "url": "https://themads.ru/",
-    "date": 1529834409,
     "edit_date": 1583185435,
     "isHighlighted": false,
     "isRemoved": false,

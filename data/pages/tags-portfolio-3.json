@@ -1,5 +1,26 @@
 [
   {
+    "id": 630,
+    "title": "Слава Самодуров",
+    "image": "data/images/630.jpg",
+    "tags": [
+      "промо",
+      "портфолио",
+      "voskhoddigital"
+    ],
+    "url": "https://slavasamodurov.com/",
+    "date": 1574503204,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "portfolio",
+      "voskhoddigital"
+    ],
+    "awards": []
+  },
+  {
     "id": 628,
     "title": "Чипса",
     "image": "data/images/628.jpg",
@@ -346,25 +367,6 @@
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
-      "portfolio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 511,
-    "title": "KOTSIUBA",
-    "image": "data/images/511.jpg",
-    "tags": [
-      "студия",
-      "портфолио"
-    ],
-    "url": "https://kotsiuba.com/",
-    "date": 1558346402,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "studiya",
       "portfolio"
     ],
     "awards": []
