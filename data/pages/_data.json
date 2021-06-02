@@ -12682,5 +12682,20 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "949": {
+    "id": 949,
+    "title": "Студия Луч",
+    "caption": "Студия Луч\nhttps://www.loo.ch/\n\n#портфолио",
+    "image": "949.jpg",
+    "tags": [
+      "портфолио"
+    ],
+    "url": "https://www.loo.ch/",
+    "date": 1622632090,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

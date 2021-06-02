@@ -1,5 +1,24 @@
 [
   {
+    "id": 949,
+    "title": "Студия Луч",
+    "caption": "Студия Луч\nhttps://www.loo.ch/\n\n#портфолио",
+    "image": "data/images/949.jpg",
+    "tags": [
+      "портфолио"
+    ],
+    "url": "https://www.loo.ch/",
+    "date": 1622632090,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio"
+    ],
+    "awards": []
+  },
+  {
     "id": 948,
     "title": "balagan",
     "caption": "balagan\nhttp://www.blgn.io/\n\n#портфолио #readymag\nСпасибо за ссылку @polinashevchenko",
@@ -411,31 +430,6 @@
       "portfolio",
       "readymag",
       "trudagecy"
-    ],
-    "awards": []
-  },
-  {
-    "id": 819,
-    "title": "DAAT Production",
-    "caption": "DAAT Production\nhttps://daat.pro/\n\n#портфолио #студия #readymag #saint",
-    "image": "data/images/819.jpg",
-    "tags": [
-      "портфолио",
-      "студия",
-      "readymag",
-      "saint"
-    ],
-    "url": "https://daat.pro/",
-    "date": 1605688759,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio",
-      "studiya",
-      "readymag",
-      "saint"
     ],
     "awards": []
   }
