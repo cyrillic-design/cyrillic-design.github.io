@@ -1,5 +1,28 @@
 [
   {
+    "id": 951,
+    "title": "Antarctica",
+    "caption": "Antarctica\nhttps://antarctica.sloi.clothing/\n\n#спецпроект #магазин #readymag",
+    "image": "data/images/951.jpg",
+    "tags": [
+      "спецпроект",
+      "магазин",
+      "readymag"
+    ],
+    "url": "https://antarctica.sloi.clothing/",
+    "date": 1622833569,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "magazin",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 942,
     "title": "SHU",
     "caption": "SHU\nhttps://shuclothes.com/ru\n\n#магазин #adeptworks\nСпасибо за ссылку @VPuschkarev",
@@ -420,25 +443,6 @@
     "slugs": [
       "magazin",
       "dostavka"
-    ],
-    "awards": []
-  },
-  {
-    "id": 649,
-    "title": "bobber",
-    "image": "data/images/649.jpg",
-    "tags": [
-      "магазин",
-      "thepromotion"
-    ],
-    "url": "https://bobberbottle.com/",
-    "date": 1577613609,
-    "edit_date": 1583183700,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "thepromotion"
     ],
     "awards": []
   }

@@ -1,5 +1,28 @@
 [
   {
+    "id": 951,
+    "title": "Antarctica",
+    "caption": "Antarctica\nhttps://antarctica.sloi.clothing/\n\n#спецпроект #магазин #readymag",
+    "image": "data/images/951.jpg",
+    "tags": [
+      "спецпроект",
+      "магазин",
+      "readymag"
+    ],
+    "url": "https://antarctica.sloi.clothing/",
+    "date": 1622833569,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "magazin",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 943,
     "title": "Беларуская літаратура ў аўдыякнігах",
     "caption": "Беларуская літаратура ў аўдыякнігах\nhttps://lit.letapis.by/\n\n#спецпроект #история #алексейчеренкевич",
@@ -449,31 +472,6 @@
       "finansi",
       "bank",
       "spetsproekt"
-    ],
-    "awards": []
-  },
-  {
-    "id": 849,
-    "title": "Дом рабочей молодежи Оттендорф",
-    "caption": "Дом рабочей молодежи Оттендорф\nhttps://ottendorf.space/\n\n#спецпроект #история #tilda #gruppa",
-    "image": "data/images/849.jpg",
-    "tags": [
-      "спецпроект",
-      "история",
-      "tilda",
-      "gruppa"
-    ],
-    "url": "https://ottendorf.space/",
-    "date": 1607594408,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "istoriya",
-      "tilda",
-      "gruppa"
     ],
     "awards": []
   }

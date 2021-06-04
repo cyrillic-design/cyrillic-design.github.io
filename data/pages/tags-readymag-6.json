@@ -1,5 +1,28 @@
 [
   {
+    "id": 320,
+    "title": "Русская тоска: Исаак Левитан и авторский кинематограф",
+    "image": "data/images/320.jpg",
+    "tags": [
+      "спецпроект",
+      "искусство",
+      "еврейскиймузей",
+      "readymag"
+    ],
+    "url": "http://levitan.jewish-museum.ru/",
+    "date": 1538733630,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "iskusstvo",
+      "yevreiskiimuzei",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 284,
     "title": "Фестиваль 90 лет Парку Горького",
     "image": "data/images/284.jpg",

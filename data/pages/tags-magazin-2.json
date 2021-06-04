@@ -1,5 +1,24 @@
 [
   {
+    "id": 649,
+    "title": "bobber",
+    "image": "data/images/649.jpg",
+    "tags": [
+      "магазин",
+      "thepromotion"
+    ],
+    "url": "https://bobberbottle.com/",
+    "date": 1577613609,
+    "edit_date": 1583183700,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "thepromotion"
+    ],
+    "awards": []
+  },
+  {
     "id": 631,
     "title": "Staya",
     "image": "data/images/631.jpg",
@@ -377,25 +396,6 @@
       "magazin",
       "proizvodstvo",
       "brainylab"
-    ],
-    "awards": []
-  },
-  {
-    "id": 443,
-    "title": "Something Factory",
-    "image": "data/images/443.jpg",
-    "tags": [
-      "магазин",
-      "nikitavasilevskiy"
-    ],
-    "url": "https://somethingfactory.ru",
-    "date": 1550570411,
-    "edit_date": 1583185362,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "nikitavasilevskiy"
     ],
     "awards": []
   }
