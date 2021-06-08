@@ -1,5 +1,29 @@
 [
   {
+    "id": 952,
+    "title": "Журнал Буду",
+    "caption": "Журнал Буду\nhttps://journal.budu.jobs/\n\n#журнал #hr #webflow\nСпасибо за ссылку @iarromanov",
+    "image": "data/images/952.jpg",
+    "tags": [
+      "журнал",
+      "hr",
+      "webflow"
+    ],
+    "url": "https://journal.budu.jobs/",
+    "date": 1623138971,
+    "edit_date": 1623139022,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "hr",
+      "webflow"
+    ],
+    "awards": []
+  },
+  {
     "id": 919,
     "title": "TOMORO",
     "caption": "TOMORO\nhttps://tomoro.ru/\n\n#спецпроект #webflow\nСпасибо за ссылку @AndyAbramov",
