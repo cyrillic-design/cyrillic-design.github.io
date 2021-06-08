@@ -1,5 +1,26 @@
 [
   {
+    "id": 500,
+    "title": "Журнал «Код»",
+    "image": "data/images/500.jpg",
+    "tags": [
+      "образование",
+      "журнал",
+      "яндекс"
+    ],
+    "url": "https://thecode.media/",
+    "date": 1555927218,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "zhurnal",
+      "yandeks"
+    ],
+    "awards": []
+  },
+  {
     "id": 485,
     "title": "UXPUB",
     "image": "data/images/485.jpg",
@@ -381,27 +402,6 @@
       "obrazovanie",
       "lyudi",
       "the23"
-    ],
-    "awards": []
-  },
-  {
-    "id": 135,
-    "title": "Полюбить советскую архитектуру",
-    "image": "data/images/135.jpg",
-    "tags": [
-      "спецпроект",
-      "strelka",
-      "журнал"
-    ],
-    "url": "https://sovietarch.strelka.com/ru/",
-    "date": 1522836010,
-    "edit_date": 1583185535,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "strelka",
-      "zhurnal"
     ],
     "awards": []
   }

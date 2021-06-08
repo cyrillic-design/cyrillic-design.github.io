@@ -1,5 +1,28 @@
 [
   {
+    "id": 952,
+    "title": "Журнал Буду",
+    "caption": "Журнал Буду\nhttps://journal.budu.jobs/\n\n#журнал #hr #webbflow\nСпасибо за ссылку @iarromanov",
+    "image": "data/images/952.jpg",
+    "tags": [
+      "журнал",
+      "hr",
+      "webbflow"
+    ],
+    "url": "https://journal.budu.jobs/",
+    "date": 1623138971,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "hr",
+      "webbflow"
+    ],
+    "awards": []
+  },
+  {
     "id": 931,
     "title": "Свои",
     "caption": "Свои\nhttps://svoi.io/\n\n#журнал #недвижимость",
@@ -412,27 +435,6 @@
     "slugs": [
       "zhurnal",
       "pik"
-    ],
-    "awards": []
-  },
-  {
-    "id": 500,
-    "title": "Журнал «Код»",
-    "image": "data/images/500.jpg",
-    "tags": [
-      "образование",
-      "журнал",
-      "яндекс"
-    ],
-    "url": "https://thecode.media/",
-    "date": 1555927218,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "zhurnal",
-      "yandeks"
     ],
     "awards": []
   }

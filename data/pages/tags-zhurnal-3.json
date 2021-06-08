@@ -1,5 +1,26 @@
 [
   {
+    "id": 135,
+    "title": "Полюбить советскую архитектуру",
+    "image": "data/images/135.jpg",
+    "tags": [
+      "спецпроект",
+      "strelka",
+      "журнал"
+    ],
+    "url": "https://sovietarch.strelka.com/ru/",
+    "date": 1522836010,
+    "edit_date": 1583185535,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "strelka",
+      "zhurnal"
+    ],
+    "awards": []
+  },
+  {
     "id": 123,
     "title": "type today",
     "image": "data/images/123.jpg",

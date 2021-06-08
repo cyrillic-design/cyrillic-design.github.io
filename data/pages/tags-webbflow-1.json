@@ -1,0 +1,25 @@
+[
+  {
+    "id": 952,
+    "title": "Журнал Буду",
+    "caption": "Журнал Буду\nhttps://journal.budu.jobs/\n\n#журнал #hr #webbflow\nСпасибо за ссылку @iarromanov",
+    "image": "data/images/952.jpg",
+    "tags": [
+      "журнал",
+      "hr",
+      "webbflow"
+    ],
+    "url": "https://journal.budu.jobs/",
+    "date": 1623138971,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "hr",
+      "webbflow"
+    ],
+    "awards": []
+  }
+]
