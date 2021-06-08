@@ -1,5 +1,26 @@
 [
   {
+    "id": 405,
+    "title": "White Khamovniki",
+    "image": "data/images/405.jpg",
+    "tags": [
+      "промо",
+      "недвижимость",
+      "art3d"
+    ],
+    "url": "http://whitekhamovniki.ru/",
+    "date": 1546250413,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "nedvizhimost",
+      "art3d"
+    ],
+    "awards": []
+  },
+  {
     "id": 394,
     "title": "Яндекс.Телефон с Алисой",
     "image": "data/images/394.jpg",
@@ -385,27 +406,6 @@
       "promo",
       "uslugi",
       "redcollar"
-    ],
-    "awards": []
-  },
-  {
-    "id": 240,
-    "title": "ЖК Нева-Нева",
-    "image": "data/images/240.jpg",
-    "tags": [
-      "недвижимость",
-      "промо",
-      "bquadro"
-    ],
-    "url": "https://neva-neva.ru/",
-    "date": 1531908016,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "nedvizhimost",
-      "promo",
-      "bquadro"
     ],
     "awards": []
   }
