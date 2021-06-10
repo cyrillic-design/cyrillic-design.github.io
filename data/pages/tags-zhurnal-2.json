@@ -1,5 +1,24 @@
 [
   {
+    "id": 513,
+    "title": "ПИК Медиа",
+    "image": "data/images/513.jpg",
+    "tags": [
+      "журнал",
+      "пик"
+    ],
+    "url": "https://pik.media/",
+    "date": 1558519213,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "pik"
+    ],
+    "awards": []
+  },
+  {
     "id": 500,
     "title": "Журнал «Код»",
     "image": "data/images/500.jpg",
@@ -379,29 +398,6 @@
     "slugs": [
       "media",
       "zhurnal"
-    ],
-    "awards": []
-  },
-  {
-    "id": 179,
-    "title": "Телеграф",
-    "image": "data/images/179.jpg",
-    "tags": [
-      "журнал",
-      "образование",
-      "люди",
-      "the23"
-    ],
-    "url": "http://telegraf.design/",
-    "date": 1526724012,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "zhurnal",
-      "obrazovanie",
-      "lyudi",
-      "the23"
     ],
     "awards": []
   }

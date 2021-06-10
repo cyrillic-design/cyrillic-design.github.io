@@ -1,5 +1,26 @@
 [
   {
+    "id": 362,
+    "title": "Дело Модульбанка",
+    "image": "data/images/362.jpg",
+    "tags": [
+      "издание",
+      "финансы",
+      "банк"
+    ],
+    "url": "https://delo.modulbank.ru/",
+    "date": 1542880808,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "izdanie",
+      "finansi",
+      "bank"
+    ],
+    "awards": []
+  },
+  {
     "id": 353,
     "title": "Orient Finans Bank",
     "image": "data/images/353.jpg",
@@ -412,25 +433,6 @@
       "biznes",
       "finansi",
       "charmer"
-    ],
-    "awards": []
-  },
-  {
-    "id": 145,
-    "title": "Банк Открытие",
-    "image": "data/images/145.jpg",
-    "tags": [
-      "финансы",
-      "банк"
-    ],
-    "url": "https://www.open.ru/",
-    "date": 1523613614,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "finansi",
-      "bank"
     ],
     "awards": []
   }

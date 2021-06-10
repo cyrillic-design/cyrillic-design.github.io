@@ -1,5 +1,28 @@
 [
   {
+    "id": 179,
+    "title": "Телеграф",
+    "image": "data/images/179.jpg",
+    "tags": [
+      "журнал",
+      "образование",
+      "люди",
+      "the23"
+    ],
+    "url": "http://telegraf.design/",
+    "date": 1526724012,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "obrazovanie",
+      "lyudi",
+      "the23"
+    ],
+    "awards": []
+  },
+  {
     "id": 135,
     "title": "Полюбить советскую архитектуру",
     "image": "data/images/135.jpg",
