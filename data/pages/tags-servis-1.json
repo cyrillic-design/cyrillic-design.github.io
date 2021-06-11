@@ -1,5 +1,24 @@
 [
   {
+    "id": 956,
+    "title": "Tweek Календарь",
+    "caption": "Tweek Календарь\nhttps://tweek.so/ru\n\n#сервис\nСпасибо за ссылку @mozhno",
+    "image": "data/images/956.jpg",
+    "tags": [
+      "сервис"
+    ],
+    "url": "https://tweek.so/ru",
+    "date": 1623425130,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis"
+    ],
+    "awards": []
+  },
+  {
     "id": 940,
     "title": "Библиотекус",
     "caption": "Библиотекус\nhttps://bibliotekus.artlebedev.ru/\n\n#сервис #спецпроект #artlebedev",
@@ -445,27 +464,6 @@
       "spetsproekt",
       "obrazovanie",
       "servis"
-    ],
-    "awards": []
-  },
-  {
-    "id": 726,
-    "title": "Calendaur",
-    "caption": "Calendaur\nhttps://calendaur.com/\n\n#сервис #каталог\nСпасибо за ссылку @AndyAbramov",
-    "image": "data/images/726.jpg",
-    "tags": [
-      "сервис",
-      "каталог"
-    ],
-    "url": "https://calendaur.com/",
-    "date": 1589796087,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "katalog"
     ],
     "awards": []
   }
