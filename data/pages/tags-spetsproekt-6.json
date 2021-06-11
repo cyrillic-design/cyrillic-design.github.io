@@ -1,5 +1,28 @@
 [
   {
+    "id": 343,
+    "title": "Сбербанк 0411",
+    "image": "data/images/343.jpg",
+    "tags": [
+      "спецпроект",
+      "культура",
+      "люди",
+      "сбербанк"
+    ],
+    "url": "https://sberbank0411.ru/",
+    "date": 1541239211,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "kultura",
+      "lyudi",
+      "sberbank"
+    ],
+    "awards": []
+  },
+  {
     "id": 337,
     "title": "Я вышел ростом и лицом",
     "image": "data/images/337.jpg",
@@ -382,31 +405,6 @@
     "isRemoved": false,
     "slugs": [
       "spetsproekt"
-    ],
-    "awards": []
-  },
-  {
-    "id": 144,
-    "title": "+1",
-    "image": "data/images/144.jpg",
-    "tags": [
-      "спецпроект",
-      "люди",
-      "бизнес",
-      "государство",
-      "образование"
-    ],
-    "url": "http://plus-one.ru/",
-    "date": 1523527220,
-    "edit_date": 1583185535,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "lyudi",
-      "biznes",
-      "gosudarstvo",
-      "obrazovanie"
     ],
     "awards": []
   }

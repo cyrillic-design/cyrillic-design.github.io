@@ -1,5 +1,28 @@
 [
   {
+    "id": 906,
+    "title": "Method zero",
+    "caption": "Method zero\nhttps://www.methodzero.io/\n\n#портфолио #услуги #pinkman",
+    "image": "data/images/906.jpg",
+    "tags": [
+      "портфолио",
+      "услуги",
+      "pinkman"
+    ],
+    "url": "https://www.methodzero.io/",
+    "date": 1618389675,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "uslugi",
+      "pinkman"
+    ],
+    "awards": []
+  },
+  {
     "id": 905,
     "title": "Apt",
     "caption": "Apt\nhttps://joinapt.app/\n\n#приложение #readymag\nСпасибо за ссылку @readymag_official",
@@ -428,29 +451,6 @@
     "isRemoved": false,
     "slugs": [
       "obrazovanie"
-    ],
-    "awards": []
-  },
-  {
-    "id": 882,
-    "title": "Black Sea Coast Mutation — KULTRAB",
-    "caption": "Black Sea Coast Mutation — KULTRAB\nhttps://blackseacoastmutation.kultrab.com/\n\n#спецпроект #readymag #таняегошина",
-    "image": "data/images/882.jpg",
-    "tags": [
-      "спецпроект",
-      "readymag",
-      "таняегошина"
-    ],
-    "url": "https://blackseacoastmutation.kultrab.com/",
-    "date": 1611575570,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "readymag",
-      "tanyaegoshina"
     ],
     "awards": []
   }
