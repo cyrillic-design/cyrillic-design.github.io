@@ -1,5 +1,30 @@
 [
   {
+    "id": 957,
+    "title": "Навигационный и информационный шрифт Ижевска IZH 260 A/T",
+    "caption": "Навигационный и информационный шрифт Ижевска IZH 260 A/T\nhttp://izh.design/\n\n#город #брендинг #tilda #paratype",
+    "image": "data/images/957.jpg",
+    "tags": [
+      "город",
+      "брендинг",
+      "tilda",
+      "paratype"
+    ],
+    "url": "http://izh.design/",
+    "date": 1623602924,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "gorod",
+      "brending",
+      "tilda",
+      "paratype"
+    ],
+    "awards": []
+  },
+  {
     "id": 914,
     "title": "MBA «Лидеры изменений»",
     "caption": "MBA «Лидеры изменений»\nhttps://skillbox.pro/\n\n#бизнес #образование #tilda",
@@ -447,32 +472,6 @@
       "zdorove",
       "tilda",
       "onbureau"
-    ],
-    "awards": []
-  },
-  {
-    "id": 717,
-    "title": "Визионеры",
-    "caption": "Визионеры\nhttps://award.plus-one.ru/\n\n#мероприятие #наука #люди #tilda",
-    "image": "data/images/717.jpg",
-    "tags": [
-      "мероприятие",
-      "наука",
-      "люди",
-      "tilda"
-    ],
-    "url": "https://award.plus-one.ru/",
-    "date": 1587376812,
-    "edit_date": 1587383308,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "meropriyatie",
-      "nauka",
-      "lyudi",
-      "tilda"
     ],
     "awards": []
   }
