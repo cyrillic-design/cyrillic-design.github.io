@@ -1,5 +1,28 @@
 [
   {
+    "id": 958,
+    "title": "Simucube 2",
+    "caption": "Simucube 2\nhttps://dudarevmotorsport.ru/simucube/\n\n#промо #webflow #methodzero\nСпасибо за ссылку @boris_zagor",
+    "image": "data/images/958.jpg",
+    "tags": [
+      "промо",
+      "webflow",
+      "methodzero"
+    ],
+    "url": "https://dudarevmotorsport.ru/simucube/",
+    "date": 1623760090,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "webflow",
+      "methodzero"
+    ],
+    "awards": []
+  },
+  {
     "id": 953,
     "title": "НАЙСІ",
     "caption": "НАЙСІ\nhttps://nicee.com.ua/\n\n#промо #производство #readymag",
@@ -444,30 +467,6 @@
       "promo",
       "readymag",
       "aic"
-    ],
-    "awards": []
-  },
-  {
-    "id": 770,
-    "title": "EPICA",
-    "caption": "EPICA\nhttps://epica.ru/\n\n#промо #еда #dadacreative\nСпасибо за ссылку @stasplkv",
-    "image": "data/images/770.jpg",
-    "tags": [
-      "промо",
-      "еда",
-      "dadacreative"
-    ],
-    "url": "https://epica.ru/",
-    "date": 1600249630,
-    "edit_date": 1600903684,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "yeda",
-      "dadacreative"
     ],
     "awards": []
   }

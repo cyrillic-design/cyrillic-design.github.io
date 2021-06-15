@@ -1,5 +1,26 @@
 [
   {
+    "id": 516,
+    "title": "Любава",
+    "image": "data/images/516.jpg",
+    "tags": [
+      "магазин",
+      "производство",
+      "max"
+    ],
+    "url": "http://xn--80aabf6b4g.xn--p1acf/",
+    "date": 1558778408,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "proizvodstvo",
+      "max"
+    ],
+    "awards": []
+  },
+  {
     "id": 515,
     "title": "Сибирский Деловой Союз",
     "image": "data/images/515.jpg",
@@ -378,23 +399,6 @@
     "slugs": [
       "izdanie",
       "wednesday"
-    ],
-    "awards": []
-  },
-  {
-    "id": 493,
-    "title": "Urbica",
-    "image": "data/images/493.jpg",
-    "tags": [
-      "портфолио"
-    ],
-    "url": "https://urbica.co/ru/",
-    "date": 1554890443,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio"
     ],
     "awards": []
   }
