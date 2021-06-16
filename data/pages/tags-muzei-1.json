@@ -1,5 +1,34 @@
 [
   {
+    "id": 959,
+    "title": "Про Егорьевск",
+    "caption": "Про Егорьевск\nhttps://proegoryevsk.ru/\n\n#музей #город #история #спецпроект #tilda #naaustudio\nСпасибо за ссылку @leoleonov",
+    "image": "data/images/959.jpg",
+    "tags": [
+      "музей",
+      "город",
+      "история",
+      "спецпроект",
+      "tilda",
+      "naaustudio"
+    ],
+    "url": "https://proegoryevsk.ru/",
+    "date": 1623869301,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "muzei",
+      "gorod",
+      "istoriya",
+      "spetsproekt",
+      "tilda",
+      "naaustudio"
+    ],
+    "awards": []
+  },
+  {
     "id": 933,
     "title": "Музей Андрея Сахарова",
     "caption": "Музей Андрея Сахарова\nhttps://www.sakharov.space/\n\n#спецпроект #история #музей #redis\nСпасибо за ссылку @esttmay",

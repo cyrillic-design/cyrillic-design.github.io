@@ -12833,5 +12833,25 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "959": {
+    "id": 959,
+    "title": "Про Егорьевск",
+    "caption": "Про Егорьевск\nhttps://proegoryevsk.ru/\n\n#музей #город #история #спецпроект #tilda #naaustudio\nСпасибо за ссылку @leoleonov",
+    "image": "959.jpg",
+    "tags": [
+      "музей",
+      "город",
+      "история",
+      "спецпроект",
+      "tilda",
+      "naaustudio"
+    ],
+    "url": "https://proegoryevsk.ru/",
+    "date": 1623869301,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

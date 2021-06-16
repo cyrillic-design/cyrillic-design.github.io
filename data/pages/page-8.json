@@ -1,5 +1,28 @@
 [
   {
+    "id": 794,
+    "title": "Голубой Вагон",
+    "caption": "Голубой Вагон\nhttps://diletant.media/spec/goluboivagon\n\n#спецпроект #история #дилетант\nСпасибо за ссылку @alexgolyanov",
+    "image": "data/images/794.jpg",
+    "tags": [
+      "спецпроект",
+      "история",
+      "дилетант"
+    ],
+    "url": "https://diletant.media/spec/goluboivagon",
+    "date": 1603965611,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "istoriya",
+      "diletant"
+    ],
+    "awards": []
+  },
+  {
     "id": 793,
     "title": "Todoist",
     "caption": "Todoist\nhttps://todoist.com/ru/home\n\n#сервис #приложение",
@@ -434,29 +457,6 @@
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 774,
-    "title": "aic.union©",
-    "caption": "aic.union©\nhttps://aic.partners/\n\n#промо #readymag #aic\nСпасибо за ссылку @lemur_lucky",
-    "image": "data/images/774.jpg",
-    "tags": [
-      "промо",
-      "readymag",
-      "aic"
-    ],
-    "url": "https://aic.partners/",
-    "date": 1600611438,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "readymag",
-      "aic"
     ],
     "awards": []
   }

@@ -1,5 +1,28 @@
 [
   {
+    "id": 754,
+    "title": "Beat Film Festival",
+    "caption": "Beat Film Festival\nhttps://beatfilmfestival.ru/\n\n#мероприятие #кино #sulliwan",
+    "image": "data/images/754.jpg",
+    "tags": [
+      "мероприятие",
+      "кино",
+      "sulliwan"
+    ],
+    "url": "https://beatfilmfestival.ru/",
+    "date": 1595757609,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "kino",
+      "sulliwan"
+    ],
+    "awards": []
+  },
+  {
     "id": 753,
     "title": "Bolditalic — выпуск 2020",
     "caption": "Bolditalic — выпуск 2020\nhttps://2020.bolditalic.type.school/\n\n#образование #readymag #владимирпушкарёв\nСпасибо за ссылку @VPuschkarev",
@@ -443,27 +466,6 @@
     "slugs": [
       "blagotvoritelnost",
       "dadacreative"
-    ],
-    "awards": []
-  },
-  {
-    "id": 734,
-    "title": "Creachella",
-    "caption": "Creachella\nhttps://creachella.moscow/\n\n#мероприятие #промо",
-    "image": "data/images/734.jpg",
-    "tags": [
-      "мероприятие",
-      "промо"
-    ],
-    "url": "https://creachella.moscow/",
-    "date": 1591264873,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "meropriyatie",
-      "promo"
     ],
     "awards": []
   }
