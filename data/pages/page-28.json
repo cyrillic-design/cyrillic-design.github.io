@@ -1,5 +1,26 @@
 [
   {
+    "id": 365,
+    "title": "Международный аэропорт Шереметьево",
+    "image": "data/images/365.jpg",
+    "tags": [
+      "сервис",
+      "авиакомпания",
+      "beta"
+    ],
+    "url": "https://www.svo.aero/ru/main",
+    "date": 1543053616,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "aviakompaniya",
+      "beta"
+    ],
+    "awards": []
+  },
+  {
     "id": 363,
     "title": "КРУЖОК ФЕСТИВАЛЬ",
     "image": "data/images/363.jpg",
@@ -387,23 +408,6 @@
       "kultura",
       "lyudi",
       "sberbank"
-    ],
-    "awards": []
-  },
-  {
-    "id": 342,
-    "title": "Открытые 18+",
-    "image": "data/images/342.jpg",
-    "tags": [
-      "журнал"
-    ],
-    "url": "https://o-zine.ru/",
-    "date": 1541152804,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "zhurnal"
     ],
     "awards": []
   }

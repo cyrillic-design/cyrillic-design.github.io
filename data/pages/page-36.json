@@ -1,5 +1,26 @@
 [
   {
+    "id": 201,
+    "title": "Афиша Daily",
+    "image": "data/images/201.jpg",
+    "tags": [
+      "журнал",
+      "новости",
+      "люди"
+    ],
+    "url": "https://daily.afisha.ru/",
+    "date": 1528538418,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "novosti",
+      "lyudi"
+    ],
+    "awards": []
+  },
+  {
     "id": 200,
     "title": "Рецепты Almette",
     "image": "data/images/200.jpg",
@@ -398,25 +419,6 @@
       "servis",
       "uslugi",
       "setka"
-    ],
-    "awards": []
-  },
-  {
-    "id": 180,
-    "title": "MODI",
-    "image": "data/images/180.jpg",
-    "tags": [
-      "магазин",
-      "hellobarty"
-    ],
-    "url": "https://modi.ru/",
-    "date": 1526810420,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "hellobarty"
     ],
     "awards": []
   }

@@ -1,5 +1,22 @@
 [
   {
+    "id": 540,
+    "title": "ZOLOTO GROUP",
+    "image": "data/images/540.jpg",
+    "tags": [
+      "портфолио"
+    ],
+    "url": "https://www.zolotogroup.ru/",
+    "date": 1561456877,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio"
+    ],
+    "awards": []
+  },
+  {
     "id": 525,
     "title": "Tima Radya",
     "image": "data/images/525.jpg",
@@ -353,27 +370,6 @@
     "slugs": [
       "studiya",
       "portfolio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 386,
-    "title": "Карабинович",
-    "image": "data/images/386.jpg",
-    "tags": [
-      "музыка",
-      "портфолио",
-      "sk41"
-    ],
-    "url": "http://karabinovych.com/",
-    "date": 1544695221,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "muzika",
-      "portfolio",
-      "sk41"
     ],
     "awards": []
   }

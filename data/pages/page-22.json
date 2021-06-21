@@ -1,5 +1,24 @@
 [
   {
+    "id": 496,
+    "title": "Balance",
+    "image": "data/images/496.jpg",
+    "tags": [
+      "недвижимость",
+      "промо"
+    ],
+    "url": "https://get-balance.ru/",
+    "date": 1555063251,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "nedvizhimost",
+      "promo"
+    ],
+    "awards": []
+  },
+  {
     "id": 495,
     "title": "ZIMA Magazine",
     "image": "data/images/495.jpg",
@@ -368,27 +387,6 @@
       "spetsproekt",
       "promo",
       "rbk"
-    ],
-    "awards": []
-  },
-  {
-    "id": 475,
-    "title": "Экскурсия в Аушвиц",
-    "image": "data/images/475.jpg",
-    "tags": [
-      "история",
-      "readymag",
-      "дашапочекуева"
-    ],
-    "url": "https://readymag.com/pochekueva/auschwitz/",
-    "date": 1552989658,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "istoriya",
-      "readymag",
-      "dashapochekueva"
     ],
     "awards": []
   }
