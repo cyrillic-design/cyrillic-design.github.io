@@ -1,5 +1,32 @@
 [
   {
+    "id": 961,
+    "title": "Yandex Scale",
+    "caption": "Yandex Scale\nhttps://scale.yandex.ru/\n\n#мероприятие #бизнес #технологии #конференция #яндекс",
+    "image": "data/images/961.jpg",
+    "tags": [
+      "мероприятие",
+      "бизнес",
+      "технологии",
+      "конференция",
+      "яндекс"
+    ],
+    "url": "https://scale.yandex.ru/",
+    "date": 1624805653,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "biznes",
+      "tekhnologii",
+      "konferentsiya",
+      "yandeks"
+    ],
+    "awards": []
+  },
+  {
     "id": 944,
     "title": "ДК Рассвет",
     "caption": "ДК Рассвет\nhttps://dkrassvet.space/\n\n#афиша #мероприятие #культура #образование #александрмосковский",
@@ -473,31 +500,6 @@
       "meropriyatie",
       "kino",
       "sulliwan"
-    ],
-    "awards": []
-  },
-  {
-    "id": 749,
-    "title": "СЛЫШ",
-    "caption": "СЛЫШ\nhttps://podfest.ru/\n\n#мероприятие #readymag #артемматюшкин #nonobjectiveworks\nСпасибо за ссылку @AndyAbramov",
-    "image": "data/images/749.jpg",
-    "tags": [
-      "мероприятие",
-      "readymag",
-      "артемматюшкин",
-      "nonobjectiveworks"
-    ],
-    "url": "https://podfest.ru/",
-    "date": 1594807276,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "meropriyatie",
-      "readymag",
-      "artemmatyushkin",
-      "nonobjectiveworks"
     ],
     "awards": []
   }

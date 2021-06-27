@@ -1,5 +1,32 @@
 [
   {
+    "id": 961,
+    "title": "Yandex Scale",
+    "caption": "Yandex Scale\nhttps://scale.yandex.ru/\n\n#мероприятие #бизнес #технологии #конференция #яндекс",
+    "image": "data/images/961.jpg",
+    "tags": [
+      "мероприятие",
+      "бизнес",
+      "технологии",
+      "конференция",
+      "яндекс"
+    ],
+    "url": "https://scale.yandex.ru/",
+    "date": 1624805653,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "biznes",
+      "tekhnologii",
+      "konferentsiya",
+      "yandeks"
+    ],
+    "awards": []
+  },
+  {
     "id": 914,
     "title": "MBA «Лидеры изменений»",
     "caption": "MBA «Лидеры изменений»\nhttps://skillbox.pro/\n\n#бизнес #образование #tilda",
@@ -425,27 +452,6 @@
       "biznes",
       "uslugi",
       "ideil"
-    ],
-    "awards": []
-  },
-  {
-    "id": 103,
-    "title": "Inc.Russia",
-    "image": "data/images/103.jpg",
-    "tags": [
-      "журнал",
-      "медиа",
-      "бизнес"
-    ],
-    "url": "https://incrussia.ru/",
-    "date": 1520152874,
-    "edit_date": 1583185563,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "zhurnal",
-      "media",
-      "biznes"
     ],
     "awards": []
   }

@@ -1,5 +1,32 @@
 [
   {
+    "id": 961,
+    "title": "Yandex Scale",
+    "caption": "Yandex Scale\nhttps://scale.yandex.ru/\n\n#мероприятие #бизнес #технологии #конференция #яндекс",
+    "image": "data/images/961.jpg",
+    "tags": [
+      "мероприятие",
+      "бизнес",
+      "технологии",
+      "конференция",
+      "яндекс"
+    ],
+    "url": "https://scale.yandex.ru/",
+    "date": 1624805653,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "biznes",
+      "tekhnologii",
+      "konferentsiya",
+      "yandeks"
+    ],
+    "awards": []
+  },
+  {
     "id": 714,
     "title": "Яндекс.Практикум",
     "caption": "Яндекс.Практикум\nhttps://praktikum.yandex.ru/\n\n#образование #шад #яндекс",
