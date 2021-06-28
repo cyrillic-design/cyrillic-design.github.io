@@ -1,5 +1,24 @@
 [
   {
+    "id": 390,
+    "title": "СУВЕНИР-3",
+    "image": "data/images/390.jpg",
+    "tags": [
+      "музыка",
+      "whiterussianstudio"
+    ],
+    "url": "http://souvenirjazz.com/",
+    "date": 1544954410,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "muzika",
+      "whiterussianstudio"
+    ],
+    "awards": []
+  },
+  {
     "id": 389,
     "title": "Лесная Анкета - разговор с Ильей Долговым",
     "image": "data/images/389.jpg",
@@ -379,25 +398,6 @@
       "iskusstvo",
       "spetsproekt",
       "artlebedev"
-    ],
-    "awards": []
-  },
-  {
-    "id": 367,
-    "title": "Letterwork",
-    "image": "data/images/367.jpg",
-    "tags": [
-      "студия",
-      "портфолио"
-    ],
-    "url": "http://letter.work/",
-    "date": 1543226422,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "studiya",
-      "portfolio"
     ],
     "awards": []
   }

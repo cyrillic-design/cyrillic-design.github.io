@@ -1,5 +1,28 @@
 [
   {
+    "id": 304,
+    "title": "Бедные люди. Кабаковы",
+    "image": "data/images/304.jpg",
+    "tags": [
+      "кино",
+      "память",
+      "гараж",
+      "промо"
+    ],
+    "url": "https://kabakovs.garagemca.org/ru/",
+    "date": 1537351224,
+    "edit_date": 1583185436,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "kino",
+      "pamyat",
+      "garazh",
+      "promo"
+    ],
+    "awards": []
+  },
+  {
     "id": 303,
     "title": "Wheely",
     "image": "data/images/303.jpg",
@@ -384,29 +407,6 @@
       "sistema",
       "aic",
       "labag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 284,
-    "title": "Фестиваль 90 лет Парку Горького",
-    "image": "data/images/284.jpg",
-    "tags": [
-      "мероприятие",
-      "фестиваль",
-      "город",
-      "readymag"
-    ],
-    "url": "http://90-pg.com/",
-    "date": 1535623221,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "meropriyatie",
-      "festival",
-      "gorod",
-      "readymag"
     ],
     "awards": []
   }

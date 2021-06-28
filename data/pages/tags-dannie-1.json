@@ -1,5 +1,30 @@
 [
   {
+    "id": 962,
+    "title": "Про OneSoil Business Insights",
+    "caption": "Про OneSoil Business Insights\nhttps://b2b.onesoil.ai/ru/\n\n#данные #бизнес #сервис #readymag",
+    "image": "data/images/962.jpg",
+    "tags": [
+      "данные",
+      "бизнес",
+      "сервис",
+      "readymag"
+    ],
+    "url": "https://b2b.onesoil.ai/ru/",
+    "date": 1624882114,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "dannie",
+      "biznes",
+      "servis",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 679,
     "title": "Если быть точным",
     "caption": "Если быть точным\nhttps://tochno.st/\n\n☆ #сервис #данные #artlebedev",

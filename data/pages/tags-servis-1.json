@@ -1,5 +1,30 @@
 [
   {
+    "id": 962,
+    "title": "Про OneSoil Business Insights",
+    "caption": "Про OneSoil Business Insights\nhttps://b2b.onesoil.ai/ru/\n\n#данные #бизнес #сервис #readymag",
+    "image": "data/images/962.jpg",
+    "tags": [
+      "данные",
+      "бизнес",
+      "сервис",
+      "readymag"
+    ],
+    "url": "https://b2b.onesoil.ai/ru/",
+    "date": 1624882114,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "dannie",
+      "biznes",
+      "servis",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 956,
     "title": "Tweek Календарь",
     "caption": "Tweek Календарь\nhttps://tweek.so/ru\n\n#сервис\nСпасибо за ссылку @mozhno",
@@ -440,30 +465,6 @@
       "rabota",
       "katalog",
       "hr"
-    ],
-    "awards": []
-  },
-  {
-    "id": 758,
-    "title": "Brave New World",
-    "caption": "Brave New World\nhttps://bnw.budu.jobs/\n\n#спецпроект #образование #сервис\nСпасибо за ссылку @kkkarterrr",
-    "image": "data/images/758.jpg",
-    "tags": [
-      "спецпроект",
-      "образование",
-      "сервис"
-    ],
-    "url": "https://bnw.budu.jobs/",
-    "date": 1598349611,
-    "edit_date": 1598350429,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "obrazovanie",
-      "servis"
     ],
     "awards": []
   }

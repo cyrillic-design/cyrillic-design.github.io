@@ -1,5 +1,30 @@
 [
   {
+    "id": 962,
+    "title": "Про OneSoil Business Insights",
+    "caption": "Про OneSoil Business Insights\nhttps://b2b.onesoil.ai/ru/\n\n#данные #бизнес #сервис #readymag",
+    "image": "data/images/962.jpg",
+    "tags": [
+      "данные",
+      "бизнес",
+      "сервис",
+      "readymag"
+    ],
+    "url": "https://b2b.onesoil.ai/ru/",
+    "date": 1624882114,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "dannie",
+      "biznes",
+      "servis",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 961,
     "title": "Yandex Scale",
     "caption": "Yandex Scale\nhttps://scale.yandex.ru/\n\n#мероприятие #бизнес #технологии #конференция #яндекс",
@@ -430,28 +455,6 @@
       "portal",
       "obrazovanie",
       "biznes"
-    ],
-    "awards": []
-  },
-  {
-    "id": 133,
-    "title": "BERNÍK & partneri",
-    "caption": "BERNÍK & partneri\nhttps://www.bernik-partneri.sk/ru\n\n#бизнес #услуги #ideil",
-    "image": "data/images/133.jpg",
-    "tags": [
-      "бизнес",
-      "услуги",
-      "ideil"
-    ],
-    "url": "https://www.bernik-partneri.sk/ru",
-    "date": 1522662082,
-    "edit_date": 1583415893,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "biznes",
-      "uslugi",
-      "ideil"
     ],
     "awards": []
   }
