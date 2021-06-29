@@ -1,5 +1,26 @@
 [
   {
+    "id": 60,
+    "title": "Музей современного искусства «Гараж»",
+    "image": "data/images/60.jpg",
+    "tags": [
+      "культура",
+      "музей",
+      "charmer"
+    ],
+    "url": "garagemca.org",
+    "date": 1518278428,
+    "edit_date": 1583185563,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "kultura",
+      "muzei",
+      "charmer"
+    ],
+    "awards": []
+  },
+  {
     "id": 59,
     "title": "Группа компаний ПИК",
     "image": "data/images/59.jpg",

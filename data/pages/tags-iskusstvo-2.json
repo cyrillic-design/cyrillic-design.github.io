@@ -1,5 +1,30 @@
 [
   {
+    "id": 312,
+    "title": "Бунтарь. Воин. Атеист",
+    "image": "data/images/312.jpg",
+    "tags": [
+      "спецпроект",
+      "промо",
+      "искусство",
+      "lentaru",
+      "третьяковскаягалерея"
+    ],
+    "url": "https://vereshchagin.lenta.ru/",
+    "date": 1538041141,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "promo",
+      "iskusstvo",
+      "lentaru",
+      "tretyakovskayagalereya"
+    ],
+    "awards": []
+  },
+  {
     "id": 160,
     "title": "Дистопия",
     "image": "data/images/160.jpg",
