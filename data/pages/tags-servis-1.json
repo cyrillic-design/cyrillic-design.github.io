@@ -1,5 +1,28 @@
 [
   {
+    "id": 964,
+    "title": "Приложение Apt",
+    "caption": "Приложение Apt\nhttps://joinapt.app/\n\n#приложение #сервис #readymag",
+    "image": "data/images/964.jpg",
+    "tags": [
+      "приложение",
+      "сервис",
+      "readymag"
+    ],
+    "url": "https://joinapt.app/",
+    "date": 1625063665,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "prilozhenie",
+      "servis",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 962,
     "title": "Про OneSoil Business Insights",
     "caption": "Про OneSoil Business Insights\nhttps://b2b.onesoil.ai/ru/\n\n#данные #бизнес #сервис #readymag",
@@ -440,31 +463,6 @@
       "prilozhenie",
       "promo",
       "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 763,
-    "title": "Буду",
-    "caption": "Буду\nhttps://budu.jobs/\n\n#сервис #работа #каталог #hr",
-    "image": "data/images/763.jpg",
-    "tags": [
-      "сервис",
-      "работа",
-      "каталог",
-      "hr"
-    ],
-    "url": "https://budu.jobs/",
-    "date": 1599468126,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "rabota",
-      "katalog",
-      "hr"
     ],
     "awards": []
   }

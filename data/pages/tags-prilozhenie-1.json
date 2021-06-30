@@ -1,5 +1,28 @@
 [
   {
+    "id": 964,
+    "title": "Приложение Apt",
+    "caption": "Приложение Apt\nhttps://joinapt.app/\n\n#приложение #сервис #readymag",
+    "image": "data/images/964.jpg",
+    "tags": [
+      "приложение",
+      "сервис",
+      "readymag"
+    ],
+    "url": "https://joinapt.app/",
+    "date": 1625063665,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "prilozhenie",
+      "servis",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 909,
     "title": "Everybook",
     "caption": "Everybook\nhttps://everybook.ru/\n\n#сервис #приложение",
