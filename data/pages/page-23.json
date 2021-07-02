@@ -1,5 +1,24 @@
 [
   {
+    "id": 480,
+    "title": "25.03. Реквием",
+    "image": "data/images/480.jpg",
+    "tags": [
+      "память",
+      "такиедела"
+    ],
+    "url": "https://requiem.takiedela.ru/",
+    "date": 1553517061,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "pamyat",
+      "takiedela"
+    ],
+    "awards": []
+  },
+  {
     "id": 479,
     "title": "Masterskaya",
     "caption": "Masterskaya\nhttps://masterskaya.pro/\n\n#портфолио",
@@ -381,27 +400,6 @@
     "slugs": [
       "blagotvoritelnost",
       "whiterussianstudio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 458,
-    "title": "Только спросить",
-    "image": "data/images/458.jpg",
-    "tags": [
-      "блог",
-      "здоровье",
-      "docplus"
-    ],
-    "url": "https://tolkosprosit.docplus.ru/blog/",
-    "date": 1551520801,
-    "edit_date": 1583185362,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "blog",
-      "zdorove",
-      "docplus"
     ],
     "awards": []
   }

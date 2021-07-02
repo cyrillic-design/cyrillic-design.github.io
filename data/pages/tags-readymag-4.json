@@ -1,5 +1,35 @@
 [
   {
+    "id": 755,
+    "title": "Территория Авангарда",
+    "caption": "Территория Авангарда\nhttps://avantgarde-territory.com/\n\n#спецпроект #мероприятие #искусство #история #readymag #nadyapetrova",
+    "image": "data/images/755.jpg",
+    "tags": [
+      "спецпроект",
+      "мероприятие",
+      "искусство",
+      "история",
+      "readymag",
+      "nadyapetrova"
+    ],
+    "url": "https://avantgarde-territory.com/",
+    "date": 1595844010,
+    "edit_date": 1604558751,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "meropriyatie",
+      "iskusstvo",
+      "istoriya",
+      "readymag",
+      "nadyapetrova"
+    ],
+    "awards": []
+  },
+  {
     "id": 753,
     "title": "Bolditalic — выпуск 2020",
     "caption": "Bolditalic — выпуск 2020\nhttps://2020.bolditalic.type.school/\n\n#образование #readymag #владимирпушкарёв\nСпасибо за ссылку @VPuschkarev",
@@ -471,34 +501,6 @@
       "katalog",
       "iskusstvo",
       "luchshedoma",
-      "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 689,
-    "title": "НИИ ЗаЯ",
-    "caption": "НИИ ЗаЯ\nhttps://breakfast.localkitchen.ru/\n\n#спецпроект #доставка #eggsellent #кухнянарайоне #readymag\nСпасибо за ссылку @genue",
-    "image": "data/images/689.jpg",
-    "tags": [
-      "спецпроект",
-      "доставка",
-      "eggsellent",
-      "кухнянарайоне",
-      "readymag"
-    ],
-    "url": "https://breakfast.localkitchen.ru/",
-    "date": 1584354235,
-    "edit_date": 1584360840,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "dostavka",
-      "eggsellent",
-      "kukhnyanaraione",
       "readymag"
     ],
     "awards": []

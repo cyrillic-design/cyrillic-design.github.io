@@ -12943,5 +12943,21 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "965": {
+    "id": 965,
+    "title": "Портфолио — Дима Шалаев",
+    "caption": "Портфолио — Дима Шалаев\nhttp://dmitryshalaev.ru/\n\n#портфолио #readymag",
+    "image": "965.jpg",
+    "tags": [
+      "портфолио",
+      "readymag"
+    ],
+    "url": "http://dmitryshalaev.ru/",
+    "date": 1625224026,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
