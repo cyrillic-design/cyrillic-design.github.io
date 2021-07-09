@@ -12976,5 +12976,21 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": true
+  },
+  "968": {
+    "id": 968,
+    "title": "Плюс Дача",
+    "caption": "Плюс Дача\nhttps://plus.yandex.ru/special/dacha\n\n#мероприятие #афиша",
+    "image": "968.jpg",
+    "tags": [
+      "мероприятие",
+      "афиша"
+    ],
+    "url": "https://plus.yandex.ru/special/dacha",
+    "date": 1625813094,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

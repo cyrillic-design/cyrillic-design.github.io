@@ -1,5 +1,24 @@
 [
   {
+    "id": 227,
+    "title": "Кинопоиск на SmartTV",
+    "image": "data/images/227.jpg",
+    "tags": [
+      "промо",
+      "кинопоиск"
+    ],
+    "url": "https://www.kinopoisk.ru/smart-tv/",
+    "date": 1530784816,
+    "edit_date": 1583185435,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "kinopoisk"
+    ],
+    "awards": []
+  },
+  {
     "id": 226,
     "title": "LINII Group",
     "image": "data/images/226.jpg",
@@ -382,27 +401,6 @@
       "finansi",
       "bank",
       "chulakov"
-    ],
-    "awards": []
-  },
-  {
-    "id": 207,
-    "title": "DESIGNWORKOUT",
-    "image": "data/images/207.jpg",
-    "tags": [
-      "образование",
-      "дизайн",
-      "мастерская"
-    ],
-    "url": "http://campus.designworkout.ru/",
-    "date": 1529056828,
-    "edit_date": 1583185536,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "dizain",
-      "masterskaya"
     ],
     "awards": []
   }

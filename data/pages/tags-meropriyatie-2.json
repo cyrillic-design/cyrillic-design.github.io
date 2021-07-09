@@ -1,5 +1,35 @@
 [
   {
+    "id": 755,
+    "title": "Территория Авангарда",
+    "caption": "Территория Авангарда\nhttps://avantgarde-territory.com/\n\n#спецпроект #мероприятие #искусство #история #readymag #nadyapetrova",
+    "image": "data/images/755.jpg",
+    "tags": [
+      "спецпроект",
+      "мероприятие",
+      "искусство",
+      "история",
+      "readymag",
+      "nadyapetrova"
+    ],
+    "url": "https://avantgarde-territory.com/",
+    "date": 1595844010,
+    "edit_date": 1604558751,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "meropriyatie",
+      "iskusstvo",
+      "istoriya",
+      "readymag",
+      "nadyapetrova"
+    ],
+    "awards": []
+  },
+  {
     "id": 754,
     "title": "Beat Film Festival",
     "caption": "Beat Film Festival\nhttps://beatfilmfestival.ru/\n\n#мероприятие #кино #sulliwan",
@@ -425,25 +455,6 @@
     "isRemoved": false,
     "slugs": [
       "meropriyatie"
-    ],
-    "awards": []
-  },
-  {
-    "id": 603,
-    "title": "Атлас ВМаяковский",
-    "image": "data/images/603.jpg",
-    "tags": [
-      "мероприятие",
-      "groznovco"
-    ],
-    "url": "http://vmayakovsky.com/",
-    "date": 1571047236,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "meropriyatie",
-      "groznovco"
     ],
     "awards": []
   }

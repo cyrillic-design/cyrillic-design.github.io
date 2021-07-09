@@ -1,5 +1,26 @@
 [
   {
+    "id": 968,
+    "title": "Плюс Дача",
+    "caption": "Плюс Дача\nhttps://plus.yandex.ru/special/dacha\n\n#мероприятие #афиша",
+    "image": "data/images/968.jpg",
+    "tags": [
+      "мероприятие",
+      "афиша"
+    ],
+    "url": "https://plus.yandex.ru/special/dacha",
+    "date": 1625813094,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "afisha"
+    ],
+    "awards": []
+  },
+  {
     "id": 963,
     "title": "pobegi",
     "caption": "pobegi\nhttps://readymag.com/pobegi/propobegi/\n\n#мероприятие #портфолио #искусство #культура #readymag #7419mov\nСпасибо за ссылку @readymag_official",
@@ -476,36 +497,6 @@
       "zhurnal",
       "flacon",
       "whiterussianstudio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 755,
-    "title": "Территория Авангарда",
-    "caption": "Территория Авангарда\nhttps://avantgarde-territory.com/\n\n#спецпроект #мероприятие #искусство #история #readymag #nadyapetrova",
-    "image": "data/images/755.jpg",
-    "tags": [
-      "спецпроект",
-      "мероприятие",
-      "искусство",
-      "история",
-      "readymag",
-      "nadyapetrova"
-    ],
-    "url": "https://avantgarde-territory.com/",
-    "date": 1595844010,
-    "edit_date": 1604558751,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "meropriyatie",
-      "iskusstvo",
-      "istoriya",
-      "readymag",
-      "nadyapetrova"
     ],
     "awards": []
   }
