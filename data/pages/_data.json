@@ -12959,5 +12959,21 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "967": {
+    "id": 967,
+    "title": "Startech",
+    "caption": "Startech\nhttps://startech.vc/ru\n\n#бизнес #materialist",
+    "image": "967.jpg",
+    "tags": [
+      "бизнес",
+      "materialist"
+    ],
+    "url": "https://startech.vc/ru",
+    "date": 1625812804,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

@@ -1,5 +1,30 @@
 [
   {
+    "id": 896,
+    "title": "Иосиф Бродский. Продолжение пространства",
+    "caption": "Иосиф Бродский. Продолжение пространства\nhttps://josephbrodsky.space/\n\n#спецпроект #история #readymag #иванкардашев",
+    "image": "data/images/896.jpg",
+    "tags": [
+      "спецпроект",
+      "история",
+      "readymag",
+      "иванкардашев"
+    ],
+    "url": "https://josephbrodsky.space/",
+    "date": 1614797607,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "istoriya",
+      "readymag",
+      "ivankardashev"
+    ],
+    "awards": []
+  },
+  {
     "id": 894,
     "title": "Chornobyl",
     "caption": "Chornobyl\nhttps://chornobyl.today/\n\n#спецпроект #история #otherland #banda",
@@ -421,30 +446,6 @@
     "slugs": [
       "obrazovanie",
       "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 873,
-    "title": "Letterdog",
-    "caption": "Letterdog\nhttps://letterdog.by/\n\n#портфолио #производство #tilda",
-    "image": "data/images/873.jpg",
-    "tags": [
-      "портфолио",
-      "производство",
-      "tilda"
-    ],
-    "url": "https://letterdog.by/",
-    "date": 1610368320,
-    "edit_date": 1610368379,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio",
-      "proizvodstvo",
-      "tilda"
     ],
     "awards": []
   }

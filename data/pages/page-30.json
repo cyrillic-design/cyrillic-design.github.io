@@ -1,5 +1,26 @@
 [
   {
+    "id": 328,
+    "title": "Ведомости +1",
+    "image": "data/images/328.jpg",
+    "tags": [
+      "журнал",
+      "спецпроект",
+      "политика"
+    ],
+    "url": "http://plus-one.vedomosti.ru/",
+    "date": 1539684044,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "spetsproekt",
+      "politika"
+    ],
+    "awards": []
+  },
+  {
     "id": 327,
     "title": "Тестовое задание для Mail ru",
     "image": "data/images/327.jpg",
@@ -397,25 +418,6 @@
       "zhurnal",
       "muzika",
       "dizain"
-    ],
-    "awards": []
-  },
-  {
-    "id": 308,
-    "title": "Sun and stuff",
-    "image": "data/images/308.jpg",
-    "tags": [
-      "спецпроект",
-      "образование"
-    ],
-    "url": "http://sunandstuff.com/",
-    "date": 1537696803,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "obrazovanie"
     ],
     "awards": []
   }
