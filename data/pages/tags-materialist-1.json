@@ -1,5 +1,26 @@
 [
   {
+    "id": 969,
+    "title": "Startech",
+    "caption": "Startech\nhttps://startech.vc/ru\n\n#бизнес #materialist",
+    "image": "data/images/969.jpg",
+    "tags": [
+      "бизнес",
+      "materialist"
+    ],
+    "url": "https://startech.vc/ru",
+    "date": 1625822570,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "biznes",
+      "materialist"
+    ],
+    "awards": []
+  },
+  {
     "id": 886,
     "title": "2-я Триеннале российского современного искусства",
     "caption": "2-я Триеннале российского современного искусства\nhttps://triennial.garagemca.org/ru/\n\n#мероприятие #искусство #materialist #perushevkhmelev\nСпасибо за ссылку @gurick",

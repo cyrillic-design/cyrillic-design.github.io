@@ -1,5 +1,31 @@
 [
   {
+    "id": 782,
+    "title": "Рокет Ворк",
+    "caption": "Рокет Ворк\nhttps://promo.rocketwork.ru/\n\n#промо #банк #финансы #readymag",
+    "image": "data/images/782.jpg",
+    "tags": [
+      "промо",
+      "банк",
+      "финансы",
+      "readymag"
+    ],
+    "url": "https://promo.rocketwork.ru/",
+    "date": 1602578046,
+    "edit_date": 1602578112,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "bank",
+      "finansi",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 781,
     "title": "Міністерство цифрової трансформації України",
     "caption": "Міністерство цифрової трансформації України\nhttps://thedigital.gov.ua/\n\n#государство #люди #блог\nСпасибо за ссылку @AndyAbramov",
@@ -445,27 +471,6 @@
       "rabota",
       "katalog",
       "hr"
-    ],
-    "awards": []
-  },
-  {
-    "id": 762,
-    "title": "AGIMA",
-    "caption": "AGIMA\nhttps://www.agima.ru/\n\n#портфолио #агентство\nСпасибо за ссылку @AGIMAdesign",
-    "image": "data/images/762.jpg",
-    "tags": [
-      "портфолио",
-      "агентство"
-    ],
-    "url": "https://www.agima.ru/",
-    "date": 1599220148,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio",
-      "agentstvo"
     ],
     "awards": []
   }
