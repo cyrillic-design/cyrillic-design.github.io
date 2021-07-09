@@ -1,26 +1,5 @@
 [
   {
-    "id": 945,
-    "title": "ПАЗТЬ",
-    "caption": "ПАЗТЬ\nhttps://petrick.co/pazt/\n\n#игра #petrick\nСпасибо за ссылку @AndyAbramov",
-    "image": "data/images/945.jpg",
-    "tags": [
-      "игра",
-      "petrick"
-    ],
-    "url": "https://petrick.co/pazt/",
-    "date": 1621963166,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "igra",
-      "petrick"
-    ],
-    "awards": []
-  },
-  {
     "id": 944,
     "title": "ДК Рассвет",
     "caption": "ДК Рассвет\nhttps://dkrassvet.space/\n\n#афиша #мероприятие #культура #образование #александрмосковский",
@@ -463,6 +442,31 @@
     "slugs": [
       "spetsproekt",
       "webflow"
+    ],
+    "awards": []
+  },
+  {
+    "id": 918,
+    "title": "koryo-saram",
+    "caption": "koryo-saram\nhttps://readymag.com/hosdots/koryo-saram/\n\n#спецпроект #история #readymag #егорким\nСпасибо за ссылку @readymag_official",
+    "image": "data/images/918.jpg",
+    "tags": [
+      "спецпроект",
+      "история",
+      "readymag",
+      "егорким"
+    ],
+    "url": "https://readymag.com/hosdots/koryo-saram/",
+    "date": 1619767403,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "istoriya",
+      "readymag",
+      "yegorkim"
     ],
     "awards": []
   }

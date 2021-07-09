@@ -1,28 +1,5 @@
 [
   {
-    "id": 138,
-    "title": "pcc world",
-    "image": "data/images/138.jpg",
-    "tags": [
-      "реклама",
-      "портал",
-      "образование",
-      "бизнес"
-    ],
-    "url": "https://ppc.world/",
-    "date": 1523095230,
-    "edit_date": 1583185535,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "reklama",
-      "portal",
-      "obrazovanie",
-      "biznes"
-    ],
-    "awards": []
-  },
-  {
     "id": 133,
     "title": "BERNÍK & partneri",
     "caption": "BERNÍK & partneri\nhttps://www.bernik-partneri.sk/ru\n\n#бизнес #услуги #ideil",

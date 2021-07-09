@@ -1,22 +1,5 @@
 [
   {
-    "id": 568,
-    "title": "ROKY",
-    "image": "data/images/568.jpg",
-    "tags": [
-      "портфолио"
-    ],
-    "url": "https://roky.rocks/ru",
-    "date": 1565863251,
-    "edit_date": 1583183812,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio"
-    ],
-    "awards": []
-  },
-  {
     "id": 567,
     "title": "Жумар",
     "image": "data/images/567.jpg",
@@ -379,6 +362,25 @@
     "slugs": [
       "proizvodstvo",
       "studiyaevgeniyayarovogo"
+    ],
+    "awards": []
+  },
+  {
+    "id": 547,
+    "title": "Инвентаризация",
+    "image": "data/images/547.jpg",
+    "tags": [
+      "мероприятие",
+      "совет"
+    ],
+    "url": "https://inventoryfest.ru/",
+    "date": 1562603964,
+    "edit_date": 1583183812,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "sovet"
     ],
     "awards": []
   }

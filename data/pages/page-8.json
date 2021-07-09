@@ -1,26 +1,5 @@
 [
   {
-    "id": 806,
-    "title": "Saint",
-    "caption": "Saint\nhttps://saint.agency/\n\n#портфолио #readymag",
-    "image": "data/images/806.jpg",
-    "tags": [
-      "портфолио",
-      "readymag"
-    ],
-    "url": "https://saint.agency/",
-    "date": 1604416515,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio",
-      "readymag"
-    ],
-    "awards": []
-  },
-  {
     "id": 805,
     "title": "Эдуард Путерброт «Фрагмент занавеса №16»",
     "caption": "Эдуард Путерброт «Фрагмент занавеса №16»\nhttps://puterbrot.mkalamuseum.ru/\n\n#мероприятие #спецпроект #искусство #readymag #nonobjectiveworks\nСпасибо за ссылку @AndyAbramov",
@@ -451,6 +430,29 @@
       "bank",
       "finansi",
       "readymag"
+    ],
+    "awards": []
+  },
+  {
+    "id": 781,
+    "title": "Міністерство цифрової трансформації України",
+    "caption": "Міністерство цифрової трансформації України\nhttps://thedigital.gov.ua/\n\n#государство #люди #блог\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/781.jpg",
+    "tags": [
+      "государство",
+      "люди",
+      "блог"
+    ],
+    "url": "https://thedigital.gov.ua/",
+    "date": 1601901605,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "gosudarstvo",
+      "lyudi",
+      "blog"
     ],
     "awards": []
   }

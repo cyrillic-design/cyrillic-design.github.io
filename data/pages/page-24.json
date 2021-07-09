@@ -1,24 +1,5 @@
 [
   {
-    "id": 459,
-    "title": "Meet For Charity",
-    "image": "data/images/459.jpg",
-    "tags": [
-      "благотворительность",
-      "whiterussianstudio"
-    ],
-    "url": "https://meetforcharity.today/",
-    "date": 1551607205,
-    "edit_date": 1583185362,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "blagotvoritelnost",
-      "whiterussianstudio"
-    ],
-    "awards": []
-  },
-  {
     "id": 458,
     "title": "Только спросить",
     "image": "data/images/458.jpg",
@@ -392,6 +373,28 @@
     "slugs": [
       "zhurnal",
       "otherland"
+    ],
+    "awards": []
+  },
+  {
+    "id": 435,
+    "title": "Гоголь-Центр",
+    "caption": "Гоголь-Центр\nhttps://gogolcenter.com/\n\n#мероприятие #афиша #театр",
+    "image": "data/images/435.jpg",
+    "tags": [
+      "мероприятие",
+      "афиша",
+      "театр"
+    ],
+    "url": "https://gogolcenter.com/",
+    "date": 1549881005,
+    "edit_date": 1583439448,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "afisha",
+      "teatr"
     ],
     "awards": []
   }

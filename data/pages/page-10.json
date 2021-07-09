@@ -1,28 +1,5 @@
 [
   {
-    "id": 761,
-    "title": "TIGHT magazine",
-    "caption": "TIGHT magazine\nhttps://www.tight.media/\n\n#журнал #музыка #искусство\nСпасибо за ссылку @AndyAbramov",
-    "image": "data/images/761.jpg",
-    "tags": [
-      "журнал",
-      "музыка",
-      "искусство"
-    ],
-    "url": "https://www.tight.media/",
-    "date": 1599115320,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "zhurnal",
-      "muzika",
-      "iskusstvo"
-    ],
-    "awards": []
-  },
-  {
     "id": 760,
     "title": "MoreMilk",
     "caption": "MoreMilk\nhttps://moremilk.ru/\n\n#промо #производство #chipsa",
@@ -482,6 +459,31 @@
       "zhurnal",
       "yeda",
       "kukhnyanaraione"
+    ],
+    "awards": []
+  },
+  {
+    "id": 741,
+    "title": "Русский пантеон",
+    "caption": "Русский пантеон\nhttps://gigarama.ru/russianpanteon/\n\n#спецпроект #история #владимирворобьёв #gigarama\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/741.jpg",
+    "tags": [
+      "спецпроект",
+      "история",
+      "владимирворобьёв",
+      "gigarama"
+    ],
+    "url": "https://gigarama.ru/russianpanteon/",
+    "date": 1592906405,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "istoriya",
+      "vladimirvorobyov",
+      "gigarama"
     ],
     "awards": []
   }

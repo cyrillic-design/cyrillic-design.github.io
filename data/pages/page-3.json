@@ -1,30 +1,5 @@
 [
   {
-    "id": 918,
-    "title": "koryo-saram",
-    "caption": "koryo-saram\nhttps://readymag.com/hosdots/koryo-saram/\n\n#спецпроект #история #readymag #егорким\nСпасибо за ссылку @readymag_official",
-    "image": "data/images/918.jpg",
-    "tags": [
-      "спецпроект",
-      "история",
-      "readymag",
-      "егорким"
-    ],
-    "url": "https://readymag.com/hosdots/koryo-saram/",
-    "date": 1619767403,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "istoriya",
-      "readymag",
-      "yegorkim"
-    ],
-    "awards": []
-  },
-  {
     "id": 917,
     "title": "Школа Управления Максима Десятых",
     "caption": "Школа Управления Максима Десятых\nhttps://www.desyatykh.school/\n\n#образование #pragmatica\nСпасибо за ссылку @censor_online",
@@ -457,6 +432,31 @@
     "slugs": [
       "spetsproekt",
       "readymag"
+    ],
+    "awards": []
+  },
+  {
+    "id": 896,
+    "title": "Иосиф Бродский. Продолжение пространства",
+    "caption": "Иосиф Бродский. Продолжение пространства\nhttps://josephbrodsky.space/\n\n#спецпроект #история #readymag #иванкардашев",
+    "image": "data/images/896.jpg",
+    "tags": [
+      "спецпроект",
+      "история",
+      "readymag",
+      "иванкардашев"
+    ],
+    "url": "https://josephbrodsky.space/",
+    "date": 1614797607,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "istoriya",
+      "readymag",
+      "ivankardashev"
     ],
     "awards": []
   }

@@ -1,26 +1,5 @@
 [
   {
-    "id": 348,
-    "title": "Гусь-Хрустальный",
-    "image": "data/images/348.jpg",
-    "tags": [
-      "город",
-      "люди",
-      "кружок"
-    ],
-    "url": "https://khrustalny.city/",
-    "date": 1541674073,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "gorod",
-      "lyudi",
-      "kruzhok"
-    ],
-    "awards": []
-  },
-  {
     "id": 347,
     "title": "Gracia Ceramica",
     "image": "data/images/347.jpg",
@@ -406,6 +385,27 @@
       "tv",
       "video",
       "sts"
+    ],
+    "awards": []
+  },
+  {
+    "id": 328,
+    "title": "Ведомости +1",
+    "image": "data/images/328.jpg",
+    "tags": [
+      "журнал",
+      "спецпроект",
+      "политика"
+    ],
+    "url": "http://plus-one.vedomosti.ru/",
+    "date": 1539684044,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "spetsproekt",
+      "politika"
     ],
     "awards": []
   }

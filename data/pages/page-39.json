@@ -1,28 +1,5 @@
 [
   {
-    "id": 146,
-    "title": "Cardinal & Margo",
-    "image": "data/images/146.jpg",
-    "tags": [
-      "магазин",
-      "одежда",
-      "производство",
-      "дзендизайн"
-    ],
-    "url": "http://cardinal-hats.ru/",
-    "date": 1523700009,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "odezhda",
-      "proizvodstvo",
-      "dzendizain"
-    ],
-    "awards": []
-  },
-  {
     "id": 145,
     "title": "Банк Открытие",
     "image": "data/images/145.jpg",
@@ -409,6 +386,27 @@
       "promo",
       "magazin",
       "redcollar"
+    ],
+    "awards": []
+  },
+  {
+    "id": 125,
+    "title": "Победа",
+    "image": "data/images/125.jpg",
+    "tags": [
+      "авиакомпания",
+      "услуги",
+      "путешествия"
+    ],
+    "url": "https://www.pobeda.aero/",
+    "date": 1521972017,
+    "edit_date": 1583185535,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "aviakompaniya",
+      "uslugi",
+      "puteshestviya"
     ],
     "awards": []
   }

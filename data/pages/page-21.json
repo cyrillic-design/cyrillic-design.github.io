@@ -1,24 +1,5 @@
 [
   {
-    "id": 526,
-    "title": "ТехноСтиль",
-    "image": "data/images/526.jpg",
-    "tags": [
-      "производство",
-      "студияевгенияярового"
-    ],
-    "url": "http://technostyle.yarovoy.studio/",
-    "date": 1559728883,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "proizvodstvo",
-      "studiyaevgeniyayarovogo"
-    ],
-    "awards": []
-  },
-  {
     "id": 525,
     "title": "Tima Radya",
     "image": "data/images/525.jpg",
@@ -386,6 +367,25 @@
     "slugs": [
       "pamyat",
       "spetsproekt"
+    ],
+    "awards": []
+  },
+  {
+    "id": 502,
+    "title": "Летняя стажировка для дизайнеров в Яндекс.Маркете",
+    "image": "data/images/502.jpg",
+    "tags": [
+      "мероприятие",
+      "яндекс"
+    ],
+    "url": "http://designsummer.ru/",
+    "date": 1556654536,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "yandeks"
     ],
     "awards": []
   }

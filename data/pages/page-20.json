@@ -1,24 +1,5 @@
 [
   {
-    "id": 547,
-    "title": "Инвентаризация",
-    "image": "data/images/547.jpg",
-    "tags": [
-      "мероприятие",
-      "совет"
-    ],
-    "url": "https://inventoryfest.ru/",
-    "date": 1562603964,
-    "edit_date": 1583183812,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "meropriyatie",
-      "sovet"
-    ],
-    "awards": []
-  },
-  {
     "id": 546,
     "title": "Бубнёжная «Интроверт»",
     "image": "data/images/546.jpg",
@@ -377,6 +358,25 @@
       "proizvodstvo",
       "promo",
       "servis"
+    ],
+    "awards": []
+  },
+  {
+    "id": 526,
+    "title": "ТехноСтиль",
+    "image": "data/images/526.jpg",
+    "tags": [
+      "производство",
+      "студияевгенияярового"
+    ],
+    "url": "http://technostyle.yarovoy.studio/",
+    "date": 1559728883,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "studiyaevgeniyayarovogo"
     ],
     "awards": []
   }

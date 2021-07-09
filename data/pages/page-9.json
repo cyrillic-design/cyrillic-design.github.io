@@ -1,28 +1,5 @@
 [
   {
-    "id": 781,
-    "title": "Міністерство цифрової трансформації України",
-    "caption": "Міністерство цифрової трансформації України\nhttps://thedigital.gov.ua/\n\n#государство #люди #блог\nСпасибо за ссылку @AndyAbramov",
-    "image": "data/images/781.jpg",
-    "tags": [
-      "государство",
-      "люди",
-      "блог"
-    ],
-    "url": "https://thedigital.gov.ua/",
-    "date": 1601901605,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "gosudarstvo",
-      "lyudi",
-      "blog"
-    ],
-    "awards": []
-  },
-  {
     "id": 780,
     "title": "MOLNIA",
     "caption": "MOLNIA\nhttps://molnia.city/\n\n#сервис #приложение #tilda",
@@ -466,6 +443,29 @@
     "slugs": [
       "portfolio",
       "agentstvo"
+    ],
+    "awards": []
+  },
+  {
+    "id": 761,
+    "title": "TIGHT magazine",
+    "caption": "TIGHT magazine\nhttps://www.tight.media/\n\n#журнал #музыка #искусство\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/761.jpg",
+    "tags": [
+      "журнал",
+      "музыка",
+      "искусство"
+    ],
+    "url": "https://www.tight.media/",
+    "date": 1599115320,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "muzika",
+      "iskusstvo"
     ],
     "awards": []
   }
