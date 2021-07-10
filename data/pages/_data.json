@@ -13011,8 +13011,8 @@
   },
   "970": {
     "id": 970,
-    "title": ": Gauge",
-    "caption": "type.today: Gauge\nhttps://gauge-ru.type.today/\n\n#лонгрид #шрифт #readymag",
+    "title": "type today: Gauge",
+    "caption": "type today: Gauge\nhttps://gauge-ru.type.today/\n\n#лонгрид #шрифт #readymag",
     "image": "970.jpg",
     "tags": [
       "лонгрид",
@@ -13021,6 +13021,7 @@
     ],
     "url": "https://gauge-ru.type.today/",
     "date": 1625911662,
+    "edit_date": 1625911926,
     "isMonth": false,
     "isYear": false,
     "isHighlighted": false,
