@@ -1,5 +1,28 @@
 [
   {
+    "id": 970,
+    "title": ": Gauge",
+    "caption": "type.today: Gauge\nhttps://gauge-ru.type.today/\n\n#лонгрид #шрифт #readymag",
+    "image": "data/images/970.jpg",
+    "tags": [
+      "лонгрид",
+      "шрифт",
+      "readymag"
+    ],
+    "url": "https://gauge-ru.type.today/",
+    "date": 1625911662,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "longrid",
+      "shrift",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 965,
     "title": "Портфолио — Дима Шалаев",
     "caption": "Портфолио — Дима Шалаев\nhttp://dmitryshalaev.ru/\n\n#портфолио #readymag",
@@ -452,27 +475,6 @@
     "slugs": [
       "meropriyatie",
       "moda",
-      "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 905,
-    "title": "Apt",
-    "caption": "Apt\nhttps://joinapt.app/\n\n#приложение #readymag\nСпасибо за ссылку @readymag_official",
-    "image": "data/images/905.jpg",
-    "tags": [
-      "приложение",
-      "readymag"
-    ],
-    "url": "https://joinapt.app/",
-    "date": 1618249059,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "prilozhenie",
       "readymag"
     ],
     "awards": []

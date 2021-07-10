@@ -13008,5 +13008,22 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "970": {
+    "id": 970,
+    "title": ": Gauge",
+    "caption": "type.today: Gauge\nhttps://gauge-ru.type.today/\n\n#лонгрид #шрифт #readymag",
+    "image": "970.jpg",
+    "tags": [
+      "лонгрид",
+      "шрифт",
+      "readymag"
+    ],
+    "url": "https://gauge-ru.type.today/",
+    "date": 1625911662,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

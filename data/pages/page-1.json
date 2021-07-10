@@ -1,5 +1,28 @@
 [
   {
+    "id": 970,
+    "title": ": Gauge",
+    "caption": "type.today: Gauge\nhttps://gauge-ru.type.today/\n\n#лонгрид #шрифт #readymag",
+    "image": "data/images/970.jpg",
+    "tags": [
+      "лонгрид",
+      "шрифт",
+      "readymag"
+    ],
+    "url": "https://gauge-ru.type.today/",
+    "date": 1625911662,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "longrid",
+      "shrift",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 969,
     "title": "Startech",
     "caption": "Startech\nhttps://startech.vc/ru\n\n#бизнес #materialist",
@@ -436,25 +459,6 @@
     "slugs": [
       "portfolio",
       "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 947,
-    "title": "Алексей Черенкевич",
-    "caption": "Алексей Черенкевич\nhttps://cherenkevich.com/\n\n#портфолио",
-    "image": "data/images/947.jpg",
-    "tags": [
-      "портфолио"
-    ],
-    "url": "https://cherenkevich.com/",
-    "date": 1622444462,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio"
     ],
     "awards": []
   }
