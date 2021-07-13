@@ -1,5 +1,26 @@
 [
   {
+    "id": 363,
+    "title": "КРУЖОК ФЕСТИВАЛЬ",
+    "image": "data/images/363.jpg",
+    "tags": [
+      "промо",
+      "мероприятие",
+      "кружок"
+    ],
+    "url": "http://festival.kruzhok.io/",
+    "date": 1542967216,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "meropriyatie",
+      "kruzhok"
+    ],
+    "awards": []
+  },
+  {
     "id": 321,
     "title": "PROUN",
     "image": "data/images/321.jpg",

@@ -1,5 +1,32 @@
 [
   {
+    "id": 756,
+    "title": "THE FUTURE OF BEAUTY",
+    "caption": "THE FUTURE OF BEAUTY\nhttp://fob.flacon-magazine.com/\n\n#красота #мероприятие #журнал #flacon #whiterussianstudio",
+    "image": "data/images/756.jpg",
+    "tags": [
+      "красота",
+      "мероприятие",
+      "журнал",
+      "flacon",
+      "whiterussianstudio"
+    ],
+    "url": "http://fob.flacon-magazine.com/",
+    "date": 1595930407,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "krasota",
+      "meropriyatie",
+      "zhurnal",
+      "flacon",
+      "whiterussianstudio"
+    ],
+    "awards": []
+  },
+  {
     "id": 755,
     "title": "Территория Авангарда",
     "caption": "Территория Авангарда\nhttps://avantgarde-territory.com/\n\n#спецпроект #мероприятие #искусство #история #readymag #nadyapetrova",
@@ -438,23 +465,6 @@
     "slugs": [
       "meropriyatie",
       "designworkout"
-    ],
-    "awards": []
-  },
-  {
-    "id": 605,
-    "title": "Саша Долгополов",
-    "image": "data/images/605.jpg",
-    "tags": [
-      "мероприятие"
-    ],
-    "url": "http://sashadolgopolov.ru/",
-    "date": 1571220053,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "meropriyatie"
     ],
     "awards": []
   }

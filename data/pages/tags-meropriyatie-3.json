@@ -1,5 +1,22 @@
 [
   {
+    "id": 605,
+    "title": "Саша Долгополов",
+    "image": "data/images/605.jpg",
+    "tags": [
+      "мероприятие"
+    ],
+    "url": "http://sashadolgopolov.ru/",
+    "date": 1571220053,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie"
+    ],
+    "awards": []
+  },
+  {
     "id": 603,
     "title": "Атлас ВМаяковский",
     "image": "data/images/603.jpg",
@@ -375,27 +392,6 @@
       "meropriyatie",
       "biznes",
       "plusone"
-    ],
-    "awards": []
-  },
-  {
-    "id": 363,
-    "title": "КРУЖОК ФЕСТИВАЛЬ",
-    "image": "data/images/363.jpg",
-    "tags": [
-      "промо",
-      "мероприятие",
-      "кружок"
-    ],
-    "url": "http://festival.kruzhok.io/",
-    "date": 1542967216,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "meropriyatie",
-      "kruzhok"
     ],
     "awards": []
   }

@@ -1,5 +1,32 @@
 [
   {
+    "id": 971,
+    "title": "СЛЫШ",
+    "caption": "СЛЫШ\nhttps://podfest.ru/\n\n#мероприятие #readymag #артемматюшкин #лизатютяева #nonobjectiveworks\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/971.jpg",
+    "tags": [
+      "мероприятие",
+      "readymag",
+      "артемматюшкин",
+      "лизатютяева",
+      "nonobjectiveworks"
+    ],
+    "url": "https://podfest.ru/",
+    "date": 1626200888,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "readymag",
+      "artemmatyushkin",
+      "lizatyutyaeva",
+      "nonobjectiveworks"
+    ],
+    "awards": []
+  },
+  {
     "id": 968,
     "title": "Плюс Дача",
     "caption": "Плюс Дача\nhttps://plus.yandex.ru/special/dacha\n\n#мероприятие #афиша",
@@ -469,33 +496,6 @@
     "slugs": [
       "meropriyatie",
       "kino",
-      "whiterussianstudio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 756,
-    "title": "THE FUTURE OF BEAUTY",
-    "caption": "THE FUTURE OF BEAUTY\nhttp://fob.flacon-magazine.com/\n\n#красота #мероприятие #журнал #flacon #whiterussianstudio",
-    "image": "data/images/756.jpg",
-    "tags": [
-      "красота",
-      "мероприятие",
-      "журнал",
-      "flacon",
-      "whiterussianstudio"
-    ],
-    "url": "http://fob.flacon-magazine.com/",
-    "date": 1595930407,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "krasota",
-      "meropriyatie",
-      "zhurnal",
-      "flacon",
       "whiterussianstudio"
     ],
     "awards": []
