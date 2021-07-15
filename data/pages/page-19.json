@@ -1,5 +1,26 @@
 [
   {
+    "id": 572,
+    "title": "Elementaree",
+    "image": "data/images/572.jpg",
+    "tags": [
+      "сервис",
+      "еда",
+      "доставка"
+    ],
+    "url": "https://elementaree.ru/",
+    "date": 1566295257,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "yeda",
+      "dostavka"
+    ],
+    "awards": []
+  },
+  {
     "id": 571,
     "title": "Valve Index",
     "image": "data/images/571.jpg",
@@ -362,23 +383,6 @@
     "slugs": [
       "portfolio",
       "perushevandkhmelev"
-    ],
-    "awards": []
-  },
-  {
-    "id": 552,
-    "title": "COLLIDER",
-    "image": "data/images/552.jpg",
-    "tags": [
-      "промо"
-    ],
-    "url": "https://collider.ru/",
-    "date": 1563357625,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo"
     ],
     "awards": []
   }

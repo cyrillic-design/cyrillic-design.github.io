@@ -13045,5 +13045,21 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "972": {
+    "id": 972,
+    "title": "Газпром-Медиа Холдинг",
+    "caption": "Газпром-Медиа Холдинг\nhttps://www.gazprom-media.com/ru\n\n#корпоративныйсайт #ony",
+    "image": "972.jpg",
+    "tags": [
+      "корпоративныйсайт",
+      "ony"
+    ],
+    "url": "https://www.gazprom-media.com/ru",
+    "date": 1626361268,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

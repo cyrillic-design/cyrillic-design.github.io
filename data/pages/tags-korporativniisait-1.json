@@ -1,5 +1,26 @@
 [
   {
+    "id": 972,
+    "title": "Газпром-Медиа Холдинг",
+    "caption": "Газпром-Медиа Холдинг\nhttps://www.gazprom-media.com/ru\n\n#корпоративныйсайт #ony",
+    "image": "data/images/972.jpg",
+    "tags": [
+      "корпоративныйсайт",
+      "ony"
+    ],
+    "url": "https://www.gazprom-media.com/ru",
+    "date": 1626361268,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "korporativniisait",
+      "ony"
+    ],
+    "awards": []
+  },
+  {
     "id": 665,
     "title": "Кузнецов, Марисин и партнёры",
     "caption": "Кузнецов, Марисин и партнёры\nhttps://kmplaw.ru/\n\n☆ #корпоративныйсайт #whiterussianstudio",
