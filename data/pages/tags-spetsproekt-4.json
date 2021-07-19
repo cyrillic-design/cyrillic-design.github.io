@@ -1,5 +1,26 @@
 [
   {
+    "id": 648,
+    "title": "Тренды 2020",
+    "image": "data/images/648.jpg",
+    "tags": [
+      "спецпроект",
+      "промо",
+      "образование"
+    ],
+    "url": "https://2020.skillbox.ru/",
+    "date": 1577527207,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "promo",
+      "obrazovanie"
+    ],
+    "awards": []
+  },
+  {
     "id": 639,
     "title": "Future Book 202X от Кухни на районе и друзей",
     "image": "data/images/639.jpg",
@@ -386,26 +407,6 @@
     "slugs": [
       "spetsproekt",
       "kruzhok"
-    ],
-    "awards": []
-  },
-  {
-    "id": 561,
-    "title": "Портрет российской семьи",
-    "caption": "Портрет российской семьи\nhttps://ria.ru/20190805/1557121163.html\n\n#спецпроект #риа",
-    "image": "data/images/561.jpg",
-    "tags": [
-      "спецпроект",
-      "риа"
-    ],
-    "url": "https://ria.ru/20190805/1557121163.html",
-    "date": 1565085634,
-    "edit_date": 1583247387,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "ria"
     ],
     "awards": []
   }

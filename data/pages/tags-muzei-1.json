@@ -1,5 +1,28 @@
 [
   {
+    "id": 973,
+    "title": "Онлайн-музей ЖЭК-арта",
+    "caption": "Онлайн-музей ЖЭК-арта\nhttps://dvor.digital/\n\n#спецпроект #музей #золотыетигрыроссии\nСпасибо за ссылку @masha_cvetomuzika",
+    "image": "data/images/973.jpg",
+    "tags": [
+      "спецпроект",
+      "музей",
+      "золотыетигрыроссии"
+    ],
+    "url": "https://dvor.digital/",
+    "date": 1626723664,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "muzei",
+      "zolotietigrirossii"
+    ],
+    "awards": []
+  },
+  {
     "id": 959,
     "title": "Про Егорьевск",
     "caption": "Про Егорьевск\nhttps://proegoryevsk.ru/\n\n#музей #город #история #спецпроект #tilda #naaustudio\nСпасибо за ссылку @leoleonov",
