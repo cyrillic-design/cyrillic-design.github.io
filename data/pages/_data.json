@@ -13094,5 +13094,21 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "975": {
+    "id": 975,
+    "title": "Цикада",
+    "caption": "Цикада\nhttps://cicadaprize.com/\n\n#мероприятие #readymag\nСпасибо за ссылку @readymag_official",
+    "image": "975.jpg",
+    "tags": [
+      "мероприятие",
+      "readymag"
+    ],
+    "url": "https://cicadaprize.com/",
+    "date": 1626955208,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

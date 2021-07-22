@@ -1,5 +1,28 @@
 [
   {
+    "id": 295,
+    "title": "Тинькофф Финтех",
+    "image": "data/images/295.jpg",
+    "tags": [
+      "образование",
+      "финансы",
+      "банк",
+      "тинькофф"
+    ],
+    "url": "https://fintech.tinkoff.ru/",
+    "date": 1536573613,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "finansi",
+      "bank",
+      "tinkoff"
+    ],
+    "awards": []
+  },
+  {
     "id": 294,
     "title": "Яндекс.Еда",
     "image": "data/images/294.jpg",
@@ -385,27 +408,6 @@
     "slugs": [
       "proizvodstvo",
       "moda",
-      "magazin"
-    ],
-    "awards": []
-  },
-  {
-    "id": 275,
-    "title": "Первоапрельский Рокетшоп",
-    "image": "data/images/275.jpg",
-    "tags": [
-      "банк",
-      "финансы",
-      "магазин"
-    ],
-    "url": "https://shop.rocketbank.ru/old/",
-    "date": 1534845612,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "bank",
-      "finansi",
       "magazin"
     ],
     "awards": []
