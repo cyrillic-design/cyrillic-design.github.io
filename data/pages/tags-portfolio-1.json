@@ -1,5 +1,26 @@
 [
   {
+    "id": 974,
+    "title": "NORM 1458",
+    "caption": "NORM 1458\nhttps://1458.ru/\n\n#портфолио #whiterussianstudio",
+    "image": "data/images/974.jpg",
+    "tags": [
+      "портфолио",
+      "whiterussianstudio"
+    ],
+    "url": "https://1458.ru/",
+    "date": 1626940902,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "whiterussianstudio"
+    ],
+    "awards": []
+  },
+  {
     "id": 965,
     "title": "Портфолио — Дима Шалаев",
     "caption": "Портфолио — Дима Шалаев\nhttp://dmitryshalaev.ru/\n\n#портфолио #readymag",
@@ -411,33 +432,6 @@
       "podkast",
       "readymag",
       "nonobjectiveworks"
-    ],
-    "awards": []
-  },
-  {
-    "id": 853,
-    "title": "Кривицкий — адвокаты бизнеса",
-    "caption": "Кривицкий — адвокаты бизнеса\nhttps://krivitzky.ru/\n\n#промо #портфолио #услуги #бизнес #artlebedev",
-    "image": "data/images/853.jpg",
-    "tags": [
-      "промо",
-      "портфолио",
-      "услуги",
-      "бизнес",
-      "artlebedev"
-    ],
-    "url": "https://krivitzky.ru/",
-    "date": 1607935323,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "portfolio",
-      "uslugi",
-      "biznes",
-      "artlebedev"
     ],
     "awards": []
   }

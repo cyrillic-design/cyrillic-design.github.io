@@ -1,5 +1,24 @@
 [
   {
+    "id": 660,
+    "title": "International Digital Retail Forum 2020",
+    "image": "data/images/660.jpg",
+    "tags": [
+      "мероприятие",
+      "24ttl"
+    ],
+    "url": "https://www.idrf.online/",
+    "date": 1580983260,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "24ttl"
+    ],
+    "awards": []
+  },
+  {
     "id": 659,
     "title": "Alcon Tower",
     "image": "data/images/659.jpg",
@@ -391,27 +410,6 @@
       "uslugi",
       "tilda",
       "personagency"
-    ],
-    "awards": []
-  },
-  {
-    "id": 639,
-    "title": "Future Book 202X от Кухни на районе и друзей",
-    "image": "data/images/639.jpg",
-    "tags": [
-      "спецпроект",
-      "тренды",
-      "презентация"
-    ],
-    "url": "https://202x.localkitchen.ru/",
-    "date": 1576749663,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "trendi",
-      "prezentatsiya"
     ],
     "awards": []
   }
