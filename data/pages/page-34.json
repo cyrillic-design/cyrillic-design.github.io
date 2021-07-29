@@ -1,5 +1,28 @@
 [
   {
+    "id": 255,
+    "title": "Volt for Drive",
+    "image": "data/images/255.jpg",
+    "tags": [
+      "сервис",
+      "технологии",
+      "бизнес",
+      "redcollar"
+    ],
+    "url": "https://v4d.ru/",
+    "date": 1533204018,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "tekhnologii",
+      "biznes",
+      "redcollar"
+    ],
+    "awards": []
+  },
+  {
     "id": 254,
     "title": "The Blueprint",
     "image": "data/images/254.jpg",
@@ -373,26 +396,6 @@
       "media",
       "smi",
       "novosti"
-    ],
-    "awards": []
-  },
-  {
-    "id": 235,
-    "title": "MST",
-    "caption": "MST\nhttps://mst.agency/ru/\n\n#агентство #портфолио",
-    "image": "data/images/235.jpg",
-    "tags": [
-      "агентство",
-      "портфолио"
-    ],
-    "url": "https://mst.agency/ru/",
-    "date": 1531476010,
-    "edit_date": 1583389389,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "agentstvo",
-      "portfolio"
     ],
     "awards": []
   }

@@ -1,5 +1,28 @@
 [
   {
+    "id": 976,
+    "title": "rassvet school",
+    "caption": "rassvet school\nhttps://rassvet.school/\n\n#образование #readymag #rassvetdigital",
+    "image": "data/images/976.jpg",
+    "tags": [
+      "образование",
+      "readymag",
+      "rassvetdigital"
+    ],
+    "url": "https://rassvet.school/",
+    "date": 1627551500,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "readymag",
+      "rassvetdigital"
+    ],
+    "awards": []
+  },
+  {
     "id": 944,
     "title": "ДК Рассвет",
     "caption": "ДК Рассвет\nhttps://dkrassvet.space/\n\n#афиша #мероприятие #культура #образование #александрмосковский",
@@ -431,27 +454,6 @@
       "obrazovanie",
       "tilda",
       "nikitakovrov"
-    ],
-    "awards": []
-  },
-  {
-    "id": 814,
-    "title": "Кристина Колесникова",
-    "caption": "Кристина Колесникова\nhttps://kriskol.ru/\n\n#образование #tilda",
-    "image": "data/images/814.jpg",
-    "tags": [
-      "образование",
-      "tilda"
-    ],
-    "url": "https://kriskol.ru/",
-    "date": 1605180555,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "tilda"
     ],
     "awards": []
   }

@@ -1,5 +1,26 @@
 [
   {
+    "id": 814,
+    "title": "Кристина Колесникова",
+    "caption": "Кристина Колесникова\nhttps://kriskol.ru/\n\n#образование #tilda",
+    "image": "data/images/814.jpg",
+    "tags": [
+      "образование",
+      "tilda"
+    ],
+    "url": "https://kriskol.ru/",
+    "date": 1605180555,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "tilda"
+    ],
+    "awards": []
+  },
+  {
     "id": 812,
     "title": "Wannabelike — Illarion Gordon",
     "caption": "Wannabelike — Illarion Gordon\nhttps://wannabelike.ru/gordon/\n\n#образование #readymag",
@@ -443,29 +464,6 @@
     "slugs": [
       "obrazovanie",
       "muzika"
-    ],
-    "awards": []
-  },
-  {
-    "id": 704,
-    "title": "Reminder",
-    "caption": "Reminder\nhttps://reminder.media/\n\n#медиа #журнал #образование\nСпасибо за ссылку @blinklinks",
-    "image": "data/images/704.jpg",
-    "tags": [
-      "медиа",
-      "журнал",
-      "образование"
-    ],
-    "url": "https://reminder.media/",
-    "date": 1586242815,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "media",
-      "zhurnal",
-      "obrazovanie"
     ],
     "awards": []
   }

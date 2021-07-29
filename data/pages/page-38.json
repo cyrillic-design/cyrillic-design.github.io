@@ -1,5 +1,26 @@
 [
   {
+    "id": 174,
+    "title": "РОСГОССТРАХ БАНК",
+    "image": "data/images/174.jpg",
+    "tags": [
+      "банк",
+      "финансы",
+      "aic"
+    ],
+    "url": "https://www.rgsbank.ru/",
+    "date": 1526292021,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "bank",
+      "finansi",
+      "aic"
+    ],
+    "awards": []
+  },
+  {
     "id": 173,
     "title": "Хайтек",
     "image": "data/images/173.jpg",
@@ -393,25 +414,6 @@
     "slugs": [
       "promo",
       "buking"
-    ],
-    "awards": []
-  },
-  {
-    "id": 154,
-    "title": "Zoomanity",
-    "image": "data/images/154.jpg",
-    "tags": [
-      "промо",
-      "магазин"
-    ],
-    "url": "http://zoomanity.land/ru/",
-    "date": 1524391208,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "magazin"
     ],
     "awards": []
   }

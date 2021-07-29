@@ -1,5 +1,28 @@
 [
   {
+    "id": 976,
+    "title": "rassvet school",
+    "caption": "rassvet school\nhttps://rassvet.school/\n\n#образование #readymag #rassvetdigital",
+    "image": "data/images/976.jpg",
+    "tags": [
+      "образование",
+      "readymag",
+      "rassvetdigital"
+    ],
+    "url": "https://rassvet.school/",
+    "date": 1627551500,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "readymag",
+      "rassvetdigital"
+    ],
+    "awards": []
+  },
+  {
     "id": 975,
     "title": "Цикада",
     "caption": "Цикада\nhttps://cicadaprize.com/\n\n#мероприятие #readymag\nСпасибо за ссылку @readymag_official",
@@ -450,32 +473,6 @@
       "portfolio",
       "readymag",
       "nonobjectiveworks"
-    ],
-    "awards": []
-  },
-  {
-    "id": 913,
-    "title": "Shigeo Fukuda",
-    "caption": "Shigeo Fukuda\nhttps://readymag.com/margo.li/fukuda/\n\n#спецпроект #история #readymag #маргаритали\nСпасибо за ссылку @readymag_official",
-    "image": "data/images/913.jpg",
-    "tags": [
-      "спецпроект",
-      "история",
-      "readymag",
-      "маргаритали"
-    ],
-    "url": "https://readymag.com/margo.li/fukuda/",
-    "date": 1619625050,
-    "edit_date": 1619625107,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "istoriya",
-      "readymag",
-      "margaritali"
     ],
     "awards": []
   }

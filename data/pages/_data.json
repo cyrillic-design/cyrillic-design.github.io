@@ -13110,5 +13110,22 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "976": {
+    "id": 976,
+    "title": "rassvet school",
+    "caption": "rassvet school\nhttps://rassvet.school/\n\n#образование #readymag #rassvetdigital",
+    "image": "976.jpg",
+    "tags": [
+      "образование",
+      "readymag",
+      "rassvetdigital"
+    ],
+    "url": "https://rassvet.school/",
+    "date": 1627551500,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
