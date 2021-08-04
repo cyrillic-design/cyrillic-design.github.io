@@ -1,0 +1,21 @@
+[
+  {
+    "id": 102,
+    "title": "ЖИ-ШИ PRODUCTION",
+    "image": "data/images/102.jpg",
+    "tags": [
+      "портфолио",
+      "студия"
+    ],
+    "url": "http://www.zheeshee.ru/",
+    "date": 1520076115,
+    "edit_date": 1583185563,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "studiya"
+    ],
+    "awards": []
+  }
+]

@@ -1,5 +1,30 @@
 [
   {
+    "id": 978,
+    "title": "Sulliwan Vacancies",
+    "caption": "Sulliwan Vacancies\nhttps://hr.sulliwan.com/\n\n#студия #работа #hr #readymag",
+    "image": "data/images/978.jpg",
+    "tags": [
+      "студия",
+      "работа",
+      "hr",
+      "readymag"
+    ],
+    "url": "https://hr.sulliwan.com/",
+    "date": 1628083587,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "studiya",
+      "rabota",
+      "hr",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 819,
     "title": "DAAT Production",
     "caption": "DAAT Production\nhttps://daat.pro/\n\n#портфолио #студия #readymag #saint",
@@ -378,25 +403,6 @@
     "slugs": [
       "studiya",
       "portfolio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 102,
-    "title": "ЖИ-ШИ PRODUCTION",
-    "image": "data/images/102.jpg",
-    "tags": [
-      "портфолио",
-      "студия"
-    ],
-    "url": "http://www.zheeshee.ru/",
-    "date": 1520076115,
-    "edit_date": 1583185563,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio",
-      "studiya"
     ],
     "awards": []
   }

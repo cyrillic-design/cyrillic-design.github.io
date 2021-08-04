@@ -13127,5 +13127,23 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "978": {
+    "id": 978,
+    "title": "Sulliwan Vacancies",
+    "caption": "Sulliwan Vacancies\nhttps://hr.sulliwan.com/\n\n#студия #работа #hr #readymag",
+    "image": "978.jpg",
+    "tags": [
+      "студия",
+      "работа",
+      "hr",
+      "readymag"
+    ],
+    "url": "https://hr.sulliwan.com/",
+    "date": 1628083587,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
