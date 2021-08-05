@@ -1,5 +1,33 @@
 [
   {
+    "id": 978,
+    "title": "Sulliwan Vacancies",
+    "caption": "Sulliwan Vacancies\nhttps://hr.sulliwan.com/\n\n#студия #работа #hr #readymag #sulliwan",
+    "image": "data/images/978.jpg",
+    "tags": [
+      "студия",
+      "работа",
+      "hr",
+      "readymag",
+      "sulliwan"
+    ],
+    "url": "https://hr.sulliwan.com/",
+    "date": 1628083587,
+    "edit_date": 1628157201,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "studiya",
+      "rabota",
+      "hr",
+      "readymag",
+      "sulliwan"
+    ],
+    "awards": []
+  },
+  {
     "id": 754,
     "title": "Beat Film Festival",
     "caption": "Beat Film Festival\nhttps://beatfilmfestival.ru/\n\n#мероприятие #кино #sulliwan",
