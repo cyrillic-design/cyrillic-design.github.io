@@ -1,5 +1,28 @@
 [
   {
+    "id": 791,
+    "title": "Fintech Design Conf",
+    "caption": "Fintech Design Conf\nhttps://fintechdesign.ru/\n\n#мероприятие #финансы #банк",
+    "image": "data/images/791.jpg",
+    "tags": [
+      "мероприятие",
+      "финансы",
+      "банк"
+    ],
+    "url": "https://fintechdesign.ru/",
+    "date": 1603726459,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "finansi",
+      "bank"
+    ],
+    "awards": []
+  },
+  {
     "id": 790,
     "title": "Деревня Сардаял",
     "caption": "Деревня Сардаял\nhttps://sardayal.ru/\n\n#спецпроект #образование #кружок",
@@ -438,27 +461,6 @@
       "obrazovanie",
       "readymag",
       "dadacreative"
-    ],
-    "awards": []
-  },
-  {
-    "id": 771,
-    "title": "Tiger Tells",
-    "caption": "Tiger Tells\nhttps://tigertells.fun/\n\n#спецпроект #аннашеррюбле\nСпасибо за ссылку @kirilltarelkin",
-    "image": "data/images/771.jpg",
-    "tags": [
-      "спецпроект",
-      "аннашеррюбле"
-    ],
-    "url": "https://tigertells.fun/",
-    "date": 1600336806,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "annasherryuble"
     ],
     "awards": []
   }

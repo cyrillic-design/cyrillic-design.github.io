@@ -1,5 +1,26 @@
 [
   {
+    "id": 979,
+    "title": "4 истории про то, что мы любим",
+    "caption": "4 истории про то, что мы любим\nhttps://4stories.apokrif.media/\n\n#спецпроект #pixeljamstudio",
+    "image": "data/images/979.jpg",
+    "tags": [
+      "спецпроект",
+      "pixeljamstudio"
+    ],
+    "url": "https://4stories.apokrif.media/",
+    "date": 1628276266,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "pixeljamstudio"
+    ],
+    "awards": []
+  },
+  {
     "id": 973,
     "title": "Онлайн-музей ЖЭК-арта",
     "caption": "Онлайн-музей ЖЭК-арта\nhttps://dvor.digital/\n\n#спецпроект #музей #золотыетигрыроссии\nСпасибо за ссылку @masha_cvetomuzika",
@@ -457,29 +478,6 @@
       "spetsproekt",
       "readymag",
       "tanyaegoshina"
-    ],
-    "awards": []
-  },
-  {
-    "id": 881,
-    "title": "Море спокойствия",
-    "caption": "Море спокойствия\nhttps://readymag.com/vitasiempre/mare-tranquillitatis/\n\n#спецпроект #readymag #vitalygachkovsky\nСпасибо за ссылку @readymag_official",
-    "image": "data/images/881.jpg",
-    "tags": [
-      "спецпроект",
-      "readymag",
-      "vitalygachkovsky"
-    ],
-    "url": "https://readymag.com/vitasiempre/mare-tranquillitatis/",
-    "date": 1611153115,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "readymag",
-      "vitalygachkovsky"
     ],
     "awards": []
   }

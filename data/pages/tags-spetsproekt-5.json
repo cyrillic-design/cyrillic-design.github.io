@@ -1,5 +1,24 @@
 [
   {
+    "id": 565,
+    "title": "Большая Коча",
+    "image": "data/images/565.jpg",
+    "tags": [
+      "спецпроект",
+      "кружок"
+    ],
+    "url": "https://bolshayakocha.ru/",
+    "date": 1565517638,
+    "edit_date": 1583183812,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "kruzhok"
+    ],
+    "awards": []
+  },
+  {
     "id": 561,
     "title": "Портрет российской семьи",
     "caption": "Портрет российской семьи\nhttps://ria.ru/20190805/1557121163.html\n\n#спецпроект #риа",
@@ -394,27 +413,6 @@
     "slugs": [
       "spetsproekt",
       "istoriya"
-    ],
-    "awards": []
-  },
-  {
-    "id": 368,
-    "title": "Третьяковская галерея: Уроки Ларионова",
-    "image": "data/images/368.jpg",
-    "tags": [
-      "искусство",
-      "спецпроект",
-      "artlebedev"
-    ],
-    "url": "https://mikhail-larionov.tretyakov.ru/",
-    "date": 1543312815,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "iskusstvo",
-      "spetsproekt",
-      "artlebedev"
     ],
     "awards": []
   }

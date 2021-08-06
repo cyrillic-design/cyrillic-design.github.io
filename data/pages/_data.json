@@ -13147,5 +13147,21 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "979": {
+    "id": 979,
+    "title": "4 истории про то, что мы любим",
+    "caption": "4 истории про то, что мы любим\nhttps://4stories.apokrif.media/\n\n#спецпроект #pixeljamstudio",
+    "image": "979.jpg",
+    "tags": [
+      "спецпроект",
+      "pixeljamstudio"
+    ],
+    "url": "https://4stories.apokrif.media/",
+    "date": 1628276266,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
