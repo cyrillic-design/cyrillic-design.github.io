@@ -1,5 +1,30 @@
 [
   {
+    "id": 980,
+    "title": "Создавайте Финтех с нуля",
+    "caption": "Создавайте Финтех с нуля\nhttps://yandexfintech.ru/\n\n#hr #работа #яндекс #whiterussianstudio",
+    "image": "data/images/980.jpg",
+    "tags": [
+      "hr",
+      "работа",
+      "яндекс",
+      "whiterussianstudio"
+    ],
+    "url": "https://yandexfintech.ru/",
+    "date": 1628701843,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "hr",
+      "rabota",
+      "yandeks",
+      "whiterussianstudio"
+    ],
+    "awards": []
+  },
+  {
     "id": 978,
     "title": "Sulliwan Vacancies",
     "caption": "Sulliwan Vacancies\nhttps://hr.sulliwan.com/\n\n#студия #работа #hr #readymag #sulliwan",

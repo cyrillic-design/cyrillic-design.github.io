@@ -1,5 +1,30 @@
 [
   {
+    "id": 980,
+    "title": "Создавайте Финтех с нуля",
+    "caption": "Создавайте Финтех с нуля\nhttps://yandexfintech.ru/\n\n#hr #работа #яндекс #whiterussianstudio",
+    "image": "data/images/980.jpg",
+    "tags": [
+      "hr",
+      "работа",
+      "яндекс",
+      "whiterussianstudio"
+    ],
+    "url": "https://yandexfintech.ru/",
+    "date": 1628701843,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "hr",
+      "rabota",
+      "yandeks",
+      "whiterussianstudio"
+    ],
+    "awards": []
+  },
+  {
     "id": 974,
     "title": "NORM 1458",
     "caption": "NORM 1458\nhttps://1458.ru/\n\n#портфолио #whiterussianstudio",
