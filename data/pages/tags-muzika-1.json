@@ -1,5 +1,28 @@
 [
   {
+    "id": 981,
+    "title": "Не надо стесняться",
+    "caption": "Не надо стесняться\nhttps://nns.i-m-i.ru/\n\n #спецпроект #музыка #ими\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/981.jpg",
+    "tags": [
+      "спецпроект",
+      "музыка",
+      "ими"
+    ],
+    "url": "https://nns.i-m-i.ru/",
+    "date": 1628943569,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "muzika",
+      "imi"
+    ],
+    "awards": []
+  },
+  {
     "id": 932,
     "title": "West Coast vs East Coast",
     "caption": "West Coast vs East Coast\nhttps://readymag.com/raznorabochee/moog-vs-buchla/\n\n#спецпроект #история #музыка #readymag\nСпасибо за ссылку @readymag_official",
@@ -412,27 +435,6 @@
     "slugs": [
       "muzika",
       "whiterussianstudio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 386,
-    "title": "Карабинович",
-    "image": "data/images/386.jpg",
-    "tags": [
-      "музыка",
-      "портфолио",
-      "sk41"
-    ],
-    "url": "http://karabinovych.com/",
-    "date": 1544695221,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "muzika",
-      "portfolio",
-      "sk41"
     ],
     "awards": []
   }
