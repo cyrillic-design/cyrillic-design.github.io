@@ -1,5 +1,28 @@
 [
   {
+    "id": 982,
+    "title": "Команда цифрового дизайна PRAGMATICA",
+    "caption": "Команда цифрового дизайна PRAGMATICA\nhttps://pragmatica.design/\n\n#портфолио #студия #readymag\nСпасибо за ссылку @censor_online",
+    "image": "data/images/982.jpg",
+    "tags": [
+      "портфолио",
+      "студия",
+      "readymag"
+    ],
+    "url": "https://pragmatica.design/",
+    "date": 1629227756,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "studiya",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 974,
     "title": "NORM 1458",
     "caption": "NORM 1458\nhttps://1458.ru/\n\n#портфолио #whiterussianstudio",
@@ -407,31 +430,6 @@
     "slugs": [
       "portfolio",
       "eshgruppa"
-    ],
-    "awards": []
-  },
-  {
-    "id": 854,
-    "title": "хотели как лучше",
-    "caption": "хотели как лучше\nhttps://wannabest.ru/\n\n#портфолио #подкаст #readymag #nonobjectiveworks",
-    "image": "data/images/854.jpg",
-    "tags": [
-      "портфолио",
-      "подкаст",
-      "readymag",
-      "nonobjectiveworks"
-    ],
-    "url": "https://wannabest.ru/",
-    "date": 1608026407,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio",
-      "podkast",
-      "readymag",
-      "nonobjectiveworks"
     ],
     "awards": []
   }

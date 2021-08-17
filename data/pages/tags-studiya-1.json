@@ -1,5 +1,28 @@
 [
   {
+    "id": 982,
+    "title": "Команда цифрового дизайна PRAGMATICA",
+    "caption": "Команда цифрового дизайна PRAGMATICA\nhttps://pragmatica.design/\n\n#портфолио #студия #readymag\nСпасибо за ссылку @censor_online",
+    "image": "data/images/982.jpg",
+    "tags": [
+      "портфолио",
+      "студия",
+      "readymag"
+    ],
+    "url": "https://pragmatica.design/",
+    "date": 1629227756,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "studiya",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 978,
     "title": "Sulliwan Vacancies",
     "caption": "Sulliwan Vacancies\nhttps://hr.sulliwan.com/\n\n#студия #работа #hr #readymag #sulliwan",
@@ -387,25 +410,6 @@
       "studiya",
       "portfolio",
       "antonandirene"
-    ],
-    "awards": []
-  },
-  {
-    "id": 107,
-    "title": "Cтудии Евгения Ярового",
-    "image": "data/images/107.jpg",
-    "tags": [
-      "студия",
-      "портфолио"
-    ],
-    "url": "http://yarovoy.studio/",
-    "date": 1520416816,
-    "edit_date": 1583185563,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "studiya",
-      "portfolio"
     ],
     "awards": []
   }

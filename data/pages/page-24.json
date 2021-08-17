@@ -1,5 +1,28 @@
 [
   {
+    "id": 473,
+    "title": "Soviet Design Timeline 1962 —1992",
+    "image": "data/images/473.jpg",
+    "tags": [
+      "история",
+      "дизайн",
+      "readymag",
+      "antonbalakin"
+    ],
+    "url": "http://sovietdesignstory.com/",
+    "date": 1552816802,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "istoriya",
+      "dizain",
+      "readymag",
+      "antonbalakin"
+    ],
+    "awards": []
+  },
+  {
     "id": 472,
     "title": "Кухня на районе",
     "image": "data/images/472.jpg",
@@ -382,23 +405,6 @@
       "uslugi",
       "promo",
       "otherland"
-    ],
-    "awards": []
-  },
-  {
-    "id": 448,
-    "title": "Uber",
-    "image": "data/images/448.jpg",
-    "tags": [
-      "сервис"
-    ],
-    "url": "https://www.uber.com/ru/ru/",
-    "date": 1551002405,
-    "edit_date": 1583185362,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis"
     ],
     "awards": []
   }
