@@ -1,5 +1,28 @@
 [
   {
+    "id": 983,
+    "title": "Дом устаревших проектов •",
+    "caption": "Дом устаревших проектов • leta.today\nhttps://belpromproekt.leta.today/\n\n#спецпроект #readymag #павелкедич",
+    "image": "data/images/983.jpg",
+    "tags": [
+      "спецпроект",
+      "readymag",
+      "павелкедич"
+    ],
+    "url": "https://belpromproekt.leta.today/",
+    "date": 1629378373,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "readymag",
+      "pavelkedich"
+    ],
+    "awards": []
+  },
+  {
     "id": 981,
     "title": "Не надо стесняться",
     "caption": "Не надо стесняться\nhttps://nns.i-m-i.ru/\n\n #спецпроект #музыка #ими\nСпасибо за ссылку @AndyAbramov",
@@ -453,31 +476,6 @@
       "istoriya",
       "readymag",
       "ivankardashev"
-    ],
-    "awards": []
-  },
-  {
-    "id": 894,
-    "title": "Chornobyl",
-    "caption": "Chornobyl\nhttps://chornobyl.today/\n\n#спецпроект #история #otherland #banda",
-    "image": "data/images/894.jpg",
-    "tags": [
-      "спецпроект",
-      "история",
-      "otherland",
-      "banda"
-    ],
-    "url": "https://chornobyl.today/",
-    "date": 1613738495,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "istoriya",
-      "otherland",
-      "banda"
     ],
     "awards": []
   }
