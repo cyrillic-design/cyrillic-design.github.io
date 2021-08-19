@@ -1,8 +1,8 @@
 [
   {
     "id": 983,
-    "title": "Дом устаревших проектов •",
-    "caption": "Дом устаревших проектов • leta.today\nhttps://belpromproekt.leta.today/\n\n#спецпроект #readymag #павелкедич",
+    "title": "Дом устаревших проектов",
+    "caption": "Дом устаревших проектов\nhttps://belpromproekt.leta.today/\n\n#спецпроект #readymag #павелкедич",
     "image": "data/images/983.jpg",
     "tags": [
       "спецпроект",
@@ -11,6 +11,7 @@
     ],
     "url": "https://belpromproekt.leta.today/",
     "date": 1629378373,
+    "edit_date": 1629378387,
     "isMonth": false,
     "isYear": false,
     "isHighlighted": false,
