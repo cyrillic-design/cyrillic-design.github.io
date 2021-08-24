@@ -1,5 +1,26 @@
 [
   {
+    "id": 99,
+    "title": "Т—Ж",
+    "image": "data/images/99.jpg",
+    "tags": [
+      "финансы",
+      "журнал",
+      "медиа"
+    ],
+    "url": "https://journal.tinkoff.ru/",
+    "date": 1519812007,
+    "edit_date": 1583185563,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "finansi",
+      "zhurnal",
+      "media"
+    ],
+    "awards": []
+  },
+  {
     "id": 98,
     "title": "Ciльпо",
     "image": "data/images/98.jpg",
@@ -415,25 +436,6 @@
       "kultura",
       "muzei",
       "charmer"
-    ],
-    "awards": []
-  },
-  {
-    "id": 59,
-    "title": "Группа компаний ПИК",
-    "image": "data/images/59.jpg",
-    "tags": [
-      "недвижимость",
-      "пик"
-    ],
-    "url": "pik.ru",
-    "date": 1518253242,
-    "edit_date": 1583185563,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "nedvizhimost",
-      "pik"
     ],
     "awards": []
   }

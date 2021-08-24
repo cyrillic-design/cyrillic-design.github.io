@@ -1,5 +1,22 @@
 [
   {
+    "id": 455,
+    "title": "Skyeng job review",
+    "image": "data/images/455.jpg",
+    "tags": [
+      "hr"
+    ],
+    "url": "https://readymag.com/u49498434/1315502/",
+    "date": 1551261614,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "hr"
+    ],
+    "awards": []
+  },
+  {
     "id": 450,
     "title": "Гостиница Ольга",
     "image": "data/images/450.jpg",
@@ -376,27 +393,6 @@
       "portfolio",
       "spetsproekt",
       "studiya"
-    ],
-    "awards": []
-  },
-  {
-    "id": 431,
-    "title": "Визначні місця України",
-    "image": "data/images/431.jpg",
-    "tags": [
-      "спецпроект",
-      "украина",
-      "evne"
-    ],
-    "url": "https://krai.co.ua/",
-    "date": 1549533618,
-    "edit_date": 1583185362,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "ukraina",
-      "evne"
     ],
     "awards": []
   }

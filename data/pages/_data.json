@@ -13250,5 +13250,21 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "985": {
+    "id": 985,
+    "title": "Maxim Stolar",
+    "caption": "Maxim Stolar\nhttps://readymag.com/maxstolar/works/\n\n#портфолио #readymag\nСпасибо за ссылку @readymag_official",
+    "image": "985.jpg",
+    "tags": [
+      "портфолио",
+      "readymag"
+    ],
+    "url": "https://readymag.com/maxstolar/works/",
+    "date": 1629820159,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
