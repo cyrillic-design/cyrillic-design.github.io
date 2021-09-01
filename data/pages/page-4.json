@@ -1,5 +1,28 @@
 [
   {
+    "id": 914,
+    "title": "MBA «Лидеры изменений»",
+    "caption": "MBA «Лидеры изменений»\nhttps://skillbox.pro/\n\n#бизнес #образование #tilda",
+    "image": "data/images/914.jpg",
+    "tags": [
+      "бизнес",
+      "образование",
+      "tilda"
+    ],
+    "url": "https://skillbox.pro/",
+    "date": 1619683470,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "biznes",
+      "obrazovanie",
+      "tilda"
+    ],
+    "awards": []
+  },
+  {
     "id": 913,
     "title": "Shigeo Fukuda",
     "caption": "Shigeo Fukuda\nhttps://readymag.com/margo.li/fukuda/\n\n#спецпроект #история #readymag #маргаритали\nСпасибо за ссылку @readymag_official",
@@ -436,25 +459,6 @@
     "slugs": [
       "portfolio",
       "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 892,
-    "title": "Pinkman",
-    "caption": "Pinkman\nhttps://pinkman.ru/\n\n#портфолио\nСпасибо за ссылку @lemur_lucky",
-    "image": "data/images/892.jpg",
-    "tags": [
-      "портфолио"
-    ],
-    "url": "https://pinkman.ru/",
-    "date": 1613461320,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio"
     ],
     "awards": []
   }

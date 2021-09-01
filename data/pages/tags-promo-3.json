@@ -1,5 +1,28 @@
 [
   {
+    "id": 662,
+    "title": "SHOT TV",
+    "caption": "SHOT TV\nhttp://www.shot-tv.com/\n\n☆ #тв #промо #whiterussianstudio",
+    "image": "data/images/662.jpg",
+    "tags": [
+      "тв",
+      "промо",
+      "whiterussianstudio"
+    ],
+    "url": "http://www.shot-tv.com/",
+    "date": 1581510151,
+    "edit_date": 1603460342,
+    "isMonth": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "tv",
+      "promo",
+      "whiterussianstudio"
+    ],
+    "awards": []
+  },
+  {
     "id": 661,
     "title": "YE'S apart-hotel",
     "image": "data/images/661.jpg",
@@ -389,25 +412,6 @@
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
-      "promo"
-    ],
-    "awards": []
-  },
-  {
-    "id": 544,
-    "title": "Приходи и свети",
-    "image": "data/images/544.jpg",
-    "tags": [
-      "мероприятие",
-      "промо"
-    ],
-    "url": "http://sveti-intervalsfest.com/",
-    "date": 1562070785,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "meropriyatie",
       "promo"
     ],
     "awards": []

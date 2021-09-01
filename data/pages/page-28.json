@@ -1,5 +1,26 @@
 [
   {
+    "id": 391,
+    "title": "Faster",
+    "image": "data/images/391.jpg",
+    "tags": [
+      "сервис",
+      "здоровье",
+      "breadhead"
+    ],
+    "url": "https://faster.ru/",
+    "date": 1545040816,
+    "edit_date": 1583185395,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "zdorove",
+      "breadhead"
+    ],
+    "awards": []
+  },
+  {
     "id": 390,
     "title": "СУВЕНИР-3",
     "image": "data/images/390.jpg",
@@ -377,27 +398,6 @@
     "slugs": [
       "spetsproekt",
       "istoriya"
-    ],
-    "awards": []
-  },
-  {
-    "id": 368,
-    "title": "Третьяковская галерея: Уроки Ларионова",
-    "image": "data/images/368.jpg",
-    "tags": [
-      "искусство",
-      "спецпроект",
-      "artlebedev"
-    ],
-    "url": "https://mikhail-larionov.tretyakov.ru/",
-    "date": 1543312815,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "iskusstvo",
-      "spetsproekt",
-      "artlebedev"
     ],
     "awards": []
   }
