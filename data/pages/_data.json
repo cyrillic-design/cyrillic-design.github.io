@@ -13284,5 +13284,23 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "988": {
+    "id": 988,
+    "title": "Годовой отчет Фонда Amway",
+    "caption": "Годовой отчет Фонда Amway\nhttps://www.amwayreport2020.ru/\n\n#благотворительность #отчет #webflow #redis\nСпасибо за ссылку @badgoodgrll",
+    "image": "988.jpg",
+    "tags": [
+      "благотворительность",
+      "отчет",
+      "webflow",
+      "redis"
+    ],
+    "url": "https://www.amwayreport2020.ru/",
+    "date": 1630654736,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

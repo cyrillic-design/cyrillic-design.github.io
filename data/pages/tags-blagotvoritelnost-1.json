@@ -1,5 +1,30 @@
 [
   {
+    "id": 988,
+    "title": "Годовой отчет Фонда Amway",
+    "caption": "Годовой отчет Фонда Amway\nhttps://www.amwayreport2020.ru/\n\n#благотворительность #отчет #webflow #redis\nСпасибо за ссылку @badgoodgrll",
+    "image": "data/images/988.jpg",
+    "tags": [
+      "благотворительность",
+      "отчет",
+      "webflow",
+      "redis"
+    ],
+    "url": "https://www.amwayreport2020.ru/",
+    "date": 1630654736,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "blagotvoritelnost",
+      "otchet",
+      "webflow",
+      "redis"
+    ],
+    "awards": []
+  },
+  {
     "id": 865,
     "title": "ПОМОЩЬ",
     "caption": "ПОМОЩЬ\nhttps://pomosch.app/\n\n#благотворительность #помощь #приложение #ony",
