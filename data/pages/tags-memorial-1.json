@@ -1,0 +1,25 @@
+[
+  {
+    "id": 381,
+    "title": "Подкаст «Остарбайтеры»",
+    "image": "data/images/381.jpg",
+    "tags": [
+      "спецпроект",
+      "подкаст",
+      "glagolevfm",
+      "мемориал"
+    ],
+    "url": "https://ost.glagolev.fm/",
+    "date": 1544263253,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "podkast",
+      "glagolevfm",
+      "memorial"
+    ],
+    "awards": []
+  }
+]

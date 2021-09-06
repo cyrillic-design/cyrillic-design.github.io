@@ -1,0 +1,421 @@
+[
+  {
+    "id": 578,
+    "title": "Письма врагов народа",
+    "image": "data/images/578.jpg",
+    "tags": [
+      "спецпроект",
+      "readymag",
+      "такиедела"
+    ],
+    "url": "http://vraginaroda.takiedela.ru/",
+    "date": 1567850410,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "readymag",
+      "takiedela"
+    ],
+    "awards": []
+  },
+  {
+    "id": 575,
+    "title": "Современные российские дизайнеры шрифта",
+    "image": "data/images/575.jpg",
+    "tags": [
+      "спецпроект",
+      "readymag",
+      "лисицкий"
+    ],
+    "url": "https://readymag.com/deedandreward/russiandesigners/",
+    "date": 1567677608,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "readymag",
+      "lisitskii"
+    ],
+    "awards": []
+  },
+  {
+    "id": 565,
+    "title": "Большая Коча",
+    "image": "data/images/565.jpg",
+    "tags": [
+      "спецпроект",
+      "кружок"
+    ],
+    "url": "https://bolshayakocha.ru/",
+    "date": 1565517638,
+    "edit_date": 1583183812,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "kruzhok"
+    ],
+    "awards": []
+  },
+  {
+    "id": 561,
+    "title": "Портрет российской семьи",
+    "caption": "Портрет российской семьи\nhttps://ria.ru/20190805/1557121163.html\n\n#спецпроект #риа",
+    "image": "data/images/561.jpg",
+    "tags": [
+      "спецпроект",
+      "риа"
+    ],
+    "url": "https://ria.ru/20190805/1557121163.html",
+    "date": 1565085634,
+    "edit_date": 1583247387,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "ria"
+    ],
+    "awards": []
+  },
+  {
+    "id": 560,
+    "title": "Здесь и сейчас. Атлас творческих студий",
+    "caption": "Здесь и сейчас. Атлас творческих студий\nhttps://hereandnow.moscow/\n\n#мероприятие #искусство #спецпроект #readymag #aic",
+    "image": "data/images/560.jpg",
+    "tags": [
+      "мероприятие",
+      "искусство",
+      "спецпроект",
+      "readymag",
+      "aic"
+    ],
+    "url": "https://hereandnow.moscow/",
+    "date": 1564740033,
+    "edit_date": 1583440361,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "iskusstvo",
+      "spetsproekt",
+      "readymag",
+      "aic"
+    ],
+    "awards": []
+  },
+  {
+    "id": 558,
+    "title": "Кружок — Музыка",
+    "image": "data/images/558.jpg",
+    "tags": [
+      "спецпроект"
+    ],
+    "url": "https://music.kruzhok.io",
+    "date": 1564135219,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt"
+    ],
+    "awards": []
+  },
+  {
+    "id": 514,
+    "title": "Letapis by",
+    "image": "data/images/514.jpg",
+    "tags": [
+      "культура",
+      "спецпроект",
+      "беларусь",
+      "алексейчеренкевич"
+    ],
+    "url": "http://letapis.by/",
+    "date": 1558605608,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "kultura",
+      "spetsproekt",
+      "belarus",
+      "alekseicherenkevich"
+    ],
+    "awards": []
+  },
+  {
+    "id": 505,
+    "title": "Карамзин Онлайн",
+    "image": "data/images/505.jpg",
+    "tags": [
+      "память",
+      "спецпроект"
+    ],
+    "url": "http://www.karamzin.info/",
+    "date": 1557828063,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "pamyat",
+      "spetsproekt"
+    ],
+    "awards": []
+  },
+  {
+    "id": 499,
+    "title": "Таруса",
+    "image": "data/images/499.jpg",
+    "tags": [
+      "спецпроект",
+      "кружок"
+    ],
+    "url": "https://tarusa.city/",
+    "date": 1555495244,
+    "edit_date": 1583185363,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "kruzhok"
+    ],
+    "awards": []
+  },
+  {
+    "id": 484,
+    "title": "ВОНО — Свободный Пульт",
+    "image": "data/images/484.jpg",
+    "tags": [
+      "спецпроект",
+      "музыка",
+      "воно"
+    ],
+    "url": "http://svobodnypult.vonopaper.com",
+    "date": 1553853668,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "muzika",
+      "vono"
+    ],
+    "awards": []
+  },
+  {
+    "id": 476,
+    "title": "За каждым успехом стоит мечта",
+    "image": "data/images/476.jpg",
+    "tags": [
+      "спецпроект",
+      "промо",
+      "рбк"
+    ],
+    "url": "http://galaxynote9.rbc.ru/",
+    "date": 1553076011,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "promo",
+      "rbk"
+    ],
+    "awards": []
+  },
+  {
+    "id": 465,
+    "title": "AZBUKA",
+    "image": "data/images/465.jpg",
+    "tags": [
+      "выставка",
+      "спецпроект",
+      "дворулица"
+    ],
+    "url": "http://azbuka.dvorulitsa.moscow/",
+    "date": 1552125620,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "vistavka",
+      "spetsproekt",
+      "dvorulitsa"
+    ],
+    "awards": []
+  },
+  {
+    "id": 456,
+    "title": "Homo Sedens",
+    "image": "data/images/456.jpg",
+    "tags": [
+      "спецпроект",
+      "здоровье",
+      "мамихлапинатана"
+    ],
+    "url": "https://homosedens.detralex.ru/",
+    "date": 1551348016,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "zdorove",
+      "mamikhlapinatana"
+    ],
+    "awards": []
+  },
+  {
+    "id": 432,
+    "title": "Embacy",
+    "image": "data/images/432.jpg",
+    "tags": [
+      "портфолио",
+      "спецпроект",
+      "студия"
+    ],
+    "url": "https://embacy.ru/lp/",
+    "date": 1549620019,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "spetsproekt",
+      "studiya"
+    ],
+    "awards": []
+  },
+  {
+    "id": 431,
+    "title": "Визначні місця України",
+    "image": "data/images/431.jpg",
+    "tags": [
+      "спецпроект",
+      "украина",
+      "evne"
+    ],
+    "url": "https://krai.co.ua/",
+    "date": 1549533618,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "ukraina",
+      "evne"
+    ],
+    "awards": []
+  },
+  {
+    "id": 413,
+    "title": "Село Хрюг",
+    "caption": "Село Хрюг\nhttps://khrug.ru/index.html\n\n#спецпроект #люди #кружок",
+    "image": "data/images/413.jpg",
+    "tags": [
+      "спецпроект",
+      "люди",
+      "кружок"
+    ],
+    "url": "https://khrug.ru/index.html",
+    "date": 1547719215,
+    "edit_date": 1583423738,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "lyudi",
+      "kruzhok"
+    ],
+    "awards": []
+  },
+  {
+    "id": 400,
+    "title": "Третьяковская галерея: Уроки Куинджи",
+    "image": "data/images/400.jpg",
+    "tags": [
+      "спецпроект",
+      "мероприятие",
+      "artlebedev"
+    ],
+    "url": "https://kuindzhi.tretyakov.ru/",
+    "date": 1545818431,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "meropriyatie",
+      "artlebedev"
+    ],
+    "awards": []
+  },
+  {
+    "id": 396,
+    "title": "Дом-музей Карамзиных на Венце",
+    "image": "data/images/396.jpg",
+    "tags": [
+      "спецпроект",
+      "история",
+      "itechgroup"
+    ],
+    "url": "http://www.karamzin.info/home/",
+    "date": 1545472806,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "istoriya",
+      "itechgroup"
+    ],
+    "awards": []
+  },
+  {
+    "id": 389,
+    "title": "Лесная Анкета - разговор с Ильей Долговым",
+    "image": "data/images/389.jpg",
+    "tags": [
+      "издание",
+      "спецпроект",
+      "воно"
+    ],
+    "url": "http://lesnaya.vonopaper.com/",
+    "date": 1544868009,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "izdanie",
+      "spetsproekt",
+      "vono"
+    ],
+    "awards": []
+  },
+  {
+    "id": 381,
+    "title": "Подкаст «Остарбайтеры»",
+    "image": "data/images/381.jpg",
+    "tags": [
+      "спецпроект",
+      "подкаст",
+      "glagolevfm",
+      "мемориал"
+    ],
+    "url": "https://ost.glagolev.fm/",
+    "date": 1544263253,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "podkast",
+      "glagolevfm",
+      "memorial"
+    ],
+    "awards": []
+  }
+]

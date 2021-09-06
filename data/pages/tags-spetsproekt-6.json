@@ -1,0 +1,413 @@
+[
+  {
+    "id": 375,
+    "title": "60 беларускамоўных гітоў сучаснасьці",
+    "image": "data/images/375.jpg",
+    "tags": [
+      "музыка",
+      "спецпроект",
+      "cherenkevich"
+    ],
+    "url": "http://tuzin.letapis.by/",
+    "date": 1543917619,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "muzika",
+      "spetsproekt",
+      "cherenkevich"
+    ],
+    "awards": []
+  },
+  {
+    "id": 369,
+    "title": "Мапа станаўлення Беларусі",
+    "image": "data/images/369.jpg",
+    "tags": [
+      "спецпроект",
+      "история"
+    ],
+    "url": "http://map.letapis.by/by/",
+    "date": 1543399222,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "istoriya"
+    ],
+    "awards": []
+  },
+  {
+    "id": 368,
+    "title": "Третьяковская галерея: Уроки Ларионова",
+    "image": "data/images/368.jpg",
+    "tags": [
+      "искусство",
+      "спецпроект",
+      "artlebedev"
+    ],
+    "url": "https://mikhail-larionov.tretyakov.ru/",
+    "date": 1543312815,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "iskusstvo",
+      "spetsproekt",
+      "artlebedev"
+    ],
+    "awards": []
+  },
+  {
+    "id": 358,
+    "title": "Visitation",
+    "image": "data/images/358.jpg",
+    "tags": [
+      "спецпроект",
+      "такиедела",
+      "bookmate"
+    ],
+    "url": "https://1993.takiedela.ru/",
+    "date": 1542621629,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "takiedela",
+      "bookmate"
+    ],
+    "awards": []
+  },
+  {
+    "id": 349,
+    "title": "OFFF Tel-Aviv",
+    "image": "data/images/349.jpg",
+    "tags": [
+      "отчет",
+      "спецпроект",
+      "сергейандронов"
+    ],
+    "url": "https://offftlv.designgest.ru",
+    "date": 1541757613,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "otchet",
+      "spetsproekt",
+      "sergeiandronov"
+    ],
+    "awards": []
+  },
+  {
+    "id": 343,
+    "title": "Сбербанк 0411",
+    "image": "data/images/343.jpg",
+    "tags": [
+      "спецпроект",
+      "культура",
+      "люди",
+      "сбербанк"
+    ],
+    "url": "https://sberbank0411.ru/",
+    "date": 1541239211,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "kultura",
+      "lyudi",
+      "sberbank"
+    ],
+    "awards": []
+  },
+  {
+    "id": 337,
+    "title": "Я вышел ростом и лицом",
+    "image": "data/images/337.jpg",
+    "tags": [
+      "спецпроект",
+      "lentaru"
+    ],
+    "url": "http://vysotsky.lenta.ru/",
+    "date": 1540720809,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "lentaru"
+    ],
+    "awards": []
+  },
+  {
+    "id": 328,
+    "title": "Ведомости +1",
+    "image": "data/images/328.jpg",
+    "tags": [
+      "журнал",
+      "спецпроект",
+      "политика"
+    ],
+    "url": "http://plus-one.vedomosti.ru/",
+    "date": 1539684044,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "spetsproekt",
+      "politika"
+    ],
+    "awards": []
+  },
+  {
+    "id": 320,
+    "title": "Русская тоска: Исаак Левитан и авторский кинематограф",
+    "image": "data/images/320.jpg",
+    "tags": [
+      "спецпроект",
+      "искусство",
+      "еврейскиймузей",
+      "readymag"
+    ],
+    "url": "http://levitan.jewish-museum.ru/",
+    "date": 1538733630,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "iskusstvo",
+      "yevreiskiimuzei",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
+    "id": 317,
+    "title": "Белый квадрат",
+    "image": "data/images/317.jpg",
+    "tags": [
+      "спецпроект",
+      "lentaru"
+    ],
+    "url": "http://sorokin.lenta.ru/",
+    "date": 1538474415,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "lentaru"
+    ],
+    "awards": []
+  },
+  {
+    "id": 312,
+    "title": "Бунтарь. Воин. Атеист",
+    "image": "data/images/312.jpg",
+    "tags": [
+      "спецпроект",
+      "промо",
+      "искусство",
+      "lentaru",
+      "третьяковскаягалерея"
+    ],
+    "url": "https://vereshchagin.lenta.ru/",
+    "date": 1538041141,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "promo",
+      "iskusstvo",
+      "lentaru",
+      "tretyakovskayagalereya"
+    ],
+    "awards": []
+  },
+  {
+    "id": 308,
+    "title": "Sun and stuff",
+    "image": "data/images/308.jpg",
+    "tags": [
+      "спецпроект",
+      "образование"
+    ],
+    "url": "http://sunandstuff.com/",
+    "date": 1537696803,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "obrazovanie"
+    ],
+    "awards": []
+  },
+  {
+    "id": 297,
+    "title": "Биохакинг сквозь века",
+    "image": "data/images/297.jpg",
+    "tags": [
+      "спецпроект",
+      "батенькадавытрансформер"
+    ],
+    "url": "http://bio.batenka.ru/",
+    "date": 1536746419,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "batenkadavitransformer"
+    ],
+    "awards": []
+  },
+  {
+    "id": 282,
+    "title": "2068. Мир без медицины",
+    "image": "data/images/282.jpg",
+    "tags": [
+      "спецпроект",
+      "батенькадавытрансформер"
+    ],
+    "url": "http://2068.batenka.ru/",
+    "date": 1535448491,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "batenkadavitransformer"
+    ],
+    "awards": []
+  },
+  {
+    "id": 268,
+    "title": "Схема",
+    "image": "data/images/268.jpg",
+    "tags": [
+      "спецпроект",
+      "история",
+      "музыка"
+    ],
+    "url": "http://cxema.tight.media/",
+    "date": 1534327220,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "istoriya",
+      "muzika"
+    ],
+    "awards": []
+  },
+  {
+    "id": 267,
+    "title": "Медузы и жопы",
+    "image": "data/images/267.jpg",
+    "tags": [
+      "спецпроект",
+      "образование"
+    ],
+    "url": "http://sunandstuff.com/mandelbrot/about/",
+    "date": 1534240814,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "obrazovanie"
+    ],
+    "awards": []
+  },
+  {
+    "id": 263,
+    "title": "Десять шрифтов 2017",
+    "caption": "Десять шрифтов 2017 \nhttp://2017.typejournal.ru/\n\n#спецпроект #журналшрифт #readymag",
+    "image": "data/images/263.jpg",
+    "tags": [
+      "спецпроект",
+      "журналшрифт",
+      "readymag"
+    ],
+    "url": "http://2017.typejournal.ru/",
+    "date": 1533895207,
+    "edit_date": 1583247436,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "zhurnalshrift",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
+    "id": 259,
+    "title": "Та самая Неер",
+    "image": "data/images/259.jpg",
+    "tags": [
+      "спецпроект",
+      "батенькадавытрансформер"
+    ],
+    "url": "http://neer.batenka.ru/",
+    "date": 1533549610,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "batenkadavitransformer"
+    ],
+    "awards": []
+  },
+  {
+    "id": 251,
+    "title": "Ад на колёсах",
+    "image": "data/images/251.jpg",
+    "tags": [
+      "спецпроект",
+      "батенькадавытрансформер"
+    ],
+    "url": "http://taxi.batenka.ru/",
+    "date": 1532858412,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "batenkadavitransformer"
+    ],
+    "awards": []
+  },
+  {
+    "id": 242,
+    "title": "Русские машины на страже смерти",
+    "image": "data/images/242.jpg",
+    "tags": [
+      "спецпроект",
+      "батенькадавытрансформер",
+      "alfred"
+    ],
+    "url": "http://21093.batenka.ru/",
+    "date": 1532080820,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "batenkadavitransformer",
+      "alfred"
+    ],
+    "awards": []
+  }
+]

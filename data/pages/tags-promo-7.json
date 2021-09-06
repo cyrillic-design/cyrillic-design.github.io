@@ -1,0 +1,127 @@
+[
+  {
+    "id": 126,
+    "title": "Брянский лес",
+    "image": "data/images/126.jpg",
+    "tags": [
+      "промо",
+      "магазин",
+      "redcollar"
+    ],
+    "url": "https://b-les.com/",
+    "date": 1522058422,
+    "edit_date": 1583185535,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "magazin",
+      "redcollar"
+    ],
+    "awards": []
+  },
+  {
+    "id": 113,
+    "title": "Кружок — Тур Россия",
+    "image": "data/images/113.jpg",
+    "tags": [
+      "промо",
+      "образование",
+      "кружок"
+    ],
+    "url": "https://russia.kruzhok.io/",
+    "date": 1520935226,
+    "edit_date": 1583185535,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "obrazovanie",
+      "kruzhok"
+    ],
+    "awards": []
+  },
+  {
+    "id": 104,
+    "title": "Almette Маасдам",
+    "image": "data/images/104.jpg",
+    "tags": [
+      "промо",
+      "еда",
+      "zero"
+    ],
+    "url": "http://maasdam.almette.ru/",
+    "date": 1520244040,
+    "edit_date": 1583185563,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "yeda",
+      "zero"
+    ],
+    "awards": []
+  },
+  {
+    "id": 89,
+    "title": "Россия без границ",
+    "caption": "Россия без границ\nhttp://galaxys8.rbc.ru/\n\n#спецпроект #промо #samsung #рбк",
+    "image": "data/images/89.jpg",
+    "tags": [
+      "спецпроект",
+      "промо",
+      "samsung",
+      "рбк"
+    ],
+    "url": "http://galaxys8.rbc.ru/",
+    "date": 1519380009,
+    "edit_date": 1583247423,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "promo",
+      "samsung",
+      "rbk"
+    ],
+    "awards": []
+  },
+  {
+    "id": 75,
+    "title": "Bork",
+    "image": "data/images/75.jpg",
+    "tags": [
+      "магазин",
+      "промо"
+    ],
+    "url": "https://www.bork.ru",
+    "date": 1518602432,
+    "edit_date": 1583185563,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "promo"
+    ],
+    "awards": []
+  },
+  {
+    "id": 64,
+    "title": "S7 Airlines - Airbus A320neo",
+    "image": "data/images/64.jpg",
+    "tags": [
+      "промо",
+      "creativepeople"
+    ],
+    "url": "neo320.s7.ru",
+    "date": 1518451216,
+    "edit_date": 1583185563,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "creativepeople"
+    ],
+    "awards": []
+  }
+]

@@ -1,0 +1,129 @@
+[
+  {
+    "id": 218,
+    "title": "ДомКлик",
+    "image": "data/images/218.jpg",
+    "tags": [
+      "недвижимость",
+      "сервис",
+      "сбербанк"
+    ],
+    "url": "https://domclick.ru/",
+    "date": 1530007224,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "nedvizhimost",
+      "servis",
+      "sberbank"
+    ],
+    "awards": []
+  },
+  {
+    "id": 205,
+    "title": "Авиатор",
+    "image": "data/images/205.jpg",
+    "tags": [
+      "недвижимость",
+      "промо",
+      "its"
+    ],
+    "url": "http://dom-aviator.ru/",
+    "date": 1528884016,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "nedvizhimost",
+      "promo",
+      "its"
+    ],
+    "awards": []
+  },
+  {
+    "id": 161,
+    "title": "Creddy",
+    "caption": "Creddy\nhttps://creddy.ru/\n\n#недвижимость #финансы #промо",
+    "image": "data/images/161.jpg",
+    "tags": [
+      "недвижимость",
+      "финансы",
+      "промо"
+    ],
+    "url": "https://creddy.ru/",
+    "date": 1525082406,
+    "edit_date": 1583247447,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "nedvizhimost",
+      "finansi",
+      "promo"
+    ],
+    "awards": []
+  },
+  {
+    "id": 158,
+    "title": "Консультационный центр",
+    "image": "data/images/158.jpg",
+    "tags": [
+      "недвижимость",
+      "финансы",
+      "aic"
+    ],
+    "url": "https://xn--h1alcedd.xn--d1aqf.xn--p1ai/",
+    "date": 1524736815,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "nedvizhimost",
+      "finansi",
+      "aic"
+    ],
+    "awards": []
+  },
+  {
+    "id": 131,
+    "title": "Locals",
+    "image": "data/images/131.jpg",
+    "tags": [
+      "недвижимость",
+      "аренда",
+      "услуги",
+      "genue"
+    ],
+    "url": "https://thelocals.ru/",
+    "date": 1522490411,
+    "edit_date": 1583185535,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "nedvizhimost",
+      "arenda",
+      "uslugi",
+      "genue"
+    ],
+    "awards": []
+  },
+  {
+    "id": 59,
+    "title": "Группа компаний ПИК",
+    "image": "data/images/59.jpg",
+    "tags": [
+      "недвижимость",
+      "пик"
+    ],
+    "url": "pik.ru",
+    "date": 1518253242,
+    "edit_date": 1583185563,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "nedvizhimost",
+      "pik"
+    ],
+    "awards": []
+  }
+]

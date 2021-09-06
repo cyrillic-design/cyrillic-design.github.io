@@ -1,0 +1,501 @@
+[
+  {
+    "id": 975,
+    "title": "Цикада",
+    "caption": "Цикада\nhttps://cicadaprize.com/\n\n#мероприятие #readymag\nСпасибо за ссылку @readymag_official",
+    "image": "data/images/975.jpg",
+    "tags": [
+      "мероприятие",
+      "readymag"
+    ],
+    "url": "https://cicadaprize.com/",
+    "date": 1626955208,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
+    "id": 971,
+    "title": "СЛЫШ",
+    "caption": "СЛЫШ\nhttps://podfest.ru/\n\n#мероприятие #readymag #артемматюшкин #лизатютяева #nonobjectiveworks\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/971.jpg",
+    "tags": [
+      "мероприятие",
+      "readymag",
+      "артемматюшкин",
+      "лизатютяева",
+      "nonobjectiveworks"
+    ],
+    "url": "https://podfest.ru/",
+    "date": 1626200888,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "readymag",
+      "artemmatyushkin",
+      "lizatyutyaeva",
+      "nonobjectiveworks"
+    ],
+    "awards": []
+  },
+  {
+    "id": 968,
+    "title": "Плюс Дача",
+    "caption": "Плюс Дача\nhttps://plus.yandex.ru/special/dacha\n\n#мероприятие #афиша",
+    "image": "data/images/968.jpg",
+    "tags": [
+      "мероприятие",
+      "афиша"
+    ],
+    "url": "https://plus.yandex.ru/special/dacha",
+    "date": 1625813094,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "afisha"
+    ],
+    "awards": []
+  },
+  {
+    "id": 963,
+    "title": "pobegi",
+    "caption": "pobegi\nhttps://readymag.com/pobegi/propobegi/\n\n#мероприятие #портфолио #искусство #культура #readymag #7419mov\nСпасибо за ссылку @readymag_official",
+    "image": "data/images/963.jpg",
+    "tags": [
+      "мероприятие",
+      "портфолио",
+      "искусство",
+      "культура",
+      "readymag",
+      "7419mov"
+    ],
+    "url": "https://readymag.com/pobegi/propobegi/",
+    "date": 1624977034,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "portfolio",
+      "iskusstvo",
+      "kultura",
+      "readymag",
+      "7419mov"
+    ],
+    "awards": []
+  },
+  {
+    "id": 961,
+    "title": "Yandex Scale",
+    "caption": "Yandex Scale\nhttps://scale.yandex.ru/\n\n#мероприятие #бизнес #технологии #конференция #яндекс",
+    "image": "data/images/961.jpg",
+    "tags": [
+      "мероприятие",
+      "бизнес",
+      "технологии",
+      "конференция",
+      "яндекс"
+    ],
+    "url": "https://scale.yandex.ru/",
+    "date": 1624805653,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "biznes",
+      "tekhnologii",
+      "konferentsiya",
+      "yandeks"
+    ],
+    "awards": []
+  },
+  {
+    "id": 944,
+    "title": "ДК Рассвет",
+    "caption": "ДК Рассвет\nhttps://dkrassvet.space/\n\n#афиша #мероприятие #культура #образование #александрмосковский",
+    "image": "data/images/944.jpg",
+    "tags": [
+      "афиша",
+      "мероприятие",
+      "культура",
+      "образование",
+      "александрмосковский"
+    ],
+    "url": "https://dkrassvet.space/",
+    "date": 1621859912,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "afisha",
+      "meropriyatie",
+      "kultura",
+      "obrazovanie",
+      "aleksandrmoskovskii"
+    ],
+    "awards": []
+  },
+  {
+    "id": 925,
+    "title": "Севкабель Порт",
+    "caption": "Севкабель Порт\nhttps://sevcableport.ru/ru\n\n#город #мероприятие #афиша #fullfort #breadhead",
+    "image": "data/images/925.jpg",
+    "tags": [
+      "город",
+      "мероприятие",
+      "афиша",
+      "fullfort",
+      "breadhead"
+    ],
+    "url": "https://sevcableport.ru/ru",
+    "date": 1620208868,
+    "edit_date": 1620286748,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "gorod",
+      "meropriyatie",
+      "afisha",
+      "fullfort",
+      "breadhead"
+    ],
+    "awards": []
+  },
+  {
+    "id": 908,
+    "title": "Second Friend Store",
+    "caption": "Second Friend Store\nhttp://10years.secondfriendstore.ru/\n\n#мероприятие #мода #readymag\nСпасибо за ссылку @readymag_official",
+    "image": "data/images/908.jpg",
+    "tags": [
+      "мероприятие",
+      "мода",
+      "readymag"
+    ],
+    "url": "http://10years.secondfriendstore.ru/",
+    "date": 1619348926,
+    "edit_date": 1619349292,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "moda",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
+    "id": 904,
+    "title": "Arrival Live",
+    "caption": "Arrival Live\nhttps://meetup.arrival.com/\n\n#мероприятие",
+    "image": "data/images/904.jpg",
+    "tags": [
+      "мероприятие"
+    ],
+    "url": "https://meetup.arrival.com/",
+    "date": 1617951664,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie"
+    ],
+    "awards": []
+  },
+  {
+    "id": 886,
+    "title": "2-я Триеннале российского современного искусства",
+    "caption": "2-я Триеннале российского современного искусства\nhttps://triennial.garagemca.org/ru/\n\n#мероприятие #искусство #materialist #perushevkhmelev\nСпасибо за ссылку @gurick",
+    "image": "data/images/886.jpg",
+    "tags": [
+      "мероприятие",
+      "искусство",
+      "materialist",
+      "perushevkhmelev"
+    ],
+    "url": "https://triennial.garagemca.org/ru/",
+    "date": 1612257855,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "iskusstvo",
+      "materialist",
+      "perushevkhmelev"
+    ],
+    "awards": []
+  },
+  {
+    "id": 867,
+    "title": "Zuzeum",
+    "caption": "Zuzeum\nhttps://www.zuzeum.com/ru/\n\n#искусство #мероприятие #культура",
+    "image": "data/images/867.jpg",
+    "tags": [
+      "искусство",
+      "мероприятие",
+      "культура"
+    ],
+    "url": "https://www.zuzeum.com/ru/",
+    "date": 1608976806,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "iskusstvo",
+      "meropriyatie",
+      "kultura"
+    ],
+    "awards": []
+  },
+  {
+    "id": 866,
+    "title": "Lubimovka Festival",
+    "caption": "Lubimovka Festival\nhttps://new.lubimovka.ru/\n\n#мероприятие #брендинг #помощь #readymag #shishki",
+    "image": "data/images/866.jpg",
+    "tags": [
+      "мероприятие",
+      "брендинг",
+      "помощь",
+      "readymag",
+      "shishki"
+    ],
+    "url": "https://new.lubimovka.ru/",
+    "date": 1608890407,
+    "edit_date": 1608894017,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "brending",
+      "pomoshch",
+      "readymag",
+      "shishki"
+    ],
+    "awards": []
+  },
+  {
+    "id": 847,
+    "title": "Grow this, Grow that: Product designer",
+    "caption": "Grow this, Grow that: Product designer\nhttps://vectorly.team/grow-this-grow-that-ru/product-designer\n\n#мероприятие #подкаст #образование #webflow\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/847.jpg",
+    "tags": [
+      "мероприятие",
+      "подкаст",
+      "образование",
+      "webflow"
+    ],
+    "url": "https://vectorly.team/grow-this-grow-that-ru/product-designer",
+    "date": 1607446132,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "podkast",
+      "obrazovanie",
+      "webflow"
+    ],
+    "awards": []
+  },
+  {
+    "id": 841,
+    "title": "Новый театр",
+    "caption": "Новый театр\nhttps://newteatr.com/\n\n#мероприятие #искусство #readymag #redcollar",
+    "image": "data/images/841.jpg",
+    "tags": [
+      "мероприятие",
+      "искусство",
+      "readymag",
+      "redcollar"
+    ],
+    "url": "https://newteatr.com/",
+    "date": 1606982407,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "iskusstvo",
+      "readymag",
+      "redcollar"
+    ],
+    "awards": []
+  },
+  {
+    "id": 820,
+    "title": "LEVEL UP FORUM",
+    "caption": "LEVEL UP FORUM\nhttps://levelup-forum.ru/\n\n#мероприятие #образование #tilda #никитаковров",
+    "image": "data/images/820.jpg",
+    "tags": [
+      "мероприятие",
+      "образование",
+      "tilda",
+      "никитаковров"
+    ],
+    "url": "https://levelup-forum.ru/",
+    "date": 1605777222,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "obrazovanie",
+      "tilda",
+      "nikitakovrov"
+    ],
+    "awards": []
+  },
+  {
+    "id": 813,
+    "title": "Intervals Festival",
+    "caption": "Intervals Festival\nhttps://intervalsfest.com/\n\n#заглушка #мероприятие #readymag #dreamlaser",
+    "image": "data/images/813.jpg",
+    "tags": [
+      "заглушка",
+      "мероприятие",
+      "readymag",
+      "dreamlaser"
+    ],
+    "url": "https://intervalsfest.com/",
+    "date": 1605089906,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zaglushka",
+      "meropriyatie",
+      "readymag",
+      "dreamlaser"
+    ],
+    "awards": []
+  },
+  {
+    "id": 805,
+    "title": "Эдуард Путерброт «Фрагмент занавеса №16»",
+    "caption": "Эдуард Путерброт «Фрагмент занавеса №16»\nhttps://puterbrot.mkalamuseum.ru/\n\n#мероприятие #спецпроект #искусство #readymag #nonobjectiveworks\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/805.jpg",
+    "tags": [
+      "мероприятие",
+      "спецпроект",
+      "искусство",
+      "readymag",
+      "nonobjectiveworks"
+    ],
+    "url": "https://puterbrot.mkalamuseum.ru/",
+    "date": 1604394018,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "spetsproekt",
+      "iskusstvo",
+      "readymag",
+      "nonobjectiveworks"
+    ],
+    "awards": []
+  },
+  {
+    "id": 791,
+    "title": "Fintech Design Conf",
+    "caption": "Fintech Design Conf\nhttps://fintechdesign.ru/\n\n#мероприятие #финансы #банк",
+    "image": "data/images/791.jpg",
+    "tags": [
+      "мероприятие",
+      "финансы",
+      "банк"
+    ],
+    "url": "https://fintechdesign.ru/",
+    "date": 1603726459,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "finansi",
+      "bank"
+    ],
+    "awards": []
+  },
+  {
+    "id": 785,
+    "title": "егэ-хаус",
+    "caption": "егэ-хаус\nhttp://egehouse.webium.ru/\n\n#мероприятие #образование #tilda #камчатка\nСпасибо за ссылку @kirilltarelkin",
+    "image": "data/images/785.jpg",
+    "tags": [
+      "мероприятие",
+      "образование",
+      "tilda",
+      "камчатка"
+    ],
+    "url": "http://egehouse.webium.ru/",
+    "date": 1602842406,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "obrazovanie",
+      "tilda",
+      "kamchatka"
+    ],
+    "awards": []
+  },
+  {
+    "id": 776,
+    "title": "yazdes art",
+    "caption": "yazdes art\nhttps://yazdes.art/\n\n#мероприятие #образование #readymag #nonobjectiveworks",
+    "image": "data/images/776.jpg",
+    "tags": [
+      "мероприятие",
+      "образование",
+      "readymag",
+      "nonobjectiveworks"
+    ],
+    "url": "https://yazdes.art/",
+    "date": 1600941611,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "obrazovanie",
+      "readymag",
+      "nonobjectiveworks"
+    ],
+    "awards": []
+  }
+]

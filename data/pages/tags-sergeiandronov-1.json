@@ -1,0 +1,23 @@
+[
+  {
+    "id": 349,
+    "title": "OFFF Tel-Aviv",
+    "image": "data/images/349.jpg",
+    "tags": [
+      "отчет",
+      "спецпроект",
+      "сергейандронов"
+    ],
+    "url": "https://offftlv.designgest.ru",
+    "date": 1541757613,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "otchet",
+      "spetsproekt",
+      "sergeiandronov"
+    ],
+    "awards": []
+  }
+]

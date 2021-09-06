@@ -1,0 +1,26 @@
+[
+  {
+    "id": 970,
+    "title": "type today: Gauge",
+    "caption": "type today: Gauge\nhttps://gauge-ru.type.today/\n\n#лонгрид #шрифт #readymag",
+    "image": "data/images/970.jpg",
+    "tags": [
+      "лонгрид",
+      "шрифт",
+      "readymag"
+    ],
+    "url": "https://gauge-ru.type.today/",
+    "date": 1625911662,
+    "edit_date": 1625911926,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "longrid",
+      "shrift",
+      "readymag"
+    ],
+    "awards": []
+  }
+]

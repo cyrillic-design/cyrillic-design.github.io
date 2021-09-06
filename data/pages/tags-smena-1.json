@@ -1,0 +1,44 @@
+[
+  {
+    "id": 651,
+    "title": "Смена 2020",
+    "image": "data/images/651.jpg",
+    "tags": [
+      "спецпроект",
+      "смена"
+    ],
+    "url": "https://2020.smena.me/",
+    "date": 1577786418,
+    "edit_date": 1583183700,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "smena"
+    ],
+    "awards": []
+  },
+  {
+    "id": 633,
+    "title": "ВДНХ",
+    "image": "data/images/633.jpg",
+    "tags": [
+      "события",
+      "город",
+      "люди",
+      "смена"
+    ],
+    "url": "https://new.vdnh.ru/",
+    "date": 1575108085,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "sobitiya",
+      "gorod",
+      "lyudi",
+      "smena"
+    ],
+    "awards": []
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 876,
+    "title": "Бібліотека Юрія Вітренка",
+    "caption": "Бібліотека Юрія Вітренка\nhttps://www.vitrenkolibrary.com/\n\n#бизнес #nextpage",
+    "image": "data/images/876.jpg",
+    "tags": [
+      "бизнес",
+      "nextpage"
+    ],
+    "url": "https://www.vitrenkolibrary.com/",
+    "date": 1610618407,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "biznes",
+      "nextpage"
+    ],
+    "awards": []
+  }
+]

@@ -1,0 +1,190 @@
+[
+  {
+    "id": 973,
+    "title": "Онлайн-музей ЖЭК-арта",
+    "caption": "Онлайн-музей ЖЭК-арта\nhttps://dvor.digital/\n\n#спецпроект #музей #золотыетигрыроссии\nСпасибо за ссылку @masha_cvetomuzika",
+    "image": "data/images/973.jpg",
+    "tags": [
+      "спецпроект",
+      "музей",
+      "золотыетигрыроссии"
+    ],
+    "url": "https://dvor.digital/",
+    "date": 1626723664,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "muzei",
+      "zolotietigrirossii"
+    ],
+    "awards": []
+  },
+  {
+    "id": 959,
+    "title": "Про Егорьевск",
+    "caption": "Про Егорьевск\nhttps://proegoryevsk.ru/\n\n#музей #город #история #спецпроект #tilda #naaustudio\nСпасибо за ссылку @leoleonov",
+    "image": "data/images/959.jpg",
+    "tags": [
+      "музей",
+      "город",
+      "история",
+      "спецпроект",
+      "tilda",
+      "naaustudio"
+    ],
+    "url": "https://proegoryevsk.ru/",
+    "date": 1623869301,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "muzei",
+      "gorod",
+      "istoriya",
+      "spetsproekt",
+      "tilda",
+      "naaustudio"
+    ],
+    "awards": []
+  },
+  {
+    "id": 933,
+    "title": "Музей Андрея Сахарова",
+    "caption": "Музей Андрея Сахарова\nhttps://www.sakharov.space/\n\n#спецпроект #история #музей #redis\nСпасибо за ссылку @esttmay",
+    "image": "data/images/933.jpg",
+    "tags": [
+      "спецпроект",
+      "история",
+      "музей",
+      "redis"
+    ],
+    "url": "https://www.sakharov.space/",
+    "date": 1620889272,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "istoriya",
+      "muzei",
+      "redis"
+    ],
+    "awards": []
+  },
+  {
+    "id": 907,
+    "title": "IT-Музей DataArt",
+    "caption": "IT-Музей DataArt\nhttps://museum.dataart.com/\n\n#спецпроект #музей #история",
+    "image": "data/images/907.jpg",
+    "tags": [
+      "спецпроект",
+      "музей",
+      "история"
+    ],
+    "url": "https://museum.dataart.com/",
+    "date": 1619075430,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "muzei",
+      "istoriya"
+    ],
+    "awards": []
+  },
+  {
+    "id": 823,
+    "title": "Конструктор",
+    "caption": "Конструктор\nhttps://constructor.jewish-museum.ru/ru\n\n#спецпроект #игра #музей #materialist",
+    "image": "data/images/823.jpg",
+    "tags": [
+      "спецпроект",
+      "игра",
+      "музей",
+      "materialist"
+    ],
+    "url": "https://constructor.jewish-museum.ru/ru",
+    "date": 1606123850,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "igra",
+      "muzei",
+      "materialist"
+    ],
+    "awards": []
+  },
+  {
+    "id": 629,
+    "title": "Путешествие в темноте",
+    "image": "data/images/629.jpg",
+    "tags": [
+      "музей",
+      "люди",
+      "промо",
+      "voskhoddigital"
+    ],
+    "url": "https://tripinthedark.ru/",
+    "date": 1574416892,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "muzei",
+      "lyudi",
+      "promo",
+      "voskhoddigital"
+    ],
+    "awards": []
+  },
+  {
+    "id": 442,
+    "title": "Музей истории ГУЛАГа",
+    "image": "data/images/442.jpg",
+    "tags": [
+      "музей",
+      "laska"
+    ],
+    "url": "https://gmig.ru/",
+    "date": 1550484021,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "muzei",
+      "laska"
+    ],
+    "awards": []
+  },
+  {
+    "id": 60,
+    "title": "Музей современного искусства «Гараж»",
+    "image": "data/images/60.jpg",
+    "tags": [
+      "культура",
+      "музей",
+      "charmer"
+    ],
+    "url": "garagemca.org",
+    "date": 1518278428,
+    "edit_date": 1583185563,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "kultura",
+      "muzei",
+      "charmer"
+    ],
+    "awards": []
+  }
+]

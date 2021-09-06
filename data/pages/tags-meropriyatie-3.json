@@ -1,0 +1,396 @@
+[
+  {
+    "id": 607,
+    "title": "DW ERA",
+    "image": "data/images/607.jpg",
+    "tags": [
+      "мероприятие",
+      "designworkout"
+    ],
+    "url": "https://era.designworkout.ru/",
+    "date": 1571392807,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "designworkout"
+    ],
+    "awards": []
+  },
+  {
+    "id": 605,
+    "title": "Саша Долгополов",
+    "image": "data/images/605.jpg",
+    "tags": [
+      "мероприятие"
+    ],
+    "url": "http://sashadolgopolov.ru/",
+    "date": 1571220053,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie"
+    ],
+    "awards": []
+  },
+  {
+    "id": 603,
+    "title": "Атлас ВМаяковский",
+    "image": "data/images/603.jpg",
+    "tags": [
+      "мероприятие",
+      "groznovco"
+    ],
+    "url": "http://vmayakovsky.com/",
+    "date": 1571047236,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "groznovco"
+    ],
+    "awards": []
+  },
+  {
+    "id": 602,
+    "title": "Briket Market",
+    "image": "data/images/602.jpg",
+    "tags": [
+      "заглушка",
+      "мероприятие"
+    ],
+    "url": "https://briketmarket.com/",
+    "date": 1570960829,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zaglushka",
+      "meropriyatie"
+    ],
+    "awards": []
+  },
+  {
+    "id": 577,
+    "title": "Фестиваль Petshop Days",
+    "image": "data/images/577.jpg",
+    "tags": [
+      "мероприятие"
+    ],
+    "url": "https://petshopdays.ru/",
+    "date": 1567764010,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie"
+    ],
+    "awards": []
+  },
+  {
+    "id": 560,
+    "title": "Здесь и сейчас. Атлас творческих студий",
+    "caption": "Здесь и сейчас. Атлас творческих студий\nhttps://hereandnow.moscow/\n\n#мероприятие #искусство #спецпроект #readymag #aic",
+    "image": "data/images/560.jpg",
+    "tags": [
+      "мероприятие",
+      "искусство",
+      "спецпроект",
+      "readymag",
+      "aic"
+    ],
+    "url": "https://hereandnow.moscow/",
+    "date": 1564740033,
+    "edit_date": 1583440361,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "iskusstvo",
+      "spetsproekt",
+      "readymag",
+      "aic"
+    ],
+    "awards": []
+  },
+  {
+    "id": 547,
+    "title": "Инвентаризация",
+    "image": "data/images/547.jpg",
+    "tags": [
+      "мероприятие",
+      "совет"
+    ],
+    "url": "https://inventoryfest.ru/",
+    "date": 1562603964,
+    "edit_date": 1583183812,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "sovet"
+    ],
+    "awards": []
+  },
+  {
+    "id": 544,
+    "title": "Приходи и свети",
+    "image": "data/images/544.jpg",
+    "tags": [
+      "мероприятие",
+      "промо"
+    ],
+    "url": "http://sveti-intervalsfest.com/",
+    "date": 1562070785,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "promo"
+    ],
+    "awards": []
+  },
+  {
+    "id": 524,
+    "title": "К19",
+    "image": "data/images/524.jpg",
+    "tags": [
+      "мероприятие",
+      "paratype"
+    ],
+    "url": "https://moderncyrillic.org/",
+    "date": 1559557038,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "paratype"
+    ],
+    "awards": []
+  },
+  {
+    "id": 523,
+    "title": "ruby russia",
+    "image": "data/images/523.jpg",
+    "tags": [
+      "мероприятие"
+    ],
+    "url": "https://rubyrussia.club/",
+    "date": 1559296815,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie"
+    ],
+    "awards": []
+  },
+  {
+    "id": 507,
+    "title": "Институт Музыкальных Инициатив",
+    "image": "data/images/507.jpg",
+    "tags": [
+      "музыка",
+      "мероприятие",
+      "sulliwan"
+    ],
+    "url": "https://i-m-i.ru/",
+    "date": 1558000856,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "muzika",
+      "meropriyatie",
+      "sulliwan"
+    ],
+    "awards": []
+  },
+  {
+    "id": 502,
+    "title": "Летняя стажировка для дизайнеров в Яндекс.Маркете",
+    "image": "data/images/502.jpg",
+    "tags": [
+      "мероприятие",
+      "яндекс"
+    ],
+    "url": "http://designsummer.ru/",
+    "date": 1556654536,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "yandeks"
+    ],
+    "awards": []
+  },
+  {
+    "id": 481,
+    "title": "Pluton",
+    "caption": "Pluton\nhttps://pluton.moscow/\n\n#музыка #мероприятие",
+    "image": "data/images/481.jpg",
+    "tags": [
+      "музыка",
+      "мероприятие"
+    ],
+    "url": "https://pluton.moscow/",
+    "date": 1553594440,
+    "edit_date": 1583439485,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "muzika",
+      "meropriyatie"
+    ],
+    "awards": []
+  },
+  {
+    "id": 471,
+    "title": "Intervals",
+    "caption": "Intervals\nhttp://intervalsfest.com/\n\n#мероприятие #промо",
+    "image": "data/images/471.jpg",
+    "tags": [
+      "мероприятие",
+      "промо"
+    ],
+    "url": "http://intervalsfest.com/",
+    "date": 1552644017,
+    "edit_date": 1583423594,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "promo"
+    ],
+    "awards": []
+  },
+  {
+    "id": 464,
+    "title": "Камчатка",
+    "caption": "Камчатка\nhttps://kamchatka.camp/\n\n#образование #мероприятие",
+    "image": "data/images/464.jpg",
+    "tags": [
+      "образование",
+      "мероприятие"
+    ],
+    "url": "https://kamchatka.camp/",
+    "date": 1552039217,
+    "edit_date": 1583439473,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "meropriyatie"
+    ],
+    "awards": []
+  },
+  {
+    "id": 445,
+    "title": "Как стать дата-журналистом Курс Strelka Mag",
+    "image": "data/images/445.jpg",
+    "tags": [
+      "образование",
+      "мероприятие"
+    ],
+    "url": "https://data-journalism.strelka.com/",
+    "date": 1550743209,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "meropriyatie"
+    ],
+    "awards": []
+  },
+  {
+    "id": 435,
+    "title": "Гоголь-Центр",
+    "caption": "Гоголь-Центр\nhttps://gogolcenter.com/\n\n#мероприятие #афиша #театр",
+    "image": "data/images/435.jpg",
+    "tags": [
+      "мероприятие",
+      "афиша",
+      "театр"
+    ],
+    "url": "https://gogolcenter.com/",
+    "date": 1549881005,
+    "edit_date": 1583439448,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "afisha",
+      "teatr"
+    ],
+    "awards": []
+  },
+  {
+    "id": 419,
+    "title": "Pop Farm",
+    "caption": "Pop Farm\nhttps://popfarm.ru/\n\n#музыка #мероприятие",
+    "image": "data/images/419.jpg",
+    "tags": [
+      "музыка",
+      "мероприятие"
+    ],
+    "url": "https://popfarm.ru/",
+    "date": 1548237624,
+    "edit_date": 1583439439,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "muzika",
+      "meropriyatie"
+    ],
+    "awards": []
+  },
+  {
+    "id": 412,
+    "title": "Виртуальный русский павильон",
+    "image": "data/images/412.jpg",
+    "tags": [
+      "мероприятие",
+      "промо",
+      "readymag"
+    ],
+    "url": "https://readymag.com/u90533425/1065619/",
+    "date": 1547632858,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "promo",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
+    "id": 400,
+    "title": "Третьяковская галерея: Уроки Куинджи",
+    "image": "data/images/400.jpg",
+    "tags": [
+      "спецпроект",
+      "мероприятие",
+      "artlebedev"
+    ],
+    "url": "https://kuindzhi.tretyakov.ru/",
+    "date": 1545818431,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "meropriyatie",
+      "artlebedev"
+    ],
+    "awards": []
+  }
+]

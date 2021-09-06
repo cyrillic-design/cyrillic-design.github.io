@@ -1,0 +1,468 @@
+[
+  {
+    "id": 989,
+    "title": "Готово",
+    "caption": "Готово\nhttps://gotovokitchen.ru/\n\n#сервис #доставка #еда #приложение",
+    "image": "data/images/989.jpg",
+    "tags": [
+      "сервис",
+      "доставка",
+      "еда",
+      "приложение"
+    ],
+    "url": "https://gotovokitchen.ru/",
+    "date": 1630915246,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "dostavka",
+      "yeda",
+      "prilozhenie"
+    ],
+    "awards": []
+  },
+  {
+    "id": 964,
+    "title": "Приложение Apt",
+    "caption": "Приложение Apt\nhttps://joinapt.app/\n\n#приложение #сервис #readymag",
+    "image": "data/images/964.jpg",
+    "tags": [
+      "приложение",
+      "сервис",
+      "readymag"
+    ],
+    "url": "https://joinapt.app/",
+    "date": 1625063665,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "prilozhenie",
+      "servis",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
+    "id": 962,
+    "title": "Про OneSoil Business Insights",
+    "caption": "Про OneSoil Business Insights\nhttps://b2b.onesoil.ai/ru/\n\n#данные #бизнес #сервис #readymag",
+    "image": "data/images/962.jpg",
+    "tags": [
+      "данные",
+      "бизнес",
+      "сервис",
+      "readymag"
+    ],
+    "url": "https://b2b.onesoil.ai/ru/",
+    "date": 1624882114,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "dannie",
+      "biznes",
+      "servis",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
+    "id": 956,
+    "title": "Tweek Календарь",
+    "caption": "Tweek Календарь\nhttps://tweek.so/ru\n\n#сервис\nСпасибо за ссылку @mozhno",
+    "image": "data/images/956.jpg",
+    "tags": [
+      "сервис"
+    ],
+    "url": "https://tweek.so/ru",
+    "date": 1623425130,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis"
+    ],
+    "awards": []
+  },
+  {
+    "id": 940,
+    "title": "Библиотекус",
+    "caption": "Библиотекус\nhttps://bibliotekus.artlebedev.ru/\n\n#сервис #спецпроект #artlebedev",
+    "image": "data/images/940.jpg",
+    "tags": [
+      "сервис",
+      "спецпроект",
+      "artlebedev"
+    ],
+    "url": "https://bibliotekus.artlebedev.ru/",
+    "date": 1621319710,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "spetsproekt",
+      "artlebedev"
+    ],
+    "awards": []
+  },
+  {
+    "id": 922,
+    "title": "Стартер",
+    "caption": "Стартер\nhttps://starterapp.ru/\n\n#сервис #доствка #readymag #breadhead",
+    "image": "data/images/922.jpg",
+    "tags": [
+      "сервис",
+      "доствка",
+      "readymag",
+      "breadhead"
+    ],
+    "url": "https://starterapp.ru/",
+    "date": 1620115263,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "dostvka",
+      "readymag",
+      "breadhead"
+    ],
+    "awards": []
+  },
+  {
+    "id": 909,
+    "title": "Everybook",
+    "caption": "Everybook\nhttps://everybook.ru/\n\n#сервис #приложение",
+    "image": "data/images/909.jpg",
+    "tags": [
+      "сервис",
+      "приложение"
+    ],
+    "url": "https://everybook.ru/",
+    "date": 1619425025,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "prilozhenie"
+    ],
+    "awards": []
+  },
+  {
+    "id": 899,
+    "title": "Эйч",
+    "caption": "Эйч\nhttps://h.budu.jobs/\n\n#сервис #hr #update",
+    "image": "data/images/899.jpg",
+    "tags": [
+      "сервис",
+      "hr",
+      "update"
+    ],
+    "url": "https://h.budu.jobs/",
+    "date": 1616234441,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "hr",
+      "update"
+    ],
+    "awards": []
+  },
+  {
+    "id": 869,
+    "title": "Спектр формы",
+    "caption": "Спектр формы\nhttps://www.whyreka.com/spectrum\n\n#дизайн #сервис\nСпасибо за ссылку @DesignBoard",
+    "image": "data/images/869.jpg",
+    "tags": [
+      "дизайн",
+      "сервис"
+    ],
+    "url": "https://www.whyreka.com/spectrum",
+    "date": 1609149615,
+    "edit_date": 1610028503,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "dizain",
+      "servis"
+    ],
+    "awards": []
+  },
+  {
+    "id": 868,
+    "title": "Эйч",
+    "caption": "Эйч\nhttps://h.budu.jobs/\n\n#hr #сервис",
+    "image": "data/images/868.jpg",
+    "tags": [
+      "hr",
+      "сервис"
+    ],
+    "url": "https://h.budu.jobs/",
+    "date": 1609063206,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "hr",
+      "servis"
+    ],
+    "awards": []
+  },
+  {
+    "id": 860,
+    "title": "Troove",
+    "caption": "Troove\nhttps://troove.ru/\n\n#промо #сервис #приложение\nСпасибо за ссылку @Hovsky",
+    "image": "data/images/860.jpg",
+    "tags": [
+      "промо",
+      "сервис",
+      "приложение"
+    ],
+    "url": "https://troove.ru/",
+    "date": 1608458406,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "servis",
+      "prilozhenie"
+    ],
+    "awards": []
+  },
+  {
+    "id": 859,
+    "title": "МТС Твой бизнес — Квиз",
+    "caption": "МТС Твой бизнес — Квиз\nhttps://tb.mts.ru/quiz/\n\n#финансы #сервис #игра #бизнес\nСпасибо за ссылку @stasplkv",
+    "image": "data/images/859.jpg",
+    "tags": [
+      "финансы",
+      "сервис",
+      "игра",
+      "бизнес"
+    ],
+    "url": "https://tb.mts.ru/quiz/",
+    "date": 1608372008,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "finansi",
+      "servis",
+      "igra",
+      "biznes"
+    ],
+    "awards": []
+  },
+  {
+    "id": 816,
+    "title": "MY FRUIT!",
+    "caption": "MY FRUIT!\nhttps://myfruit.com.ua/\n\n#сервис #магазин #tilda #кириллжаркий",
+    "image": "data/images/816.jpg",
+    "tags": [
+      "сервис",
+      "магазин",
+      "tilda",
+      "кириллжаркий"
+    ],
+    "url": "https://myfruit.com.ua/",
+    "date": 1605437594,
+    "edit_date": 1610529465,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "magazin",
+      "tilda",
+      "kirillzharkii"
+    ],
+    "awards": []
+  },
+  {
+    "id": 810,
+    "title": "planca coach",
+    "caption": "planca coach\nhttps://planca.coach/\n\n#сервис #здоровье #спорт\nСпасибо за ссылку @ivanedorn",
+    "image": "data/images/810.jpg",
+    "tags": [
+      "сервис",
+      "здоровье",
+      "спорт"
+    ],
+    "url": "https://planca.coach/",
+    "date": 1604743230,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "zdorove",
+      "sport"
+    ],
+    "awards": []
+  },
+  {
+    "id": 793,
+    "title": "Todoist",
+    "caption": "Todoist\nhttps://todoist.com/ru/home\n\n#сервис #приложение",
+    "image": "data/images/793.jpg",
+    "tags": [
+      "сервис",
+      "приложение"
+    ],
+    "url": "https://todoist.com/ru/home",
+    "date": 1603879211,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "prilozhenie"
+    ],
+    "awards": []
+  },
+  {
+    "id": 783,
+    "title": "Почтатех",
+    "caption": "Почтатех\nhttps://pochta.tech/\n\n#промо #сервис #портфолио\nСпасибо за ссылку @pochekueva",
+    "image": "data/images/783.jpg",
+    "tags": [
+      "промо",
+      "сервис",
+      "портфолио"
+    ],
+    "url": "https://pochta.tech/",
+    "date": 1602669606,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "servis",
+      "portfolio"
+    ],
+    "awards": []
+  },
+  {
+    "id": 780,
+    "title": "MOLNIA",
+    "caption": "MOLNIA\nhttps://molnia.city/\n\n#сервис #приложение #tilda",
+    "image": "data/images/780.jpg",
+    "tags": [
+      "сервис",
+      "приложение",
+      "tilda"
+    ],
+    "url": "https://molnia.city/",
+    "date": 1601287205,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "prilozhenie",
+      "tilda"
+    ],
+    "awards": []
+  },
+  {
+    "id": 768,
+    "title": "TYPICAL.OKR",
+    "caption": "TYPICAL.OKR\nhttps://typicalokr.co/\n\n#исследование #сервис #typical #readymag",
+    "image": "data/images/768.jpg",
+    "tags": [
+      "исследование",
+      "сервис",
+      "typical",
+      "readymag"
+    ],
+    "url": "https://typicalokr.co/",
+    "date": 1600068393,
+    "edit_date": 1600088036,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "issledovanie",
+      "servis",
+      "typical",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
+    "id": 767,
+    "title": "Державні послуги онлайн | Дія",
+    "caption": "Державні послуги онлайн | Дія\nhttps://diia.gov.ua/\n\n#сервис #государство #люди\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/767.jpg",
+    "tags": [
+      "сервис",
+      "государство",
+      "люди"
+    ],
+    "url": "https://diia.gov.ua/",
+    "date": 1599904831,
+    "edit_date": 1600174311,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "gosudarstvo",
+      "lyudi"
+    ],
+    "awards": []
+  },
+  {
+    "id": 766,
+    "title": "igooods",
+    "caption": "igooods\nhttps://msk.igooods.ru/\n\n#сервис #приложение #доставка #еда",
+    "image": "data/images/766.jpg",
+    "tags": [
+      "сервис",
+      "приложение",
+      "доставка",
+      "еда"
+    ],
+    "url": "https://msk.igooods.ru/",
+    "date": 1599818410,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "prilozhenie",
+      "dostavka",
+      "yeda"
+    ],
+    "awards": []
+  }
+]

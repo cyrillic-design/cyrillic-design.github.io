@@ -1,0 +1,433 @@
+[
+  {
+    "id": 953,
+    "title": "НАЙСІ",
+    "caption": "НАЙСІ\nhttps://nicee.com.ua/\n\n#промо #производство #readymag",
+    "image": "data/images/953.jpg",
+    "tags": [
+      "промо",
+      "производство",
+      "readymag"
+    ],
+    "url": "https://nicee.com.ua/",
+    "date": 1623150072,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "proizvodstvo",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
+    "id": 926,
+    "title": "Galka world",
+    "caption": "Galka world\nhttps://galka.world/\n\n#производство #магазин #readymag\nСпасибо за ссылку @stasplkv",
+    "image": "data/images/926.jpg",
+    "tags": [
+      "производство",
+      "магазин",
+      "readymag"
+    ],
+    "url": "https://galka.world/",
+    "date": 1620284466,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "magazin",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
+    "id": 873,
+    "title": "Letterdog",
+    "caption": "Letterdog\nhttps://letterdog.by/\n\n#портфолио #производство #tilda",
+    "image": "data/images/873.jpg",
+    "tags": [
+      "портфолио",
+      "производство",
+      "tilda"
+    ],
+    "url": "https://letterdog.by/",
+    "date": 1610368320,
+    "edit_date": 1610368379,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "proizvodstvo",
+      "tilda"
+    ],
+    "awards": []
+  },
+  {
+    "id": 846,
+    "title": "Работа в компании Северсталь",
+    "caption": "Работа в компании Северсталь\nhttps://career.severstal.com/\n\n#производство #hr #artlebedev",
+    "image": "data/images/846.jpg",
+    "tags": [
+      "производство",
+      "hr",
+      "artlebedev"
+    ],
+    "url": "https://career.severstal.com/",
+    "date": 1607421607,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "hr",
+      "artlebedev"
+    ],
+    "awards": []
+  },
+  {
+    "id": 769,
+    "title": "Черноморка",
+    "caption": "Черноморка\nhttps://chernomorka.online/\n\n#производство #еда #доставка #vintage\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/769.jpg",
+    "tags": [
+      "производство",
+      "еда",
+      "доставка",
+      "vintage"
+    ],
+    "url": "https://chernomorka.online/",
+    "date": 1600164015,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "yeda",
+      "dostavka",
+      "vintage"
+    ],
+    "awards": []
+  },
+  {
+    "id": 760,
+    "title": "MoreMilk",
+    "caption": "MoreMilk\nhttps://moremilk.ru/\n\n#промо #производство #chipsa",
+    "image": "data/images/760.jpg",
+    "tags": [
+      "промо",
+      "производство",
+      "chipsa"
+    ],
+    "url": "https://moremilk.ru/",
+    "date": 1599040865,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "proizvodstvo",
+      "chipsa"
+    ],
+    "awards": []
+  },
+  {
+    "id": 759,
+    "title": "Ferrumpipe",
+    "caption": "Ferrumpipe\nhttps://ferrumpipe.ru/\n\n#производство #промо #cuberto\nСпасибо за ссылку @as_kiryanov",
+    "image": "data/images/759.jpg",
+    "tags": [
+      "производство",
+      "промо",
+      "cuberto"
+    ],
+    "url": "https://ferrumpipe.ru/",
+    "date": 1598522427,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "promo",
+      "cuberto"
+    ],
+    "awards": []
+  },
+  {
+    "id": 750,
+    "title": "Unit",
+    "caption": "Unit\nhttps://unit-studio.ru/\n\n#производство #wemakefab",
+    "image": "data/images/750.jpg",
+    "tags": [
+      "производство",
+      "wemakefab"
+    ],
+    "url": "https://unit-studio.ru/",
+    "date": 1595412031,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "wemakefab"
+    ],
+    "awards": []
+  },
+  {
+    "id": 738,
+    "title": "Глущенкоиздат",
+    "caption": "Глущенкоиздат\nhttp://gluschenkoizdat.ru/\n\n#издательство #производство\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/738.jpg",
+    "tags": [
+      "издательство",
+      "производство"
+    ],
+    "url": "http://gluschenkoizdat.ru/",
+    "date": 1592468243,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "izdatelstvo",
+      "proizvodstvo"
+    ],
+    "awards": []
+  },
+  {
+    "id": 736,
+    "title": "V-A-C",
+    "caption": "V-A-C\nhttps://v-a-c.org/ru\n\n#фонд #производство\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/736.jpg",
+    "tags": [
+      "фонд",
+      "производство"
+    ],
+    "url": "https://v-a-c.org/ru",
+    "date": 1592072200,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "fond",
+      "proizvodstvo"
+    ],
+    "awards": []
+  },
+  {
+    "id": 719,
+    "title": "Falafel books",
+    "caption": "Falafel books\nhttps://falafelbooks.com/\n\n#магазин #производство\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/719.jpg",
+    "tags": [
+      "магазин",
+      "производство"
+    ],
+    "url": "https://falafelbooks.com/",
+    "date": 1587549639,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "proizvodstvo"
+    ],
+    "awards": []
+  },
+  {
+    "id": 610,
+    "title": "Кулинарные рецепты – САФ",
+    "image": "data/images/610.jpg",
+    "tags": [
+      "журнал",
+      "производство",
+      "еда",
+      "nimax"
+    ],
+    "url": "https://safclub.ru/",
+    "date": 1571652017,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "proizvodstvo",
+      "yeda",
+      "nimax"
+    ],
+    "awards": []
+  },
+  {
+    "id": 556,
+    "title": "Койот",
+    "image": "data/images/556.jpg",
+    "tags": [
+      "производство",
+      "магазин",
+      "aiwin"
+    ],
+    "url": "https://coyote-ekb.ru/",
+    "date": 1563962419,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "magazin",
+      "aiwin"
+    ],
+    "awards": []
+  },
+  {
+    "id": 548,
+    "title": "РОССМА",
+    "image": "data/images/548.jpg",
+    "tags": [
+      "производство",
+      "студияевгенияярового"
+    ],
+    "url": "https://rossma.ru/",
+    "date": 1562666479,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "studiyaevgeniyayarovogo"
+    ],
+    "awards": []
+  },
+  {
+    "id": 539,
+    "title": "ЗАО «Росма»",
+    "image": "data/images/539.jpg",
+    "tags": [
+      "производство",
+      "levelup"
+    ],
+    "url": "https://rosma.spb.ru/",
+    "date": 1561370466,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "levelup"
+    ],
+    "awards": []
+  },
+  {
+    "id": 527,
+    "title": "Российский экологический оператор",
+    "image": "data/images/527.jpg",
+    "tags": [
+      "производство",
+      "промо",
+      "сервис"
+    ],
+    "url": "https://reo.ru/",
+    "date": 1559815232,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "promo",
+      "servis"
+    ],
+    "awards": []
+  },
+  {
+    "id": 526,
+    "title": "ТехноСтиль",
+    "image": "data/images/526.jpg",
+    "tags": [
+      "производство",
+      "студияевгенияярового"
+    ],
+    "url": "http://technostyle.yarovoy.studio/",
+    "date": 1559728883,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "studiyaevgeniyayarovogo"
+    ],
+    "awards": []
+  },
+  {
+    "id": 517,
+    "title": "Vision Lighting",
+    "image": "data/images/517.jpg",
+    "tags": [
+      "производство",
+      "магазин"
+    ],
+    "url": "https://visionlighting.ua/",
+    "date": 1558864809,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "magazin"
+    ],
+    "awards": []
+  },
+  {
+    "id": 516,
+    "title": "Любава",
+    "image": "data/images/516.jpg",
+    "tags": [
+      "магазин",
+      "производство",
+      "max"
+    ],
+    "url": "http://xn--80aabf6b4g.xn--p1acf/",
+    "date": 1558778408,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "proizvodstvo",
+      "max"
+    ],
+    "awards": []
+  },
+  {
+    "id": 515,
+    "title": "Сибирский Деловой Союз",
+    "image": "data/images/515.jpg",
+    "tags": [
+      "производство",
+      "холдинг",
+      "мэйк"
+    ],
+    "url": "https://hcsds.ru/ru/",
+    "date": 1558692007,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "kholding",
+      "meik"
+    ],
+    "awards": []
+  }
+]

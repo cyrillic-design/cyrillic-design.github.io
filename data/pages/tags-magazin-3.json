@@ -1,0 +1,400 @@
+[
+  {
+    "id": 443,
+    "title": "Something Factory",
+    "image": "data/images/443.jpg",
+    "tags": [
+      "магазин",
+      "nikitavasilevskiy"
+    ],
+    "url": "https://somethingfactory.ru",
+    "date": 1550570411,
+    "edit_date": 1583185362,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "nikitavasilevskiy"
+    ],
+    "awards": []
+  },
+  {
+    "id": 427,
+    "title": "RETROSUPERFUTURE",
+    "image": "data/images/427.jpg",
+    "tags": [
+      "магазин"
+    ],
+    "url": "https://retrosuperfuture.ru/",
+    "date": 1548928803,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin"
+    ],
+    "awards": []
+  },
+  {
+    "id": 424,
+    "title": "Хендэ Мотор СНГ",
+    "image": "data/images/424.jpg",
+    "tags": [
+      "авто",
+      "магазин"
+    ],
+    "url": "https://www.hyundai.ru/",
+    "date": 1548669618,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "avto",
+      "magazin"
+    ],
+    "awards": []
+  },
+  {
+    "id": 422,
+    "title": "ВкусВилл",
+    "image": "data/images/422.jpg",
+    "tags": [
+      "сервис",
+      "магазин",
+      "max"
+    ],
+    "url": "https://new.vkusvill.ru",
+    "date": 1548496819,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "magazin",
+      "max"
+    ],
+    "awards": []
+  },
+  {
+    "id": 374,
+    "title": "Larne",
+    "image": "data/images/374.jpg",
+    "tags": [
+      "мода",
+      "магазин",
+      "itsagency"
+    ],
+    "url": "https://larne.ru/",
+    "date": 1543831214,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "moda",
+      "magazin",
+      "itsagency"
+    ],
+    "awards": []
+  },
+  {
+    "id": 373,
+    "title": "ТМК",
+    "image": "data/images/373.jpg",
+    "tags": [
+      "магазин",
+      "производство",
+      "greensight"
+    ],
+    "url": "https://www.tmktools.ru/",
+    "date": 1543744814,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "proizvodstvo",
+      "greensight"
+    ],
+    "awards": []
+  },
+  {
+    "id": 371,
+    "title": "KM20",
+    "image": "data/images/371.jpg",
+    "tags": [
+      "мода",
+      "одежда",
+      "магазин"
+    ],
+    "url": "https://www.km20.ru/",
+    "date": 1543572012,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "moda",
+      "odezhda",
+      "magazin"
+    ],
+    "awards": []
+  },
+  {
+    "id": 366,
+    "title": "Kto Tut Beauty",
+    "image": "data/images/366.jpg",
+    "tags": [
+      "красота",
+      "магазин",
+      "loremipsumlab"
+    ],
+    "url": "https://ktotutbeauty.com/",
+    "date": 1543140018,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "krasota",
+      "magazin",
+      "loremipsumlab"
+    ],
+    "awards": []
+  },
+  {
+    "id": 347,
+    "title": "Gracia Ceramica",
+    "image": "data/images/347.jpg",
+    "tags": [
+      "промо",
+      "магазин",
+      "производство"
+    ],
+    "url": "http://www.graciaceramica.com/",
+    "date": 1541584853,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "magazin",
+      "proizvodstvo"
+    ],
+    "awards": []
+  },
+  {
+    "id": 345,
+    "title": "Falafel + AIC",
+    "image": "data/images/345.jpg",
+    "tags": [
+      "промо",
+      "магазин",
+      "aic"
+    ],
+    "url": "http://aic.falafelbooks.com/",
+    "date": 1541412018,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "magazin",
+      "aic"
+    ],
+    "awards": []
+  },
+  {
+    "id": 326,
+    "title": "Odyssey",
+    "image": "data/images/326.jpg",
+    "tags": [
+      "одежда",
+      "магазин"
+    ],
+    "url": "https://odyssey.moscow/",
+    "date": 1539424823,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "odezhda",
+      "magazin"
+    ],
+    "awards": []
+  },
+  {
+    "id": 290,
+    "title": "Lamoda",
+    "image": "data/images/290.jpg",
+    "tags": [
+      "магазин",
+      "доставка",
+      "мода"
+    ],
+    "url": "https://www.lamoda.ru/",
+    "date": 1536141619,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "dostavka",
+      "moda"
+    ],
+    "awards": []
+  },
+  {
+    "id": 279,
+    "title": "SIASPACE",
+    "image": "data/images/279.jpg",
+    "tags": [
+      "магазин",
+      "мода",
+      "facility"
+    ],
+    "url": "https://siaspace.com/",
+    "date": 1535191203,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "moda",
+      "facility"
+    ],
+    "awards": []
+  },
+  {
+    "id": 278,
+    "title": "Калашников",
+    "image": "data/images/278.jpg",
+    "tags": [
+      "промо",
+      "магазин"
+    ],
+    "url": "http://ak.kalashnikovgroup.ru/",
+    "date": 1535104820,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "magazin"
+    ],
+    "awards": []
+  },
+  {
+    "id": 276,
+    "title": "MATRONA",
+    "image": "data/images/276.jpg",
+    "tags": [
+      "производство",
+      "мода",
+      "магазин"
+    ],
+    "url": "http://matrona.me/",
+    "date": 1534932016,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "moda",
+      "magazin"
+    ],
+    "awards": []
+  },
+  {
+    "id": 275,
+    "title": "Первоапрельский Рокетшоп",
+    "image": "data/images/275.jpg",
+    "tags": [
+      "банк",
+      "финансы",
+      "магазин"
+    ],
+    "url": "https://shop.rocketbank.ru/old/",
+    "date": 1534845612,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "bank",
+      "finansi",
+      "magazin"
+    ],
+    "awards": []
+  },
+  {
+    "id": 272,
+    "title": "INMYROOM",
+    "image": "data/images/272.jpg",
+    "tags": [
+      "магазин",
+      "журнал"
+    ],
+    "url": "https://www.inmyroom.ru/",
+    "date": 1534672809,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "zhurnal"
+    ],
+    "awards": []
+  },
+  {
+    "id": 253,
+    "title": "Zolla",
+    "image": "data/images/253.jpg",
+    "tags": [
+      "магазин",
+      "одежда"
+    ],
+    "url": "http://zolla.com/",
+    "date": 1533031210,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "odezhda"
+    ],
+    "awards": []
+  },
+  {
+    "id": 249,
+    "title": "Brandshop",
+    "image": "data/images/249.jpg",
+    "tags": [
+      "магазин"
+    ],
+    "url": "https://brandshop.ru/",
+    "date": 1532685622,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin"
+    ],
+    "awards": []
+  },
+  {
+    "id": 239,
+    "title": "Рокетшоп",
+    "image": "data/images/239.jpg",
+    "tags": [
+      "магазин",
+      "рокетбанк"
+    ],
+    "url": "https://shop.rocketbank.ru/",
+    "date": 1531821614,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "roketbank"
+    ],
+    "awards": []
+  }
+]
