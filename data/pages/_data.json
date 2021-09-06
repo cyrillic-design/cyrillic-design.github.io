@@ -13302,5 +13302,23 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "989": {
+    "id": 989,
+    "title": "Готово",
+    "caption": "Готово\nhttps://gotovokitchen.ru/\n\n#сервис #доставка #еда #приложение",
+    "image": "989.jpg",
+    "tags": [
+      "сервис",
+      "доставка",
+      "еда",
+      "приложение"
+    ],
+    "url": "https://gotovokitchen.ru/",
+    "date": 1630915246,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

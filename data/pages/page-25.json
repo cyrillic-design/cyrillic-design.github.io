@@ -1,5 +1,26 @@
 [
   {
+    "id": 458,
+    "title": "Только спросить",
+    "image": "data/images/458.jpg",
+    "tags": [
+      "блог",
+      "здоровье",
+      "docplus"
+    ],
+    "url": "https://tolkosprosit.docplus.ru/blog/",
+    "date": 1551520801,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "blog",
+      "zdorove",
+      "docplus"
+    ],
+    "awards": []
+  },
+  {
     "id": 457,
     "title": "Карта истории ГУЛАГа",
     "image": "data/images/457.jpg",
@@ -374,25 +395,6 @@
       "meropriyatie",
       "afisha",
       "teatr"
-    ],
-    "awards": []
-  },
-  {
-    "id": 434,
-    "title": "Avito seller",
-    "image": "data/images/434.jpg",
-    "tags": [
-      "промо",
-      "chulakov"
-    ],
-    "url": "https://www.avito.ru/seller/",
-    "date": 1549792823,
-    "edit_date": 1583185362,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "chulakov"
     ],
     "awards": []
   }

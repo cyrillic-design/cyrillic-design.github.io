@@ -1,5 +1,26 @@
 [
   {
+    "id": 965,
+    "title": "Портфолио — Дима Шалаев",
+    "caption": "Портфолио — Дима Шалаев\nhttp://dmitryshalaev.ru/\n\n#портфолио #readymag",
+    "image": "data/images/965.jpg",
+    "tags": [
+      "портфолио",
+      "readymag"
+    ],
+    "url": "http://dmitryshalaev.ru/",
+    "date": 1625224026,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 964,
     "title": "Приложение Apt",
     "caption": "Приложение Apt\nhttps://joinapt.app/\n\n#приложение #сервис #readymag",
@@ -434,33 +455,6 @@
     "slugs": [
       "igra",
       "petrick"
-    ],
-    "awards": []
-  },
-  {
-    "id": 944,
-    "title": "ДК Рассвет",
-    "caption": "ДК Рассвет\nhttps://dkrassvet.space/\n\n#афиша #мероприятие #культура #образование #александрмосковский",
-    "image": "data/images/944.jpg",
-    "tags": [
-      "афиша",
-      "мероприятие",
-      "культура",
-      "образование",
-      "александрмосковский"
-    ],
-    "url": "https://dkrassvet.space/",
-    "date": 1621859912,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "afisha",
-      "meropriyatie",
-      "kultura",
-      "obrazovanie",
-      "aleksandrmoskovskii"
     ],
     "awards": []
   }
