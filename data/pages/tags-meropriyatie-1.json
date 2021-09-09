@@ -1,5 +1,28 @@
 [
   {
+    "id": 990,
+    "title": "Fintech Design Conf",
+    "caption": "Fintech Design Conf\nhttps://www.fintechdesign.ru/\n\n#мероприятие #финансы #банк",
+    "image": "data/images/990.jpg",
+    "tags": [
+      "мероприятие",
+      "финансы",
+      "банк"
+    ],
+    "url": "https://www.fintechdesign.ru/",
+    "date": 1631212254,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "finansi",
+      "bank"
+    ],
+    "awards": []
+  },
+  {
     "id": 975,
     "title": "Цикада",
     "caption": "Цикада\nhttps://cicadaprize.com/\n\n#мероприятие #readymag\nСпасибо за ссылку @readymag_official",
@@ -470,31 +493,6 @@
       "obrazovanie",
       "tilda",
       "kamchatka"
-    ],
-    "awards": []
-  },
-  {
-    "id": 776,
-    "title": "yazdes art",
-    "caption": "yazdes art\nhttps://yazdes.art/\n\n#мероприятие #образование #readymag #nonobjectiveworks",
-    "image": "data/images/776.jpg",
-    "tags": [
-      "мероприятие",
-      "образование",
-      "readymag",
-      "nonobjectiveworks"
-    ],
-    "url": "https://yazdes.art/",
-    "date": 1600941611,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "meropriyatie",
-      "obrazovanie",
-      "readymag",
-      "nonobjectiveworks"
     ],
     "awards": []
   }

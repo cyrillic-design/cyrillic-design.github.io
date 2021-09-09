@@ -13320,5 +13320,22 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "990": {
+    "id": 990,
+    "title": "Fintech Design Conf",
+    "caption": "Fintech Design Conf\nhttps://www.fintechdesign.ru/\n\n#мероприятие #финансы #банк",
+    "image": "990.jpg",
+    "tags": [
+      "мероприятие",
+      "финансы",
+      "банк"
+    ],
+    "url": "https://www.fintechdesign.ru/",
+    "date": 1631212254,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

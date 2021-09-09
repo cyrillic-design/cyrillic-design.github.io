@@ -1,5 +1,26 @@
 [
   {
+    "id": 398,
+    "title": "Radario",
+    "image": "data/images/398.jpg",
+    "tags": [
+      "сервис",
+      "бизнес",
+      "финансы"
+    ],
+    "url": "https://business.radario.ru/",
+    "date": 1545645648,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "biznes",
+      "finansi"
+    ],
+    "awards": []
+  },
+  {
     "id": 362,
     "title": "Дело Модульбанка",
     "image": "data/images/362.jpg",
@@ -408,31 +429,6 @@
       "bank",
       "finansi",
       "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 148,
-    "title": "Ведомости",
-    "image": "data/images/148.jpg",
-    "tags": [
-      "новости",
-      "газета",
-      "бизнес",
-      "финансы",
-      "charmer"
-    ],
-    "url": "https://m.vedomosti.ru/",
-    "date": 1523872822,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "novosti",
-      "gazeta",
-      "biznes",
-      "finansi",
-      "charmer"
     ],
     "awards": []
   }
