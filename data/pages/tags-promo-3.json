@@ -1,5 +1,24 @@
 [
   {
+    "id": 664,
+    "title": "Дизайн-квартал Флакон",
+    "image": "data/images/664.jpg",
+    "tags": [
+      "промо",
+      "readymag"
+    ],
+    "url": "https://flacon.ru/",
+    "date": 1582112783,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 662,
     "title": "SHOT TV",
     "caption": "SHOT TV\nhttp://www.shot-tv.com/\n\n☆ #тв #промо #whiterussianstudio",
@@ -391,23 +410,6 @@
     ],
     "url": "https://collider.ru/",
     "date": 1563357625,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo"
-    ],
-    "awards": []
-  },
-  {
-    "id": 546,
-    "title": "Бубнёжная «Интроверт»",
-    "image": "data/images/546.jpg",
-    "tags": [
-      "промо"
-    ],
-    "url": "http://introvert.moscow/",
-    "date": 1562320859,
     "edit_date": 1583183812,
     "isHighlighted": false,
     "isRemoved": false,

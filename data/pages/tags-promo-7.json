@@ -1,5 +1,26 @@
 [
   {
+    "id": 132,
+    "title": "Эра-Глонасс",
+    "image": "data/images/132.jpg",
+    "tags": [
+      "промо",
+      "глонасс",
+      "hyundai"
+    ],
+    "url": "https://era.hyundai.ru/",
+    "date": 1522589719,
+    "edit_date": 1583185535,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "glonass",
+      "hyundai"
+    ],
+    "awards": []
+  },
+  {
     "id": 126,
     "title": "Брянский лес",
     "image": "data/images/126.jpg",

@@ -13337,5 +13337,24 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "991": {
+    "id": 991,
+    "title": "Много Лосося",
+    "caption": "Много Лосося\nhttps://mnogolososya.ru/\n\n#промо #приложение #еда #доставка #whiterussianstudio\nСпасибо за ссылку @winkeyless",
+    "image": "991.jpg",
+    "tags": [
+      "промо",
+      "приложение",
+      "еда",
+      "доставка",
+      "whiterussianstudio"
+    ],
+    "url": "https://mnogolososya.ru/",
+    "date": 1631257206,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
