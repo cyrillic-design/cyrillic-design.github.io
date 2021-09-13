@@ -2,20 +2,23 @@
   {
     "id": 993,
     "title": "Charmer Design Unit",
-    "caption": "Charmer Design Unit\nhttps://russian.charmer.design/\n\n#портфолио #readymag\nСпасибо за ссылку @masterlobster",
+    "caption": "Charmer Design Unit\nhttps://russian.charmer.design/\n\n#портфолио #услуги #readymag\nСпасибо за ссылку @masterlobster",
     "image": "data/images/993.jpg",
     "tags": [
       "портфолио",
+      "услуги",
       "readymag"
     ],
     "url": "https://russian.charmer.design/",
     "date": 1631562073,
+    "edit_date": 1631562247,
     "isMonth": false,
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
       "portfolio",
+      "uslugi",
       "readymag"
     ],
     "awards": []
