@@ -1,5 +1,26 @@
 [
   {
+    "id": 706,
+    "title": "Ableton — Learning Music",
+    "caption": "Ableton — Learning Music\nhttps://learningmusic.ableton.com/ru/\n\n#образование #музыка\nСпасибо за ссылку @privet_solnce",
+    "image": "data/images/706.jpg",
+    "tags": [
+      "образование",
+      "музыка"
+    ],
+    "url": "https://learningmusic.ableton.com/ru/",
+    "date": 1586426419,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "muzika"
+    ],
+    "awards": []
+  },
+  {
     "id": 704,
     "title": "Reminder",
     "caption": "Reminder\nhttps://reminder.media/\n\n#медиа #журнал #образование\nСпасибо за ссылку @blinklinks",
@@ -393,25 +414,6 @@
     "url": "https://kamchatka.camp/",
     "date": 1552039217,
     "edit_date": 1583439473,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "meropriyatie"
-    ],
-    "awards": []
-  },
-  {
-    "id": 445,
-    "title": "Как стать дата-журналистом Курс Strelka Mag",
-    "image": "data/images/445.jpg",
-    "tags": [
-      "образование",
-      "мероприятие"
-    ],
-    "url": "https://data-journalism.strelka.com/",
-    "date": 1550743209,
-    "edit_date": 1583185362,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [

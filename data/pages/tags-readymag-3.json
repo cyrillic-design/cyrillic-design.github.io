@@ -1,5 +1,26 @@
 [
   {
+    "id": 874,
+    "title": "Wannabelike",
+    "caption": "Wannabelike\nhttps://wannabelike.ru/\n\n#образование #readymag\nСпасибо за ссылку @blinklinks",
+    "image": "data/images/874.jpg",
+    "tags": [
+      "образование",
+      "readymag"
+    ],
+    "url": "https://wannabelike.ru/",
+    "date": 1610445616,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 871,
     "title": "Новогодний стол от Брикета",
     "caption": "Новогодний стол от Брикета\nhttp://2021.briketmarket.com/\n\n#спецпроект #магазин #readymag",
@@ -448,33 +469,6 @@
       "spetsproekt",
       "readymag",
       "lilyaakhmetova"
-    ],
-    "awards": []
-  },
-  {
-    "id": 789,
-    "title": "Как поёт искусственный интеллект",
-    "caption": "Как поёт искусственный интеллект\nhttps://readymag.com/marykobanenko/musicai/\n\n#спецпроект #музыка #образование #readymag #машакобаненко\nСпасибо за ссылку @marykobanenko",
-    "image": "data/images/789.jpg",
-    "tags": [
-      "спецпроект",
-      "музыка",
-      "образование",
-      "readymag",
-      "машакобаненко"
-    ],
-    "url": "https://readymag.com/marykobanenko/musicai/",
-    "date": 1603455413,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "muzika",
-      "obrazovanie",
-      "readymag",
-      "mashakobanenko"
     ],
     "awards": []
   }
