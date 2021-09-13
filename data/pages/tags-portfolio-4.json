@@ -1,5 +1,22 @@
 [
   {
+    "id": 568,
+    "title": "ROKY",
+    "image": "data/images/568.jpg",
+    "tags": [
+      "портфолио"
+    ],
+    "url": "https://roky.rocks/ru",
+    "date": 1565863251,
+    "edit_date": 1583183812,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio"
+    ],
+    "awards": []
+  },
+  {
     "id": 564,
     "title": "Dreamlaser",
     "image": "data/images/564.jpg",
@@ -343,27 +360,6 @@
     "slugs": [
       "studiya",
       "portfolio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 432,
-    "title": "Embacy",
-    "image": "data/images/432.jpg",
-    "tags": [
-      "портфолио",
-      "спецпроект",
-      "студия"
-    ],
-    "url": "https://embacy.ru/lp/",
-    "date": 1549620019,
-    "edit_date": 1583185362,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio",
-      "spetsproekt",
-      "studiya"
     ],
     "awards": []
   }

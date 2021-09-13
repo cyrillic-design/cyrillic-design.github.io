@@ -1,5 +1,28 @@
 [
   {
+    "id": 792,
+    "title": "Поэзия Всеволода Некрасова",
+    "caption": "Поэзия Всеволода Некрасова\nhttps://readymag.com/lilyakhmetova/poetry/\n\n#спецпроект #readymag #лиляахметова\nСпасибо за ссылку @lilaramilevna",
+    "image": "data/images/792.jpg",
+    "tags": [
+      "спецпроект",
+      "readymag",
+      "лиляахметова"
+    ],
+    "url": "https://readymag.com/lilyakhmetova/poetry/",
+    "date": 1603794558,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "readymag",
+      "lilyaakhmetova"
+    ],
+    "awards": []
+  },
+  {
     "id": 789,
     "title": "Как поёт искусственный интеллект",
     "caption": "Как поёт искусственный интеллект\nhttps://readymag.com/marykobanenko/musicai/\n\n#спецпроект #музыка #образование #readymag #машакобаненко\nСпасибо за ссылку @marykobanenko",
@@ -459,29 +482,6 @@
       "yeda",
       "readymag",
       "kukhnyanaraione"
-    ],
-    "awards": []
-  },
-  {
-    "id": 731,
-    "title": "Графический дизайн — Bang bang education",
-    "caption": "Графический дизайн — Bang bang education\nhttps://graphdesign.bangbangeducation.ru\n\n#образование #мероприятие #readymag \nСпасибо за ссылку @alexgolyanov",
-    "image": "data/images/731.jpg",
-    "tags": [
-      "образование",
-      "мероприятие",
-      "readymag"
-    ],
-    "url": "https://graphdesign.bangbangeducation.ru",
-    "date": 1590756852,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "meropriyatie",
-      "readymag"
     ],
     "awards": []
   }

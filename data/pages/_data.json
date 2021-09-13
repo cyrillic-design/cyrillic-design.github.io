@@ -13372,5 +13372,21 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "993": {
+    "id": 993,
+    "title": "Charmer Design Unit",
+    "caption": "Charmer Design Unit\nhttps://russian.charmer.design/\n\n#портфолио #readymag\nСпасибо за ссылку @masterlobster",
+    "image": "993.jpg",
+    "tags": [
+      "портфолио",
+      "readymag"
+    ],
+    "url": "https://russian.charmer.design/",
+    "date": 1631562073,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
