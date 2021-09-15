@@ -1,5 +1,26 @@
 [
   {
+    "id": 348,
+    "title": "Гусь-Хрустальный",
+    "image": "data/images/348.jpg",
+    "tags": [
+      "город",
+      "люди",
+      "кружок"
+    ],
+    "url": "https://khrustalny.city/",
+    "date": 1541674073,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "gorod",
+      "lyudi",
+      "kruzhok"
+    ],
+    "awards": []
+  },
+  {
     "id": 343,
     "title": "Сбербанк 0411",
     "image": "data/images/343.jpg",

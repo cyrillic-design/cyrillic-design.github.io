@@ -1,5 +1,24 @@
 [
   {
+    "id": 949,
+    "title": "Студия Луч",
+    "caption": "Студия Луч\nhttps://www.loo.ch/\n\n#портфолио",
+    "image": "data/images/949.jpg",
+    "tags": [
+      "портфолио"
+    ],
+    "url": "https://www.loo.ch/",
+    "date": 1622632090,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio"
+    ],
+    "awards": []
+  },
+  {
     "id": 948,
     "title": "balagan",
     "caption": "balagan\nhttp://www.blgn.io/\n\n#портфолио #readymag\nСпасибо за ссылку @polinashevchenko",
@@ -432,27 +451,6 @@
       "obrazovanie",
       "iskusstvo",
       "artlebedev"
-    ],
-    "awards": []
-  },
-  {
-    "id": 923,
-    "title": "Пьесы Ивана Вырыпаева",
-    "caption": "Пьесы Ивана Вырыпаева\nhttps://vyrypaev.com/ru/\n\n#портфолио #eshgruppa",
-    "image": "data/images/923.jpg",
-    "tags": [
-      "портфолио",
-      "eshgruppa"
-    ],
-    "url": "https://vyrypaev.com/ru/",
-    "date": 1620122465,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio",
-      "eshgruppa"
     ],
     "awards": []
   }
