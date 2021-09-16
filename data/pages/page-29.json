@@ -1,22 +1,5 @@
 [
   {
-    "id": 378,
-    "title": "Яндекс.Телефон",
-    "image": "data/images/378.jpg",
-    "tags": [
-      "промо"
-    ],
-    "url": "https://phone.yandex.ru/",
-    "date": 1544003657,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo"
-    ],
-    "awards": []
-  },
-  {
     "id": 375,
     "title": "60 беларускамоўных гітоў сучаснасьці",
     "image": "data/images/375.jpg",
@@ -394,6 +377,27 @@
       "obrazovanie",
       "garage",
       "readymag"
+    ],
+    "awards": []
+  },
+  {
+    "id": 354,
+    "title": "Вакансии Simple",
+    "image": "data/images/354.jpg",
+    "tags": [
+      "каталог",
+      "simple",
+      "pinkman"
+    ],
+    "url": "http://careers.simple.ru/",
+    "date": 1542189650,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "katalog",
+      "simple",
+      "pinkman"
     ],
     "awards": []
   }

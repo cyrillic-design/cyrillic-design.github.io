@@ -1,25 +1,5 @@
 [
   {
-    "id": 464,
-    "title": "Камчатка",
-    "caption": "Камчатка\nhttps://kamchatka.camp/\n\n#образование #мероприятие",
-    "image": "data/images/464.jpg",
-    "tags": [
-      "образование",
-      "мероприятие"
-    ],
-    "url": "https://kamchatka.camp/",
-    "date": 1552039217,
-    "edit_date": 1583439473,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "meropriyatie"
-    ],
-    "awards": []
-  },
-  {
     "id": 463,
     "title": "Журнал Авто.ру",
     "image": "data/images/463.jpg",
@@ -396,6 +376,27 @@
       "servis",
       "shad",
       "yandeks"
+    ],
+    "awards": []
+  },
+  {
+    "id": 440,
+    "title": "Карта плотности населения Москвы",
+    "image": "data/images/440.jpg",
+    "tags": [
+      "данные",
+      "сервис",
+      "urbica"
+    ],
+    "url": "https://agglomerations.org",
+    "date": 1550311217,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "dannie",
+      "servis",
+      "urbica"
     ],
     "awards": []
   }

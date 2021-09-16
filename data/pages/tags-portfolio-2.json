@@ -1,26 +1,5 @@
 [
   {
-    "id": 880,
-    "title": "Spiilka Design Büro",
-    "caption": "Spiilka Design Büro\nhttps://spiilka.com/\n\n#портфолио #tilda",
-    "image": "data/images/880.jpg",
-    "tags": [
-      "портфолио",
-      "tilda"
-    ],
-    "url": "https://spiilka.com/",
-    "date": 1611073571,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio",
-      "tilda"
-    ],
-    "awards": []
-  },
-  {
     "id": 873,
     "title": "Letterdog",
     "caption": "Letterdog\nhttps://letterdog.by/\n\n#портфолио #производство #tilda",
@@ -428,6 +407,27 @@
     "slugs": [
       "portfolio",
       "agentstvo"
+    ],
+    "awards": []
+  },
+  {
+    "id": 751,
+    "title": "PRAGMATICA",
+    "caption": "PRAGMATICA\nhttps://pragmatica.design/\n\n#портфолио #readymag",
+    "image": "data/images/751.jpg",
+    "tags": [
+      "портфолио",
+      "readymag"
+    ],
+    "url": "https://pragmatica.design/",
+    "date": 1595498405,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "readymag"
     ],
     "awards": []
   }

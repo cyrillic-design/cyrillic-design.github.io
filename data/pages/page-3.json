@@ -1,28 +1,5 @@
 [
   {
-    "id": 951,
-    "title": "Antarctica",
-    "caption": "Antarctica\nhttps://antarctica.sloi.clothing/\n\n#спецпроект #магазин #readymag",
-    "image": "data/images/951.jpg",
-    "tags": [
-      "спецпроект",
-      "магазин",
-      "readymag"
-    ],
-    "url": "https://antarctica.sloi.clothing/",
-    "date": 1622833569,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "magazin",
-      "readymag"
-    ],
-    "awards": []
-  },
-  {
     "id": 949,
     "title": "Студия Луч",
     "caption": "Студия Луч\nhttps://www.loo.ch/\n\n#портфолио",
@@ -451,6 +428,29 @@
       "afisha",
       "fullfort",
       "breadhead"
+    ],
+    "awards": []
+  },
+  {
+    "id": 924,
+    "title": "Лаврус",
+    "caption": "Лаврус\nhttps://lavrus.art/\n\n#образование #искусство #artlebedev\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/924.jpg",
+    "tags": [
+      "образование",
+      "искусство",
+      "artlebedev"
+    ],
+    "url": "https://lavrus.art/",
+    "date": 1620198064,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "iskusstvo",
+      "artlebedev"
     ],
     "awards": []
   }

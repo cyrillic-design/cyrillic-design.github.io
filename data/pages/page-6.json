@@ -1,30 +1,5 @@
 [
   {
-    "id": 878,
-    "title": "Носок",
-    "caption": "Носок\nhttps://nosok.localkitchen.ru/\n\n#промо #еда #доставка #readymag",
-    "image": "data/images/878.jpg",
-    "tags": [
-      "промо",
-      "еда",
-      "доставка",
-      "readymag"
-    ],
-    "url": "https://nosok.localkitchen.ru/",
-    "date": 1610812335,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "yeda",
-      "dostavka",
-      "readymag"
-    ],
-    "awards": []
-  },
-  {
     "id": 877,
     "title": "РеФорма",
     "caption": "РеФорма\nhttps://re-forma.org/\n\n#образование #tilda #redis",
@@ -457,6 +432,27 @@
       "finansi",
       "bank",
       "spetsproekt"
+    ],
+    "awards": []
+  },
+  {
+    "id": 856,
+    "title": "Playthings to Love",
+    "caption": "Playthings to Love\nhttps://shop.kotok.toys/\n\n#магазин #vigbo\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/856.jpg",
+    "tags": [
+      "магазин",
+      "vigbo"
+    ],
+    "url": "https://shop.kotok.toys/",
+    "date": 1608112808,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "vigbo"
     ],
     "awards": []
   }

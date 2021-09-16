@@ -1,26 +1,5 @@
 [
   {
-    "id": 995,
-    "title": "Tuman Studio",
-    "caption": "Tuman Studio\nhttps://tumanstudio.com/ru\n\n#портфолио #студия",
-    "image": "data/images/995.jpg",
-    "tags": [
-      "портфолио",
-      "студия"
-    ],
-    "url": "https://tumanstudio.com/ru",
-    "date": 1631775176,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio",
-      "studiya"
-    ],
-    "awards": []
-  },
-  {
     "id": 982,
     "title": "Команда цифрового дизайна PRAGMATICA",
     "caption": "Команда цифрового дизайна PRAGMATICA\nhttps://pragmatica.design/\n\n#портфолио #студия #readymag\nСпасибо за ссылку @censor_online",
@@ -410,6 +389,27 @@
       "portfolio",
       "uslugi",
       "agentstvo"
+    ],
+    "awards": []
+  },
+  {
+    "id": 116,
+    "title": "Sila Sveta",
+    "image": "data/images/116.jpg",
+    "tags": [
+      "студия",
+      "портфолио",
+      "antonandirene"
+    ],
+    "url": "http://ru.silasveta.com/",
+    "date": 1521194406,
+    "edit_date": 1583185535,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "studiya",
+      "portfolio",
+      "antonandirene"
     ],
     "awards": []
   }

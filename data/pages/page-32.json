@@ -1,26 +1,5 @@
 [
   {
-    "id": 313,
-    "title": "New ODS",
-    "image": "data/images/313.jpg",
-    "tags": [
-      "дизайн",
-      "брендинг",
-      "fedoriv"
-    ],
-    "url": "https://new.odesa.aero/",
-    "date": 1538128819,
-    "edit_date": 1583185395,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "dizain",
-      "brending",
-      "fedoriv"
-    ],
-    "awards": []
-  },
-  {
     "id": 312,
     "title": "Бунтарь. Воин. Атеист",
     "image": "data/images/312.jpg",
@@ -408,6 +387,25 @@
     "slugs": [
       "dostavka",
       "yandeks"
+    ],
+    "awards": []
+  },
+  {
+    "id": 293,
+    "title": "The Orator Club",
+    "image": "data/images/293.jpg",
+    "tags": [
+      "образование",
+      "wonderwork"
+    ],
+    "url": "http://orator.club/",
+    "date": 1536426971,
+    "edit_date": 1583185435,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "wonderwork"
     ],
     "awards": []
   }

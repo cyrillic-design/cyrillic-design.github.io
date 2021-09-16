@@ -1,26 +1,5 @@
 [
   {
-    "id": 130,
-    "title": "Новая газета",
-    "image": "data/images/130.jpg",
-    "tags": [
-      "медиа",
-      "новости",
-      "charmer"
-    ],
-    "url": "https://www.novayagazeta.ru/",
-    "date": 1522404020,
-    "edit_date": 1583185535,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "media",
-      "novosti",
-      "charmer"
-    ],
-    "awards": []
-  },
-  {
     "id": 129,
     "title": "Рабочая Станция",
     "image": "data/images/129.jpg",
@@ -415,6 +394,25 @@
       "gosudarstvo",
       "uslugi",
       "rossiya"
+    ],
+    "awards": []
+  },
+  {
+    "id": 110,
+    "title": "Телеканал Супер",
+    "image": "data/images/110.jpg",
+    "tags": [
+      "тв",
+      "медиа"
+    ],
+    "url": "http://superkanal.ru/",
+    "date": 1520676013,
+    "edit_date": 1583185535,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "tv",
+      "media"
     ],
     "awards": []
   }

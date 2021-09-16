@@ -1,26 +1,5 @@
 [
   {
-    "id": 833,
-    "title": "Masha Kasatkina",
-    "caption": "Masha Kasatkina\nhttp://mashakasatkina.com/\n\n#портфолио #readymag",
-    "image": "data/images/833.jpg",
-    "tags": [
-      "портфолио",
-      "readymag"
-    ],
-    "url": "http://mashakasatkina.com/",
-    "date": 1606600480,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio",
-      "readymag"
-    ],
-    "awards": []
-  },
-  {
     "id": 832,
     "title": "Дизайн-бюро «Интуиция»",
     "caption": "Дизайн-бюро «Интуиция»\nhttps://intuition.team/\n\n#портфолио\nСпасибо за ссылку @Dmitry_Shcherbyna",
@@ -450,6 +429,30 @@
     "slugs": [
       "obrazovanie",
       "readymag"
+    ],
+    "awards": []
+  },
+  {
+    "id": 811,
+    "title": "Село Глазок",
+    "caption": "Село Глазок\nhttps://seloglazok.ru/\n\n#спецпроект #образование  #кружок\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/811.jpg",
+    "tags": [
+      "спецпроект",
+      "образование",
+      "кружок"
+    ],
+    "url": "https://seloglazok.ru/",
+    "date": 1604917789,
+    "edit_date": 1604918337,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "obrazovanie",
+      "kruzhok"
     ],
     "awards": []
   }

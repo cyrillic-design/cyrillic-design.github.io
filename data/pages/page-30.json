@@ -1,26 +1,5 @@
 [
   {
-    "id": 354,
-    "title": "Вакансии Simple",
-    "image": "data/images/354.jpg",
-    "tags": [
-      "каталог",
-      "simple",
-      "pinkman"
-    ],
-    "url": "http://careers.simple.ru/",
-    "date": 1542189650,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "katalog",
-      "simple",
-      "pinkman"
-    ],
-    "awards": []
-  },
-  {
     "id": 353,
     "title": "Orient Finans Bank",
     "image": "data/images/353.jpg",
@@ -408,6 +387,27 @@
       "servis",
       "dostavka",
       "yeda"
+    ],
+    "awards": []
+  },
+  {
+    "id": 333,
+    "title": "TIMELESS",
+    "image": "data/images/333.jpg",
+    "tags": [
+      "промо",
+      "история",
+      "авто"
+    ],
+    "url": "https://www.timeless.ee/?lang=rus",
+    "date": 1540375216,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "istoriya",
+      "avto"
     ],
     "awards": []
   }
