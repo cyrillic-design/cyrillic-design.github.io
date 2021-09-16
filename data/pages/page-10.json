@@ -1,5 +1,28 @@
 [
   {
+    "id": 786,
+    "title": "Antyfest",
+    "caption": "Antyfest\nhttps://antyfest.ru/\n\n#благотворительность #музыка #voskhoddigital",
+    "image": "data/images/786.jpg",
+    "tags": [
+      "благотворительность",
+      "музыка",
+      "voskhoddigital"
+    ],
+    "url": "https://antyfest.ru/",
+    "date": 1602928811,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "blagotvoritelnost",
+      "muzika",
+      "voskhoddigital"
+    ],
+    "awards": []
+  },
+  {
     "id": 785,
     "title": "егэ-хаус",
     "caption": "егэ-хаус\nhttp://egehouse.webium.ru/\n\n#мероприятие #образование #tilda #камчатка\nСпасибо за ссылку @kirilltarelkin",
@@ -443,31 +466,6 @@
       "servis",
       "gosudarstvo",
       "lyudi"
-    ],
-    "awards": []
-  },
-  {
-    "id": 766,
-    "title": "igooods",
-    "caption": "igooods\nhttps://msk.igooods.ru/\n\n#сервис #приложение #доставка #еда",
-    "image": "data/images/766.jpg",
-    "tags": [
-      "сервис",
-      "приложение",
-      "доставка",
-      "еда"
-    ],
-    "url": "https://msk.igooods.ru/",
-    "date": 1599818410,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "prilozhenie",
-      "dostavka",
-      "yeda"
     ],
     "awards": []
   }
