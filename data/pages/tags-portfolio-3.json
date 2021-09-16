@@ -1,5 +1,26 @@
 [
   {
+    "id": 751,
+    "title": "PRAGMATICA",
+    "caption": "PRAGMATICA\nhttps://pragmatica.design/\n\n#портфолио #readymag",
+    "image": "data/images/751.jpg",
+    "tags": [
+      "портфолио",
+      "readymag"
+    ],
+    "url": "https://pragmatica.design/",
+    "date": 1595498405,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 739,
     "title": "UR BUREAU",
     "caption": "UR BUREAU\nhttps://ur-bureau.com/\n\n#портфолио #readymag #octo\nСпасибо за ссылку @trnsstr",
@@ -379,23 +400,6 @@
       "magazin",
       "portfolio",
       "designworkout"
-    ],
-    "awards": []
-  },
-  {
-    "id": 585,
-    "title": "Orientir Moscow",
-    "image": "data/images/585.jpg",
-    "tags": [
-      "портфолио"
-    ],
-    "url": "https://orntr.com/",
-    "date": 1568282435,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio"
     ],
     "awards": []
   }
