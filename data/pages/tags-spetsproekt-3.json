@@ -1,5 +1,32 @@
 [
   {
+    "id": 789,
+    "title": "Как поёт искусственный интеллект",
+    "caption": "Как поёт искусственный интеллект\nhttps://readymag.com/marykobanenko/musicai/\n\n#спецпроект #музыка #образование #readymag #машакобаненко\nСпасибо за ссылку @marykobanenko",
+    "image": "data/images/789.jpg",
+    "tags": [
+      "спецпроект",
+      "музыка",
+      "образование",
+      "readymag",
+      "машакобаненко"
+    ],
+    "url": "https://readymag.com/marykobanenko/musicai/",
+    "date": 1603455413,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "muzika",
+      "obrazovanie",
+      "readymag",
+      "mashakobanenko"
+    ],
+    "awards": []
+  },
+  {
     "id": 777,
     "title": "ИИ И КИНО",
     "caption": "ИИ И КИНО\nhttps://readymag.com/u799818405/2146390/\n\n#спецпроект #readymag",
@@ -475,32 +502,6 @@
       "eggsellent",
       "kukhnyanaraione",
       "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 688,
-    "title": "hochiminh",
-    "caption": "hochiminh\nhttps://readymag.com/u64480371/1549696/\n\n☆ #спецпроект #культура #readymag #анастасиябурякова",
-    "image": "data/images/688.jpg",
-    "tags": [
-      "спецпроект",
-      "культура",
-      "readymag",
-      "анастасиябурякова"
-    ],
-    "url": "https://readymag.com/u64480371/1549696/",
-    "date": 1584266458,
-    "edit_date": 1584347798,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "kultura",
-      "readymag",
-      "anastasiyaburyakova"
     ],
     "awards": []
   }

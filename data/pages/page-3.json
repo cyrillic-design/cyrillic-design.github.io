@@ -1,5 +1,29 @@
 [
   {
+    "id": 952,
+    "title": "Журнал Буду",
+    "caption": "Журнал Буду\nhttps://journal.budu.jobs/\n\n#журнал #hr #webflow\nСпасибо за ссылку @iarromanov",
+    "image": "data/images/952.jpg",
+    "tags": [
+      "журнал",
+      "hr",
+      "webflow"
+    ],
+    "url": "https://journal.budu.jobs/",
+    "date": 1623138971,
+    "edit_date": 1623139022,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "hr",
+      "webflow"
+    ],
+    "awards": []
+  },
+  {
     "id": 951,
     "title": "Antarctica",
     "caption": "Antarctica\nhttps://antarctica.sloi.clothing/\n\n#спецпроект #магазин #readymag",
@@ -423,34 +447,6 @@
       "proizvodstvo",
       "magazin",
       "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 925,
-    "title": "Севкабель Порт",
-    "caption": "Севкабель Порт\nhttps://sevcableport.ru/ru\n\n#город #мероприятие #афиша #fullfort #breadhead",
-    "image": "data/images/925.jpg",
-    "tags": [
-      "город",
-      "мероприятие",
-      "афиша",
-      "fullfort",
-      "breadhead"
-    ],
-    "url": "https://sevcableport.ru/ru",
-    "date": 1620208868,
-    "edit_date": 1620286748,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "gorod",
-      "meropriyatie",
-      "afisha",
-      "fullfort",
-      "breadhead"
     ],
     "awards": []
   }

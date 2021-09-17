@@ -1,5 +1,28 @@
 [
   {
+    "id": 997,
+    "title": "М-464: нераспознаваемая индивидуальность",
+    "caption": "М-464: нераспознаваемая индивидуальность\nhttps://m464.leta.today/\n\n#спецпроект #readymag #павелкедич\nСпасибо за ссылку @readymag_official",
+    "image": "data/images/997.jpg",
+    "tags": [
+      "спецпроект",
+      "readymag",
+      "павелкедич"
+    ],
+    "url": "https://m464.leta.today/",
+    "date": 1631884136,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "readymag",
+      "pavelkedich"
+    ],
+    "awards": []
+  },
+  {
     "id": 983,
     "title": "Дом устаревших проектов",
     "caption": "Дом устаревших проектов\nhttps://belpromproekt.leta.today/\n\n#спецпроект #readymag #павелкедич",
@@ -452,31 +475,6 @@
     "slugs": [
       "spetsproekt",
       "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 896,
-    "title": "Иосиф Бродский. Продолжение пространства",
-    "caption": "Иосиф Бродский. Продолжение пространства\nhttps://josephbrodsky.space/\n\n#спецпроект #история #readymag #иванкардашев",
-    "image": "data/images/896.jpg",
-    "tags": [
-      "спецпроект",
-      "история",
-      "readymag",
-      "иванкардашев"
-    ],
-    "url": "https://josephbrodsky.space/",
-    "date": 1614797607,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "istoriya",
-      "readymag",
-      "ivankardashev"
     ],
     "awards": []
   }

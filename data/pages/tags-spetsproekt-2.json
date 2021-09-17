@@ -1,5 +1,30 @@
 [
   {
+    "id": 896,
+    "title": "Иосиф Бродский. Продолжение пространства",
+    "caption": "Иосиф Бродский. Продолжение пространства\nhttps://josephbrodsky.space/\n\n#спецпроект #история #readymag #иванкардашев",
+    "image": "data/images/896.jpg",
+    "tags": [
+      "спецпроект",
+      "история",
+      "readymag",
+      "иванкардашев"
+    ],
+    "url": "https://josephbrodsky.space/",
+    "date": 1614797607,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "istoriya",
+      "readymag",
+      "ivankardashev"
+    ],
+    "awards": []
+  },
+  {
     "id": 894,
     "title": "Chornobyl",
     "caption": "Chornobyl\nhttps://chornobyl.today/\n\n#спецпроект #история #otherland #banda",
@@ -451,33 +476,6 @@
       "spetsproekt",
       "obrazovanie",
       "kruzhok"
-    ],
-    "awards": []
-  },
-  {
-    "id": 789,
-    "title": "Как поёт искусственный интеллект",
-    "caption": "Как поёт искусственный интеллект\nhttps://readymag.com/marykobanenko/musicai/\n\n#спецпроект #музыка #образование #readymag #машакобаненко\nСпасибо за ссылку @marykobanenko",
-    "image": "data/images/789.jpg",
-    "tags": [
-      "спецпроект",
-      "музыка",
-      "образование",
-      "readymag",
-      "машакобаненко"
-    ],
-    "url": "https://readymag.com/marykobanenko/musicai/",
-    "date": 1603455413,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "muzika",
-      "obrazovanie",
-      "readymag",
-      "mashakobanenko"
     ],
     "awards": []
   }

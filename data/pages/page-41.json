@@ -1,5 +1,28 @@
 [
   {
+    "id": 131,
+    "title": "Locals",
+    "image": "data/images/131.jpg",
+    "tags": [
+      "недвижимость",
+      "аренда",
+      "услуги",
+      "genue"
+    ],
+    "url": "https://thelocals.ru/",
+    "date": 1522490411,
+    "edit_date": 1583185535,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "nedvizhimost",
+      "arenda",
+      "uslugi",
+      "genue"
+    ],
+    "awards": []
+  },
+  {
     "id": 130,
     "title": "Новая газета",
     "image": "data/images/130.jpg",
@@ -394,27 +417,6 @@
       "spetsproekt",
       "gastronomiya",
       "dzendizain"
-    ],
-    "awards": []
-  },
-  {
-    "id": 111,
-    "title": "Почта России",
-    "image": "data/images/111.jpg",
-    "tags": [
-      "государство",
-      "услуги",
-      "россия"
-    ],
-    "url": "https://www.pochta.ru/",
-    "date": 1520762408,
-    "edit_date": 1583185535,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "gosudarstvo",
-      "uslugi",
-      "rossiya"
     ],
     "awards": []
   }

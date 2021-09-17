@@ -1,5 +1,30 @@
 [
   {
+    "id": 487,
+    "title": "Работяга",
+    "image": "data/images/487.jpg",
+    "tags": [
+      "промо",
+      "игра",
+      "финансы",
+      "банк",
+      "рокетбанк"
+    ],
+    "url": "https://rabotyaga.rocketbank.ru/",
+    "date": 1554112835,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "igra",
+      "finansi",
+      "bank",
+      "roketbank"
+    ],
+    "awards": []
+  },
+  {
     "id": 486,
     "title": "GLYF",
     "image": "data/images/486.jpg",
@@ -374,27 +399,6 @@
     "slugs": [
       "servis",
       "chulakov"
-    ],
-    "awards": []
-  },
-  {
-    "id": 465,
-    "title": "AZBUKA",
-    "image": "data/images/465.jpg",
-    "tags": [
-      "выставка",
-      "спецпроект",
-      "дворулица"
-    ],
-    "url": "http://azbuka.dvorulitsa.moscow/",
-    "date": 1552125620,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "vistavka",
-      "spetsproekt",
-      "dvorulitsa"
     ],
     "awards": []
   }
