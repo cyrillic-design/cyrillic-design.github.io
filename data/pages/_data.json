@@ -13460,5 +13460,21 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "998": {
+    "id": 998,
+    "title": "Хроника Музея современного искусства «Гараж»",
+    "caption": "Хроника Музея современного искусства «Гараж»\nhttps://chronicle.garagemca.org/\n\n#спецпроект #история",
+    "image": "998.jpg",
+    "tags": [
+      "спецпроект",
+      "история"
+    ],
+    "url": "https://chronicle.garagemca.org/",
+    "date": 1631973323,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

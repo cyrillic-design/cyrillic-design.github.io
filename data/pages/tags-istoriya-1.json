@@ -1,5 +1,26 @@
 [
   {
+    "id": 998,
+    "title": "Хроника Музея современного искусства «Гараж»",
+    "caption": "Хроника Музея современного искусства «Гараж»\nhttps://chronicle.garagemca.org/\n\n#спецпроект #история",
+    "image": "data/images/998.jpg",
+    "tags": [
+      "спецпроект",
+      "история"
+    ],
+    "url": "https://chronicle.garagemca.org/",
+    "date": 1631973323,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "istoriya"
+    ],
+    "awards": []
+  },
+  {
     "id": 959,
     "title": "Про Егорьевск",
     "caption": "Про Егорьевск\nhttps://proegoryevsk.ru/\n\n#музей #город #история #спецпроект #tilda #naaustudio\nСпасибо за ссылку @leoleonov",
@@ -470,36 +491,6 @@
       "spetsproekt",
       "istoriya",
       "diletant"
-    ],
-    "awards": []
-  },
-  {
-    "id": 755,
-    "title": "Территория Авангарда",
-    "caption": "Территория Авангарда\nhttps://avantgarde-territory.com/\n\n#спецпроект #мероприятие #искусство #история #readymag #nadyapetrova",
-    "image": "data/images/755.jpg",
-    "tags": [
-      "спецпроект",
-      "мероприятие",
-      "искусство",
-      "история",
-      "readymag",
-      "nadyapetrova"
-    ],
-    "url": "https://avantgarde-territory.com/",
-    "date": 1595844010,
-    "edit_date": 1604558751,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "meropriyatie",
-      "iskusstvo",
-      "istoriya",
-      "readymag",
-      "nadyapetrova"
     ],
     "awards": []
   }

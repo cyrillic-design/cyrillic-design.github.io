@@ -1,5 +1,26 @@
 [
   {
+    "id": 998,
+    "title": "Хроника Музея современного искусства «Гараж»",
+    "caption": "Хроника Музея современного искусства «Гараж»\nhttps://chronicle.garagemca.org/\n\n#спецпроект #история",
+    "image": "data/images/998.jpg",
+    "tags": [
+      "спецпроект",
+      "история"
+    ],
+    "url": "https://chronicle.garagemca.org/",
+    "date": 1631973323,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "istoriya"
+    ],
+    "awards": []
+  },
+  {
     "id": 997,
     "title": "М-464: нераспознаваемая индивидуальность",
     "caption": "М-464: нераспознаваемая индивидуальность\nhttps://m464.leta.today/\n\n#спецпроект #readymag #павелкедич\nСпасибо за ссылку @readymag_official",
@@ -453,28 +474,6 @@
       "yeda",
       "readymag",
       "kukhnyanaraione"
-    ],
-    "awards": []
-  },
-  {
-    "id": 897,
-    "title": "leta",
-    "caption": "leta\nhttps://leta.today/\n\n#спецпроект #readymag",
-    "image": "data/images/897.jpg",
-    "tags": [
-      "спецпроект",
-      "readymag"
-    ],
-    "url": "https://leta.today/",
-    "date": 1615637366,
-    "edit_date": 1615662442,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "readymag"
     ],
     "awards": []
   }
