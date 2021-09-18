@@ -13464,14 +13464,16 @@
   "998": {
     "id": 998,
     "title": "Хроника Музея современного искусства «Гараж»",
-    "caption": "Хроника Музея современного искусства «Гараж»\nhttps://chronicle.garagemca.org/\n\n#спецпроект #история",
+    "caption": "Хроника Музея современного искусства «Гараж»\nhttps://chronicle.garagemca.org/\n\n#спецпроект #история #павелкедич",
     "image": "998.jpg",
     "tags": [
       "спецпроект",
-      "история"
+      "история",
+      "павелкедич"
     ],
     "url": "https://chronicle.garagemca.org/",
     "date": 1631973323,
+    "edit_date": 1631973397,
     "isMonth": false,
     "isYear": false,
     "isHighlighted": false,
