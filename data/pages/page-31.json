@@ -1,5 +1,26 @@
 [
   {
+    "id": 336,
+    "title": "Блог Tilda Publishing",
+    "image": "data/images/336.jpg",
+    "tags": [
+      "новости",
+      "сервис",
+      "tilda"
+    ],
+    "url": "http://blog.tilda.cc/",
+    "date": 1540634406,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "novosti",
+      "servis",
+      "tilda"
+    ],
+    "awards": []
+  },
+  {
     "id": 335,
     "title": "Глюкометр Сателлит Экспресс",
     "image": "data/images/335.jpg",
@@ -387,27 +408,6 @@
     "slugs": [
       "spetsproekt",
       "lentaru"
-    ],
-    "awards": []
-  },
-  {
-    "id": 316,
-    "title": "dev by",
-    "image": "data/images/316.jpg",
-    "tags": [
-      "ит",
-      "новости",
-      "skdo"
-    ],
-    "url": "https://dev.by/",
-    "date": 1538388008,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "it",
-      "novosti",
-      "skdo"
     ],
     "awards": []
   }

@@ -1,5 +1,24 @@
 [
   {
+    "id": 390,
+    "title": "СУВЕНИР-3",
+    "image": "data/images/390.jpg",
+    "tags": [
+      "музыка",
+      "whiterussianstudio"
+    ],
+    "url": "http://souvenirjazz.com/",
+    "date": 1544954410,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "muzika",
+      "whiterussianstudio"
+    ],
+    "awards": []
+  },
+  {
     "id": 386,
     "title": "Карабинович",
     "image": "data/images/386.jpg",
