@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1001,
+    "title": "BoldItalic",
+    "caption": "BoldItalic\nhttps://bolditalic.type.school\n\n#образование #мероприятие #tilda #дмитрийопалев\nСпасибо за ссылку @masterlobster",
+    "image": "data/images/1001.jpg",
+    "tags": [
+      "образование",
+      "мероприятие",
+      "tilda",
+      "дмитрийопалев"
+    ],
+    "url": "https://bolditalic.type.school",
+    "date": 1632333473,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "meropriyatie",
+      "tilda",
+      "dmitriiopalev"
+    ],
+    "awards": []
+  }
+]
