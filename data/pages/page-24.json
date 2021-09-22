@@ -1,24 +1,5 @@
 [
   {
-    "id": 490,
-    "title": "Высокая кухня на районе",
-    "image": "data/images/490.jpg",
-    "tags": [
-      "еда",
-      "промо"
-    ],
-    "url": "https://high.localkitchen.ru/",
-    "date": 1554372028,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "yeda",
-      "promo"
-    ],
-    "awards": []
-  },
-  {
     "id": 489,
     "title": "DataFork",
     "image": "data/images/489.jpg",
@@ -400,6 +381,27 @@
       "prilozhenie",
       "bank",
       "finansi"
+    ],
+    "awards": []
+  },
+  {
+    "id": 468,
+    "title": "Sense",
+    "image": "data/images/468.jpg",
+    "tags": [
+      "медиа",
+      "образование",
+      "otherland"
+    ],
+    "url": "https://sense.community/ru/",
+    "date": 1552384825,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "media",
+      "obrazovanie",
+      "otherland"
     ],
     "awards": []
   }

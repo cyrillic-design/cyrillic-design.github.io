@@ -1,25 +1,5 @@
 [
   {
-    "id": 464,
-    "title": "Камчатка",
-    "caption": "Камчатка\nhttps://kamchatka.camp/\n\n#образование #мероприятие",
-    "image": "data/images/464.jpg",
-    "tags": [
-      "образование",
-      "мероприятие"
-    ],
-    "url": "https://kamchatka.camp/",
-    "date": 1552039217,
-    "edit_date": 1583439473,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "meropriyatie"
-    ],
-    "awards": []
-  },
-  {
     "id": 445,
     "title": "Как стать дата-журналистом Курс Strelka Mag",
     "image": "data/images/445.jpg",
@@ -393,6 +373,25 @@
     "isRemoved": false,
     "slugs": [
       "obrazovanie"
+    ],
+    "awards": []
+  },
+  {
+    "id": 250,
+    "title": "Майбутні",
+    "image": "data/images/250.jpg",
+    "tags": [
+      "образование",
+      "spiilka"
+    ],
+    "url": "http://maibutni.com.ua/",
+    "date": 1532772008,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "spiilka"
     ],
     "awards": []
   }

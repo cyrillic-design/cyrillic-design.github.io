@@ -1,28 +1,5 @@
 [
   {
-    "id": 790,
-    "title": "Деревня Сардаял",
-    "caption": "Деревня Сардаял\nhttps://sardayal.ru/\n\n#спецпроект #образование #кружок",
-    "image": "data/images/790.jpg",
-    "tags": [
-      "спецпроект",
-      "образование",
-      "кружок"
-    ],
-    "url": "https://sardayal.ru/",
-    "date": 1603537567,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "obrazovanie",
-      "kruzhok"
-    ],
-    "awards": []
-  },
-  {
     "id": 789,
     "title": "Как поёт искусственный интеллект",
     "caption": "Как поёт искусственный интеллект\nhttps://readymag.com/marykobanenko/musicai/\n\n#спецпроект #музыка #образование #readymag #машакобаненко\nСпасибо за ссылку @marykobanenko",
@@ -459,6 +436,30 @@
     "slugs": [
       "spetsproekt",
       "annasherryuble"
+    ],
+    "awards": []
+  },
+  {
+    "id": 770,
+    "title": "EPICA",
+    "caption": "EPICA\nhttps://epica.ru/\n\n#промо #еда #dadacreative\nСпасибо за ссылку @stasplkv",
+    "image": "data/images/770.jpg",
+    "tags": [
+      "промо",
+      "еда",
+      "dadacreative"
+    ],
+    "url": "https://epica.ru/",
+    "date": 1600249630,
+    "edit_date": 1600903684,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "yeda",
+      "dadacreative"
     ],
     "awards": []
   }

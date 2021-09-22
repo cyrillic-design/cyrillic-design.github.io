@@ -1,26 +1,5 @@
 [
   {
-    "id": 578,
-    "title": "Письма врагов народа",
-    "image": "data/images/578.jpg",
-    "tags": [
-      "спецпроект",
-      "readymag",
-      "такиедела"
-    ],
-    "url": "http://vraginaroda.takiedela.ru/",
-    "date": 1567850410,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "readymag",
-      "takiedela"
-    ],
-    "awards": []
-  },
-  {
     "id": 577,
     "title": "Фестиваль Petshop Days",
     "image": "data/images/577.jpg",
@@ -384,6 +363,26 @@
     "isRemoved": false,
     "slugs": [
       "spetsproekt"
+    ],
+    "awards": []
+  },
+  {
+    "id": 557,
+    "title": "WRS99",
+    "caption": "WRS99\nhttps://wrs99.store\n\n#промо #whiterussianstudio",
+    "image": "data/images/557.jpg",
+    "tags": [
+      "промо",
+      "whiterussianstudio"
+    ],
+    "url": "https://wrs99.store",
+    "date": 1564048826,
+    "edit_date": 1583423516,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "whiterussianstudio"
     ],
     "awards": []
   }

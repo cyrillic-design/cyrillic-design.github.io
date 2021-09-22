@@ -1,29 +1,5 @@
 [
   {
-    "id": 655,
-    "title": "ExperimentFest + Яндекс.Практикум",
-    "caption": "ExperimentFest + Яндекс.Практикум\nhttps://www.experiment-fest.ru/\n\n☆ #мероприятие #яндекс #викторакифьев #tilda\n♡ @AndyAbramov",
-    "image": "data/images/655.jpg",
-    "tags": [
-      "мероприятие",
-      "яндекс",
-      "викторакифьев",
-      "tilda"
-    ],
-    "url": "https://www.experiment-fest.ru/",
-    "date": 1579255225,
-    "edit_date": 1583687238,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "meropriyatie",
-      "yandeks",
-      "viktorakifev",
-      "tilda"
-    ],
-    "awards": []
-  },
-  {
     "id": 650,
     "title": "Лекторий Skillbox",
     "image": "data/images/650.jpg",
@@ -393,6 +369,26 @@
       "meropriyatie",
       "afisha",
       "teatr"
+    ],
+    "awards": []
+  },
+  {
+    "id": 419,
+    "title": "Pop Farm",
+    "caption": "Pop Farm\nhttps://popfarm.ru/\n\n#музыка #мероприятие",
+    "image": "data/images/419.jpg",
+    "tags": [
+      "музыка",
+      "мероприятие"
+    ],
+    "url": "https://popfarm.ru/",
+    "date": 1548237624,
+    "edit_date": 1583439439,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "muzika",
+      "meropriyatie"
     ],
     "awards": []
   }

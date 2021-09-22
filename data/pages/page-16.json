@@ -1,27 +1,5 @@
 [
   {
-    "id": 663,
-    "title": "Я себя люблю",
-    "caption": "Я себя люблю\nhttps://ilovemyself.kultrab.com/\n\n☆ #спецпроект #readymag #таняегошина",
-    "image": "data/images/663.jpg",
-    "tags": [
-      "спецпроект",
-      "readymag",
-      "таняегошина"
-    ],
-    "url": "https://ilovemyself.kultrab.com/",
-    "date": 1582020052,
-    "edit_date": 1605315087,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "readymag",
-      "tanyaegoshina"
-    ],
-    "awards": []
-  },
-  {
     "id": 662,
     "title": "SHOT TV",
     "caption": "SHOT TV\nhttp://www.shot-tv.com/\n\n☆ #тв #промо #whiterussianstudio",
@@ -415,6 +393,27 @@
       "kinopoisk",
       "yandeks",
       "embacy"
+    ],
+    "awards": []
+  },
+  {
+    "id": 642,
+    "title": "Tilda Podcast",
+    "image": "data/images/642.jpg",
+    "tags": [
+      "подкаст",
+      "промо",
+      "tilda"
+    ],
+    "url": "http://tilda.education/podcast",
+    "date": 1577008813,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "podkast",
+      "promo",
+      "tilda"
     ],
     "awards": []
   }

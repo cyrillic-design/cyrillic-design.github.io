@@ -1,30 +1,5 @@
 [
   {
-    "id": 815,
-    "title": "Мир Достоевского",
-    "caption": "Мир Достоевского\nhttps://dostoevskyworld.ru/\n\n#спецпроект #история #культура #artlebedev\nСпасибо за ссылку @Donteventextme",
-    "image": "data/images/815.jpg",
-    "tags": [
-      "спецпроект",
-      "история",
-      "культура",
-      "artlebedev"
-    ],
-    "url": "https://dostoevskyworld.ru/",
-    "date": 1605261627,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "istoriya",
-      "kultura",
-      "artlebedev"
-    ],
-    "awards": []
-  },
-  {
     "id": 814,
     "title": "Кристина Колесникова",
     "caption": "Кристина Колесникова\nhttps://kriskol.ru/\n\n#образование #tilda",
@@ -449,6 +424,29 @@
       "meropriyatie",
       "finansi",
       "bank"
+    ],
+    "awards": []
+  },
+  {
+    "id": 790,
+    "title": "Деревня Сардаял",
+    "caption": "Деревня Сардаял\nhttps://sardayal.ru/\n\n#спецпроект #образование #кружок",
+    "image": "data/images/790.jpg",
+    "tags": [
+      "спецпроект",
+      "образование",
+      "кружок"
+    ],
+    "url": "https://sardayal.ru/",
+    "date": 1603537567,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "obrazovanie",
+      "kruzhok"
     ],
     "awards": []
   }

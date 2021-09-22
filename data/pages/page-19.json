@@ -1,24 +1,5 @@
 [
   {
-    "id": 602,
-    "title": "Briket Market",
-    "image": "data/images/602.jpg",
-    "tags": [
-      "заглушка",
-      "мероприятие"
-    ],
-    "url": "https://briketmarket.com/",
-    "date": 1570960829,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "zaglushka",
-      "meropriyatie"
-    ],
-    "awards": []
-  },
-  {
     "id": 601,
     "title": "Исаак Левитан",
     "image": "data/images/601.jpg",
@@ -381,6 +362,27 @@
     "isRemoved": false,
     "slugs": [
       "magazin"
+    ],
+    "awards": []
+  },
+  {
+    "id": 578,
+    "title": "Письма врагов народа",
+    "image": "data/images/578.jpg",
+    "tags": [
+      "спецпроект",
+      "readymag",
+      "такиедела"
+    ],
+    "url": "http://vraginaroda.takiedela.ru/",
+    "date": 1567850410,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "readymag",
+      "takiedela"
     ],
     "awards": []
   }

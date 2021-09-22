@@ -1,24 +1,5 @@
 [
   {
-    "id": 535,
-    "title": "Эко Окна",
-    "image": "data/images/535.jpg",
-    "tags": [
-      "промо",
-      "совет"
-    ],
-    "url": "https://ecookna21.ru/",
-    "date": 1560938439,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "sovet"
-    ],
-    "awards": []
-  },
-  {
     "id": 534,
     "title": "Worki",
     "image": "data/images/534.jpg",
@@ -386,6 +367,25 @@
       "spetsproekt",
       "belarus",
       "alekseicherenkevich"
+    ],
+    "awards": []
+  },
+  {
+    "id": 513,
+    "title": "ПИК Медиа",
+    "image": "data/images/513.jpg",
+    "tags": [
+      "журнал",
+      "пик"
+    ],
+    "url": "https://pik.media/",
+    "date": 1558519213,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "pik"
     ],
     "awards": []
   }

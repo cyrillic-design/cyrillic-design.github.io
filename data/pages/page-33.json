@@ -1,24 +1,5 @@
 [
   {
-    "id": 297,
-    "title": "Биохакинг сквозь века",
-    "image": "data/images/297.jpg",
-    "tags": [
-      "спецпроект",
-      "батенькадавытрансформер"
-    ],
-    "url": "http://bio.batenka.ru/",
-    "date": 1536746419,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "batenkadavitransformer"
-    ],
-    "awards": []
-  },
-  {
     "id": 296,
     "title": "Литературный конкурс «Будущее время»",
     "image": "data/images/296.jpg",
@@ -407,6 +388,25 @@
     "slugs": [
       "promo",
       "magazin"
+    ],
+    "awards": []
+  },
+  {
+    "id": 277,
+    "title": "Чердак",
+    "image": "data/images/277.jpg",
+    "tags": [
+      "сервис",
+      "orientir"
+    ],
+    "url": "https://cherdak.io/",
+    "date": 1535018418,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "orientir"
     ],
     "awards": []
   }

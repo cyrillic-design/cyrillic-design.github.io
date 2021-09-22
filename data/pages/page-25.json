@@ -1,26 +1,5 @@
 [
   {
-    "id": 468,
-    "title": "Sense",
-    "image": "data/images/468.jpg",
-    "tags": [
-      "медиа",
-      "образование",
-      "otherland"
-    ],
-    "url": "https://sense.community/ru/",
-    "date": 1552384825,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "media",
-      "obrazovanie",
-      "otherland"
-    ],
-    "awards": []
-  },
-  {
     "id": 467,
     "title": "Мятный JOE",
     "caption": "Мятный JOE\nhttps://mintijoe.ru/\n\n#промо #prominado",
@@ -396,6 +375,25 @@
     "slugs": [
       "obrazovanie",
       "meropriyatie"
+    ],
+    "awards": []
+  },
+  {
+    "id": 444,
+    "title": "Студия Артемия Лебедева",
+    "image": "data/images/444.jpg",
+    "tags": [
+      "студия",
+      "портфолио"
+    ],
+    "url": "https://www.artlebedev.ru/",
+    "date": 1550656838,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "studiya",
+      "portfolio"
     ],
     "awards": []
   }

@@ -1,28 +1,5 @@
 [
   {
-    "id": 835,
-    "title": "",
-    "caption": "zerno.school\nhttps://zerno.school/\n\n#образование #readymag #машакасаткина\nСпасибо за ссылку @Dmitry_Shcherbyna",
-    "image": "data/images/835.jpg",
-    "tags": [
-      "образование",
-      "readymag",
-      "машакасаткина"
-    ],
-    "url": "https://zerno.school/",
-    "date": 1606802407,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "readymag",
-      "mashakasatkina"
-    ],
-    "awards": []
-  },
-  {
     "id": 820,
     "title": "LEVEL UP FORUM",
     "caption": "LEVEL UP FORUM\nhttps://levelup-forum.ru/\n\n#мероприятие #образование #tilda #никитаковров",
@@ -470,6 +447,27 @@
       "otchet",
       "readymag",
       "artemtarasov"
+    ],
+    "awards": []
+  },
+  {
+    "id": 709,
+    "title": "Wanna be like Rozov",
+    "caption": "Wanna be like Rozov\nhttps://wannabelike.ru/rozov/\n\n#образование #мероприятие",
+    "image": "data/images/709.jpg",
+    "tags": [
+      "образование",
+      "мероприятие"
+    ],
+    "url": "https://wannabelike.ru/rozov/",
+    "date": 1586685615,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "meropriyatie"
     ],
     "awards": []
   }
