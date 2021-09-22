@@ -13498,5 +13498,23 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "1000": {
+    "id": 1000,
+    "title": "BoldItalic",
+    "caption": "BoldItalic\nhttps://bolditalic.type.school\n\n#образование #мероприятие #tilda #дмитрийопалев\nСпасибо за ссылку @masterlobster",
+    "image": "1000.jpg",
+    "tags": [
+      "образование",
+      "мероприятие",
+      "tilda",
+      "дмитрийопалев"
+    ],
+    "url": "https://bolditalic.type.school",
+    "date": 1632305878,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
