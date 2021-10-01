@@ -1,5 +1,22 @@
 [
   {
+    "id": 256,
+    "title": "MADS",
+    "image": "data/images/256.jpg",
+    "tags": [
+      "образование"
+    ],
+    "url": "https://madscourses.ru/",
+    "date": 1533290421,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie"
+    ],
+    "awards": []
+  },
+  {
     "id": 250,
     "title": "Майбутні",
     "image": "data/images/250.jpg",

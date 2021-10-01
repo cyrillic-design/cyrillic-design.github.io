@@ -1,5 +1,26 @@
 [
   {
+    "id": 1002,
+    "title": "Skysmart",
+    "caption": "Skysmart\nhttps://skysmart.ru\n\n#образование #сервис\nСпасибо за ссылку @kirilltarelkin",
+    "image": "data/images/1002.jpg",
+    "tags": [
+      "образование",
+      "сервис"
+    ],
+    "url": "https://skysmart.ru",
+    "date": 1633083431,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "servis"
+    ],
+    "awards": []
+  },
+  {
     "id": 994,
     "title": "Noôdome",
     "caption": "Noôdome\nhttps://noodome.club/\n\n#сервис #бизнес #мероприятие #люди #whiterussianstudio\nСпасибо за ссылку @tim_or_timofey",
@@ -441,30 +462,6 @@
       "servis",
       "typical",
       "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 767,
-    "title": "Державні послуги онлайн | Дія",
-    "caption": "Державні послуги онлайн | Дія\nhttps://diia.gov.ua/\n\n#сервис #государство #люди\nСпасибо за ссылку @AndyAbramov",
-    "image": "data/images/767.jpg",
-    "tags": [
-      "сервис",
-      "государство",
-      "люди"
-    ],
-    "url": "https://diia.gov.ua/",
-    "date": 1599904831,
-    "edit_date": 1600174311,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "gosudarstvo",
-      "lyudi"
     ],
     "awards": []
   }

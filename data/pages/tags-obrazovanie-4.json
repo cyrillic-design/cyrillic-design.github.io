@@ -1,5 +1,26 @@
 [
   {
+    "id": 468,
+    "title": "Sense",
+    "image": "data/images/468.jpg",
+    "tags": [
+      "медиа",
+      "образование",
+      "otherland"
+    ],
+    "url": "https://sense.community/ru/",
+    "date": 1552384825,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "media",
+      "obrazovanie",
+      "otherland"
+    ],
+    "awards": []
+  },
+  {
     "id": 464,
     "title": "Камчатка",
     "caption": "Камчатка\nhttps://kamchatka.camp/\n\n#образование #мероприятие",
@@ -375,23 +396,6 @@
     "isRemoved": false,
     "slugs": [
       "spetsproekt",
-      "obrazovanie"
-    ],
-    "awards": []
-  },
-  {
-    "id": 256,
-    "title": "MADS",
-    "image": "data/images/256.jpg",
-    "tags": [
-      "образование"
-    ],
-    "url": "https://madscourses.ru/",
-    "date": 1533290421,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
       "obrazovanie"
     ],
     "awards": []

@@ -13535,5 +13535,21 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "1002": {
+    "id": 1002,
+    "title": "Skysmart",
+    "caption": "Skysmart\nhttps://skysmart.ru\n\n#образование #сервис\nСпасибо за ссылку @kirilltarelkin",
+    "image": "1002.jpg",
+    "tags": [
+      "образование",
+      "сервис"
+    ],
+    "url": "https://skysmart.ru",
+    "date": 1633083431,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
