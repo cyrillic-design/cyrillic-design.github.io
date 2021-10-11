@@ -1,5 +1,28 @@
 [
   {
+    "id": 1003,
+    "title": "Schooll",
+    "caption": "Schooll\nhttps://schooll.com.ua\n\n#образование #мероприятие #readymag\nСпасибо за ссылку @readymag_official",
+    "image": "data/images/1003.jpg",
+    "tags": [
+      "образование",
+      "мероприятие",
+      "readymag"
+    ],
+    "url": "https://schooll.com.ua",
+    "date": 1633940032,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "meropriyatie",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 1002,
     "title": "Skysmart",
     "caption": "Skysmart\nhttps://skysmart.ru\n\n#образование #сервис\nСпасибо за ссылку @kirilltarelkin",
@@ -430,30 +453,6 @@
       "podkast",
       "obrazovanie",
       "webflow"
-    ],
-    "awards": []
-  },
-  {
-    "id": 840,
-    "title": "Лето целого года",
-    "caption": "Лето целого года\nhttps://navzvade.ru/\n\n#спецпроект #образование #кружок",
-    "image": "data/images/840.jpg",
-    "tags": [
-      "спецпроект",
-      "образование",
-      "кружок"
-    ],
-    "url": "https://navzvade.ru/",
-    "date": 1606910824,
-    "edit_date": 1606910834,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "obrazovanie",
-      "kruzhok"
     ],
     "awards": []
   }

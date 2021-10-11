@@ -1,5 +1,26 @@
 [
   {
+    "id": 500,
+    "title": "Журнал «Код»",
+    "image": "data/images/500.jpg",
+    "tags": [
+      "образование",
+      "журнал",
+      "яндекс"
+    ],
+    "url": "https://thecode.media/",
+    "date": 1555927218,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "zhurnal",
+      "yandeks"
+    ],
+    "awards": []
+  },
+  {
     "id": 468,
     "title": "Sense",
     "image": "data/images/468.jpg",
@@ -377,25 +398,6 @@
     "isRemoved": false,
     "slugs": [
       "zhurnal",
-      "obrazovanie"
-    ],
-    "awards": []
-  },
-  {
-    "id": 267,
-    "title": "Медузы и жопы",
-    "image": "data/images/267.jpg",
-    "tags": [
-      "спецпроект",
-      "образование"
-    ],
-    "url": "http://sunandstuff.com/mandelbrot/about/",
-    "date": 1534240814,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
       "obrazovanie"
     ],
     "awards": []

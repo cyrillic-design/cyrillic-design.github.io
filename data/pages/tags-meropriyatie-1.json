@@ -1,5 +1,28 @@
 [
   {
+    "id": 1003,
+    "title": "Schooll",
+    "caption": "Schooll\nhttps://schooll.com.ua\n\n#образование #мероприятие #readymag\nСпасибо за ссылку @readymag_official",
+    "image": "data/images/1003.jpg",
+    "tags": [
+      "образование",
+      "мероприятие",
+      "readymag"
+    ],
+    "url": "https://schooll.com.ua",
+    "date": 1633940032,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "meropriyatie",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 1001,
     "title": "BoldItalic",
     "caption": "BoldItalic\nhttps://bolditalic.type.school\n\n#образование #мероприятие #tilda #дмитрийопалев\nСпасибо за ссылку @masterlobster",
@@ -471,33 +494,6 @@
       "meropriyatie",
       "readymag",
       "dreamlaser"
-    ],
-    "awards": []
-  },
-  {
-    "id": 805,
-    "title": "Эдуард Путерброт «Фрагмент занавеса №16»",
-    "caption": "Эдуард Путерброт «Фрагмент занавеса №16»\nhttps://puterbrot.mkalamuseum.ru/\n\n#мероприятие #спецпроект #искусство #readymag #nonobjectiveworks\nСпасибо за ссылку @AndyAbramov",
-    "image": "data/images/805.jpg",
-    "tags": [
-      "мероприятие",
-      "спецпроект",
-      "искусство",
-      "readymag",
-      "nonobjectiveworks"
-    ],
-    "url": "https://puterbrot.mkalamuseum.ru/",
-    "date": 1604394018,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "meropriyatie",
-      "spetsproekt",
-      "iskusstvo",
-      "readymag",
-      "nonobjectiveworks"
     ],
     "awards": []
   }

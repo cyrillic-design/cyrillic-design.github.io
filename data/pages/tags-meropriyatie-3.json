@@ -1,5 +1,29 @@
 [
   {
+    "id": 658,
+    "title": "Piano Trio Fest",
+    "caption": "Piano Trio Fest\nhttps://pianotriofest.com/\n\n☆ #мероприятие #музыка #readymag #zholud\n♡ @nowhow",
+    "image": "data/images/658.jpg",
+    "tags": [
+      "мероприятие",
+      "музыка",
+      "readymag",
+      "zholud"
+    ],
+    "url": "https://pianotriofest.com/",
+    "date": 1579773656,
+    "edit_date": 1583439463,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "muzika",
+      "readymag",
+      "zholud"
+    ],
+    "awards": []
+  },
+  {
     "id": 655,
     "title": "ExperimentFest + Яндекс.Практикум",
     "caption": "ExperimentFest + Яндекс.Практикум\nhttps://www.experiment-fest.ru/\n\n☆ #мероприятие #яндекс #викторакифьев #tilda\n♡ @AndyAbramov",
@@ -371,28 +395,6 @@
     "slugs": [
       "obrazovanie",
       "meropriyatie"
-    ],
-    "awards": []
-  },
-  {
-    "id": 435,
-    "title": "Гоголь-Центр",
-    "caption": "Гоголь-Центр\nhttps://gogolcenter.com/\n\n#мероприятие #афиша #театр",
-    "image": "data/images/435.jpg",
-    "tags": [
-      "мероприятие",
-      "афиша",
-      "театр"
-    ],
-    "url": "https://gogolcenter.com/",
-    "date": 1549881005,
-    "edit_date": 1583439448,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "meropriyatie",
-      "afisha",
-      "teatr"
     ],
     "awards": []
   }

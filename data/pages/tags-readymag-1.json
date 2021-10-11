@@ -1,5 +1,28 @@
 [
   {
+    "id": 1003,
+    "title": "Schooll",
+    "caption": "Schooll\nhttps://schooll.com.ua\n\n#образование #мероприятие #readymag\nСпасибо за ссылку @readymag_official",
+    "image": "data/images/1003.jpg",
+    "tags": [
+      "образование",
+      "мероприятие",
+      "readymag"
+    ],
+    "url": "https://schooll.com.ua",
+    "date": 1633940032,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "meropriyatie",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 997,
     "title": "М-464: нераспознаваемая индивидуальность",
     "caption": "М-464: нераспознаваемая индивидуальность\nhttps://m464.leta.today/\n\n#спецпроект #readymag #павелкедич\nСпасибо за ссылку @readymag_official",
@@ -445,31 +468,6 @@
       "promo",
       "readymag",
       "breadhead"
-    ],
-    "awards": []
-  },
-  {
-    "id": 932,
-    "title": "West Coast vs East Coast",
-    "caption": "West Coast vs East Coast\nhttps://readymag.com/raznorabochee/moog-vs-buchla/\n\n#спецпроект #история #музыка #readymag\nСпасибо за ссылку @readymag_official",
-    "image": "data/images/932.jpg",
-    "tags": [
-      "спецпроект",
-      "история",
-      "музыка",
-      "readymag"
-    ],
-    "url": "https://readymag.com/raznorabochee/moog-vs-buchla/",
-    "date": 1620727269,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "istoriya",
-      "muzika",
-      "readymag"
     ],
     "awards": []
   }

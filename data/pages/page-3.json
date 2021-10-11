@@ -1,5 +1,30 @@
 [
   {
+    "id": 957,
+    "title": "Навигационный и информационный шрифт Ижевска IZH 260 A/T",
+    "caption": "Навигационный и информационный шрифт Ижевска IZH 260 A/T\nhttp://izh.design/\n\n#город #брендинг #tilda #paratype",
+    "image": "data/images/957.jpg",
+    "tags": [
+      "город",
+      "брендинг",
+      "tilda",
+      "paratype"
+    ],
+    "url": "http://izh.design/",
+    "date": 1623602924,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "gorod",
+      "brending",
+      "tilda",
+      "paratype"
+    ],
+    "awards": []
+  },
+  {
     "id": 956,
     "title": "Tweek Календарь",
     "caption": "Tweek Календарь\nhttps://tweek.so/ru\n\n#сервис\nСпасибо за ссылку @mozhno",
@@ -422,27 +447,6 @@
     "slugs": [
       "zhurnal",
       "nedvizhimost"
-    ],
-    "awards": []
-  },
-  {
-    "id": 930,
-    "title": "Breadhead",
-    "caption": "Breadhead\nhttps://breadhead.ru/\n\n#портфолио #readymag\nСпасибо за ссылку @Dimazhuravlev",
-    "image": "data/images/930.jpg",
-    "tags": [
-      "портфолио",
-      "readymag"
-    ],
-    "url": "https://breadhead.ru/",
-    "date": 1620543662,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio",
-      "readymag"
     ],
     "awards": []
   }
