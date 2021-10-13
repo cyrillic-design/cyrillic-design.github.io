@@ -1,5 +1,31 @@
 [
   {
+    "id": 768,
+    "title": "TYPICAL.OKR",
+    "caption": "TYPICAL.OKR\nhttps://typicalokr.co/\n\n#исследование #сервис #typical #readymag",
+    "image": "data/images/768.jpg",
+    "tags": [
+      "исследование",
+      "сервис",
+      "typical",
+      "readymag"
+    ],
+    "url": "https://typicalokr.co/",
+    "date": 1600068393,
+    "edit_date": 1600088036,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "issledovanie",
+      "servis",
+      "typical",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 767,
     "title": "Державні послуги онлайн | Дія",
     "caption": "Державні послуги онлайн | Дія\nhttps://diia.gov.ua/\n\n#сервис #государство #люди\nСпасибо за ссылку @AndyAbramov",
@@ -423,25 +449,6 @@
     "slugs": [
       "servis",
       "gosudarstvo"
-    ],
-    "awards": []
-  },
-  {
-    "id": 591,
-    "title": "KLEI",
-    "image": "data/images/591.jpg",
-    "tags": [
-      "сервис",
-      "brights"
-    ],
-    "url": "http://klei.co/",
-    "date": 1569146419,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "brights"
     ],
     "awards": []
   }

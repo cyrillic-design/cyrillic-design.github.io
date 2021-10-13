@@ -1,5 +1,28 @@
 [
   {
+    "id": 1004,
+    "title": "Дока",
+    "caption": "Дока\nhttps://doka.guide\n\n#образование #сервис #яндекс\nСпасибо за ссылку @digitalarcheology",
+    "image": "data/images/1004.jpg",
+    "tags": [
+      "образование",
+      "сервис",
+      "яндекс"
+    ],
+    "url": "https://doka.guide",
+    "date": 1634104985,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "servis",
+      "yandeks"
+    ],
+    "awards": []
+  },
+  {
     "id": 1002,
     "title": "Skysmart",
     "caption": "Skysmart\nhttps://skysmart.ru\n\n#образование #сервис\nСпасибо за ссылку @kirilltarelkin",
@@ -436,32 +459,6 @@
       "servis",
       "prilozhenie",
       "tilda"
-    ],
-    "awards": []
-  },
-  {
-    "id": 768,
-    "title": "TYPICAL.OKR",
-    "caption": "TYPICAL.OKR\nhttps://typicalokr.co/\n\n#исследование #сервис #typical #readymag",
-    "image": "data/images/768.jpg",
-    "tags": [
-      "исследование",
-      "сервис",
-      "typical",
-      "readymag"
-    ],
-    "url": "https://typicalokr.co/",
-    "date": 1600068393,
-    "edit_date": 1600088036,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "issledovanie",
-      "servis",
-      "typical",
-      "readymag"
     ],
     "awards": []
   }

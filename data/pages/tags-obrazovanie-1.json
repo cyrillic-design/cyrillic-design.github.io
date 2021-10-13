@@ -1,5 +1,28 @@
 [
   {
+    "id": 1004,
+    "title": "Дока",
+    "caption": "Дока\nhttps://doka.guide\n\n#образование #сервис #яндекс\nСпасибо за ссылку @digitalarcheology",
+    "image": "data/images/1004.jpg",
+    "tags": [
+      "образование",
+      "сервис",
+      "яндекс"
+    ],
+    "url": "https://doka.guide",
+    "date": 1634104985,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "servis",
+      "yandeks"
+    ],
+    "awards": []
+  },
+  {
     "id": 1003,
     "title": "Schooll",
     "caption": "Schooll\nhttps://schooll.com.ua\n\n#образование #мероприятие #readymag\nСпасибо за ссылку @readymag_official",
@@ -428,31 +451,6 @@
     "slugs": [
       "obrazovanie",
       "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 847,
-    "title": "Grow this, Grow that: Product designer",
-    "caption": "Grow this, Grow that: Product designer\nhttps://vectorly.team/grow-this-grow-that-ru/product-designer\n\n#мероприятие #подкаст #образование #webflow\nСпасибо за ссылку @AndyAbramov",
-    "image": "data/images/847.jpg",
-    "tags": [
-      "мероприятие",
-      "подкаст",
-      "образование",
-      "webflow"
-    ],
-    "url": "https://vectorly.team/grow-this-grow-that-ru/product-designer",
-    "date": 1607446132,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "meropriyatie",
-      "podkast",
-      "obrazovanie",
-      "webflow"
     ],
     "awards": []
   }

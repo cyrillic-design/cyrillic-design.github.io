@@ -1,5 +1,28 @@
 [
   {
+    "id": 1004,
+    "title": "Дока",
+    "caption": "Дока\nhttps://doka.guide\n\n#образование #сервис #яндекс\nСпасибо за ссылку @digitalarcheology",
+    "image": "data/images/1004.jpg",
+    "tags": [
+      "образование",
+      "сервис",
+      "яндекс"
+    ],
+    "url": "https://doka.guide",
+    "date": 1634104985,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "servis",
+      "yandeks"
+    ],
+    "awards": []
+  },
+  {
     "id": 1003,
     "title": "Schooll",
     "caption": "Schooll\nhttps://schooll.com.ua\n\n#образование #мероприятие #readymag\nСпасибо за ссылку @readymag_official",
@@ -450,29 +473,6 @@
       "portfolio",
       "studiya",
       "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 981,
-    "title": "Не надо стесняться",
-    "caption": "Не надо стесняться\nhttps://nns.i-m-i.ru/\n\n #спецпроект #музыка #ими\nСпасибо за ссылку @AndyAbramov",
-    "image": "data/images/981.jpg",
-    "tags": [
-      "спецпроект",
-      "музыка",
-      "ими"
-    ],
-    "url": "https://nns.i-m-i.ru/",
-    "date": 1628943569,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "muzika",
-      "imi"
     ],
     "awards": []
   }

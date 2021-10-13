@@ -1,5 +1,30 @@
 [
   {
+    "id": 886,
+    "title": "2-я Триеннале российского современного искусства",
+    "caption": "2-я Триеннале российского современного искусства\nhttps://triennial.garagemca.org/ru/\n\n#мероприятие #искусство #materialist #perushevkhmelev\nСпасибо за ссылку @gurick",
+    "image": "data/images/886.jpg",
+    "tags": [
+      "мероприятие",
+      "искусство",
+      "materialist",
+      "perushevkhmelev"
+    ],
+    "url": "https://triennial.garagemca.org/ru/",
+    "date": 1612257855,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "iskusstvo",
+      "materialist",
+      "perushevkhmelev"
+    ],
+    "awards": []
+  },
+  {
     "id": 884,
     "title": "Школа Wemakefab",
     "caption": "Школа Wemakefab\nhttps://wemakefab.school/\n\n#образование",
@@ -422,27 +447,6 @@
     "slugs": [
       "portfolio",
       "update"
-    ],
-    "awards": []
-  },
-  {
-    "id": 863,
-    "title": "Итоги года ВКонтакте",
-    "caption": "Итоги года ВКонтакте\nhttps://vk.com/2020\n\n#спецпроект #итоги",
-    "image": "data/images/863.jpg",
-    "tags": [
-      "спецпроект",
-      "итоги"
-    ],
-    "url": "https://vk.com/2020",
-    "date": 1608717607,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "itogi"
     ],
     "awards": []
   }
