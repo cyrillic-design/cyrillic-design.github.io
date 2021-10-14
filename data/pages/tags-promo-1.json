@@ -1,5 +1,30 @@
 [
   {
+    "id": 1006,
+    "title": "Фестиваль American Autumn",
+    "caption": "Фестиваль American Autumn\nhttps://aafest.ru\n\n#фестиваль #кино #промо #readymag\nСпасибо за ссылку @readymag_official",
+    "image": "data/images/1006.jpg",
+    "tags": [
+      "фестиваль",
+      "кино",
+      "промо",
+      "readymag"
+    ],
+    "url": "https://aafest.ru",
+    "date": 1634212844,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "festival",
+      "kino",
+      "promo",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 991,
     "title": "Много Лосося",
     "caption": "Много Лосося\nhttps://mnogolososya.ru/\n\n#промо #приложение #еда #доставка #whiterussianstudio\nСпасибо за ссылку @winkeyless",
@@ -445,32 +470,6 @@
       "promo",
       "servis",
       "portfolio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 782,
-    "title": "Рокет Ворк",
-    "caption": "Рокет Ворк\nhttps://promo.rocketwork.ru/\n\n#промо #банк #финансы #readymag",
-    "image": "data/images/782.jpg",
-    "tags": [
-      "промо",
-      "банк",
-      "финансы",
-      "readymag"
-    ],
-    "url": "https://promo.rocketwork.ru/",
-    "date": 1602578046,
-    "edit_date": 1602578112,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "bank",
-      "finansi",
-      "readymag"
     ],
     "awards": []
   }

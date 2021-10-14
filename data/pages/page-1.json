@@ -1,5 +1,30 @@
 [
   {
+    "id": 1006,
+    "title": "Фестиваль American Autumn",
+    "caption": "Фестиваль American Autumn\nhttps://aafest.ru\n\n#фестиваль #кино #промо #readymag\nСпасибо за ссылку @readymag_official",
+    "image": "data/images/1006.jpg",
+    "tags": [
+      "фестиваль",
+      "кино",
+      "промо",
+      "readymag"
+    ],
+    "url": "https://aafest.ru",
+    "date": 1634212844,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "festival",
+      "kino",
+      "promo",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 1005,
     "title": "Техно",
     "caption": "Техно\nhttps://techno.yandex.ru\n\n#журнал #яндекс",
@@ -447,30 +472,6 @@
       "portfolio",
       "agentstvo",
       "lagutalaguta"
-    ],
-    "awards": []
-  },
-  {
-    "id": 983,
-    "title": "Дом устаревших проектов",
-    "caption": "Дом устаревших проектов\nhttps://belpromproekt.leta.today/\n\n#спецпроект #readymag #павелкедич",
-    "image": "data/images/983.jpg",
-    "tags": [
-      "спецпроект",
-      "readymag",
-      "павелкедич"
-    ],
-    "url": "https://belpromproekt.leta.today/",
-    "date": 1629378373,
-    "edit_date": 1629378387,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "readymag",
-      "pavelkedich"
     ],
     "awards": []
   }

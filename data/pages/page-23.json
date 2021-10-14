@@ -1,5 +1,24 @@
 [
   {
+    "id": 518,
+    "title": "Ламбада-маркет",
+    "image": "data/images/518.jpg",
+    "tags": [
+      "магазин",
+      "ярмарка"
+    ],
+    "url": "https://lmbd.ru/",
+    "date": 1558951242,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "yarmarka"
+    ],
+    "awards": []
+  },
+  {
     "id": 517,
     "title": "Vision Lighting",
     "image": "data/images/517.jpg",
@@ -380,25 +399,6 @@
       "portfolio",
       "readymag",
       "sulliwan"
-    ],
-    "awards": []
-  },
-  {
-    "id": 496,
-    "title": "Balance",
-    "image": "data/images/496.jpg",
-    "tags": [
-      "недвижимость",
-      "промо"
-    ],
-    "url": "https://get-balance.ru/",
-    "date": 1555063251,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "nedvizhimost",
-      "promo"
     ],
     "awards": []
   }

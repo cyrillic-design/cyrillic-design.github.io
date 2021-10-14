@@ -1,5 +1,30 @@
 [
   {
+    "id": 1006,
+    "title": "Фестиваль American Autumn",
+    "caption": "Фестиваль American Autumn\nhttps://aafest.ru\n\n#фестиваль #кино #промо #readymag\nСпасибо за ссылку @readymag_official",
+    "image": "data/images/1006.jpg",
+    "tags": [
+      "фестиваль",
+      "кино",
+      "промо",
+      "readymag"
+    ],
+    "url": "https://aafest.ru",
+    "date": 1634212844,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "festival",
+      "kino",
+      "promo",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 287,
     "title": "Richterfest 2018",
     "image": "data/images/287.jpg",

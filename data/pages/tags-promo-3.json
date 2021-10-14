@@ -1,5 +1,27 @@
 [
   {
+    "id": 678,
+    "title": "ЖК Композиция №24",
+    "caption": "ЖК Композиция №24\nhttps://k24moscow.ru/\n\n☆ #недвижимость #промо #videinfra",
+    "image": "data/images/678.jpg",
+    "tags": [
+      "недвижимость",
+      "промо",
+      "videinfra"
+    ],
+    "url": "https://k24moscow.ru/",
+    "date": 1583488809,
+    "edit_date": 1583666192,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "nedvizhimost",
+      "promo",
+      "videinfra"
+    ],
+    "awards": []
+  },
+  {
     "id": 664,
     "title": "Дизайн-квартал Флакон",
     "image": "data/images/664.jpg",
@@ -398,23 +420,6 @@
     "slugs": [
       "promo",
       "whiterussianstudio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 552,
-    "title": "COLLIDER",
-    "image": "data/images/552.jpg",
-    "tags": [
-      "промо"
-    ],
-    "url": "https://collider.ru/",
-    "date": 1563357625,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo"
     ],
     "awards": []
   }

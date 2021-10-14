@@ -1,5 +1,24 @@
 [
   {
+    "id": 299,
+    "title": "Хлебозавод №9",
+    "image": "data/images/299.jpg",
+    "tags": [
+      "промо",
+      "whiterussianstudio"
+    ],
+    "url": "http://hlebozavod9.ru/",
+    "date": 1536919205,
+    "edit_date": 1583185435,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "whiterussianstudio"
+    ],
+    "awards": []
+  },
+  {
     "id": 278,
     "title": "Калашников",
     "image": "data/images/278.jpg",
@@ -388,27 +407,6 @@
     "slugs": [
       "promo",
       "magazin"
-    ],
-    "awards": []
-  },
-  {
-    "id": 152,
-    "title": "VI международный форум по е-коммерции",
-    "image": "data/images/152.jpg",
-    "tags": [
-      "мероприятие",
-      "промо",
-      "букинг"
-    ],
-    "url": "https://ecom21.com/ru",
-    "date": 1524218414,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "meropriyatie",
-      "promo",
-      "buking"
     ],
     "awards": []
   }

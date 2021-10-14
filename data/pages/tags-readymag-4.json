@@ -1,5 +1,32 @@
 [
   {
+    "id": 805,
+    "title": "Эдуард Путерброт «Фрагмент занавеса №16»",
+    "caption": "Эдуард Путерброт «Фрагмент занавеса №16»\nhttps://puterbrot.mkalamuseum.ru/\n\n#мероприятие #спецпроект #искусство #readymag #nonobjectiveworks\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/805.jpg",
+    "tags": [
+      "мероприятие",
+      "спецпроект",
+      "искусство",
+      "readymag",
+      "nonobjectiveworks"
+    ],
+    "url": "https://puterbrot.mkalamuseum.ru/",
+    "date": 1604394018,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "spetsproekt",
+      "iskusstvo",
+      "readymag",
+      "nonobjectiveworks"
+    ],
+    "awards": []
+  },
+  {
     "id": 798,
     "title": "Тотальный Хэллоуин!",
     "caption": "Тотальный Хэллоуин!\nhttps://totalhalloween.localkitchen.ru/\n\n#промо #доставка #readymag #кухнянарайоне\nСпасибо за ссылку @ivanedorn",
@@ -459,29 +486,6 @@
       "istoriya",
       "readymag",
       "pragmatica"
-    ],
-    "awards": []
-  },
-  {
-    "id": 739,
-    "title": "UR BUREAU",
-    "caption": "UR BUREAU\nhttps://ur-bureau.com/\n\n#портфолио #readymag #octo\nСпасибо за ссылку @trnsstr",
-    "image": "data/images/739.jpg",
-    "tags": [
-      "портфолио",
-      "readymag",
-      "octo"
-    ],
-    "url": "https://ur-bureau.com/",
-    "date": 1592560808,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio",
-      "readymag",
-      "octo"
     ],
     "awards": []
   }
