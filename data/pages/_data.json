@@ -13585,5 +13585,21 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "1005": {
+    "id": 1005,
+    "title": "Техно",
+    "caption": "Техно\nhttps://techno.yandex.ru\n\n#журнал #яндекс",
+    "image": "1005.jpg",
+    "tags": [
+      "журнал",
+      "яндекс"
+    ],
+    "url": "https://techno.yandex.ru",
+    "date": 1634197210,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

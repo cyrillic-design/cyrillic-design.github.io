@@ -1,5 +1,26 @@
 [
   {
+    "id": 1005,
+    "title": "Техно",
+    "caption": "Техно\nhttps://techno.yandex.ru\n\n#журнал #яндекс",
+    "image": "data/images/1005.jpg",
+    "tags": [
+      "журнал",
+      "яндекс"
+    ],
+    "url": "https://techno.yandex.ru",
+    "date": 1634197210,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "yandeks"
+    ],
+    "awards": []
+  },
+  {
     "id": 954,
     "title": "Т—Ж: журнал про ваши деньги",
     "caption": "Т—Ж: журнал про ваши деньги\nhttps://journal.tinkoff.ru/\n\n#журнал #банк #финансы",
@@ -421,25 +442,6 @@
     "slugs": [
       "zhurnal",
       "ony"
-    ],
-    "awards": []
-  },
-  {
-    "id": 521,
-    "title": "Katacult",
-    "image": "data/images/521.jpg",
-    "tags": [
-      "журнал",
-      "музыка"
-    ],
-    "url": "https://katacult.com/",
-    "date": 1559124064,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "zhurnal",
-      "muzika"
     ],
     "awards": []
   }

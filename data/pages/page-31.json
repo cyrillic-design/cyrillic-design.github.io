@@ -1,5 +1,28 @@
 [
   {
+    "id": 341,
+    "title": "Блог OneSoil",
+    "image": "data/images/341.jpg",
+    "tags": [
+      "сервис",
+      "блог",
+      "новости",
+      "onesoil"
+    ],
+    "url": "https://blog.onesoil.ai/ru",
+    "date": 1541066419,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "blog",
+      "novosti",
+      "onesoil"
+    ],
+    "awards": []
+  },
+  {
     "id": 340,
     "title": "Barkli Gallery",
     "image": "data/images/340.jpg",
@@ -383,27 +406,6 @@
     "slugs": [
       "servis",
       "rightby"
-    ],
-    "awards": []
-  },
-  {
-    "id": 321,
-    "title": "PROUN",
-    "image": "data/images/321.jpg",
-    "tags": [
-      "искусство",
-      "люди",
-      "мероприятие"
-    ],
-    "url": "https://proun.moscow/",
-    "date": 1538992923,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "iskusstvo",
-      "lyudi",
-      "meropriyatie"
     ],
     "awards": []
   }

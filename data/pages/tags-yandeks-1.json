@@ -1,5 +1,26 @@
 [
   {
+    "id": 1005,
+    "title": "Техно",
+    "caption": "Техно\nhttps://techno.yandex.ru\n\n#журнал #яндекс",
+    "image": "data/images/1005.jpg",
+    "tags": [
+      "журнал",
+      "яндекс"
+    ],
+    "url": "https://techno.yandex.ru",
+    "date": 1634197210,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "yandeks"
+    ],
+    "awards": []
+  },
+  {
     "id": 1004,
     "title": "Дока",
     "caption": "Дока\nhttps://doka.guide\n\n#образование #сервис #яндекс\nСпасибо за ссылку @digitalarcheology",

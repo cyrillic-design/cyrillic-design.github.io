@@ -1,5 +1,24 @@
 [
   {
+    "id": 521,
+    "title": "Katacult",
+    "image": "data/images/521.jpg",
+    "tags": [
+      "журнал",
+      "музыка"
+    ],
+    "url": "https://katacult.com/",
+    "date": 1559124064,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "muzika"
+    ],
+    "awards": []
+  },
+  {
     "id": 513,
     "title": "ПИК Медиа",
     "image": "data/images/513.jpg",
@@ -379,25 +398,6 @@
       "lyudi",
       "novosti",
       "moda"
-    ],
-    "awards": []
-  },
-  {
-    "id": 183,
-    "title": "ThisIsMedia",
-    "image": "data/images/183.jpg",
-    "tags": [
-      "медиа",
-      "журнал"
-    ],
-    "url": "https://thisis.media/",
-    "date": 1527069606,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "media",
-      "zhurnal"
     ],
     "awards": []
   }
