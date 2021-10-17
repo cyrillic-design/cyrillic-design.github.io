@@ -13619,5 +13619,22 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "1007": {
+    "id": 1007,
+    "title": "World Chess - Official FIDE Gaming Platform",
+    "caption": "World Chess - Official FIDE Gaming Platform\nhttps://chessarena.com\n\n#игра #сервис #мероприятие",
+    "image": "1007.jpg",
+    "tags": [
+      "игра",
+      "сервис",
+      "мероприятие"
+    ],
+    "url": "https://chessarena.com",
+    "date": 1634453156,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

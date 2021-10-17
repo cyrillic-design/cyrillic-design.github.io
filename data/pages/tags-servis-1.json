@@ -1,5 +1,28 @@
 [
   {
+    "id": 1007,
+    "title": "World Chess - Official FIDE Gaming Platform",
+    "caption": "World Chess - Official FIDE Gaming Platform\nhttps://chessarena.com\n\n#игра #сервис #мероприятие",
+    "image": "data/images/1007.jpg",
+    "tags": [
+      "игра",
+      "сервис",
+      "мероприятие"
+    ],
+    "url": "https://chessarena.com",
+    "date": 1634453156,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "igra",
+      "servis",
+      "meropriyatie"
+    ],
+    "awards": []
+  },
+  {
     "id": 1004,
     "title": "Дока",
     "caption": "Дока\nhttps://doka.guide\n\n#образование #сервис #яндекс\nСпасибо за ссылку @digitalarcheology",
@@ -436,29 +459,6 @@
       "promo",
       "servis",
       "portfolio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 780,
-    "title": "MOLNIA",
-    "caption": "MOLNIA\nhttps://molnia.city/\n\n#сервис #приложение #tilda",
-    "image": "data/images/780.jpg",
-    "tags": [
-      "сервис",
-      "приложение",
-      "tilda"
-    ],
-    "url": "https://molnia.city/",
-    "date": 1601287205,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "prilozhenie",
-      "tilda"
     ],
     "awards": []
   }

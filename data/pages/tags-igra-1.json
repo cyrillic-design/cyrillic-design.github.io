@@ -1,5 +1,28 @@
 [
   {
+    "id": 1007,
+    "title": "World Chess - Official FIDE Gaming Platform",
+    "caption": "World Chess - Official FIDE Gaming Platform\nhttps://chessarena.com\n\n#игра #сервис #мероприятие",
+    "image": "data/images/1007.jpg",
+    "tags": [
+      "игра",
+      "сервис",
+      "мероприятие"
+    ],
+    "url": "https://chessarena.com",
+    "date": 1634453156,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "igra",
+      "servis",
+      "meropriyatie"
+    ],
+    "awards": []
+  },
+  {
     "id": 945,
     "title": "ПАЗТЬ",
     "caption": "ПАЗТЬ\nhttps://petrick.co/pazt/\n\n#игра #petrick\nСпасибо за ссылку @AndyAbramov",

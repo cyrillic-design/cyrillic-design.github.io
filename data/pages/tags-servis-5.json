@@ -1,5 +1,30 @@
 [
   {
+    "id": 301,
+    "title": "Яндекс.Касса",
+    "image": "data/images/301.jpg",
+    "tags": [
+      "update",
+      "яндекс",
+      "сервис",
+      "финансы",
+      "бизнес"
+    ],
+    "url": "https://kassa.yandex.ru/",
+    "date": 1537092010,
+    "edit_date": 1583185436,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "update",
+      "yandeks",
+      "servis",
+      "finansi",
+      "biznes"
+    ],
+    "awards": []
+  },
+  {
     "id": 300,
     "title": "Grabr",
     "image": "data/images/300.jpg",
@@ -378,27 +403,6 @@
       "servis",
       "uslugi",
       "setka"
-    ],
-    "awards": []
-  },
-  {
-    "id": 167,
-    "title": "Wepster",
-    "image": "data/images/167.jpg",
-    "tags": [
-      "сервис",
-      "услуги",
-      "промо"
-    ],
-    "url": "http://wepster.com/",
-    "date": 1525687216,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "uslugi",
-      "promo"
     ],
     "awards": []
   }

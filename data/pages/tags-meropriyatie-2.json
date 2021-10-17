@@ -1,5 +1,30 @@
 [
   {
+    "id": 813,
+    "title": "Intervals Festival",
+    "caption": "Intervals Festival\nhttps://intervalsfest.com/\n\n#заглушка #мероприятие #readymag #dreamlaser",
+    "image": "data/images/813.jpg",
+    "tags": [
+      "заглушка",
+      "мероприятие",
+      "readymag",
+      "dreamlaser"
+    ],
+    "url": "https://intervalsfest.com/",
+    "date": 1605089906,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zaglushka",
+      "meropriyatie",
+      "readymag",
+      "dreamlaser"
+    ],
+    "awards": []
+  },
+  {
     "id": 805,
     "title": "Эдуард Путерброт «Фрагмент занавеса №16»",
     "caption": "Эдуард Путерброт «Фрагмент занавеса №16»\nhttps://puterbrot.mkalamuseum.ru/\n\n#мероприятие #спецпроект #искусство #readymag #nonobjectiveworks\nСпасибо за ссылку @AndyAbramov",
@@ -461,25 +486,6 @@
       "meropriyatie",
       "readymag",
       "aidapacheva"
-    ],
-    "awards": []
-  },
-  {
-    "id": 660,
-    "title": "International Digital Retail Forum 2020",
-    "image": "data/images/660.jpg",
-    "tags": [
-      "мероприятие",
-      "24ttl"
-    ],
-    "url": "https://www.idrf.online/",
-    "date": 1580983260,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "meropriyatie",
-      "24ttl"
     ],
     "awards": []
   }
