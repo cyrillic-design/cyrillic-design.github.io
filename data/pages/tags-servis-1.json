@@ -1,5 +1,24 @@
 [
   {
+    "id": 1008,
+    "title": "Pathway",
+    "caption": "Pathway\nhttps://pthwy.design\n\n#сервис\nСпасибо за ссылку @winkeyless",
+    "image": "data/images/1008.jpg",
+    "tags": [
+      "сервис"
+    ],
+    "url": "https://pthwy.design",
+    "date": 1635159591,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis"
+    ],
+    "awards": []
+  },
+  {
     "id": 1007,
     "title": "World Chess - Official FIDE Gaming Platform",
     "caption": "World Chess - Official FIDE Gaming Platform\nhttps://chessarena.com\n\n#игра #сервис #мероприятие",
@@ -436,29 +455,6 @@
     "slugs": [
       "servis",
       "prilozhenie"
-    ],
-    "awards": []
-  },
-  {
-    "id": 783,
-    "title": "Почтатех",
-    "caption": "Почтатех\nhttps://pochta.tech/\n\n#промо #сервис #портфолио\nСпасибо за ссылку @pochekueva",
-    "image": "data/images/783.jpg",
-    "tags": [
-      "промо",
-      "сервис",
-      "портфолио"
-    ],
-    "url": "https://pochta.tech/",
-    "date": 1602669606,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "servis",
-      "portfolio"
     ],
     "awards": []
   }

@@ -1,5 +1,28 @@
 [
   {
+    "id": 891,
+    "title": "STRELKA INSTITUTE 20:20",
+    "caption": "STRELKA INSTITUTE 20:20\nhttps://2020.strelka.com/\n\n#образование #отчет #readymag\nСпасибо за ссылку @mjsnui",
+    "image": "data/images/891.jpg",
+    "tags": [
+      "образование",
+      "отчет",
+      "readymag"
+    ],
+    "url": "https://2020.strelka.com/",
+    "date": 1613068662,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "otchet",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 890,
     "title": "между прочим",
     "caption": "между прочим\nhttps://mezhduprochim.ru/\n\n#образование #readymag #nonobjectiveworks #артемматюшкин #тимофейлебедев",
@@ -423,29 +446,6 @@
     "slugs": [
       "hr",
       "servis"
-    ],
-    "awards": []
-  },
-  {
-    "id": 867,
-    "title": "Zuzeum",
-    "caption": "Zuzeum\nhttps://www.zuzeum.com/ru/\n\n#искусство #мероприятие #культура",
-    "image": "data/images/867.jpg",
-    "tags": [
-      "искусство",
-      "мероприятие",
-      "культура"
-    ],
-    "url": "https://www.zuzeum.com/ru/",
-    "date": 1608976806,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "iskusstvo",
-      "meropriyatie",
-      "kultura"
     ],
     "awards": []
   }
