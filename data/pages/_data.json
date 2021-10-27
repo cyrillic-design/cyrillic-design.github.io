@@ -13651,5 +13651,21 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "1009": {
+    "id": 1009,
+    "title": "Благотворительный фонд «Подари жизнь»",
+    "caption": "Благотворительный фонд «Подари жизнь»\nhttps://podari-zhizn.ru/ru\n\n#благотворительность #фонд",
+    "image": "1009.jpg",
+    "tags": [
+      "благотворительность",
+      "фонд"
+    ],
+    "url": "https://podari-zhizn.ru/ru",
+    "date": 1635321116,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

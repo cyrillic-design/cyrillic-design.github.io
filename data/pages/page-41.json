@@ -1,5 +1,24 @@
 [
   {
+    "id": 143,
+    "title": "Qlean",
+    "image": "data/images/143.jpg",
+    "tags": [
+      "услуги",
+      "сервис"
+    ],
+    "url": "https://qlean.ru/",
+    "date": 1523440806,
+    "edit_date": 1583185535,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "uslugi",
+      "servis"
+    ],
+    "awards": []
+  },
+  {
     "id": 142,
     "title": "Третьяковская галерея",
     "image": "data/images/142.jpg",
@@ -384,25 +403,6 @@
     "slugs": [
       "magazin",
       "zhurnal"
-    ],
-    "awards": []
-  },
-  {
-    "id": 122,
-    "title": "R/m Design Almanac",
-    "image": "data/images/122.jpg",
-    "tags": [
-      "образование",
-      "readymag"
-    ],
-    "url": "https://almanac-rus.readymag.com/",
-    "date": 1521712804,
-    "edit_date": 1583185535,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "readymag"
     ],
     "awards": []
   }
