@@ -1,5 +1,24 @@
 [
   {
+    "id": 186,
+    "title": "Comepay",
+    "image": "data/images/186.jpg",
+    "tags": [
+      "финансы",
+      "сервис"
+    ],
+    "url": "https://comepay.ru/",
+    "date": 1527328811,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "finansi",
+      "servis"
+    ],
+    "awards": []
+  },
+  {
     "id": 181,
     "title": "Setka Workflow",
     "image": "data/images/181.jpg",

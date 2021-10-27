@@ -1,5 +1,26 @@
 [
   {
+    "id": 1010,
+    "title": "Игра про сжигание тикетов",
+    "caption": "Игра про сжигание тикетов\nhttps://burn.manychat.team\n\n#игра #сервис\nСпасибо за ссылку @kate_gl",
+    "image": "data/images/1010.jpg",
+    "tags": [
+      "игра",
+      "сервис"
+    ],
+    "url": "https://burn.manychat.team",
+    "date": 1635336007,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "igra",
+      "servis"
+    ],
+    "awards": []
+  },
+  {
     "id": 1007,
     "title": "World Chess - Official FIDE Gaming Platform",
     "caption": "World Chess - Official FIDE Gaming Platform\nhttps://chessarena.com\n\n#игра #сервис #мероприятие",

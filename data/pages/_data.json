@@ -13667,5 +13667,21 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "1010": {
+    "id": 1010,
+    "title": "Игра про сжигание тикетов",
+    "caption": "Игра про сжигание тикетов\nhttps://burn.manychat.team\n\n#игра #сервис\nСпасибо за ссылку @kate_gl",
+    "image": "1010.jpg",
+    "tags": [
+      "игра",
+      "сервис"
+    ],
+    "url": "https://burn.manychat.team",
+    "date": 1635336007,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
