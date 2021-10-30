@@ -1,5 +1,32 @@
 [
   {
+    "id": 944,
+    "title": "ДК Рассвет",
+    "caption": "ДК Рассвет\nhttps://dkrassvet.space/\n\n#афиша #мероприятие #культура #образование #александрмосковский",
+    "image": "data/images/944.jpg",
+    "tags": [
+      "афиша",
+      "мероприятие",
+      "культура",
+      "образование",
+      "александрмосковский"
+    ],
+    "url": "https://dkrassvet.space/",
+    "date": 1621859912,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "afisha",
+      "meropriyatie",
+      "kultura",
+      "obrazovanie",
+      "aleksandrmoskovskii"
+    ],
+    "awards": []
+  },
+  {
     "id": 943,
     "title": "Беларуская літаратура ў аўдыякнігах",
     "caption": "Беларуская літаратура ў аўдыякнігах\nhttps://lit.letapis.by/\n\n#спецпроект #история #алексейчеренкевич",
@@ -440,27 +467,6 @@
       "istoriya",
       "readymag",
       "yegorkim"
-    ],
-    "awards": []
-  },
-  {
-    "id": 917,
-    "title": "Школа Управления Максима Десятых",
-    "caption": "Школа Управления Максима Десятых\nhttps://www.desyatykh.school/\n\n#образование #pragmatica\nСпасибо за ссылку @censor_online",
-    "image": "data/images/917.jpg",
-    "tags": [
-      "образование",
-      "pragmatica"
-    ],
-    "url": "https://www.desyatykh.school/",
-    "date": 1619704938,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "pragmatica"
     ],
     "awards": []
   }

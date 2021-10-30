@@ -1,5 +1,28 @@
 [
   {
+    "id": 1011,
+    "title": "Центр документального кино",
+    "caption": "Центр документального кино\nhttps://cdkino.ru\n\n#кино #афиша #гошачубукин",
+    "image": "data/images/1011.jpg",
+    "tags": [
+      "кино",
+      "афиша",
+      "гошачубукин"
+    ],
+    "url": "https://cdkino.ru",
+    "date": 1635591113,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "kino",
+      "afisha",
+      "goshachubukin"
+    ],
+    "awards": []
+  },
+  {
     "id": 1006,
     "title": "Фестиваль American Autumn",
     "caption": "Фестиваль American Autumn\nhttps://aafest.ru\n\n#фестиваль #кино #промо #readymag\nСпасибо за ссылку @readymag_official",
