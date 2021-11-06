@@ -1,5 +1,28 @@
 [
   {
+    "id": 121,
+    "title": "Arzamas",
+    "image": "data/images/121.jpg",
+    "tags": [
+      "образование",
+      "медиа",
+      "культура",
+      "charmer"
+    ],
+    "url": "https://arzamas.academy/",
+    "date": 1521626418,
+    "edit_date": 1583185535,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "media",
+      "kultura",
+      "charmer"
+    ],
+    "awards": []
+  },
+  {
     "id": 109,
     "title": "Пастырь",
     "image": "data/images/109.jpg",
