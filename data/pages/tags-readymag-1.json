@@ -2,9 +2,10 @@
   {
     "id": 1014,
     "title": "tuma",
-    "caption": "tuma\nhttps://tuma.store/\n\n#промо #магазин #readymag #ильятумайкин",
+    "caption": "tuma\nhttps://tuma.store/\n\n#заглушка #промо #магазин #readymag #ильятумайкин",
     "image": "data/images/1014.jpg",
     "tags": [
+      "заглушка",
       "промо",
       "магазин",
       "readymag",
@@ -12,11 +13,13 @@
     ],
     "url": "https://tuma.store/",
     "date": 1636577977,
+    "edit_date": 1636578184,
     "isMonth": false,
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
+      "zaglushka",
       "promo",
       "magazin",
       "readymag",
