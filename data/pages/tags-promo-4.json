@@ -1,5 +1,25 @@
 [
   {
+    "id": 557,
+    "title": "WRS99",
+    "caption": "WRS99\nhttps://wrs99.store\n\n#промо #whiterussianstudio",
+    "image": "data/images/557.jpg",
+    "tags": [
+      "промо",
+      "whiterussianstudio"
+    ],
+    "url": "https://wrs99.store",
+    "date": 1564048826,
+    "edit_date": 1583423516,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "whiterussianstudio"
+    ],
+    "awards": []
+  },
+  {
     "id": 552,
     "title": "COLLIDER",
     "image": "data/images/552.jpg",
@@ -383,25 +403,6 @@
       "nedvizhimost",
       "promo",
       "kelnik"
-    ],
-    "awards": []
-  },
-  {
-    "id": 421,
-    "title": "Яндекс.Авто",
-    "image": "data/images/421.jpg",
-    "tags": [
-      "промо",
-      "readymag"
-    ],
-    "url": "https://readymag.com/yandexgeoteam/1229224/",
-    "date": 1548410417,
-    "edit_date": 1583185362,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "readymag"
     ],
     "awards": []
   }

@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1014,
+    "title": "tuma",
+    "caption": "tuma\nhttps://tuma.store/\n\n#промо #магазин #readymag #ильятумайкин",
+    "image": "data/images/1014.jpg",
+    "tags": [
+      "промо",
+      "магазин",
+      "readymag",
+      "ильятумайкин"
+    ],
+    "url": "https://tuma.store/",
+    "date": 1636577977,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "magazin",
+      "readymag",
+      "ilyatumaikin"
+    ],
+    "awards": []
+  }
+]
