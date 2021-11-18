@@ -1,5 +1,30 @@
 [
   {
+    "id": 922,
+    "title": "Стартер",
+    "caption": "Стартер\nhttps://starterapp.ru/\n\n#сервис #доствка #readymag #breadhead",
+    "image": "data/images/922.jpg",
+    "tags": [
+      "сервис",
+      "доствка",
+      "readymag",
+      "breadhead"
+    ],
+    "url": "https://starterapp.ru/",
+    "date": 1620115263,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "dostvka",
+      "readymag",
+      "breadhead"
+    ],
+    "awards": []
+  },
+  {
     "id": 921,
     "title": "Wander Wonder",
     "caption": "Wander Wonder\nhttps://readymag.com/u25485059/1967674/\n\n#путешествия #услуги #readymag #александркоробов",
@@ -433,29 +458,6 @@
     "slugs": [
       "promo",
       "ony"
-    ],
-    "awards": []
-  },
-  {
-    "id": 899,
-    "title": "Эйч",
-    "caption": "Эйч\nhttps://h.budu.jobs/\n\n#сервис #hr #update",
-    "image": "data/images/899.jpg",
-    "tags": [
-      "сервис",
-      "hr",
-      "update"
-    ],
-    "url": "https://h.budu.jobs/",
-    "date": 1616234441,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "hr",
-      "update"
     ],
     "awards": []
   }

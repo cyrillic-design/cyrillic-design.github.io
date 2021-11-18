@@ -1,5 +1,24 @@
 [
   {
+    "id": 307,
+    "title": "TEXX",
+    "image": "data/images/307.jpg",
+    "tags": [
+      "промо",
+      "производство"
+    ],
+    "url": "http://msk-gps.ru/",
+    "date": 1537610451,
+    "edit_date": 1583185436,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "proizvodstvo"
+    ],
+    "awards": []
+  },
+  {
     "id": 304,
     "title": "Бедные люди. Кабаковы",
     "image": "data/images/304.jpg",
@@ -392,25 +411,6 @@
       "bank",
       "finansi",
       "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 155,
-    "title": "Airbnb Plus",
-    "image": "data/images/155.jpg",
-    "tags": [
-      "промо",
-      "букинг"
-    ],
-    "url": "https://www.airbnb.ru/plus",
-    "date": 1524477620,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "buking"
     ],
     "awards": []
   }
