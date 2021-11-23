@@ -1,5 +1,32 @@
 [
   {
+    "id": 1016,
+    "title": "Litkovskaya",
+    "caption": "Litkovskaya\nhttps://litkovskaya.com/ru\n\n#магазин #одежда #мода #shopify #futureperfectcollective\nСпасибо за ссылку @evagriavel",
+    "image": "data/images/1016.jpg",
+    "tags": [
+      "магазин",
+      "одежда",
+      "мода",
+      "shopify",
+      "futureperfectcollective"
+    ],
+    "url": "https://litkovskaya.com/ru",
+    "date": 1637692472,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "odezhda",
+      "moda",
+      "shopify",
+      "futureperfectcollective"
+    ],
+    "awards": []
+  },
+  {
     "id": 908,
     "title": "Second Friend Store",
     "caption": "Second Friend Store\nhttp://10years.secondfriendstore.ru/\n\n#мероприятие #мода #readymag\nСпасибо за ссылку @readymag_official",

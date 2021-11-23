@@ -1,5 +1,26 @@
 [
   {
+    "id": 900,
+    "title": "Трехгорная мануфактура",
+    "caption": "Трехгорная мануфактура\nhttps://trekhgorka.ru/\n\n#промо #ony",
+    "image": "data/images/900.jpg",
+    "tags": [
+      "промо",
+      "ony"
+    ],
+    "url": "https://trekhgorka.ru/",
+    "date": 1617269763,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "ony"
+    ],
+    "awards": []
+  },
+  {
     "id": 899,
     "title": "Эйч",
     "caption": "Эйч\nhttps://h.budu.jobs/\n\n#сервис #hr #update",
@@ -428,29 +449,6 @@
       "yeda",
       "dostavka",
       "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 877,
-    "title": "РеФорма",
-    "caption": "РеФорма\nhttps://re-forma.org/\n\n#образование #tilda #redis",
-    "image": "data/images/877.jpg",
-    "tags": [
-      "образование",
-      "tilda",
-      "redis"
-    ],
-    "url": "https://re-forma.org/",
-    "date": 1610704807,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "tilda",
-      "redis"
     ],
     "awards": []
   }
