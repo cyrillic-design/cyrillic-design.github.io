@@ -1,5 +1,28 @@
 [
   {
+    "id": 953,
+    "title": "НАЙСІ",
+    "caption": "НАЙСІ\nhttps://nicee.com.ua/\n\n#промо #производство #readymag",
+    "image": "data/images/953.jpg",
+    "tags": [
+      "промо",
+      "производство",
+      "readymag"
+    ],
+    "url": "https://nicee.com.ua/",
+    "date": 1623150072,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "proizvodstvo",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 951,
     "title": "Antarctica",
     "caption": "Antarctica\nhttps://antarctica.sloi.clothing/\n\n#спецпроект #магазин #readymag",
@@ -452,31 +475,6 @@
     "slugs": [
       "spetsproekt",
       "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 896,
-    "title": "Иосиф Бродский. Продолжение пространства",
-    "caption": "Иосиф Бродский. Продолжение пространства\nhttps://josephbrodsky.space/\n\n#спецпроект #история #readymag #иванкардашев",
-    "image": "data/images/896.jpg",
-    "tags": [
-      "спецпроект",
-      "история",
-      "readymag",
-      "иванкардашев"
-    ],
-    "url": "https://josephbrodsky.space/",
-    "date": 1614797607,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "istoriya",
-      "readymag",
-      "ivankardashev"
     ],
     "awards": []
   }

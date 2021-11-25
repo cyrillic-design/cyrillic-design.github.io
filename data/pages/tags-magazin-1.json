@@ -1,5 +1,28 @@
 [
   {
+    "id": 1018,
+    "title": "ТРУДРУК",
+    "caption": "ТРУДРУК\nhttps://trudruk.ru/\n\n#магазин #поизводство #readymag\nСпасибо за ссылку @readymag_official",
+    "image": "data/images/1018.jpg",
+    "tags": [
+      "магазин",
+      "поизводство",
+      "readymag"
+    ],
+    "url": "https://trudruk.ru/",
+    "date": 1637853903,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "poizvodstvo",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 1016,
     "title": "Litkovskaya",
     "caption": "Litkovskaya\nhttps://litkovskaya.com/ru\n\n#магазин #одежда #мода #shopify #futureperfectcollective\nСпасибо за ссылку @evagriavel",
@@ -430,27 +453,6 @@
       "magazin",
       "dostavka",
       "servis",
-      "tilda"
-    ],
-    "awards": []
-  },
-  {
-    "id": 693,
-    "title": "LOVEGOODS",
-    "caption": "LOVEGOODS\nhttps://lovegoods.store/\n\n#магазин #tilda\nСпасибо за ссылку @AndyAbramov",
-    "image": "data/images/693.jpg",
-    "tags": [
-      "магазин",
-      "tilda"
-    ],
-    "url": "https://lovegoods.store/",
-    "date": 1585130465,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
       "tilda"
     ],
     "awards": []
