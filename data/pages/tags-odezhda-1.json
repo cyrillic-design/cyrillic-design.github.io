@@ -1,5 +1,31 @@
 [
   {
+    "id": 1018,
+    "title": "ТРУДРУК",
+    "caption": "ТРУДРУК\nhttps://trudruk.ru/\n\n#магазин #производство #одежда #readymag\nСпасибо за ссылку @readymag_official",
+    "image": "data/images/1018.jpg",
+    "tags": [
+      "магазин",
+      "производство",
+      "одежда",
+      "readymag"
+    ],
+    "url": "https://trudruk.ru/",
+    "date": 1637853903,
+    "edit_date": 1637854441,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "proizvodstvo",
+      "odezhda",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 1016,
     "title": "Litkovskaya",
     "caption": "Litkovskaya\nhttps://litkovskaya.com/ru\n\n#магазин #одежда #мода #shopify #futureperfectcollective\nСпасибо за ссылку @evagriavel",
