@@ -1,5 +1,24 @@
 [
   {
+    "id": 280,
+    "title": "HA",
+    "image": "data/images/280.jpg",
+    "tags": [
+      "студия",
+      "портфолио"
+    ],
+    "url": "https://hainteractive.ru/",
+    "date": 1535277605,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "studiya",
+      "portfolio"
+    ],
+    "awards": []
+  },
+  {
     "id": 269,
     "title": "Игорь Штанг",
     "image": "data/images/269.jpg",
@@ -371,25 +390,6 @@
       "studiya",
       "portfolio",
       "antonandirene"
-    ],
-    "awards": []
-  },
-  {
-    "id": 107,
-    "title": "Cтудии Евгения Ярового",
-    "image": "data/images/107.jpg",
-    "tags": [
-      "студия",
-      "портфолио"
-    ],
-    "url": "http://yarovoy.studio/",
-    "date": 1520416816,
-    "edit_date": 1583185563,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "studiya",
-      "portfolio"
     ],
     "awards": []
   }

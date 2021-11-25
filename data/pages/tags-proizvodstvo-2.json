@@ -1,5 +1,26 @@
 [
   {
+    "id": 515,
+    "title": "Сибирский Деловой Союз",
+    "image": "data/images/515.jpg",
+    "tags": [
+      "производство",
+      "холдинг",
+      "мэйк"
+    ],
+    "url": "https://hcsds.ru/ru/",
+    "date": 1558692007,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "kholding",
+      "meik"
+    ],
+    "awards": []
+  },
+  {
     "id": 510,
     "title": "Медисорб",
     "image": "data/images/510.jpg",
@@ -394,29 +415,6 @@
       "odezhda",
       "moda",
       "icrea"
-    ],
-    "awards": []
-  },
-  {
-    "id": 146,
-    "title": "Cardinal & Margo",
-    "image": "data/images/146.jpg",
-    "tags": [
-      "магазин",
-      "одежда",
-      "производство",
-      "дзендизайн"
-    ],
-    "url": "http://cardinal-hats.ru/",
-    "date": 1523700009,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "odezhda",
-      "proizvodstvo",
-      "dzendizain"
     ],
     "awards": []
   }

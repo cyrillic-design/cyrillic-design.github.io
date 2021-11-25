@@ -1,0 +1,25 @@
+[
+  {
+    "id": 146,
+    "title": "Cardinal & Margo",
+    "image": "data/images/146.jpg",
+    "tags": [
+      "магазин",
+      "одежда",
+      "производство",
+      "дзендизайн"
+    ],
+    "url": "http://cardinal-hats.ru/",
+    "date": 1523700009,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "odezhda",
+      "proizvodstvo",
+      "dzendizain"
+    ],
+    "awards": []
+  }
+]
