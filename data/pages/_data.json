@@ -13811,15 +13811,16 @@
   "1018": {
     "id": 1018,
     "title": "ТРУДРУК",
-    "caption": "ТРУДРУК\nhttps://trudruk.ru/\n\n#магазин #поизводство #readymag\nСпасибо за ссылку @readymag_official",
+    "caption": "ТРУДРУК\nhttps://trudruk.ru/\n\n#магазин #производство #readymag\nСпасибо за ссылку @readymag_official",
     "image": "1018.jpg",
     "tags": [
       "магазин",
-      "поизводство",
+      "производство",
       "readymag"
     ],
     "url": "https://trudruk.ru/",
     "date": 1637853903,
+    "edit_date": 1637853968,
     "isMonth": false,
     "isYear": false,
     "isHighlighted": false,

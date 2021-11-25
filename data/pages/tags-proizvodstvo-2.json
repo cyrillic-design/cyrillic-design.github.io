@@ -1,5 +1,26 @@
 [
   {
+    "id": 516,
+    "title": "Любава",
+    "image": "data/images/516.jpg",
+    "tags": [
+      "магазин",
+      "производство",
+      "max"
+    ],
+    "url": "http://xn--80aabf6b4g.xn--p1acf/",
+    "date": 1558778408,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "proizvodstvo",
+      "max"
+    ],
+    "awards": []
+  },
+  {
     "id": 515,
     "title": "Сибирский Деловой Союз",
     "image": "data/images/515.jpg",
@@ -390,31 +411,6 @@
       "proizvodstvo",
       "uslugi",
       "facility"
-    ],
-    "awards": []
-  },
-  {
-    "id": 185,
-    "title": "EMKA",
-    "image": "data/images/185.jpg",
-    "tags": [
-      "производство",
-      "магазин",
-      "одежда",
-      "мода",
-      "icrea"
-    ],
-    "url": "https://www.emkafashion.ru/",
-    "date": 1527242423,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "proizvodstvo",
-      "magazin",
-      "odezhda",
-      "moda",
-      "icrea"
     ],
     "awards": []
   }
