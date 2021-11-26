@@ -1,5 +1,30 @@
 [
   {
+    "id": 1020,
+    "title": "Тру",
+    "caption": "Тру\nhttps://trueducation.ru/\n\n#hr #образование #услуги #tilda",
+    "image": "data/images/1020.jpg",
+    "tags": [
+      "hr",
+      "образование",
+      "услуги",
+      "tilda"
+    ],
+    "url": "https://trueducation.ru/",
+    "date": 1637931640,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "hr",
+      "obrazovanie",
+      "uslugi",
+      "tilda"
+    ],
+    "awards": []
+  },
+  {
     "id": 1004,
     "title": "Дока",
     "caption": "Дока\nhttps://doka.guide\n\n#образование #сервис #яндекс\nСпасибо за ссылку @digitalarcheology",
@@ -422,28 +447,6 @@
     ],
     "url": "https://wannabelike.ru/",
     "date": 1610445616,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 862,
-    "title": "ZET Academy",
-    "caption": "ZET Academy\nhttps://zetacademy.by/\n\n#образование #readymag",
-    "image": "data/images/862.jpg",
-    "tags": [
-      "образование",
-      "readymag"
-    ],
-    "url": "https://zetacademy.by/",
-    "date": 1608631207,
-    "edit_date": 1619714517,
     "isMonth": false,
     "isYear": false,
     "isHighlighted": false,

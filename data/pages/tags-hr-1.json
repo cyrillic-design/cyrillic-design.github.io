@@ -1,5 +1,30 @@
 [
   {
+    "id": 1020,
+    "title": "Тру",
+    "caption": "Тру\nhttps://trueducation.ru/\n\n#hr #образование #услуги #tilda",
+    "image": "data/images/1020.jpg",
+    "tags": [
+      "hr",
+      "образование",
+      "услуги",
+      "tilda"
+    ],
+    "url": "https://trueducation.ru/",
+    "date": 1637931640,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "hr",
+      "obrazovanie",
+      "uslugi",
+      "tilda"
+    ],
+    "awards": []
+  },
+  {
     "id": 980,
     "title": "Создавайте Финтех с нуля",
     "caption": "Создавайте Финтех с нуля\nhttps://yandexfintech.ru/\n\n#hr #работа #яндекс #whiterussianstudio",

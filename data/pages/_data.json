@@ -13844,5 +13844,23 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "1020": {
+    "id": 1020,
+    "title": "Тру",
+    "caption": "Тру\nhttps://trueducation.ru/\n\n#hr #образование #услуги #tilda",
+    "image": "1020.jpg",
+    "tags": [
+      "hr",
+      "образование",
+      "услуги",
+      "tilda"
+    ],
+    "url": "https://trueducation.ru/",
+    "date": 1637931640,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

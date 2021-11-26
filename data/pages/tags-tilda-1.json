@@ -1,5 +1,30 @@
 [
   {
+    "id": 1020,
+    "title": "Тру",
+    "caption": "Тру\nhttps://trueducation.ru/\n\n#hr #образование #услуги #tilda",
+    "image": "data/images/1020.jpg",
+    "tags": [
+      "hr",
+      "образование",
+      "услуги",
+      "tilda"
+    ],
+    "url": "https://trueducation.ru/",
+    "date": 1637931640,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "hr",
+      "obrazovanie",
+      "uslugi",
+      "tilda"
+    ],
+    "awards": []
+  },
+  {
     "id": 1019,
     "title": "Конкурс на разработку стикерпака OneTwoTrip",
     "caption": "Конкурс на разработку стикерпака OneTwoTrip\nhttps://events.skillbox.ru/travelstickerpack\n\n#промо #конкурс #tilda #skillbox",
@@ -451,29 +476,6 @@
       "obrazovanie",
       "tilda",
       "kamchatka"
-    ],
-    "awards": []
-  },
-  {
-    "id": 780,
-    "title": "MOLNIA",
-    "caption": "MOLNIA\nhttps://molnia.city/\n\n#сервис #приложение #tilda",
-    "image": "data/images/780.jpg",
-    "tags": [
-      "сервис",
-      "приложение",
-      "tilda"
-    ],
-    "url": "https://molnia.city/",
-    "date": 1601287205,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "prilozhenie",
-      "tilda"
     ],
     "awards": []
   }

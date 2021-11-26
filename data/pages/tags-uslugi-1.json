@@ -1,5 +1,30 @@
 [
   {
+    "id": 1020,
+    "title": "Тру",
+    "caption": "Тру\nhttps://trueducation.ru/\n\n#hr #образование #услуги #tilda",
+    "image": "data/images/1020.jpg",
+    "tags": [
+      "hr",
+      "образование",
+      "услуги",
+      "tilda"
+    ],
+    "url": "https://trueducation.ru/",
+    "date": 1637931640,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "hr",
+      "obrazovanie",
+      "uslugi",
+      "tilda"
+    ],
+    "awards": []
+  },
+  {
     "id": 993,
     "title": "Charmer Design Unit",
     "caption": "Charmer Design Unit\nhttps://russian.charmer.design/\n\n#портфолио #услуги #readymag\nСпасибо за ссылку @masterlobster",
@@ -418,27 +443,6 @@
       "uslugi",
       "servis",
       "konstruktor"
-    ],
-    "awards": []
-  },
-  {
-    "id": 190,
-    "title": "Decta",
-    "image": "data/images/190.jpg",
-    "tags": [
-      "финансы",
-      "услуги",
-      "технологии"
-    ],
-    "url": "https://decta.com/ru",
-    "date": 1527674411,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "finansi",
-      "uslugi",
-      "tekhnologii"
     ],
     "awards": []
   }
