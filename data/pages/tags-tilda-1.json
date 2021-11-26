@@ -1,5 +1,30 @@
 [
   {
+    "id": 1019,
+    "title": "Конкурс на разработку стикерпака OneTwoTrip",
+    "caption": "Конкурс на разработку стикерпака OneTwoTrip\nhttps://events.skillbox.ru/travelstickerpack\n\n#промо #конкурс #tilda #skillbox",
+    "image": "data/images/1019.jpg",
+    "tags": [
+      "промо",
+      "конкурс",
+      "tilda",
+      "skillbox"
+    ],
+    "url": "https://events.skillbox.ru/travelstickerpack",
+    "date": 1637918518,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "konkurs",
+      "tilda",
+      "skillbox"
+    ],
+    "awards": []
+  },
+  {
     "id": 1015,
     "title": "Tilda Sans",
     "caption": "Tilda Sans\nhttps://tilda.cc/ru/lp/tildasans/\n\n#промо #шрифт #tilda\nСпасибо за ссылку @mmm_owl",
@@ -449,31 +474,6 @@
       "servis",
       "prilozhenie",
       "tilda"
-    ],
-    "awards": []
-  },
-  {
-    "id": 779,
-    "title": "Spilne",
-    "caption": "Spilne\nhttps://spilne.art/\n\n#магазин #искусство #tilda #avamyara",
-    "image": "data/images/779.jpg",
-    "tags": [
-      "магазин",
-      "искусство",
-      "tilda",
-      "avamyara"
-    ],
-    "url": "https://spilne.art/",
-    "date": 1601200805,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "iskusstvo",
-      "tilda",
-      "avamyara"
     ],
     "awards": []
   }

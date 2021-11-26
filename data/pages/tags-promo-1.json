@@ -1,5 +1,30 @@
 [
   {
+    "id": 1019,
+    "title": "Конкурс на разработку стикерпака OneTwoTrip",
+    "caption": "Конкурс на разработку стикерпака OneTwoTrip\nhttps://events.skillbox.ru/travelstickerpack\n\n#промо #конкурс #tilda #skillbox",
+    "image": "data/images/1019.jpg",
+    "tags": [
+      "промо",
+      "конкурс",
+      "tilda",
+      "skillbox"
+    ],
+    "url": "https://events.skillbox.ru/travelstickerpack",
+    "date": 1637918518,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "konkurs",
+      "tilda",
+      "skillbox"
+    ],
+    "awards": []
+  },
+  {
     "id": 1015,
     "title": "Tilda Sans",
     "caption": "Tilda Sans\nhttps://tilda.cc/ru/lp/tildasans/\n\n#промо #шрифт #tilda\nСпасибо за ссылку @mmm_owl",
@@ -450,29 +475,6 @@
     "slugs": [
       "promo",
       "max"
-    ],
-    "awards": []
-  },
-  {
-    "id": 808,
-    "title": "Березки",
-    "caption": "Березки\nhttps://readymag.com/glebstul/beryozki/\n\n#промо #readymag #nadyapetrova",
-    "image": "data/images/808.jpg",
-    "tags": [
-      "промо",
-      "readymag",
-      "nadyapetrova"
-    ],
-    "url": "https://readymag.com/glebstul/beryozki/",
-    "date": 1604572129,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "readymag",
-      "nadyapetrova"
     ],
     "awards": []
   }

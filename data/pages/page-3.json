@@ -1,5 +1,26 @@
 [
   {
+    "id": 975,
+    "title": "Цикада",
+    "caption": "Цикада\nhttps://cicadaprize.com/\n\n#мероприятие #readymag\nСпасибо за ссылку @readymag_official",
+    "image": "data/images/975.jpg",
+    "tags": [
+      "мероприятие",
+      "readymag"
+    ],
+    "url": "https://cicadaprize.com/",
+    "date": 1626955208,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 974,
     "title": "NORM 1458",
     "caption": "NORM 1458\nhttps://1458.ru/\n\n#портфолио #whiterussianstudio",
@@ -442,29 +463,6 @@
       "zhurnal",
       "bank",
       "finansi"
-    ],
-    "awards": []
-  },
-  {
-    "id": 953,
-    "title": "НАЙСІ",
-    "caption": "НАЙСІ\nhttps://nicee.com.ua/\n\n#промо #производство #readymag",
-    "image": "data/images/953.jpg",
-    "tags": [
-      "промо",
-      "производство",
-      "readymag"
-    ],
-    "url": "https://nicee.com.ua/",
-    "date": 1623150072,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "proizvodstvo",
-      "readymag"
     ],
     "awards": []
   }

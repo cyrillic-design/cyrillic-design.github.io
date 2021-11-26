@@ -1,5 +1,30 @@
 [
   {
+    "id": 779,
+    "title": "Spilne",
+    "caption": "Spilne\nhttps://spilne.art/\n\n#магазин #искусство #tilda #avamyara",
+    "image": "data/images/779.jpg",
+    "tags": [
+      "магазин",
+      "искусство",
+      "tilda",
+      "avamyara"
+    ],
+    "url": "https://spilne.art/",
+    "date": 1601200805,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "iskusstvo",
+      "tilda",
+      "avamyara"
+    ],
+    "awards": []
+  },
+  {
     "id": 778,
     "title": "Театральный",
     "caption": "Театральный\nhttps://teatrhome.com/\n\n#промо #недвижимость #tilda #дмитрийносков",
