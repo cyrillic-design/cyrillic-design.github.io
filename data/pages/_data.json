@@ -13879,5 +13879,23 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "1022": {
+    "id": 1022,
+    "title": "Олеееееег",
+    "caption": "Олеееееег\nhttps://oleeeeeeg.special.ink\n\n#игра #банк #финансы #спецпроект",
+    "image": "1022.jpg",
+    "tags": [
+      "игра",
+      "банк",
+      "финансы",
+      "спецпроект"
+    ],
+    "url": "https://oleeeeeeg.special.ink",
+    "date": 1638187239,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

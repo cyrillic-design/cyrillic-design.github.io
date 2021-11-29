@@ -1,5 +1,24 @@
 [
   {
+    "id": 402,
+    "title": "Рейтинги РВК 2018",
+    "image": "data/images/402.jpg",
+    "tags": [
+      "финансы",
+      "бизнес"
+    ],
+    "url": "http://ratings.rvc.ru/",
+    "date": 1545991205,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "finansi",
+      "biznes"
+    ],
+    "awards": []
+  },
+  {
     "id": 398,
     "title": "Radario",
     "image": "data/images/398.jpg",
@@ -406,29 +425,6 @@
       "nedvizhimost",
       "finansi",
       "aic"
-    ],
-    "awards": []
-  },
-  {
-    "id": 156,
-    "title": "Rocket Home Pig",
-    "image": "data/images/156.jpg",
-    "tags": [
-      "промо",
-      "банк",
-      "финансы",
-      "readymag"
-    ],
-    "url": "http://homepig.rocketbank.ru/",
-    "date": 1524564005,
-    "edit_date": 1583185536,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "bank",
-      "finansi",
-      "readymag"
     ],
     "awards": []
   }

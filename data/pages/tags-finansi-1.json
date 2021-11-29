@@ -1,5 +1,30 @@
 [
   {
+    "id": 1022,
+    "title": "Олеееееег",
+    "caption": "Олеееееег\nhttps://oleeeeeeg.special.ink\n\n#игра #банк #финансы #спецпроект",
+    "image": "data/images/1022.jpg",
+    "tags": [
+      "игра",
+      "банк",
+      "финансы",
+      "спецпроект"
+    ],
+    "url": "https://oleeeeeeg.special.ink",
+    "date": 1638187239,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "igra",
+      "bank",
+      "finansi",
+      "spetsproekt"
+    ],
+    "awards": []
+  },
+  {
     "id": 990,
     "title": "Fintech Design Conf",
     "caption": "Fintech Design Conf\nhttps://www.fintechdesign.ru/\n\n#мероприятие #финансы #банк",
@@ -443,25 +468,6 @@
       "finansi",
       "bank",
       "aic"
-    ],
-    "awards": []
-  },
-  {
-    "id": 402,
-    "title": "Рейтинги РВК 2018",
-    "image": "data/images/402.jpg",
-    "tags": [
-      "финансы",
-      "бизнес"
-    ],
-    "url": "http://ratings.rvc.ru/",
-    "date": 1545991205,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "finansi",
-      "biznes"
     ],
     "awards": []
   }

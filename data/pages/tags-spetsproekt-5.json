@@ -1,5 +1,24 @@
 [
   {
+    "id": 601,
+    "title": "Исаак Левитан",
+    "image": "data/images/601.jpg",
+    "tags": [
+      "спецпроект",
+      "netlab"
+    ],
+    "url": "http://levitanart.ru/",
+    "date": 1570874429,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "netlab"
+    ],
+    "awards": []
+  },
+  {
     "id": 599,
     "title": "Birds Records",
     "image": "data/images/599.jpg",
@@ -388,28 +407,6 @@
       "spetsproekt",
       "ukraina",
       "evne"
-    ],
-    "awards": []
-  },
-  {
-    "id": 413,
-    "title": "Село Хрюг",
-    "caption": "Село Хрюг\nhttps://khrug.ru/index.html\n\n#спецпроект #люди #кружок",
-    "image": "data/images/413.jpg",
-    "tags": [
-      "спецпроект",
-      "люди",
-      "кружок"
-    ],
-    "url": "https://khrug.ru/index.html",
-    "date": 1547719215,
-    "edit_date": 1583423738,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "lyudi",
-      "kruzhok"
     ],
     "awards": []
   }
