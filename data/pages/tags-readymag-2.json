@@ -1,5 +1,30 @@
 [
   {
+    "id": 962,
+    "title": "Про OneSoil Business Insights",
+    "caption": "Про OneSoil Business Insights\nhttps://b2b.onesoil.ai/ru/\n\n#данные #бизнес #сервис #readymag",
+    "image": "data/images/962.jpg",
+    "tags": [
+      "данные",
+      "бизнес",
+      "сервис",
+      "readymag"
+    ],
+    "url": "https://b2b.onesoil.ai/ru/",
+    "date": 1624882114,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "dannie",
+      "biznes",
+      "servis",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 953,
     "title": "НАЙСІ",
     "caption": "НАЙСІ\nhttps://nicee.com.ua/\n\n#промо #производство #readymag",
@@ -453,28 +478,6 @@
       "yeda",
       "readymag",
       "kukhnyanaraione"
-    ],
-    "awards": []
-  },
-  {
-    "id": 897,
-    "title": "leta",
-    "caption": "leta\nhttps://leta.today/\n\n#спецпроект #readymag",
-    "image": "data/images/897.jpg",
-    "tags": [
-      "спецпроект",
-      "readymag"
-    ],
-    "url": "https://leta.today/",
-    "date": 1615637366,
-    "edit_date": 1615662442,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "readymag"
     ],
     "awards": []
   }

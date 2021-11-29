@@ -1,5 +1,28 @@
 [
   {
+    "id": 707,
+    "title": "EG 2020",
+    "caption": "EG 2020\nhttps://eg2020.ru/\n\n#спецпроект #телекоммуникации #люди\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/707.jpg",
+    "tags": [
+      "спецпроект",
+      "телекоммуникации",
+      "люди"
+    ],
+    "url": "https://eg2020.ru/",
+    "date": 1586512826,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "telekommunikatsii",
+      "lyudi"
+    ],
+    "awards": []
+  },
+  {
     "id": 696,
     "title": "Гараж — Самоизоляция",
     "caption": "Гараж — Самоизоляция\nhttps://self-isolation.garagemca.org/\n\n#спецпроект #образование #каталог #искусство #лучшедома #readymag\nСпасибо за ссылку @readymag_official",
@@ -413,27 +436,6 @@
     "slugs": [
       "spetsproekt",
       "netlab"
-    ],
-    "awards": []
-  },
-  {
-    "id": 599,
-    "title": "Birds Records",
-    "image": "data/images/599.jpg",
-    "tags": [
-      "спецпроект",
-      "музыка",
-      "яндекс"
-    ],
-    "url": "https://birdsrecords.ru/",
-    "date": 1570701649,
-    "edit_date": 1583183812,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "muzika",
-      "yandeks"
     ],
     "awards": []
   }

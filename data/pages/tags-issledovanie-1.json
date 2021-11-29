@@ -1,5 +1,28 @@
 [
   {
+    "id": 1021,
+    "title": "Disexual",
+    "caption": "Disexual\nhttps://readymag.com/hsedesign/digitalsexuality/\n\n#спецпроект #исследование #readymag 18+\nСпасибо за ссылку @lilyakhmetova",
+    "image": "data/images/1021.jpg",
+    "tags": [
+      "спецпроект",
+      "исследование",
+      "readymag"
+    ],
+    "url": "https://readymag.com/hsedesign/digitalsexuality/",
+    "date": 1638178126,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "issledovanie",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 768,
     "title": "TYPICAL.OKR",
     "caption": "TYPICAL.OKR\nhttps://typicalokr.co/\n\n#исследование #сервис #typical #readymag",
