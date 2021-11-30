@@ -13897,5 +13897,21 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "1023": {
+    "id": 1023,
+    "title": "Главстрой",
+    "caption": "Главстрой\nhttps://www.glavstroy.ru\n\n#недвижимость #портфолио\nСпасибо за ссылку @AndyAbramov",
+    "image": "1023.jpg",
+    "tags": [
+      "недвижимость",
+      "портфолио"
+    ],
+    "url": "https://www.glavstroy.ru",
+    "date": 1638255655,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

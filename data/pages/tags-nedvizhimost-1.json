@@ -1,5 +1,26 @@
 [
   {
+    "id": 1023,
+    "title": "Главстрой",
+    "caption": "Главстрой\nhttps://www.glavstroy.ru\n\n#недвижимость #портфолио\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/1023.jpg",
+    "tags": [
+      "недвижимость",
+      "портфолио"
+    ],
+    "url": "https://www.glavstroy.ru",
+    "date": 1638255655,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "nedvizhimost",
+      "portfolio"
+    ],
+    "awards": []
+  },
+  {
     "id": 931,
     "title": "Свои",
     "caption": "Свои\nhttps://svoi.io/\n\n#журнал #недвижимость",
@@ -396,27 +417,6 @@
     "slugs": [
       "nedvizhimost",
       "chulakov"
-    ],
-    "awards": []
-  },
-  {
-    "id": 240,
-    "title": "ЖК Нева-Нева",
-    "image": "data/images/240.jpg",
-    "tags": [
-      "недвижимость",
-      "промо",
-      "bquadro"
-    ],
-    "url": "https://neva-neva.ru/",
-    "date": 1531908016,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "nedvizhimost",
-      "promo",
-      "bquadro"
     ],
     "awards": []
   }
