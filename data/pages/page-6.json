@@ -1,5 +1,30 @@
 [
   {
+    "id": 910,
+    "title": "Armenian IT",
+    "caption": "Armenian IT\nhttps://armenianit.dataart.com/\n\n#спецпроект #история #readymag #ильякоробов",
+    "image": "data/images/910.jpg",
+    "tags": [
+      "спецпроект",
+      "история",
+      "readymag",
+      "ильякоробов"
+    ],
+    "url": "https://armenianit.dataart.com/",
+    "date": 1619451602,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "istoriya",
+      "readymag",
+      "ilyakorobov"
+    ],
+    "awards": []
+  },
+  {
     "id": 909,
     "title": "Everybook",
     "caption": "Everybook\nhttps://everybook.ru/\n\n#сервис #приложение",
@@ -433,29 +458,6 @@
       "media",
       "otherland",
       "perevorot"
-    ],
-    "awards": []
-  },
-  {
-    "id": 888,
-    "title": "Bang Bang Education",
-    "caption": "Bang Bang Education\nhttps://bangbangeducation.ru/\n\n#образование #electricredstudio #astroshock\nСпасибо за ссылку @VPuschkarev",
-    "image": "data/images/888.jpg",
-    "tags": [
-      "образование",
-      "electricredstudio",
-      "astroshock"
-    ],
-    "url": "https://bangbangeducation.ru/",
-    "date": 1612356613,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "electricredstudio",
-      "astroshock"
     ],
     "awards": []
   }

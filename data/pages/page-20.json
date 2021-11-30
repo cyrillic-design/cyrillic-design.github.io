@@ -1,5 +1,22 @@
 [
   {
+    "id": 606,
+    "title": "Тренинги по Канбан-методу",
+    "image": "data/images/606.jpg",
+    "tags": [
+      "образование"
+    ],
+    "url": "https://leankanban.ru/",
+    "date": 1571306464,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie"
+    ],
+    "awards": []
+  },
+  {
     "id": 605,
     "title": "Саша Долгополов",
     "image": "data/images/605.jpg",
@@ -361,23 +378,6 @@
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 583,
-    "title": "Косметика Тины Канделаки",
-    "image": "data/images/583.jpg",
-    "tags": [
-      "магазин"
-    ],
-    "url": "https://ansaligy.com/",
-    "date": 1568196030,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin"
     ],
     "awards": []
   }
