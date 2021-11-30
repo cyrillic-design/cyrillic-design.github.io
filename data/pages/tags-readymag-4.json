@@ -1,5 +1,30 @@
 [
   {
+    "id": 819,
+    "title": "DAAT Production",
+    "caption": "DAAT Production\nhttps://daat.pro/\n\n#портфолио #студия #readymag #saint",
+    "image": "data/images/819.jpg",
+    "tags": [
+      "портфолио",
+      "студия",
+      "readymag",
+      "saint"
+    ],
+    "url": "https://daat.pro/",
+    "date": 1605688759,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "studiya",
+      "readymag",
+      "saint"
+    ],
+    "awards": []
+  },
+  {
     "id": 813,
     "title": "Intervals Festival",
     "caption": "Intervals Festival\nhttps://intervalsfest.com/\n\n#заглушка #мероприятие #readymag #dreamlaser",
@@ -454,27 +479,6 @@
       "obrazovanie",
       "readymag",
       "vladimirpushkaryov"
-    ],
-    "awards": []
-  },
-  {
-    "id": 751,
-    "title": "PRAGMATICA",
-    "caption": "PRAGMATICA\nhttps://pragmatica.design/\n\n#портфолио #readymag",
-    "image": "data/images/751.jpg",
-    "tags": [
-      "портфолио",
-      "readymag"
-    ],
-    "url": "https://pragmatica.design/",
-    "date": 1595498405,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio",
-      "readymag"
     ],
     "awards": []
   }
