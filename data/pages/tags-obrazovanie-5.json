@@ -1,5 +1,24 @@
 [
   {
+    "id": 293,
+    "title": "The Orator Club",
+    "image": "data/images/293.jpg",
+    "tags": [
+      "образование",
+      "wonderwork"
+    ],
+    "url": "http://orator.club/",
+    "date": 1536426971,
+    "edit_date": 1583185435,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "wonderwork"
+    ],
+    "awards": []
+  },
+  {
     "id": 289,
     "title": "Архитекторы РФ",
     "image": "data/images/289.jpg",
@@ -392,29 +411,6 @@
       "promo",
       "obrazovanie",
       "kruzhok"
-    ],
-    "awards": []
-  },
-  {
-    "id": 109,
-    "title": "Пастырь",
-    "image": "data/images/109.jpg",
-    "tags": [
-      "сообщество",
-      "медиа",
-      "образование",
-      "культура"
-    ],
-    "url": "http://priest.today/",
-    "date": 1520589607,
-    "edit_date": 1583185563,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "soobshchestvo",
-      "media",
-      "obrazovanie",
-      "kultura"
     ],
     "awards": []
   }

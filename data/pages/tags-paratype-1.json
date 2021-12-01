@@ -1,5 +1,32 @@
 [
   {
+    "id": 1026,
+    "title": "Тёмная сторона шрифта",
+    "caption": "Тёмная сторона шрифта\nhttps://darkside.paratype.ru\n\n#образование #дизайн #readymag #paratype #мариякасаткина\nСпасибо за ссылку @typeschool",
+    "image": "data/images/1026.jpg",
+    "tags": [
+      "образование",
+      "дизайн",
+      "readymag",
+      "paratype",
+      "мариякасаткина"
+    ],
+    "url": "https://darkside.paratype.ru",
+    "date": 1638378588,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "dizain",
+      "readymag",
+      "paratype",
+      "mariyakasatkina"
+    ],
+    "awards": []
+  },
+  {
     "id": 957,
     "title": "Навигационный и информационный шрифт Ижевска IZH 260 A/T",
     "caption": "Навигационный и информационный шрифт Ижевска IZH 260 A/T\nhttp://izh.design/\n\n#город #брендинг #tilda #paratype",

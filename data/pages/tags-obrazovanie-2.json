@@ -1,5 +1,26 @@
 [
   {
+    "id": 874,
+    "title": "Wannabelike",
+    "caption": "Wannabelike\nhttps://wannabelike.ru/\n\n#образование #readymag\nСпасибо за ссылку @blinklinks",
+    "image": "data/images/874.jpg",
+    "tags": [
+      "образование",
+      "readymag"
+    ],
+    "url": "https://wannabelike.ru/",
+    "date": 1610445616,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 862,
     "title": "ZET Academy",
     "caption": "ZET Academy\nhttps://zetacademy.by/\n\n#образование #readymag",
@@ -434,32 +455,6 @@
       "obrazovanie",
       "meropriyatie",
       "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 730,
-    "title": "Курс прозы «Глагол»",
-    "caption": "Курс прозы «Глагол»\nhttp://glglgl.ru/\n\n#образование #мероприятие #readymag #nonobjectiveworks",
-    "image": "data/images/730.jpg",
-    "tags": [
-      "образование",
-      "мероприятие",
-      "readymag",
-      "nonobjectiveworks"
-    ],
-    "url": "http://glglgl.ru/",
-    "date": 1590573617,
-    "edit_date": 1600870401,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "meropriyatie",
-      "readymag",
-      "nonobjectiveworks"
     ],
     "awards": []
   }

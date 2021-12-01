@@ -1,5 +1,32 @@
 [
   {
+    "id": 1026,
+    "title": "Тёмная сторона шрифта",
+    "caption": "Тёмная сторона шрифта\nhttps://darkside.paratype.ru\n\n#образование #дизайн #readymag #paratype #мариякасаткина\nСпасибо за ссылку @typeschool",
+    "image": "data/images/1026.jpg",
+    "tags": [
+      "образование",
+      "дизайн",
+      "readymag",
+      "paratype",
+      "мариякасаткина"
+    ],
+    "url": "https://darkside.paratype.ru",
+    "date": 1638378588,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "dizain",
+      "readymag",
+      "paratype",
+      "mariyakasatkina"
+    ],
+    "awards": []
+  },
+  {
     "id": 869,
     "title": "Спектр формы",
     "caption": "Спектр формы\nhttps://www.whyreka.com/spectrum\n\n#дизайн #сервис\nСпасибо за ссылку @DesignBoard",
@@ -408,25 +435,6 @@
       "obrazovanie",
       "dizain",
       "masterskaya"
-    ],
-    "awards": []
-  },
-  {
-    "id": 191,
-    "title": "Олег Герт",
-    "image": "data/images/191.jpg",
-    "tags": [
-      "портфолио",
-      "дизайн"
-    ],
-    "url": "http://oleggert.ru/",
-    "date": 1527760811,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio",
-      "dizain"
     ],
     "awards": []
   }
