@@ -1,5 +1,32 @@
 [
   {
+    "id": 961,
+    "title": "Yandex Scale",
+    "caption": "Yandex Scale\nhttps://scale.yandex.ru/\n\n#мероприятие #бизнес #технологии #конференция #яндекс",
+    "image": "data/images/961.jpg",
+    "tags": [
+      "мероприятие",
+      "бизнес",
+      "технологии",
+      "конференция",
+      "яндекс"
+    ],
+    "url": "https://scale.yandex.ru/",
+    "date": 1624805653,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "biznes",
+      "tekhnologii",
+      "konferentsiya",
+      "yandeks"
+    ],
+    "awards": []
+  },
+  {
     "id": 960,
     "title": "Fetish Film",
     "caption": "Fetish Film\nhttp://ru.fetishfilm.ru/\n\n#портфолио #максимаксенов",
@@ -426,29 +453,6 @@
       "promo",
       "readymag",
       "breadhead"
-    ],
-    "awards": []
-  },
-  {
-    "id": 940,
-    "title": "Библиотекус",
-    "caption": "Библиотекус\nhttps://bibliotekus.artlebedev.ru/\n\n#сервис #спецпроект #artlebedev",
-    "image": "data/images/940.jpg",
-    "tags": [
-      "сервис",
-      "спецпроект",
-      "artlebedev"
-    ],
-    "url": "https://bibliotekus.artlebedev.ru/",
-    "date": 1621319710,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "spetsproekt",
-      "artlebedev"
     ],
     "awards": []
   }

@@ -1,5 +1,30 @@
 [
   {
+    "id": 1027,
+    "title": "Цмур. Подкаст проекта «Кружок»",
+    "caption": "Цмур. Подкаст проекта «Кружок»\nhttps://podcast.kruzhok.io\n\n#подкаст #спецпроект #образование #люди\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/1027.jpg",
+    "tags": [
+      "подкаст",
+      "спецпроект",
+      "образование",
+      "люди"
+    ],
+    "url": "https://podcast.kruzhok.io",
+    "date": 1638789142,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "podkast",
+      "spetsproekt",
+      "obrazovanie",
+      "lyudi"
+    ],
+    "awards": []
+  },
+  {
     "id": 1026,
     "title": "Тёмная сторона шрифта",
     "caption": "Тёмная сторона шрифта\nhttps://darkside.paratype.ru\n\n#образование #дизайн #readymag #paratype #мариякасаткина\nСпасибо за ссылку @typeschool",
@@ -437,29 +462,6 @@
     "isRemoved": false,
     "slugs": [
       "obrazovanie"
-    ],
-    "awards": []
-  },
-  {
-    "id": 877,
-    "title": "РеФорма",
-    "caption": "РеФорма\nhttps://re-forma.org/\n\n#образование #tilda #redis",
-    "image": "data/images/877.jpg",
-    "tags": [
-      "образование",
-      "tilda",
-      "redis"
-    ],
-    "url": "https://re-forma.org/",
-    "date": 1610704807,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "tilda",
-      "redis"
     ],
     "awards": []
   }

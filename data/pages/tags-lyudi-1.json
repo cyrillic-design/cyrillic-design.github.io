@@ -1,5 +1,30 @@
 [
   {
+    "id": 1027,
+    "title": "Цмур. Подкаст проекта «Кружок»",
+    "caption": "Цмур. Подкаст проекта «Кружок»\nhttps://podcast.kruzhok.io\n\n#подкаст #спецпроект #образование #люди\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/1027.jpg",
+    "tags": [
+      "подкаст",
+      "спецпроект",
+      "образование",
+      "люди"
+    ],
+    "url": "https://podcast.kruzhok.io",
+    "date": 1638789142,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "podkast",
+      "spetsproekt",
+      "obrazovanie",
+      "lyudi"
+    ],
+    "awards": []
+  },
+  {
     "id": 994,
     "title": "Noôdome",
     "caption": "Noôdome\nhttps://noodome.club/\n\n#сервис #бизнес #мероприятие #люди #whiterussianstudio\nСпасибо за ссылку @tim_or_timofey",
@@ -456,27 +481,6 @@
       "spetsproekt",
       "lyudi",
       "kruzhok"
-    ],
-    "awards": []
-  },
-  {
-    "id": 382,
-    "title": "Храм Патриаршего подворья",
-    "image": "data/images/382.jpg",
-    "tags": [
-      "люди",
-      "религия",
-      "itechgroup"
-    ],
-    "url": "https://peredelkino.online/",
-    "date": 1544349618,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "lyudi",
-      "religiya",
-      "itechgroup"
     ],
     "awards": []
   }

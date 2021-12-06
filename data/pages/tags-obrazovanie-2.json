@@ -1,5 +1,28 @@
 [
   {
+    "id": 877,
+    "title": "РеФорма",
+    "caption": "РеФорма\nhttps://re-forma.org/\n\n#образование #tilda #redis",
+    "image": "data/images/877.jpg",
+    "tags": [
+      "образование",
+      "tilda",
+      "redis"
+    ],
+    "url": "https://re-forma.org/",
+    "date": 1610704807,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "tilda",
+      "redis"
+    ],
+    "awards": []
+  },
+  {
     "id": 874,
     "title": "Wannabelike",
     "caption": "Wannabelike\nhttps://wannabelike.ru/\n\n#образование #readymag\nСпасибо за ссылку @blinklinks",
@@ -431,29 +454,6 @@
     "isRemoved": false,
     "slugs": [
       "obrazovanie",
-      "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 731,
-    "title": "Графический дизайн — Bang bang education",
-    "caption": "Графический дизайн — Bang bang education\nhttps://graphdesign.bangbangeducation.ru\n\n#образование #мероприятие #readymag \nСпасибо за ссылку @alexgolyanov",
-    "image": "data/images/731.jpg",
-    "tags": [
-      "образование",
-      "мероприятие",
-      "readymag"
-    ],
-    "url": "https://graphdesign.bangbangeducation.ru",
-    "date": 1590756852,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "meropriyatie",
       "readymag"
     ],
     "awards": []

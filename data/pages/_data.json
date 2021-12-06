@@ -13967,5 +13967,23 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "1027": {
+    "id": 1027,
+    "title": "Цмур. Подкаст проекта «Кружок»",
+    "caption": "Цмур. Подкаст проекта «Кружок»\nhttps://podcast.kruzhok.io\n\n#подкаст #спецпроект #образование #люди\nСпасибо за ссылку @AndyAbramov",
+    "image": "1027.jpg",
+    "tags": [
+      "подкаст",
+      "спецпроект",
+      "образование",
+      "люди"
+    ],
+    "url": "https://podcast.kruzhok.io",
+    "date": 1638789142,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

@@ -1,5 +1,30 @@
 [
   {
+    "id": 1027,
+    "title": "Цмур. Подкаст проекта «Кружок»",
+    "caption": "Цмур. Подкаст проекта «Кружок»\nhttps://podcast.kruzhok.io\n\n#подкаст #спецпроект #образование #люди\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/1027.jpg",
+    "tags": [
+      "подкаст",
+      "спецпроект",
+      "образование",
+      "люди"
+    ],
+    "url": "https://podcast.kruzhok.io",
+    "date": 1638789142,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "podkast",
+      "spetsproekt",
+      "obrazovanie",
+      "lyudi"
+    ],
+    "awards": []
+  },
+  {
     "id": 1022,
     "title": "Олеееееег",
     "caption": "Олеееееег\nhttps://oleeeeeeg.special.ink\n\n#игра #банк #финансы #спецпроект",
@@ -450,31 +475,6 @@
       "istoriya",
       "readymag",
       "margaritali"
-    ],
-    "awards": []
-  },
-  {
-    "id": 910,
-    "title": "Armenian IT",
-    "caption": "Armenian IT\nhttps://armenianit.dataart.com/\n\n#спецпроект #история #readymag #ильякоробов",
-    "image": "data/images/910.jpg",
-    "tags": [
-      "спецпроект",
-      "история",
-      "readymag",
-      "ильякоробов"
-    ],
-    "url": "https://armenianit.dataart.com/",
-    "date": 1619451602,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "istoriya",
-      "readymag",
-      "ilyakorobov"
     ],
     "awards": []
   }
