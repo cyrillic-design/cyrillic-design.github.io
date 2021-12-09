@@ -13989,16 +13989,18 @@
   "1028": {
     "id": 1028,
     "title": "Большой театр",
-    "caption": "Большой театр\nhttps://bolshoi.ru\n\n#афиша #театр #sulliwan #astroshock",
+    "caption": "Большой театр\nhttps://bolshoi.ru\n\n#афиша #театр #культура #sulliwan #astroshock",
     "image": "1028.jpg",
     "tags": [
       "афиша",
       "театр",
+      "культура",
       "sulliwan",
       "astroshock"
     ],
     "url": "https://bolshoi.ru",
     "date": 1639033498,
+    "edit_date": 1639034154,
     "isMonth": false,
     "isYear": false,
     "isHighlighted": false,
