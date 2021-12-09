@@ -1,5 +1,26 @@
 [
   {
+    "id": 182,
+    "title": "Беру",
+    "image": "data/images/182.jpg",
+    "tags": [
+      "магазин",
+      "маркетплейс",
+      "яндекс"
+    ],
+    "url": "https://beru.ru/",
+    "date": 1526983229,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "marketpleis",
+      "yandeks"
+    ],
+    "awards": []
+  },
+  {
     "id": 181,
     "title": "Setka Workflow",
     "image": "data/images/181.jpg",
@@ -393,26 +414,6 @@
     "slugs": [
       "bank",
       "finansi"
-    ],
-    "awards": []
-  },
-  {
-    "id": 162,
-    "title": "Никея",
-    "caption": "Никея\nhttps://nikeabooks.ru/\n\n#магазин #издание",
-    "image": "data/images/162.jpg",
-    "tags": [
-      "магазин",
-      "издание"
-    ],
-    "url": "https://nikeabooks.ru/",
-    "date": 1525168811,
-    "edit_date": 1583439722,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "izdanie"
     ],
     "awards": []
   }
