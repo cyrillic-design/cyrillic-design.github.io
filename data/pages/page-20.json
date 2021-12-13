@@ -1,28 +1,5 @@
 [
   {
-    "id": 610,
-    "title": "Кулинарные рецепты – САФ",
-    "image": "data/images/610.jpg",
-    "tags": [
-      "журнал",
-      "производство",
-      "еда",
-      "nimax"
-    ],
-    "url": "https://safclub.ru/",
-    "date": 1571652017,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "zhurnal",
-      "proizvodstvo",
-      "yeda",
-      "nimax"
-    ],
-    "awards": []
-  },
-  {
     "id": 609,
     "title": "kinofood",
     "image": "data/images/609.jpg",
@@ -382,6 +359,25 @@
     "slugs": [
       "hr",
       "portfolio"
+    ],
+    "awards": []
+  },
+  {
+    "id": 589,
+    "title": "Экспертный журнал о красоте",
+    "image": "data/images/589.jpg",
+    "tags": [
+      "журнал",
+      "ony"
+    ],
+    "url": "https://flacon-magazine.com/",
+    "date": 1568973621,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "ony"
     ],
     "awards": []
   }

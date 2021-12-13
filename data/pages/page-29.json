@@ -1,26 +1,5 @@
 [
   {
-    "id": 412,
-    "title": "Виртуальный русский павильон",
-    "image": "data/images/412.jpg",
-    "tags": [
-      "мероприятие",
-      "промо",
-      "readymag"
-    ],
-    "url": "https://readymag.com/u90533425/1065619/",
-    "date": 1547632858,
-    "edit_date": 1583185362,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "meropriyatie",
-      "promo",
-      "readymag"
-    ],
-    "awards": []
-  },
-  {
     "id": 411,
     "title": "The Book",
     "image": "data/images/411.jpg",
@@ -398,6 +377,27 @@
     "slugs": [
       "nedvizhimost",
       "beta"
+    ],
+    "awards": []
+  },
+  {
+    "id": 391,
+    "title": "Faster",
+    "image": "data/images/391.jpg",
+    "tags": [
+      "сервис",
+      "здоровье",
+      "breadhead"
+    ],
+    "url": "https://faster.ru/",
+    "date": 1545040816,
+    "edit_date": 1583185395,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "zdorove",
+      "breadhead"
     ],
     "awards": []
   }

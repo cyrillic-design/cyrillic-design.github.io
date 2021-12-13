@@ -1,24 +1,5 @@
 [
   {
-    "id": 264,
-    "title": "Spires",
-    "image": "data/images/264.jpg",
-    "tags": [
-      "недвижимость",
-      "chulakov"
-    ],
-    "url": "http://spires.ru/",
-    "date": 1534000203,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "nedvizhimost",
-      "chulakov"
-    ],
-    "awards": []
-  },
-  {
     "id": 263,
     "title": "Десять шрифтов 2017",
     "caption": "Десять шрифтов 2017 \nhttp://2017.typejournal.ru/\n\n#спецпроект #журналшрифт #readymag",
@@ -395,6 +376,25 @@
     "slugs": [
       "agentstvo",
       "portfolio"
+    ],
+    "awards": []
+  },
+  {
+    "id": 244,
+    "title": "Фламп",
+    "image": "data/images/244.jpg",
+    "tags": [
+      "сервис",
+      "сообщество"
+    ],
+    "url": "https://flamp.ru/",
+    "date": 1532253616,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "soobshchestvo"
     ],
     "awards": []
   }

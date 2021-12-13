@@ -1,24 +1,5 @@
 [
   {
-    "id": 589,
-    "title": "Экспертный журнал о красоте",
-    "image": "data/images/589.jpg",
-    "tags": [
-      "журнал",
-      "ony"
-    ],
-    "url": "https://flacon-magazine.com/",
-    "date": 1568973621,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "zhurnal",
-      "ony"
-    ],
-    "awards": []
-  },
-  {
     "id": 587,
     "title": "KIOSK",
     "image": "data/images/587.jpg",
@@ -377,6 +358,25 @@
       "muzika",
       "lyudi",
       "staspolyakov"
+    ],
+    "awards": []
+  },
+  {
+    "id": 565,
+    "title": "Большая Коча",
+    "image": "data/images/565.jpg",
+    "tags": [
+      "спецпроект",
+      "кружок"
+    ],
+    "url": "https://bolshayakocha.ru/",
+    "date": 1565517638,
+    "edit_date": 1583183812,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "kruzhok"
     ],
     "awards": []
   }

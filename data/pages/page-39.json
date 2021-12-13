@@ -1,24 +1,5 @@
 [
   {
-    "id": 204,
-    "title": "Tatler",
-    "image": "data/images/204.jpg",
-    "tags": [
-      "журнал",
-      "мода"
-    ],
-    "url": "https://www.tatler.ru/",
-    "date": 1528797612,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "zhurnal",
-      "moda"
-    ],
-    "awards": []
-  },
-  {
     "id": 203,
     "title": "AL5 Алюминий Завод",
     "image": "data/images/203.jpg",
@@ -415,6 +396,25 @@
       "portfolio",
       "uslugi",
       "agentstvo"
+    ],
+    "awards": []
+  },
+  {
+    "id": 183,
+    "title": "ThisIsMedia",
+    "image": "data/images/183.jpg",
+    "tags": [
+      "медиа",
+      "журнал"
+    ],
+    "url": "https://thisis.media/",
+    "date": 1527069606,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "media",
+      "zhurnal"
     ],
     "awards": []
   }

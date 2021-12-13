@@ -1,30 +1,5 @@
 [
   {
-    "id": 778,
-    "title": "Театральный",
-    "caption": "Театральный\nhttps://teatrhome.com/\n\n#промо #недвижимость #tilda #дмитрийносков",
-    "image": "data/images/778.jpg",
-    "tags": [
-      "промо",
-      "недвижимость",
-      "tilda",
-      "дмитрийносков"
-    ],
-    "url": "https://teatrhome.com/",
-    "date": 1601114404,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "nedvizhimost",
-      "tilda",
-      "dmitriinoskov"
-    ],
-    "awards": []
-  },
-  {
     "id": 777,
     "title": "ИИ И КИНО",
     "caption": "ИИ И КИНО\nhttps://readymag.com/u799818405/2146390/\n\n#спецпроект #readymag",
@@ -464,6 +439,30 @@
       "proizvodstvo",
       "promo",
       "cuberto"
+    ],
+    "awards": []
+  },
+  {
+    "id": 758,
+    "title": "Brave New World",
+    "caption": "Brave New World\nhttps://bnw.budu.jobs/\n\n#спецпроект #образование #сервис\nСпасибо за ссылку @kkkarterrr",
+    "image": "data/images/758.jpg",
+    "tags": [
+      "спецпроект",
+      "образование",
+      "сервис"
+    ],
+    "url": "https://bnw.budu.jobs/",
+    "date": 1598349611,
+    "edit_date": 1598350429,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "obrazovanie",
+      "servis"
     ],
     "awards": []
   }

@@ -1,26 +1,5 @@
 [
   {
-    "id": 100,
-    "title": "BoyCut",
-    "image": "data/images/100.jpg",
-    "tags": [
-      "мода",
-      "барбершоп",
-      "whiterussianstudio"
-    ],
-    "url": "http://moscow.boycut.ru",
-    "date": 1519898414,
-    "edit_date": 1583185563,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "moda",
-      "barbershop",
-      "whiterussianstudio"
-    ],
-    "awards": []
-  },
-  {
     "id": 99,
     "title": "Т—Ж",
     "image": "data/images/99.jpg",
@@ -436,6 +415,27 @@
       "arenda",
       "zolteco",
       "vintage"
+    ],
+    "awards": []
+  },
+  {
+    "id": 60,
+    "title": "Музей современного искусства «Гараж»",
+    "image": "data/images/60.jpg",
+    "tags": [
+      "культура",
+      "музей",
+      "charmer"
+    ],
+    "url": "garagemca.org",
+    "date": 1518278428,
+    "edit_date": 1583185563,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "kultura",
+      "muzei",
+      "charmer"
     ],
     "awards": []
   }

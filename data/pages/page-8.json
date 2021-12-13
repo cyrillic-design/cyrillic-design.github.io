@@ -1,26 +1,5 @@
 [
   {
-    "id": 868,
-    "title": "Эйч",
-    "caption": "Эйч\nhttps://h.budu.jobs/\n\n#hr #сервис",
-    "image": "data/images/868.jpg",
-    "tags": [
-      "hr",
-      "сервис"
-    ],
-    "url": "https://h.budu.jobs/",
-    "date": 1609063206,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "hr",
-      "servis"
-    ],
-    "awards": []
-  },
-  {
     "id": 867,
     "title": "Zuzeum",
     "caption": "Zuzeum\nhttps://www.zuzeum.com/ru/\n\n#искусство #мероприятие #культура",
@@ -463,6 +442,31 @@
       "spetsproekt",
       "kultura",
       "readymag"
+    ],
+    "awards": []
+  },
+  {
+    "id": 847,
+    "title": "Grow this, Grow that: Product designer",
+    "caption": "Grow this, Grow that: Product designer\nhttps://vectorly.team/grow-this-grow-that-ru/product-designer\n\n#мероприятие #подкаст #образование #webflow\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/847.jpg",
+    "tags": [
+      "мероприятие",
+      "подкаст",
+      "образование",
+      "webflow"
+    ],
+    "url": "https://vectorly.team/grow-this-grow-that-ru/product-designer",
+    "date": 1607446132,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "podkast",
+      "obrazovanie",
+      "webflow"
     ],
     "awards": []
   }

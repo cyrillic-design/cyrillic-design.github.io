@@ -1,26 +1,5 @@
 [
   {
-    "id": 456,
-    "title": "Homo Sedens",
-    "image": "data/images/456.jpg",
-    "tags": [
-      "спецпроект",
-      "здоровье",
-      "мамихлапинатана"
-    ],
-    "url": "https://homosedens.detralex.ru/",
-    "date": 1551348016,
-    "edit_date": 1583185362,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "zdorove",
-      "mamikhlapinatana"
-    ],
-    "awards": []
-  },
-  {
     "id": 455,
     "title": "Skyeng job review",
     "image": "data/images/455.jpg",
@@ -393,6 +372,27 @@
       "servis",
       "dostavka",
       "max"
+    ],
+    "awards": []
+  },
+  {
+    "id": 432,
+    "title": "Embacy",
+    "image": "data/images/432.jpg",
+    "tags": [
+      "портфолио",
+      "спецпроект",
+      "студия"
+    ],
+    "url": "https://embacy.ru/lp/",
+    "date": 1549620019,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "spetsproekt",
+      "studiya"
     ],
     "awards": []
   }

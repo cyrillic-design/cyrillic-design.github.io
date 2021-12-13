@@ -1,24 +1,5 @@
 [
   {
-    "id": 892,
-    "title": "Pinkman",
-    "caption": "Pinkman\nhttps://pinkman.ru/\n\n#портфолио\nСпасибо за ссылку @lemur_lucky",
-    "image": "data/images/892.jpg",
-    "tags": [
-      "портфолио"
-    ],
-    "url": "https://pinkman.ru/",
-    "date": 1613461320,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio"
-    ],
-    "awards": []
-  },
-  {
     "id": 891,
     "title": "STRELKA INSTITUTE 20:20",
     "caption": "STRELKA INSTITUTE 20:20\nhttps://2020.strelka.com/\n\n#образование #отчет #readymag\nСпасибо за ссылку @mjsnui",
@@ -443,6 +424,27 @@
     "isRemoved": false,
     "slugs": [
       "dizain",
+      "servis"
+    ],
+    "awards": []
+  },
+  {
+    "id": 868,
+    "title": "Эйч",
+    "caption": "Эйч\nhttps://h.budu.jobs/\n\n#hr #сервис",
+    "image": "data/images/868.jpg",
+    "tags": [
+      "hr",
+      "сервис"
+    ],
+    "url": "https://h.budu.jobs/",
+    "date": 1609063206,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "hr",
       "servis"
     ],
     "awards": []

@@ -1,26 +1,5 @@
 [
   {
-    "id": 325,
-    "title": "Google Science Fair",
-    "image": "data/images/325.jpg",
-    "tags": [
-      "конкурс",
-      "образование",
-      "google"
-    ],
-    "url": "https://www.googlesciencefair.com/intl/ru/",
-    "date": 1539338448,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "konkurs",
-      "obrazovanie",
-      "google"
-    ],
-    "awards": []
-  },
-  {
     "id": 324,
     "title": "Papa John's",
     "image": "data/images/324.jpg",
@@ -410,6 +389,25 @@
     "slugs": [
       "studiya",
       "portfolio"
+    ],
+    "awards": []
+  },
+  {
+    "id": 305,
+    "title": "life:)",
+    "image": "data/images/305.jpg",
+    "tags": [
+      "провайдер",
+      "skdo"
+    ],
+    "url": "https://life.com.by/",
+    "date": 1537431693,
+    "edit_date": 1583185436,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "provaider",
+      "skdo"
     ],
     "awards": []
   }

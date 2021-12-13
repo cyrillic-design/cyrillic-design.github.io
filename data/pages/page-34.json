@@ -1,24 +1,5 @@
 [
   {
-    "id": 305,
-    "title": "life:)",
-    "image": "data/images/305.jpg",
-    "tags": [
-      "провайдер",
-      "skdo"
-    ],
-    "url": "https://life.com.by/",
-    "date": 1537431693,
-    "edit_date": 1583185436,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "provaider",
-      "skdo"
-    ],
-    "awards": []
-  },
-  {
     "id": 304,
     "title": "Бедные люди. Кабаковы",
     "image": "data/images/304.jpg",
@@ -403,6 +384,29 @@
     "slugs": [
       "novosti",
       "smi"
+    ],
+    "awards": []
+  },
+  {
+    "id": 285,
+    "title": "Дизайн государственных систем России",
+    "image": "data/images/285.jpg",
+    "tags": [
+      "дизайн",
+      "система",
+      "aic",
+      "labag"
+    ],
+    "url": "http://gov.design/",
+    "date": 1535709605,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "dizain",
+      "sistema",
+      "aic",
+      "labag"
     ],
     "awards": []
   }

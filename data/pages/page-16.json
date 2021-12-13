@@ -1,28 +1,5 @@
 [
   {
-    "id": 697,
-    "title": "SRSLY",
-    "caption": "SRSLY\nhttps://srsly.ru/\n\n#медиа #журнал #whiterussianstudio\nСпасибо за ссылку @AndyAbramov",
-    "image": "data/images/697.jpg",
-    "tags": [
-      "медиа",
-      "журнал",
-      "whiterussianstudio"
-    ],
-    "url": "https://srsly.ru/",
-    "date": 1585810842,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "media",
-      "zhurnal",
-      "whiterussianstudio"
-    ],
-    "awards": []
-  },
-  {
     "id": 696,
     "title": "Гараж — Самоизоляция",
     "caption": "Гараж — Самоизоляция\nhttps://self-isolation.garagemca.org/\n\n#спецпроект #образование #каталог #искусство #лучшедома #readymag\nСпасибо за ссылку @readymag_official",
@@ -472,6 +449,28 @@
       "obrazovanie",
       "meropriyatie",
       "readymag"
+    ],
+    "awards": []
+  },
+  {
+    "id": 675,
+    "title": "Театральная школа Karavaev Lab",
+    "caption": "Театральная школа Karavaev Lab\nhttps://karavaev-lab.ru/\n\n☆ #образование #мероприятие #tilda",
+    "image": "data/images/675.jpg",
+    "tags": [
+      "образование",
+      "мероприятие",
+      "tilda"
+    ],
+    "url": "https://karavaev-lab.ru/",
+    "date": 1583316024,
+    "edit_date": 1583524339,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "meropriyatie",
+      "tilda"
     ],
     "awards": []
   }
