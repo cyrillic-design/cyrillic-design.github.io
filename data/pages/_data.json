@@ -14023,5 +14023,22 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": true
+  },
+  "1030": {
+    "id": 1030,
+    "title": "Дороже денег",
+    "caption": "Дороже денег\nhttps://dorozhe.media\n\n#финансы #журнал #медиа\nСпасибо за ссылку @AndyAbramov",
+    "image": "1030.jpg",
+    "tags": [
+      "финансы",
+      "журнал",
+      "медиа"
+    ],
+    "url": "https://dorozhe.media",
+    "date": 1639393238,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

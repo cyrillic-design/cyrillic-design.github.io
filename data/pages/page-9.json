@@ -1,5 +1,30 @@
 [
   {
+    "id": 847,
+    "title": "Grow this, Grow that: Product designer",
+    "caption": "Grow this, Grow that: Product designer\nhttps://vectorly.team/grow-this-grow-that-ru/product-designer\n\n#мероприятие #подкаст #образование #webflow\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/847.jpg",
+    "tags": [
+      "мероприятие",
+      "подкаст",
+      "образование",
+      "webflow"
+    ],
+    "url": "https://vectorly.team/grow-this-grow-that-ru/product-designer",
+    "date": 1607446132,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "podkast",
+      "obrazovanie",
+      "webflow"
+    ],
+    "awards": []
+  },
+  {
     "id": 846,
     "title": "Работа в компании Северсталь",
     "caption": "Работа в компании Северсталь\nhttps://career.severstal.com/\n\n#производство #hr #artlebedev",
@@ -420,31 +445,6 @@
       "novosti",
       "smi",
       "charmer"
-    ],
-    "awards": []
-  },
-  {
-    "id": 823,
-    "title": "Конструктор",
-    "caption": "Конструктор\nhttps://constructor.jewish-museum.ru/ru\n\n#спецпроект #игра #музей #materialist",
-    "image": "data/images/823.jpg",
-    "tags": [
-      "спецпроект",
-      "игра",
-      "музей",
-      "materialist"
-    ],
-    "url": "https://constructor.jewish-museum.ru/ru",
-    "date": 1606123850,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "igra",
-      "muzei",
-      "materialist"
     ],
     "awards": []
   }
