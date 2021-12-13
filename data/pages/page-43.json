@@ -1,5 +1,24 @@
 [
   {
+    "id": 122,
+    "title": "R/m Design Almanac",
+    "image": "data/images/122.jpg",
+    "tags": [
+      "образование",
+      "readymag"
+    ],
+    "url": "https://almanac-rus.readymag.com/",
+    "date": 1521712804,
+    "edit_date": 1583185535,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 121,
     "title": "Arzamas",
     "image": "data/images/121.jpg",
@@ -400,27 +419,6 @@
       "servis",
       "doskaobyavlenii",
       "mailru"
-    ],
-    "awards": []
-  },
-  {
-    "id": 100,
-    "title": "BoyCut",
-    "image": "data/images/100.jpg",
-    "tags": [
-      "мода",
-      "барбершоп",
-      "whiterussianstudio"
-    ],
-    "url": "http://moscow.boycut.ru",
-    "date": 1519898414,
-    "edit_date": 1583185563,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "moda",
-      "barbershop",
-      "whiterussianstudio"
     ],
     "awards": []
   }

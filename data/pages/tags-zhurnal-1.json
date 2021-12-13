@@ -1,5 +1,28 @@
 [
   {
+    "id": 1029,
+    "title": "Дороже денег",
+    "caption": "Дороже денег\nhttps://dorozhe.media\n\n#финансы #журнал #медиа\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/1029.jpg",
+    "tags": [
+      "финансы",
+      "журнал",
+      "медиа"
+    ],
+    "url": "https://dorozhe.media",
+    "date": 1639382432,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "finansi",
+      "zhurnal",
+      "media"
+    ],
+    "awards": []
+  },
+  {
     "id": 1005,
     "title": "Техно",
     "caption": "Техно\nhttps://techno.yandex.ru\n\n#журнал #яндекс",
@@ -423,25 +446,6 @@
     "isRemoved": false,
     "slugs": [
       "zhurnal"
-    ],
-    "awards": []
-  },
-  {
-    "id": 589,
-    "title": "Экспертный журнал о красоте",
-    "image": "data/images/589.jpg",
-    "tags": [
-      "журнал",
-      "ony"
-    ],
-    "url": "https://flacon-magazine.com/",
-    "date": 1568973621,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "zhurnal",
-      "ony"
     ],
     "awards": []
   }
