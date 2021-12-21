@@ -1,5 +1,26 @@
 [
   {
+    "id": 207,
+    "title": "DESIGNWORKOUT",
+    "image": "data/images/207.jpg",
+    "tags": [
+      "образование",
+      "дизайн",
+      "мастерская"
+    ],
+    "url": "http://campus.designworkout.ru/",
+    "date": 1529056828,
+    "edit_date": 1583185536,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "dizain",
+      "masterskaya"
+    ],
+    "awards": []
+  },
+  {
     "id": 191,
     "title": "Олег Герт",
     "image": "data/images/191.jpg",

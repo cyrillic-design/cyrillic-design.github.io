@@ -1,5 +1,28 @@
 [
   {
+    "id": 1031,
+    "title": "ZAGOVOR",
+    "caption": "ZAGOVOR\nhttps://zagovor.design\n\n#подкаст #дизайн #readymag\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/1031.jpg",
+    "tags": [
+      "подкаст",
+      "дизайн",
+      "readymag"
+    ],
+    "url": "https://zagovor.design",
+    "date": 1640082842,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "podkast",
+      "dizain",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 1027,
     "title": "Цмур. Подкаст проекта «Кружок»",
     "caption": "Цмур. Подкаст проекта «Кружок»\nhttps://podcast.kruzhok.io\n\n#подкаст #спецпроект #образование #люди\nСпасибо за ссылку @AndyAbramov",

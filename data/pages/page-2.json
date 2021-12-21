@@ -1,5 +1,26 @@
 [
   {
+    "id": 1010,
+    "title": "Игра про сжигание тикетов",
+    "caption": "Игра про сжигание тикетов\nhttps://burn.manychat.team\n\n#игра #сервис\nСпасибо за ссылку @kate_gl",
+    "image": "data/images/1010.jpg",
+    "tags": [
+      "игра",
+      "сервис"
+    ],
+    "url": "https://burn.manychat.team",
+    "date": 1635336007,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "igra",
+      "servis"
+    ],
+    "awards": []
+  },
+  {
     "id": 1009,
     "title": "Благотворительный фонд «Подари жизнь»",
     "caption": "Благотворительный фонд «Подари жизнь»\nhttps://podari-zhizn.ru/ru\n\n#благотворительность #фонд",
@@ -441,31 +462,6 @@
       "dostavka",
       "yeda",
       "prilozhenie"
-    ],
-    "awards": []
-  },
-  {
-    "id": 988,
-    "title": "Годовой отчет Фонда Amway",
-    "caption": "Годовой отчет Фонда Amway\nhttps://www.amwayreport2020.ru/\n\n#благотворительность #отчет #webflow #redis\nСпасибо за ссылку @badgoodgrll",
-    "image": "data/images/988.jpg",
-    "tags": [
-      "благотворительность",
-      "отчет",
-      "webflow",
-      "redis"
-    ],
-    "url": "https://www.amwayreport2020.ru/",
-    "date": 1630654736,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "blagotvoritelnost",
-      "otchet",
-      "webflow",
-      "redis"
     ],
     "awards": []
   }

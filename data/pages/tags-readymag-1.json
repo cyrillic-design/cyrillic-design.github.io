@@ -1,5 +1,28 @@
 [
   {
+    "id": 1031,
+    "title": "ZAGOVOR",
+    "caption": "ZAGOVOR\nhttps://zagovor.design\n\n#подкаст #дизайн #readymag\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/1031.jpg",
+    "tags": [
+      "подкаст",
+      "дизайн",
+      "readymag"
+    ],
+    "url": "https://zagovor.design",
+    "date": 1640082842,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "podkast",
+      "dizain",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 1026,
     "title": "Тёмная сторона шрифта",
     "caption": "Тёмная сторона шрифта\nhttps://darkside.paratype.ru\n\n#образование #дизайн #readymag #paratype #мариякасаткина\nСпасибо за ссылку @typeschool",
@@ -456,27 +479,6 @@
     "slugs": [
       "longrid",
       "shrift",
-      "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 965,
-    "title": "Портфолио — Дима Шалаев",
-    "caption": "Портфолио — Дима Шалаев\nhttp://dmitryshalaev.ru/\n\n#портфолио #readymag",
-    "image": "data/images/965.jpg",
-    "tags": [
-      "портфолио",
-      "readymag"
-    ],
-    "url": "http://dmitryshalaev.ru/",
-    "date": 1625224026,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio",
       "readymag"
     ],
     "awards": []

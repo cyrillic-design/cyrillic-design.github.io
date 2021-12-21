@@ -14040,5 +14040,22 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "1031": {
+    "id": 1031,
+    "title": "ZAGOVOR",
+    "caption": "ZAGOVOR\nhttps://zagovor.design\n\n#подкаст #дизайн #readymag\nСпасибо за ссылку @AndyAbramov",
+    "image": "1031.jpg",
+    "tags": [
+      "подкаст",
+      "дизайн",
+      "readymag"
+    ],
+    "url": "https://zagovor.design",
+    "date": 1640082842,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
