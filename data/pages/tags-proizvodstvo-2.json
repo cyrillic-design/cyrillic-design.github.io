@@ -1,5 +1,24 @@
 [
   {
+    "id": 517,
+    "title": "Vision Lighting",
+    "image": "data/images/517.jpg",
+    "tags": [
+      "производство",
+      "магазин"
+    ],
+    "url": "https://visionlighting.ua/",
+    "date": 1558864809,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "magazin"
+    ],
+    "awards": []
+  },
+  {
     "id": 516,
     "title": "Любава",
     "image": "data/images/516.jpg",
@@ -390,27 +409,6 @@
       "proizvodstvo",
       "uslugi",
       "manufaktura"
-    ],
-    "awards": []
-  },
-  {
-    "id": 198,
-    "title": "Укркабель",
-    "image": "data/images/198.jpg",
-    "tags": [
-      "производство",
-      "услуги",
-      "facility"
-    ],
-    "url": "http://ukrcable.com.ua/ru",
-    "date": 1528279204,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "proizvodstvo",
-      "uslugi",
-      "facility"
     ],
     "awards": []
   }

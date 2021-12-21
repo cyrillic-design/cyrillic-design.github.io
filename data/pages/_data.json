@@ -14057,5 +14057,22 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "1032": {
+    "id": 1032,
+    "title": "Corporelle Studio",
+    "caption": "Corporelle Studio\nhttps://ru.corporelle.studio\n\n#производство #магазин #readymag\nСпасибо за ссылку @kruglovse",
+    "image": "1032.jpg",
+    "tags": [
+      "производство",
+      "магазин",
+      "readymag"
+    ],
+    "url": "https://ru.corporelle.studio",
+    "date": 1640102528,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

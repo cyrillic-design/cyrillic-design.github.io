@@ -1,5 +1,28 @@
 [
   {
+    "id": 1032,
+    "title": "Corporelle Studio",
+    "caption": "Corporelle Studio\nhttps://ru.corporelle.studio\n\n#производство #магазин #readymag\nСпасибо за ссылку @kruglovse",
+    "image": "data/images/1032.jpg",
+    "tags": [
+      "производство",
+      "магазин",
+      "readymag"
+    ],
+    "url": "https://ru.corporelle.studio",
+    "date": 1640102528,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "magazin",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 1018,
     "title": "ТРУДРУК",
     "caption": "ТРУДРУК\nhttps://trudruk.ru/\n\n#магазин #производство #одежда #readymag\nСпасибо за ссылку @readymag_official",
@@ -432,31 +455,6 @@
     "slugs": [
       "magazin",
       "proizvodstvo"
-    ],
-    "awards": []
-  },
-  {
-    "id": 705,
-    "title": "ZAMMI",
-    "caption": "ZAMMI\nhttp://zammi.me/\n\n#магазин #доставка #сервис #tilda",
-    "image": "data/images/705.jpg",
-    "tags": [
-      "магазин",
-      "доставка",
-      "сервис",
-      "tilda"
-    ],
-    "url": "http://zammi.me/",
-    "date": 1586340018,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "dostavka",
-      "servis",
-      "tilda"
     ],
     "awards": []
   }
