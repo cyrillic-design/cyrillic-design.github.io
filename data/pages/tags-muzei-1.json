@@ -1,5 +1,28 @@
 [
   {
+    "id": 1033,
+    "title": "Коломенское",
+    "caption": "Коломенское\nhttps://www.mgomz.ru\n\n#музей #афиша #charmer",
+    "image": "data/images/1033.jpg",
+    "tags": [
+      "музей",
+      "афиша",
+      "charmer"
+    ],
+    "url": "https://www.mgomz.ru",
+    "date": 1640807079,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "muzei",
+      "afisha",
+      "charmer"
+    ],
+    "awards": []
+  },
+  {
     "id": 973,
     "title": "Онлайн-музей ЖЭК-арта",
     "caption": "Онлайн-музей ЖЭК-арта\nhttps://dvor.digital/\n\n#спецпроект #музей #золотыетигрыроссии\nСпасибо за ссылку @masha_cvetomuzika",

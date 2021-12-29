@@ -1,5 +1,22 @@
 [
   {
+    "id": 394,
+    "title": "Яндекс.Телефон с Алисой",
+    "image": "data/images/394.jpg",
+    "tags": [
+      "промо"
+    ],
+    "url": "https://phone.yandex.ru/promo/alice",
+    "date": 1545300020,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo"
+    ],
+    "awards": []
+  },
+  {
     "id": 393,
     "title": "Breadhead",
     "image": "data/images/393.jpg",
@@ -379,27 +396,6 @@
     "slugs": [
       "agentstvo",
       "portfolio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 371,
-    "title": "KM20",
-    "image": "data/images/371.jpg",
-    "tags": [
-      "мода",
-      "одежда",
-      "магазин"
-    ],
-    "url": "https://www.km20.ru/",
-    "date": 1543572012,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "moda",
-      "odezhda",
-      "magazin"
     ],
     "awards": []
   }
