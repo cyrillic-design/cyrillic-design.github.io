@@ -14095,16 +14095,17 @@
   "1034": {
     "id": 1034,
     "title": "Магазин Skysmart",
-    "caption": "Магазин Skysmart\nhttps://store.skysmart.ru\n\n#магазин #доставка #tilda #pragmatica\nСпасибо за ссылку @censor_online",
+    "caption": "Магазин Skysmart\nhttps://store.skysmart.ru\n\n#магазин #образование #tilda #pragmatica\nСпасибо за ссылку @censor_online",
     "image": "1034.jpg",
     "tags": [
       "магазин",
-      "доставка",
+      "образование",
       "tilda",
       "pragmatica"
     ],
     "url": "https://store.skysmart.ru",
     "date": 1641299209,
+    "edit_date": 1641306984,
     "isMonth": false,
     "isYear": false,
     "isHighlighted": false,

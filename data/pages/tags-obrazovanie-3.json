@@ -1,5 +1,26 @@
 [
   {
+    "id": 737,
+    "title": "Reminder: Здоровый сон",
+    "caption": "Reminder: Здоровый сон\nhttps://school.reminder.media/\n\n#образование #readymag\nСпасибо за ссылку @readymag_official",
+    "image": "data/images/737.jpg",
+    "tags": [
+      "образование",
+      "readymag"
+    ],
+    "url": "https://school.reminder.media/",
+    "date": 1592215246,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 731,
     "title": "Графический дизайн — Bang bang education",
     "caption": "Графический дизайн — Bang bang education\nhttps://graphdesign.bangbangeducation.ru\n\n#образование #мероприятие #readymag \nСпасибо за ссылку @alexgolyanov",
@@ -436,25 +457,6 @@
       "media",
       "zhurnal",
       "charmer"
-    ],
-    "awards": []
-  },
-  {
-    "id": 608,
-    "title": "Школа китайского языка Лаоши в Москве",
-    "image": "data/images/608.jpg",
-    "tags": [
-      "образование",
-      "numo"
-    ],
-    "url": "https://msk.laoshi.ru/",
-    "date": 1571479207,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "numo"
     ],
     "awards": []
   }
