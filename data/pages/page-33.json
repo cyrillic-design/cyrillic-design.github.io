@@ -1,5 +1,26 @@
 [
   {
+    "id": 329,
+    "title": "СТС Love",
+    "image": "data/images/329.jpg",
+    "tags": [
+      "тв",
+      "видео",
+      "стс"
+    ],
+    "url": "https://ctclove.ru/",
+    "date": 1539770479,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "tv",
+      "video",
+      "sts"
+    ],
+    "awards": []
+  },
+  {
     "id": 328,
     "title": "Ведомости +1",
     "image": "data/images/328.jpg",
@@ -397,27 +418,6 @@
       "soobshchestvo",
       "lyudi",
       "kultura"
-    ],
-    "awards": []
-  },
-  {
-    "id": 309,
-    "title": "TIGHT magazine",
-    "image": "data/images/309.jpg",
-    "tags": [
-      "журнал",
-      "музыка",
-      "дизайн"
-    ],
-    "url": "https://www.tight.media/",
-    "date": 1537783205,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "zhurnal",
-      "muzika",
-      "dizain"
     ],
     "awards": []
   }

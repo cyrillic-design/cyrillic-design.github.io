@@ -1,5 +1,24 @@
 [
   {
+    "id": 517,
+    "title": "Vision Lighting",
+    "image": "data/images/517.jpg",
+    "tags": [
+      "производство",
+      "магазин"
+    ],
+    "url": "https://visionlighting.ua/",
+    "date": 1558864809,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "magazin"
+    ],
+    "awards": []
+  },
+  {
     "id": 516,
     "title": "Любава",
     "image": "data/images/516.jpg",
@@ -385,27 +404,6 @@
     "slugs": [
       "proizvodstvo",
       "moda",
-      "magazin"
-    ],
-    "awards": []
-  },
-  {
-    "id": 275,
-    "title": "Первоапрельский Рокетшоп",
-    "image": "data/images/275.jpg",
-    "tags": [
-      "банк",
-      "финансы",
-      "магазин"
-    ],
-    "url": "https://shop.rocketbank.ru/old/",
-    "date": 1534845612,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "bank",
-      "finansi",
       "magazin"
     ],
     "awards": []

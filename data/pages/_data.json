@@ -14091,5 +14091,23 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "1034": {
+    "id": 1034,
+    "title": "Магазин Skysmart",
+    "caption": "Магазин Skysmart\nhttps://store.skysmart.ru\n\n#магазин #доставка #tilda #pragmatica\nСпасибо за ссылку @censor_online",
+    "image": "1034.jpg",
+    "tags": [
+      "магазин",
+      "доставка",
+      "tilda",
+      "pragmatica"
+    ],
+    "url": "https://store.skysmart.ru",
+    "date": 1641299209,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

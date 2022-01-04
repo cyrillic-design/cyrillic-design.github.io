@@ -1,5 +1,26 @@
 [
   {
+    "id": 719,
+    "title": "Falafel books",
+    "caption": "Falafel books\nhttps://falafelbooks.com/\n\n#магазин #производство\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/719.jpg",
+    "tags": [
+      "магазин",
+      "производство"
+    ],
+    "url": "https://falafelbooks.com/",
+    "date": 1587549639,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "proizvodstvo"
+    ],
+    "awards": []
+  },
+  {
     "id": 705,
     "title": "ZAMMI",
     "caption": "ZAMMI\nhttp://zammi.me/\n\n#магазин #доставка #сервис #tilda",
@@ -382,25 +403,6 @@
     "slugs": [
       "magazin",
       "yarmarka"
-    ],
-    "awards": []
-  },
-  {
-    "id": 517,
-    "title": "Vision Lighting",
-    "image": "data/images/517.jpg",
-    "tags": [
-      "производство",
-      "магазин"
-    ],
-    "url": "https://visionlighting.ua/",
-    "date": 1558864809,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "proizvodstvo",
-      "magazin"
     ],
     "awards": []
   }

@@ -1,5 +1,30 @@
 [
   {
+    "id": 1034,
+    "title": "Магазин Skysmart",
+    "caption": "Магазин Skysmart\nhttps://store.skysmart.ru\n\n#магазин #доставка #tilda #pragmatica\nСпасибо за ссылку @censor_online",
+    "image": "data/images/1034.jpg",
+    "tags": [
+      "магазин",
+      "доставка",
+      "tilda",
+      "pragmatica"
+    ],
+    "url": "https://store.skysmart.ru",
+    "date": 1641299209,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "dostavka",
+      "tilda",
+      "pragmatica"
+    ],
+    "awards": []
+  },
+  {
     "id": 917,
     "title": "Школа Управления Максима Десятых",
     "caption": "Школа Управления Максима Десятых\nhttps://www.desyatykh.school/\n\n#образование #pragmatica\nСпасибо за ссылку @censor_online",
