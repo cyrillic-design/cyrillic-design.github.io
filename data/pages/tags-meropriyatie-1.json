@@ -1,5 +1,28 @@
 [
   {
+    "id": 1035,
+    "title": "6-я Уральская индустриальная биеннале современного искусства",
+    "caption": "6-я Уральская индустриальная биеннале современного искусства\nhttps://uralbiennial.ru\n\n#мероприятие #искусство #aicodes\nСпасибо за ссылку @winkeyless",
+    "image": "data/images/1035.jpg",
+    "tags": [
+      "мероприятие",
+      "искусство",
+      "aicodes"
+    ],
+    "url": "https://uralbiennial.ru",
+    "date": 1641394959,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "iskusstvo",
+      "aicodes"
+    ],
+    "awards": []
+  },
+  {
     "id": 1007,
     "title": "World Chess - Official FIDE Gaming Platform",
     "caption": "World Chess - Official FIDE Gaming Platform\nhttps://chessarena.com\n\n#игра #сервис #мероприятие",
@@ -467,31 +490,6 @@
       "iskusstvo",
       "readymag",
       "redcollar"
-    ],
-    "awards": []
-  },
-  {
-    "id": 820,
-    "title": "LEVEL UP FORUM",
-    "caption": "LEVEL UP FORUM\nhttps://levelup-forum.ru/\n\n#мероприятие #образование #tilda #никитаковров",
-    "image": "data/images/820.jpg",
-    "tags": [
-      "мероприятие",
-      "образование",
-      "tilda",
-      "никитаковров"
-    ],
-    "url": "https://levelup-forum.ru/",
-    "date": 1605777222,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "meropriyatie",
-      "obrazovanie",
-      "tilda",
-      "nikitakovrov"
     ],
     "awards": []
   }

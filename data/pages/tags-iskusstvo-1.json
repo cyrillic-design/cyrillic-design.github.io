@@ -1,5 +1,28 @@
 [
   {
+    "id": 1035,
+    "title": "6-я Уральская индустриальная биеннале современного искусства",
+    "caption": "6-я Уральская индустриальная биеннале современного искусства\nhttps://uralbiennial.ru\n\n#мероприятие #искусство #aicodes\nСпасибо за ссылку @winkeyless",
+    "image": "data/images/1035.jpg",
+    "tags": [
+      "мероприятие",
+      "искусство",
+      "aicodes"
+    ],
+    "url": "https://uralbiennial.ru",
+    "date": 1641394959,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "iskusstvo",
+      "aicodes"
+    ],
+    "awards": []
+  },
+  {
     "id": 963,
     "title": "pobegi",
     "caption": "pobegi\nhttps://readymag.com/pobegi/propobegi/\n\n#мероприятие #портфолио #искусство #культура #readymag #7419mov\nСпасибо за ссылку @readymag_official",
@@ -464,29 +487,6 @@
       "iskusstvo",
       "lyudi",
       "meropriyatie"
-    ],
-    "awards": []
-  },
-  {
-    "id": 320,
-    "title": "Русская тоска: Исаак Левитан и авторский кинематограф",
-    "image": "data/images/320.jpg",
-    "tags": [
-      "спецпроект",
-      "искусство",
-      "еврейскиймузей",
-      "readymag"
-    ],
-    "url": "http://levitan.jewish-museum.ru/",
-    "date": 1538733630,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "iskusstvo",
-      "yevreiskiimuzei",
-      "readymag"
     ],
     "awards": []
   }

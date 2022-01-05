@@ -1,5 +1,30 @@
 [
   {
+    "id": 898,
+    "title": "День клиента",
+    "caption": "День клиента\nhttps://clientsday.localkitchen.ru/\n\n#спецпроект #еда #readymag #кухнянарайоне\nСпасибо за ссылку @winkeyless",
+    "image": "data/images/898.jpg",
+    "tags": [
+      "спецпроект",
+      "еда",
+      "readymag",
+      "кухнянарайоне"
+    ],
+    "url": "https://clientsday.localkitchen.ru/",
+    "date": 1616158175,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "yeda",
+      "readymag",
+      "kukhnyanaraione"
+    ],
+    "awards": []
+  },
+  {
     "id": 897,
     "title": "leta",
     "caption": "leta\nhttps://leta.today/\n\n#спецпроект #readymag",
@@ -424,29 +449,6 @@
     "slugs": [
       "biznes",
       "nextpage"
-    ],
-    "awards": []
-  },
-  {
-    "id": 875,
-    "title": "Блог OneSoil",
-    "caption": "Блог OneSoil\nhttps://blog.onesoil.ai/ru\n\n#блог #tilda #update",
-    "image": "data/images/875.jpg",
-    "tags": [
-      "блог",
-      "tilda",
-      "update"
-    ],
-    "url": "https://blog.onesoil.ai/ru",
-    "date": 1610525954,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "blog",
-      "tilda",
-      "update"
     ],
     "awards": []
   }

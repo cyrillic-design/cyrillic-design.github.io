@@ -14110,5 +14110,22 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "1035": {
+    "id": 1035,
+    "title": "6-я Уральская индустриальная биеннале современного искусства",
+    "caption": "6-я Уральская индустриальная биеннале современного искусства\nhttps://uralbiennial.ru\n\n#мероприятие #искусство #aicodes\nСпасибо за ссылку @winkeyless",
+    "image": "1035.jpg",
+    "tags": [
+      "мероприятие",
+      "искусство",
+      "aicodes"
+    ],
+    "url": "https://uralbiennial.ru",
+    "date": 1641394959,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
