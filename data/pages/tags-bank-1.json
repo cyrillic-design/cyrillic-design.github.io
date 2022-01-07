@@ -1,5 +1,30 @@
 [
   {
+    "id": 1036,
+    "title": "MISSION:LUNA",
+    "caption": "MISSION:LUNA\nhttps://www.missionluna.ru/\n\n#финансы #банк #сервис #webflow",
+    "image": "data/images/1036.jpg",
+    "tags": [
+      "финансы",
+      "банк",
+      "сервис",
+      "webflow"
+    ],
+    "url": "https://www.missionluna.ru/",
+    "date": 1641538928,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "finansi",
+      "bank",
+      "servis",
+      "webflow"
+    ],
+    "awards": []
+  },
+  {
     "id": 1022,
     "title": "Олеееееег",
     "caption": "Олеееееег\nhttps://oleeeeeeg.special.ink\n\n#игра #банк #финансы #спецпроект",
@@ -443,31 +468,6 @@
       "finansi",
       "bank",
       "tinkoff"
-    ],
-    "awards": []
-  },
-  {
-    "id": 283,
-    "title": "Дизайн Альфа-Банка",
-    "image": "data/images/283.jpg",
-    "tags": [
-      "дизайн",
-      "система",
-      "банк",
-      "финансы",
-      "альфабанк"
-    ],
-    "url": "https://design.alfabank.ru/",
-    "date": 1535536816,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "dizain",
-      "sistema",
-      "bank",
-      "finansi",
-      "alfabank"
     ],
     "awards": []
   }

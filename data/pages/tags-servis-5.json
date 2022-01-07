@@ -1,5 +1,24 @@
 [
   {
+    "id": 322,
+    "title": "OneSoil",
+    "image": "data/images/322.jpg",
+    "tags": [
+      "сервис",
+      "rightby"
+    ],
+    "url": "https://onesoil.ai/ru/",
+    "date": 1539079229,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "rightby"
+    ],
+    "awards": []
+  },
+  {
     "id": 314,
     "title": "Блог Амплифера",
     "image": "data/images/314.jpg",
@@ -384,27 +403,6 @@
       "servis",
       "dostavka",
       "yeda"
-    ],
-    "awards": []
-  },
-  {
-    "id": 193,
-    "title": "Сделано",
-    "image": "data/images/193.jpg",
-    "tags": [
-      "услуги",
-      "сервис",
-      "конструктор"
-    ],
-    "url": "https://sdelano.ru/",
-    "date": 1527933601,
-    "edit_date": 1583185536,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "uslugi",
-      "servis",
-      "konstruktor"
     ],
     "awards": []
   }
