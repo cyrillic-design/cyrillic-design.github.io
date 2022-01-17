@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1037,
+    "title": "Пейзажи Самарской области",
+    "caption": "Пейзажи Самарской области\nhttps://landscapesamara.ru/\n\n#спецпроект #культура #readymag #юрийантонов\nСпасибо за ссылку @readymag_official",
+    "image": "data/images/1037.jpg",
+    "tags": [
+      "спецпроект",
+      "культура",
+      "readymag",
+      "юрийантонов"
+    ],
+    "url": "https://landscapesamara.ru/",
+    "date": 1642420300,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "kultura",
+      "readymag",
+      "yuriiantonov"
+    ],
+    "awards": []
+  }
+]
