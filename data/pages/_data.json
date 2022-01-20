@@ -14167,16 +14167,17 @@
   "1038": {
     "id": 1038,
     "title": "За Глазок, за наше село",
-    "caption": "За Глазок, за наше село\nhttps://glazok.kruzhok.io/\n\n#спецпроект #фильм #кружок",
+    "caption": "За Глазок, за наше село\nhttps://glazok.kruzhok.io/\n\n#спецпроект #фильм #спорт #кружок",
     "image": "1038.jpg",
     "tags": [
       "спецпроект",
       "фильм",
+      "спорт",
       "кружок"
     ],
     "url": "https://glazok.kruzhok.io/",
     "date": 1642698085,
-    "edit_date": 1642698531,
+    "edit_date": 1642698728,
     "isMonth": false,
     "isYear": false,
     "isHighlighted": false,
