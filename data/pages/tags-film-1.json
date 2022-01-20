@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1038,
+    "title": "За Глазок, за наше село",
+    "caption": "За Глазок, за наше село\nhttps://glazok.kruzhok.io/\n\n#спецпроект #кружок #фильм",
+    "image": "data/images/1038.jpg",
+    "tags": [
+      "спецпроект",
+      "кружок",
+      "фильм"
+    ],
+    "url": "https://glazok.kruzhok.io/",
+    "date": 1642698085,
+    "edit_date": 1642698412,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "kruzhok",
+      "film"
+    ],
+    "awards": []
+  }
+]
