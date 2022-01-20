@@ -1,5 +1,26 @@
 [
   {
+    "id": 1038,
+    "title": "За Глазок, за наше село",
+    "caption": "За Глазок, за наше село\nhttps://glazok.kruzhok.io/\n\n#спецпроект #кружок",
+    "image": "data/images/1038.jpg",
+    "tags": [
+      "спецпроект",
+      "кружок"
+    ],
+    "url": "https://glazok.kruzhok.io/",
+    "date": 1642698085,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "kruzhok"
+    ],
+    "awards": []
+  },
+  {
     "id": 840,
     "title": "Лето целого года",
     "caption": "Лето целого года\nhttps://navzvade.ru/\n\n#спецпроект #образование #кружок",

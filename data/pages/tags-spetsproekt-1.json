@@ -1,5 +1,26 @@
 [
   {
+    "id": 1038,
+    "title": "За Глазок, за наше село",
+    "caption": "За Глазок, за наше село\nhttps://glazok.kruzhok.io/\n\n#спецпроект #кружок",
+    "image": "data/images/1038.jpg",
+    "tags": [
+      "спецпроект",
+      "кружок"
+    ],
+    "url": "https://glazok.kruzhok.io/",
+    "date": 1642698085,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "kruzhok"
+    ],
+    "awards": []
+  },
+  {
     "id": 1037,
     "title": "Пейзажи Самарской области",
     "caption": "Пейзажи Самарской области\nhttps://landscapesamara.ru/\n\n#спецпроект #культура #readymag #юрийантонов\nСпасибо за ссылку @readymag_official",
@@ -449,31 +470,6 @@
     "slugs": [
       "spetsproekt",
       "webflow"
-    ],
-    "awards": []
-  },
-  {
-    "id": 918,
-    "title": "koryo-saram",
-    "caption": "koryo-saram\nhttps://readymag.com/hosdots/koryo-saram/\n\n#спецпроект #история #readymag #егорким\nСпасибо за ссылку @readymag_official",
-    "image": "data/images/918.jpg",
-    "tags": [
-      "спецпроект",
-      "история",
-      "readymag",
-      "егорким"
-    ],
-    "url": "https://readymag.com/hosdots/koryo-saram/",
-    "date": 1619767403,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "istoriya",
-      "readymag",
-      "yegorkim"
     ],
     "awards": []
   }
