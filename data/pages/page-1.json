@@ -53,16 +53,18 @@
   {
     "id": 1036,
     "title": "MISSION:LUNA",
-    "caption": "MISSION:LUNA\nhttps://www.missionluna.ru/\n\n#финансы #банк #сервис #webflow",
+    "caption": "MISSION:LUNA\nhttps://www.missionluna.ru/\n\n#финансы #банк #сервис #webflow #pragmatica",
     "image": "data/images/1036.jpg",
     "tags": [
       "финансы",
       "банк",
       "сервис",
-      "webflow"
+      "webflow",
+      "pragmatica"
     ],
     "url": "https://www.missionluna.ru/",
     "date": 1641538928,
+    "edit_date": 1642731910,
     "isMonth": false,
     "isYear": false,
     "isHighlighted": false,
@@ -71,7 +73,8 @@
       "finansi",
       "bank",
       "servis",
-      "webflow"
+      "webflow",
+      "pragmatica"
     ],
     "awards": []
   },
