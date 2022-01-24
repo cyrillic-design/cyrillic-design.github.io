@@ -1,5 +1,24 @@
 [
   {
+    "id": 472,
+    "title": "Кухня на районе",
+    "image": "data/images/472.jpg",
+    "tags": [
+      "доставка",
+      "еда"
+    ],
+    "url": "https://localkitchen.ru/",
+    "date": 1552730464,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "dostavka",
+      "yeda"
+    ],
+    "awards": []
+  },
+  {
     "id": 433,
     "title": "VkusVill - Доставка",
     "image": "data/images/433.jpg",

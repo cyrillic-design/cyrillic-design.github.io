@@ -75,6 +75,32 @@
     "awards": []
   },
   {
+    "id": 922,
+    "title": "Стартер",
+    "caption": "Стартер\nhttps://starterapp.ru/\n\n#сервис #доставка #readymag #breadhead",
+    "image": "data/images/922.jpg",
+    "tags": [
+      "сервис",
+      "доставка",
+      "readymag",
+      "breadhead"
+    ],
+    "url": "https://starterapp.ru/",
+    "date": 1620115263,
+    "edit_date": 1642991747,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "dostavka",
+      "readymag",
+      "breadhead"
+    ],
+    "awards": []
+  },
+  {
     "id": 878,
     "title": "Носок",
     "caption": "Носок\nhttps://nosok.localkitchen.ru/\n\n#промо #еда #доставка #readymag",
@@ -444,25 +470,6 @@
     ],
     "url": "https://lukapizza.ru",
     "date": 1554199227,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "dostavka",
-      "yeda"
-    ],
-    "awards": []
-  },
-  {
-    "id": 472,
-    "title": "Кухня на районе",
-    "image": "data/images/472.jpg",
-    "tags": [
-      "доставка",
-      "еда"
-    ],
-    "url": "https://localkitchen.ru/",
-    "date": 1552730464,
     "edit_date": 1583185363,
     "isHighlighted": false,
     "isRemoved": false,

@@ -12239,16 +12239,17 @@
   "922": {
     "id": 922,
     "title": "Стартер",
-    "caption": "Стартер\nhttps://starterapp.ru/\n\n#сервис #доствка #readymag #breadhead",
+    "caption": "Стартер\nhttps://starterapp.ru/\n\n#сервис #доставка #readymag #breadhead",
     "image": "922.jpg",
     "tags": [
       "сервис",
-      "доствка",
+      "доставка",
       "readymag",
       "breadhead"
     ],
     "url": "https://starterapp.ru/",
     "date": 1620115263,
+    "edit_date": 1642991747,
     "isMonth": false,
     "isYear": false,
     "isHighlighted": false,
