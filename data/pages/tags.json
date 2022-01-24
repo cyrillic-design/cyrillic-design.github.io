@@ -576,8 +576,8 @@
     "slug": "tinkoff"
   },
   {
-    "title": "гараж",
-    "slug": "garazh"
+    "title": "garage",
+    "slug": "garage"
   },
   {
     "title": "skdo",
@@ -710,10 +710,6 @@
   {
     "title": "pinkman",
     "slug": "pinkman"
-  },
-  {
-    "title": "garage",
-    "slug": "garage"
   },
   {
     "title": "bookmate",

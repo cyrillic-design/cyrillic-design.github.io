@@ -42,5 +42,29 @@
       "readymag"
     ],
     "awards": []
+  },
+  {
+    "id": 304,
+    "title": "Бедные люди. Кабаковы",
+    "caption": "Бедные люди. Кабаковы\nhttps://kabakovs.garagemca.org/ru/\n\n#кино #память #garage #промо",
+    "image": "data/images/304.jpg",
+    "tags": [
+      "кино",
+      "память",
+      "garage",
+      "промо"
+    ],
+    "url": "https://kabakovs.garagemca.org/ru/",
+    "date": 1537351224,
+    "edit_date": 1642991820,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "kino",
+      "pamyat",
+      "garage",
+      "promo"
+    ],
+    "awards": []
   }
 ]
