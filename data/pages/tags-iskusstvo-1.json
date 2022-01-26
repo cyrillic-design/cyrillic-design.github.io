@@ -1,5 +1,34 @@
 [
   {
+    "id": 1040,
+    "title": "В зеркале Симурга. Сабир Гейбатов",
+    "caption": "В зеркале Симурга. Сабир Гейбатов\nhttps://simurg.mkalamuseum.ru\n\n#спецпроект #искусство #история #музей #readymag #nonobjectiveworks\nСпасибо за ссылку @readymag_official",
+    "image": "data/images/1040.jpg",
+    "tags": [
+      "спецпроект",
+      "искусство",
+      "история",
+      "музей",
+      "readymag",
+      "nonobjectiveworks"
+    ],
+    "url": "https://simurg.mkalamuseum.ru",
+    "date": 1643194882,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "iskusstvo",
+      "istoriya",
+      "muzei",
+      "readymag",
+      "nonobjectiveworks"
+    ],
+    "awards": []
+  },
+  {
     "id": 1035,
     "title": "6-я Уральская индустриальная биеннале современного искусства",
     "caption": "6-я Уральская индустриальная биеннале современного искусства\nhttps://uralbiennial.ru\n\n#мероприятие #искусство #aicodes\nСпасибо за ссылку @winkeyless",
@@ -466,27 +495,6 @@
       "iskusstvo",
       "spetsproekt",
       "artlebedev"
-    ],
-    "awards": []
-  },
-  {
-    "id": 321,
-    "title": "PROUN",
-    "image": "data/images/321.jpg",
-    "tags": [
-      "искусство",
-      "люди",
-      "мероприятие"
-    ],
-    "url": "https://proun.moscow/",
-    "date": 1538992923,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "iskusstvo",
-      "lyudi",
-      "meropriyatie"
     ],
     "awards": []
   }

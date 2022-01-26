@@ -1,5 +1,34 @@
 [
   {
+    "id": 1040,
+    "title": "В зеркале Симурга. Сабир Гейбатов",
+    "caption": "В зеркале Симурга. Сабир Гейбатов\nhttps://simurg.mkalamuseum.ru\n\n#спецпроект #искусство #история #музей #readymag #nonobjectiveworks\nСпасибо за ссылку @readymag_official",
+    "image": "data/images/1040.jpg",
+    "tags": [
+      "спецпроект",
+      "искусство",
+      "история",
+      "музей",
+      "readymag",
+      "nonobjectiveworks"
+    ],
+    "url": "https://simurg.mkalamuseum.ru",
+    "date": 1643194882,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "iskusstvo",
+      "istoriya",
+      "muzei",
+      "readymag",
+      "nonobjectiveworks"
+    ],
+    "awards": []
+  },
+  {
     "id": 1039,
     "title": "Стартер",
     "caption": "Стартер\nhttps://starterapp.ru/\n\n#сервис #доставка #readymag #update #breadhead",
@@ -465,31 +494,6 @@
       "obrazovanie",
       "uslugi",
       "tilda"
-    ],
-    "awards": []
-  },
-  {
-    "id": 1019,
-    "title": "Конкурс на разработку стикерпака OneTwoTrip",
-    "caption": "Конкурс на разработку стикерпака OneTwoTrip\nhttps://events.skillbox.ru/travelstickerpack\n\n#промо #конкурс #tilda #skillbox",
-    "image": "data/images/1019.jpg",
-    "tags": [
-      "промо",
-      "конкурс",
-      "tilda",
-      "skillbox"
-    ],
-    "url": "https://events.skillbox.ru/travelstickerpack",
-    "date": 1637918518,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "konkurs",
-      "tilda",
-      "skillbox"
     ],
     "awards": []
   }
