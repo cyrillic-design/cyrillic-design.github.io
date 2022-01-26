@@ -1,5 +1,32 @@
 [
   {
+    "id": 1039,
+    "title": "Стартер",
+    "caption": "Стартер\nhttps://starterapp.ru/\n\n#сервис #доставка #readymag #update #breadhead",
+    "image": "data/images/1039.jpg",
+    "tags": [
+      "сервис",
+      "доставка",
+      "readymag",
+      "update",
+      "breadhead"
+    ],
+    "url": "https://starterapp.ru/",
+    "date": 1643180528,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "dostavka",
+      "readymag",
+      "update",
+      "breadhead"
+    ],
+    "awards": []
+  },
+  {
     "id": 899,
     "title": "Эйч",
     "caption": "Эйч\nhttps://h.budu.jobs/\n\n#сервис #hr #update",

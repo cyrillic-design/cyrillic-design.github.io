@@ -1,5 +1,26 @@
 [
   {
+    "id": 195,
+    "title": "FRUIT UP",
+    "image": "data/images/195.jpg",
+    "tags": [
+      "сервис",
+      "доставка",
+      "еда"
+    ],
+    "url": "http://www.fruitup.ru/",
+    "date": 1528020007,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "dostavka",
+      "yeda"
+    ],
+    "awards": []
+  },
+  {
     "id": 193,
     "title": "Сделано",
     "image": "data/images/193.jpg",
