@@ -1,5 +1,26 @@
 [
   {
+    "id": 709,
+    "title": "Wanna be like Rozov",
+    "caption": "Wanna be like Rozov\nhttps://wannabelike.ru/rozov/\n\n#образование #мероприятие",
+    "image": "data/images/709.jpg",
+    "tags": [
+      "образование",
+      "мероприятие"
+    ],
+    "url": "https://wannabelike.ru/rozov/",
+    "date": 1586685615,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "meropriyatie"
+    ],
+    "awards": []
+  },
+  {
     "id": 708,
     "title": "Райффайзен-Лизинг",
     "caption": "Райффайзен-Лизинг\nhttp://www.raiffeisen-leasing.ru/\n\n#авто #финансы #банк #лизинг #creativepeople",
@@ -454,32 +475,6 @@
       "eggsellent",
       "kukhnyanaraione",
       "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 688,
-    "title": "hochiminh",
-    "caption": "hochiminh\nhttps://readymag.com/u64480371/1549696/\n\n☆ #спецпроект #культура #readymag #анастасиябурякова",
-    "image": "data/images/688.jpg",
-    "tags": [
-      "спецпроект",
-      "культура",
-      "readymag",
-      "анастасиябурякова"
-    ],
-    "url": "https://readymag.com/u64480371/1549696/",
-    "date": 1584266458,
-    "edit_date": 1584347798,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "kultura",
-      "readymag",
-      "anastasiyaburyakova"
     ],
     "awards": []
   }

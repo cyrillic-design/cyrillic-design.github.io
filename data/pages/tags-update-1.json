@@ -1,5 +1,32 @@
 [
   {
+    "id": 1041,
+    "title": "Музей современного искусства «Гараж»",
+    "caption": "Музей современного искусства «Гараж»\nhttps://garagemca.org/ru\n\n#музей #афиша #update #perushevandkhmelev #charmer\nСпасибо за ссылку @gorokhovatsky",
+    "image": "data/images/1041.jpg",
+    "tags": [
+      "музей",
+      "афиша",
+      "update",
+      "perushevandkhmelev",
+      "charmer"
+    ],
+    "url": "https://garagemca.org/ru",
+    "date": 1643454708,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "muzei",
+      "afisha",
+      "update",
+      "perushevandkhmelev",
+      "charmer"
+    ],
+    "awards": []
+  },
+  {
     "id": 1039,
     "title": "Стартер",
     "caption": "Стартер\nhttps://starterapp.ru/\n\n#сервис #доставка #readymag #update #breadhead",

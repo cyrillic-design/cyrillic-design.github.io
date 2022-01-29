@@ -14225,5 +14225,24 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "1041": {
+    "id": 1041,
+    "title": "Музей современного искусства «Гараж»",
+    "caption": "Музей современного искусства «Гараж»\nhttps://garagemca.org/ru\n\n#музей #афиша #update #perushevandkhmelev #charmer\nСпасибо за ссылку @gorokhovatsky",
+    "image": "1041.jpg",
+    "tags": [
+      "музей",
+      "афиша",
+      "update",
+      "perushevandkhmelev",
+      "charmer"
+    ],
+    "url": "https://garagemca.org/ru",
+    "date": 1643454708,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
