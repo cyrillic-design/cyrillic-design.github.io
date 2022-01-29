@@ -1,5 +1,34 @@
 [
   {
+    "id": 1042,
+    "title": "Теория художественных пространств В.А. Фаворского и П.А. Флоренского",
+    "caption": "Теория художественных пространств В.А. Фаворского и П.А. Флоренского\nhttps://favorsky-florensky.tilda.ws\n\n#спецпроект #история #искусство #культура #tilda #анямельник\nСпасибо за ссылку @villyfok",
+    "image": "data/images/1042.jpg",
+    "tags": [
+      "спецпроект",
+      "история",
+      "искусство",
+      "культура",
+      "tilda",
+      "анямельник"
+    ],
+    "url": "https://favorsky-florensky.tilda.ws",
+    "date": 1643468477,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "istoriya",
+      "iskusstvo",
+      "kultura",
+      "tilda",
+      "anyamelnik"
+    ],
+    "awards": []
+  },
+  {
     "id": 1040,
     "title": "В зеркале Симурга. Сабир Гейбатов",
     "caption": "В зеркале Симурга. Сабир Гейбатов\nhttps://simurg.mkalamuseum.ru\n\n#спецпроект #искусство #история #музей #readymag #nonobjectiveworks\nСпасибо за ссылку @readymag_official",
@@ -475,27 +504,6 @@
       "iskusstvo",
       "kino",
       "charmer"
-    ],
-    "awards": []
-  },
-  {
-    "id": 368,
-    "title": "Третьяковская галерея: Уроки Ларионова",
-    "image": "data/images/368.jpg",
-    "tags": [
-      "искусство",
-      "спецпроект",
-      "artlebedev"
-    ],
-    "url": "https://mikhail-larionov.tretyakov.ru/",
-    "date": 1543312815,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "iskusstvo",
-      "spetsproekt",
-      "artlebedev"
     ],
     "awards": []
   }

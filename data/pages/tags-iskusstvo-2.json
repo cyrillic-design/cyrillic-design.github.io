@@ -1,5 +1,26 @@
 [
   {
+    "id": 368,
+    "title": "Третьяковская галерея: Уроки Ларионова",
+    "image": "data/images/368.jpg",
+    "tags": [
+      "искусство",
+      "спецпроект",
+      "artlebedev"
+    ],
+    "url": "https://mikhail-larionov.tretyakov.ru/",
+    "date": 1543312815,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "iskusstvo",
+      "spetsproekt",
+      "artlebedev"
+    ],
+    "awards": []
+  },
+  {
     "id": 321,
     "title": "PROUN",
     "image": "data/images/321.jpg",

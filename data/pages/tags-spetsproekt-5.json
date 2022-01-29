@@ -1,5 +1,26 @@
 [
   {
+    "id": 618,
+    "title": "Как читать Набокова",
+    "image": "data/images/618.jpg",
+    "tags": [
+      "спецпроект",
+      "readymag",
+      "азбукааттикус"
+    ],
+    "url": "https://nabokov.azbooka.ru/",
+    "date": 1572343260,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "readymag",
+      "azbukaattikus"
+    ],
+    "awards": []
+  },
+  {
     "id": 617,
     "title": "NETTO",
     "image": "data/images/617.jpg",
@@ -390,27 +411,6 @@
       "spetsproekt",
       "muzika",
       "vono"
-    ],
-    "awards": []
-  },
-  {
-    "id": 476,
-    "title": "За каждым успехом стоит мечта",
-    "image": "data/images/476.jpg",
-    "tags": [
-      "спецпроект",
-      "промо",
-      "рбк"
-    ],
-    "url": "http://galaxynote9.rbc.ru/",
-    "date": 1553076011,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "promo",
-      "rbk"
     ],
     "awards": []
   }
