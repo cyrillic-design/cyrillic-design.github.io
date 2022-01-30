@@ -1,5 +1,26 @@
 [
   {
+    "id": 619,
+    "title": "Планетроника",
+    "image": "data/images/619.jpg",
+    "tags": [
+      "спецпроект",
+      "музыка",
+      "яндекс"
+    ],
+    "url": "https://planetronica.ru/",
+    "date": 1572688818,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "muzika",
+      "yandeks"
+    ],
+    "awards": []
+  },
+  {
     "id": 618,
     "title": "Как читать Набокова",
     "image": "data/images/618.jpg",
@@ -390,27 +411,6 @@
     "slugs": [
       "spetsproekt",
       "kruzhok"
-    ],
-    "awards": []
-  },
-  {
-    "id": 484,
-    "title": "ВОНО — Свободный Пульт",
-    "image": "data/images/484.jpg",
-    "tags": [
-      "спецпроект",
-      "музыка",
-      "воно"
-    ],
-    "url": "http://svobodnypult.vonopaper.com",
-    "date": 1553853668,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "muzika",
-      "vono"
     ],
     "awards": []
   }
