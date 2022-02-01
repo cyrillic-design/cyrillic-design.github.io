@@ -1,5 +1,32 @@
 [
   {
+    "id": 1044,
+    "title": "Method Zero | Special Sale",
+    "caption": "Method Zero | Special Sale\nhttps://www.sale.methodzero.io\n\n#промо #услуги #дизайн #webflow #methodzero\nСпасибо за ссылку @elena_dicycle",
+    "image": "data/images/1044.jpg",
+    "tags": [
+      "промо",
+      "услуги",
+      "дизайн",
+      "webflow",
+      "methodzero"
+    ],
+    "url": "https://www.sale.methodzero.io",
+    "date": 1643731847,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "uslugi",
+      "dizain",
+      "webflow",
+      "methodzero"
+    ],
+    "awards": []
+  },
+  {
     "id": 1036,
     "title": "MISSION:LUNA",
     "caption": "MISSION:LUNA\nhttps://www.missionluna.ru/\n\n#финансы #банк #сервис #webflow #pragmatica",

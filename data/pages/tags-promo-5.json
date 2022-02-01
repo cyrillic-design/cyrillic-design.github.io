@@ -1,5 +1,26 @@
 [
   {
+    "id": 450,
+    "title": "Гостиница Ольга",
+    "image": "data/images/450.jpg",
+    "tags": [
+      "услуги",
+      "промо",
+      "only"
+    ],
+    "url": "http://olgahotel.site/",
+    "date": 1551175212,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "uslugi",
+      "promo",
+      "only"
+    ],
+    "awards": []
+  },
+  {
     "id": 449,
     "title": "Pro et Contra",
     "image": "data/images/449.jpg",
@@ -381,27 +402,6 @@
       "promo",
       "zdorove",
       "creativepeople"
-    ],
-    "awards": []
-  },
-  {
-    "id": 333,
-    "title": "TIMELESS",
-    "image": "data/images/333.jpg",
-    "tags": [
-      "промо",
-      "история",
-      "авто"
-    ],
-    "url": "https://www.timeless.ee/?lang=rus",
-    "date": 1540375216,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "istoriya",
-      "avto"
     ],
     "awards": []
   }

@@ -1,5 +1,24 @@
 [
   {
+    "id": 559,
+    "title": "SKVOT",
+    "image": "data/images/559.jpg",
+    "tags": [
+      "образование",
+      "crevv"
+    ],
+    "url": "https://skvot.io/ru/",
+    "date": 1564480846,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "crevv"
+    ],
+    "awards": []
+  },
+  {
     "id": 558,
     "title": "Кружок — Музыка",
     "image": "data/images/558.jpg",
@@ -349,27 +368,6 @@
       "servis",
       "platforma",
       "byurobyuro"
-    ],
-    "awards": []
-  },
-  {
-    "id": 537,
-    "title": "ZharaX",
-    "image": "data/images/537.jpg",
-    "tags": [
-      "сервис",
-      "музыка",
-      "stride"
-    ],
-    "url": "https://zhara-x.com/",
-    "date": 1561111239,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "muzika",
-      "stride"
     ],
     "awards": []
   }

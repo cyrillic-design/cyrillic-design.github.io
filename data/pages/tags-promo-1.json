@@ -1,5 +1,32 @@
 [
   {
+    "id": 1044,
+    "title": "Method Zero | Special Sale",
+    "caption": "Method Zero | Special Sale\nhttps://www.sale.methodzero.io\n\n#промо #услуги #дизайн #webflow #methodzero\nСпасибо за ссылку @elena_dicycle",
+    "image": "data/images/1044.jpg",
+    "tags": [
+      "промо",
+      "услуги",
+      "дизайн",
+      "webflow",
+      "methodzero"
+    ],
+    "url": "https://www.sale.methodzero.io",
+    "date": 1643731847,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "uslugi",
+      "dizain",
+      "webflow",
+      "methodzero"
+    ],
+    "awards": []
+  },
+  {
     "id": 1024,
     "title": "Дэни Купа в офисе",
     "caption": "Дэни Купа в офисе\nhttps://skrepy.ooo\n\n#промо #заглушка #readymag #кириллродин\nСпасибо за ссылку @kirillrodin",
@@ -456,29 +483,6 @@
       "uslugi",
       "biznes",
       "artlebedev"
-    ],
-    "awards": []
-  },
-  {
-    "id": 851,
-    "title": "Настольная игра \"Поиграй со шрифтами\"",
-    "caption": "Настольная игра \"Поиграй со шрифтами\"\nhttps://paratype.skillbox.ru/\n\n#промо #игра #tilda",
-    "image": "data/images/851.jpg",
-    "tags": [
-      "промо",
-      "игра",
-      "tilda"
-    ],
-    "url": "https://paratype.skillbox.ru/",
-    "date": 1607767206,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "igra",
-      "tilda"
     ],
     "awards": []
   }

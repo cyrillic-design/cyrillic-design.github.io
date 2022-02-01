@@ -1,5 +1,26 @@
 [
   {
+    "id": 515,
+    "title": "Сибирский Деловой Союз",
+    "image": "data/images/515.jpg",
+    "tags": [
+      "производство",
+      "холдинг",
+      "мэйк"
+    ],
+    "url": "https://hcsds.ru/ru/",
+    "date": 1558692007,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "kholding",
+      "meik"
+    ],
+    "awards": []
+  },
+  {
     "id": 514,
     "title": "Letapis by",
     "image": "data/images/514.jpg",
@@ -374,27 +395,6 @@
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 492,
-    "title": "Jewlia",
-    "image": "data/images/492.jpg",
-    "tags": [
-      "магазин",
-      "производство",
-      "красота"
-    ],
-    "url": "https://jewlia.ru/",
-    "date": 1554804040,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "proizvodstvo",
-      "krasota"
     ],
     "awards": []
   }
