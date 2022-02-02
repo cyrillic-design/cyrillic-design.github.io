@@ -14288,7 +14288,7 @@
   "1044": {
     "id": 1044,
     "title": "Method Zero | Special Sale",
-    "caption": "Method Zero | Special Sale\nhttps://www.sale.methodzero.io\n\n#промо #услуги #дизайн #webflow #methodzero\nСпасибо за ссылку @elena_dicycle",
+    "caption": "Method Zero | Special Sale\nhttps://lite.methodzero.io\n\n#промо #услуги #дизайн #webflow #methodzero\nСпасибо за ссылку @elena_dicycle",
     "image": "1044.jpg",
     "tags": [
       "промо",
@@ -14297,8 +14297,9 @@
       "webflow",
       "methodzero"
     ],
-    "url": "https://www.sale.methodzero.io",
+    "url": "https://lite.methodzero.io",
     "date": 1643731847,
+    "edit_date": 1643823620,
     "isMonth": false,
     "isYear": false,
     "isHighlighted": false,
