@@ -1,5 +1,26 @@
 [
   {
+    "id": 1005,
+    "title": "Техно",
+    "caption": "Техно\nhttps://techno.yandex.ru\n\n#журнал #яндекс",
+    "image": "data/images/1005.jpg",
+    "tags": [
+      "журнал",
+      "яндекс"
+    ],
+    "url": "https://techno.yandex.ru",
+    "date": 1634197210,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "yandeks"
+    ],
+    "awards": []
+  },
+  {
     "id": 1004,
     "title": "Дока",
     "caption": "Дока\nhttps://doka.guide\n\n#образование #сервис #яндекс\nСпасибо за ссылку @digitalarcheology",
@@ -450,29 +471,6 @@
       "spetsproekt",
       "readymag",
       "pavelkedich"
-    ],
-    "awards": []
-  },
-  {
-    "id": 982,
-    "title": "Команда цифрового дизайна PRAGMATICA",
-    "caption": "Команда цифрового дизайна PRAGMATICA\nhttps://pragmatica.design/\n\n#портфолио #студия #readymag\nСпасибо за ссылку @censor_online",
-    "image": "data/images/982.jpg",
-    "tags": [
-      "портфолио",
-      "студия",
-      "readymag"
-    ],
-    "url": "https://pragmatica.design/",
-    "date": 1629227756,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio",
-      "studiya",
-      "readymag"
     ],
     "awards": []
   }

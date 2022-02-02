@@ -1,5 +1,25 @@
 [
   {
+    "id": 561,
+    "title": "Портрет российской семьи",
+    "caption": "Портрет российской семьи\nhttps://ria.ru/20190805/1557121163.html\n\n#спецпроект #риа",
+    "image": "data/images/561.jpg",
+    "tags": [
+      "спецпроект",
+      "риа"
+    ],
+    "url": "https://ria.ru/20190805/1557121163.html",
+    "date": 1565085634,
+    "edit_date": 1583247387,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "ria"
+    ],
+    "awards": []
+  },
+  {
     "id": 560,
     "title": "Здесь и сейчас. Атлас творческих студий",
     "caption": "Здесь и сейчас. Атлас творческих студий\nhttps://hereandnow.moscow/\n\n#мероприятие #искусство #спецпроект #readymag #aic",
@@ -354,25 +374,6 @@
     "isRemoved": false,
     "slugs": [
       "portfolio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 539,
-    "title": "ЗАО «Росма»",
-    "image": "data/images/539.jpg",
-    "tags": [
-      "производство",
-      "levelup"
-    ],
-    "url": "https://rosma.spb.ru/",
-    "date": 1561370466,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "proizvodstvo",
-      "levelup"
     ],
     "awards": []
   }
