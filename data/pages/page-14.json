@@ -1,5 +1,28 @@
 [
   {
+    "id": 753,
+    "title": "Bolditalic — выпуск 2020",
+    "caption": "Bolditalic — выпуск 2020\nhttps://2020.bolditalic.type.school/\n\n#образование #readymag #владимирпушкарёв\nСпасибо за ссылку @VPuschkarev",
+    "image": "data/images/753.jpg",
+    "tags": [
+      "образование",
+      "readymag",
+      "владимирпушкарёв"
+    ],
+    "url": "https://2020.bolditalic.type.school/",
+    "date": 1595671205,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "readymag",
+      "vladimirpushkaryov"
+    ],
+    "awards": []
+  },
+  {
     "id": 752,
     "title": "alvaar",
     "caption": "alvaar\nhttps://alvaar.one/\n\n#магазин #shopify #nonobjectiveworks",
@@ -441,27 +464,6 @@
     "slugs": [
       "meropriyatie",
       "promo"
-    ],
-    "awards": []
-  },
-  {
-    "id": 733,
-    "title": "Beans Agency",
-    "caption": "Beans Agency\nhttps://beans.agency/uk/\n\n#портфолио #агентство",
-    "image": "data/images/733.jpg",
-    "tags": [
-      "портфолио",
-      "агентство"
-    ],
-    "url": "https://beans.agency/uk/",
-    "date": 1591092008,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio",
-      "agentstvo"
     ],
     "awards": []
   }

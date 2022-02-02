@@ -1,5 +1,28 @@
 [
   {
+    "id": 1045,
+    "title": "Stameska",
+    "caption": "Stameska\nhttps://stameskastudio.com\n\n#производство #портфолио #readymag\nСпасибо за ссылку @readymag_official",
+    "image": "data/images/1045.jpg",
+    "tags": [
+      "производство",
+      "портфолио",
+      "readymag"
+    ],
+    "url": "https://stameskastudio.com",
+    "date": 1643797255,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "portfolio",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 1044,
     "title": "Method Zero | Special Sale",
     "caption": "Method Zero | Special Sale\nhttps://www.sale.methodzero.io\n\n#промо #услуги #дизайн #webflow #methodzero\nСпасибо за ссылку @elena_dicycle",
@@ -485,31 +508,6 @@
       "servis",
       "biznes",
       "finansi"
-    ],
-    "awards": []
-  },
-  {
-    "id": 1024,
-    "title": "Дэни Купа в офисе",
-    "caption": "Дэни Купа в офисе\nhttps://skrepy.ooo\n\n#промо #заглушка #readymag #кириллродин\nСпасибо за ссылку @kirillrodin",
-    "image": "data/images/1024.jpg",
-    "tags": [
-      "промо",
-      "заглушка",
-      "readymag",
-      "кириллродин"
-    ],
-    "url": "https://skrepy.ooo",
-    "date": 1638266745,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "zaglushka",
-      "readymag",
-      "kirillrodin"
     ],
     "awards": []
   }

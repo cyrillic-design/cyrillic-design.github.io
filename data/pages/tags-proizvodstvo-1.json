@@ -1,5 +1,28 @@
 [
   {
+    "id": 1045,
+    "title": "Stameska",
+    "caption": "Stameska\nhttps://stameskastudio.com\n\n#производство #портфолио #readymag\nСпасибо за ссылку @readymag_official",
+    "image": "data/images/1045.jpg",
+    "tags": [
+      "производство",
+      "портфолио",
+      "readymag"
+    ],
+    "url": "https://stameskastudio.com",
+    "date": 1643797255,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "portfolio",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 1032,
     "title": "Corporelle Studio",
     "caption": "Corporelle Studio\nhttps://ru.corporelle.studio\n\n#производство #магазин #readymag\nСпасибо за ссылку @kruglovse",
@@ -417,25 +440,6 @@
       "proizvodstvo",
       "promo",
       "servis"
-    ],
-    "awards": []
-  },
-  {
-    "id": 526,
-    "title": "ТехноСтиль",
-    "image": "data/images/526.jpg",
-    "tags": [
-      "производство",
-      "студияевгенияярового"
-    ],
-    "url": "http://technostyle.yarovoy.studio/",
-    "date": 1559728883,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "proizvodstvo",
-      "studiyaevgeniyayarovogo"
     ],
     "awards": []
   }

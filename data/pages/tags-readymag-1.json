@@ -1,5 +1,28 @@
 [
   {
+    "id": 1045,
+    "title": "Stameska",
+    "caption": "Stameska\nhttps://stameskastudio.com\n\n#производство #портфолио #readymag\nСпасибо за ссылку @readymag_official",
+    "image": "data/images/1045.jpg",
+    "tags": [
+      "производство",
+      "портфолио",
+      "readymag"
+    ],
+    "url": "https://stameskastudio.com",
+    "date": 1643797255,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "portfolio",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 1040,
     "title": "В зеркале Симурга. Сабир Гейбатов",
     "caption": "В зеркале Симурга. Сабир Гейбатов\nhttps://simurg.mkalamuseum.ru\n\n#спецпроект #искусство #история #музей #readymag #nonobjectiveworks\nСпасибо за ссылку @readymag_official",
@@ -461,34 +484,6 @@
       "portfolio",
       "studiya",
       "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 978,
-    "title": "Sulliwan Vacancies",
-    "caption": "Sulliwan Vacancies\nhttps://hr.sulliwan.com/\n\n#студия #работа #hr #readymag #sulliwan",
-    "image": "data/images/978.jpg",
-    "tags": [
-      "студия",
-      "работа",
-      "hr",
-      "readymag",
-      "sulliwan"
-    ],
-    "url": "https://hr.sulliwan.com/",
-    "date": 1628083587,
-    "edit_date": 1628157201,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "studiya",
-      "rabota",
-      "hr",
-      "readymag",
-      "sulliwan"
     ],
     "awards": []
   }

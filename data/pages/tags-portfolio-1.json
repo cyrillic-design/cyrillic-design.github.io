@@ -1,5 +1,28 @@
 [
   {
+    "id": 1045,
+    "title": "Stameska",
+    "caption": "Stameska\nhttps://stameskastudio.com\n\n#производство #портфолио #readymag\nСпасибо за ссылку @readymag_official",
+    "image": "data/images/1045.jpg",
+    "tags": [
+      "производство",
+      "портфолио",
+      "readymag"
+    ],
+    "url": "https://stameskastudio.com",
+    "date": 1643797255,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "portfolio",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 1023,
     "title": "Главстрой",
     "caption": "Главстрой\nhttps://www.glavstroy.ru\n\n#недвижимость #портфолио\nСпасибо за ссылку @AndyAbramov",
@@ -410,29 +433,6 @@
       "portfolio",
       "readymag",
       "nonobjectiveworks"
-    ],
-    "awards": []
-  },
-  {
-    "id": 906,
-    "title": "Method zero",
-    "caption": "Method zero\nhttps://www.methodzero.io/\n\n#портфолио #услуги #pinkman",
-    "image": "data/images/906.jpg",
-    "tags": [
-      "портфолио",
-      "услуги",
-      "pinkman"
-    ],
-    "url": "https://www.methodzero.io/",
-    "date": 1618389675,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio",
-      "uslugi",
-      "pinkman"
     ],
     "awards": []
   }

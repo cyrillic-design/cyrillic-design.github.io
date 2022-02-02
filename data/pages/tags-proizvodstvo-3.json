@@ -1,5 +1,26 @@
 [
   {
+    "id": 203,
+    "title": "AL5 Алюминий Завод",
+    "image": "data/images/203.jpg",
+    "tags": [
+      "производство",
+      "услуги",
+      "мануфактура"
+    ],
+    "url": "http://al5factory.com/ru",
+    "date": 1528711207,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "uslugi",
+      "manufaktura"
+    ],
+    "awards": []
+  },
+  {
     "id": 198,
     "title": "Укркабель",
     "image": "data/images/198.jpg",
