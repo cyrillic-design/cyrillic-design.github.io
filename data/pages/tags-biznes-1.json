@@ -1,5 +1,26 @@
 [
   {
+    "id": 1047,
+    "title": "МТС Знаем лично",
+    "caption": "МТС Знаем лично\nhttps://znaem.mts.ru\n\n#сервис #бизнес\nСпасибо за ссылку @sergikonnikov",
+    "image": "data/images/1047.jpg",
+    "tags": [
+      "сервис",
+      "бизнес"
+    ],
+    "url": "https://znaem.mts.ru",
+    "date": 1643868133,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "biznes"
+    ],
+    "awards": []
+  },
+  {
     "id": 1025,
     "title": "МТС Твой бизнес",
     "caption": "МТС Твой бизнес\nhttps://tb.mts.ru\n\n#сервис #бизнес #финансы\nСпасибо за ссылку @Willwarin",
@@ -431,29 +452,6 @@
       "finansi",
       "biznes",
       "servis"
-    ],
-    "awards": []
-  },
-  {
-    "id": 171,
-    "title": "Legacy",
-    "image": "data/images/171.jpg",
-    "tags": [
-      "фонд",
-      "бизнес",
-      "финансы",
-      "сибирикс"
-    ],
-    "url": "http://legacy-ef.com/",
-    "date": 1526032809,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "fond",
-      "biznes",
-      "finansi",
-      "sibiriks"
     ],
     "awards": []
   }

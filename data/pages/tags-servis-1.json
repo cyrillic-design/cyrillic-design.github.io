@@ -1,5 +1,26 @@
 [
   {
+    "id": 1047,
+    "title": "МТС Знаем лично",
+    "caption": "МТС Знаем лично\nhttps://znaem.mts.ru\n\n#сервис #бизнес\nСпасибо за ссылку @sergikonnikov",
+    "image": "data/images/1047.jpg",
+    "tags": [
+      "сервис",
+      "бизнес"
+    ],
+    "url": "https://znaem.mts.ru",
+    "date": 1643868133,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "biznes"
+    ],
+    "awards": []
+  },
+  {
     "id": 1039,
     "title": "Стартер",
     "caption": "Стартер\nhttps://starterapp.ru/\n\n#сервис #доставка #readymag #update #breadhead",
@@ -437,29 +458,6 @@
     "slugs": [
       "hr",
       "servis"
-    ],
-    "awards": []
-  },
-  {
-    "id": 860,
-    "title": "Troove",
-    "caption": "Troove\nhttps://troove.ru/\n\n#промо #сервис #приложение\nСпасибо за ссылку @Hovsky",
-    "image": "data/images/860.jpg",
-    "tags": [
-      "промо",
-      "сервис",
-      "приложение"
-    ],
-    "url": "https://troove.ru/",
-    "date": 1608458406,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "servis",
-      "prilozhenie"
     ],
     "awards": []
   }
