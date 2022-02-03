@@ -14353,5 +14353,21 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "1048": {
+    "id": 1048,
+    "title": "Gregori",
+    "caption": "Gregori\nhttps://italian-food.ru\n\n#магазин #доставка\nСпасибо за ссылку @vsevolodseregin",
+    "image": "1048.jpg",
+    "tags": [
+      "магазин",
+      "доставка"
+    ],
+    "url": "https://italian-food.ru",
+    "date": 1643886098,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

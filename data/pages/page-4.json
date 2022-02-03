@@ -1,5 +1,28 @@
 [
   {
+    "id": 984,
+    "title": "Агентство комплексного интернет-маркетинга Wemakefab",
+    "caption": "Агентство комплексного интернет-маркетинга Wemakefab\nhttps://wemakefab.ru/\n\n#портфолио #агентство  #lagutalaguta\nСпасибо за ссылку @masterlobster",
+    "image": "data/images/984.jpg",
+    "tags": [
+      "портфолио",
+      "агентство",
+      "lagutalaguta"
+    ],
+    "url": "https://wemakefab.ru/",
+    "date": 1629624600,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "agentstvo",
+      "lagutalaguta"
+    ],
+    "awards": []
+  },
+  {
     "id": 983,
     "title": "Дом устаревших проектов",
     "caption": "Дом устаревших проектов\nhttps://belpromproekt.leta.today/\n\n#спецпроект #readymag #павелкедич",
@@ -440,33 +463,6 @@
       "biznes",
       "servis",
       "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 961,
-    "title": "Yandex Scale",
-    "caption": "Yandex Scale\nhttps://scale.yandex.ru/\n\n#мероприятие #бизнес #технологии #конференция #яндекс",
-    "image": "data/images/961.jpg",
-    "tags": [
-      "мероприятие",
-      "бизнес",
-      "технологии",
-      "конференция",
-      "яндекс"
-    ],
-    "url": "https://scale.yandex.ru/",
-    "date": 1624805653,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "meropriyatie",
-      "biznes",
-      "tekhnologii",
-      "konferentsiya",
-      "yandeks"
     ],
     "awards": []
   }

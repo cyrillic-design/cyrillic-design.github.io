@@ -1,5 +1,28 @@
 [
   {
+    "id": 1007,
+    "title": "World Chess - Official FIDE Gaming Platform",
+    "caption": "World Chess - Official FIDE Gaming Platform\nhttps://chessarena.com\n\n#игра #сервис #мероприятие",
+    "image": "data/images/1007.jpg",
+    "tags": [
+      "игра",
+      "сервис",
+      "мероприятие"
+    ],
+    "url": "https://chessarena.com",
+    "date": 1634453156,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "igra",
+      "servis",
+      "meropriyatie"
+    ],
+    "awards": []
+  },
+  {
     "id": 1006,
     "title": "Фестиваль American Autumn",
     "caption": "Фестиваль American Autumn\nhttps://aafest.ru\n\n#фестиваль #кино #промо #readymag\nСпасибо за ссылку @readymag_official",
@@ -449,29 +472,6 @@
     "slugs": [
       "portfolio",
       "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 984,
-    "title": "Агентство комплексного интернет-маркетинга Wemakefab",
-    "caption": "Агентство комплексного интернет-маркетинга Wemakefab\nhttps://wemakefab.ru/\n\n#портфолио #агентство  #lagutalaguta\nСпасибо за ссылку @masterlobster",
-    "image": "data/images/984.jpg",
-    "tags": [
-      "портфолио",
-      "агентство",
-      "lagutalaguta"
-    ],
-    "url": "https://wemakefab.ru/",
-    "date": 1629624600,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio",
-      "agentstvo",
-      "lagutalaguta"
     ],
     "awards": []
   }

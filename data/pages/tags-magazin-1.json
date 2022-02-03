@@ -1,5 +1,26 @@
 [
   {
+    "id": 1048,
+    "title": "Gregori",
+    "caption": "Gregori\nhttps://italian-food.ru\n\n#магазин #доставка\nСпасибо за ссылку @vsevolodseregin",
+    "image": "data/images/1048.jpg",
+    "tags": [
+      "магазин",
+      "доставка"
+    ],
+    "url": "https://italian-food.ru",
+    "date": 1643886098,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "dostavka"
+    ],
+    "awards": []
+  },
+  {
     "id": 1034,
     "title": "Магазин Skysmart",
     "caption": "Магазин Skysmart\nhttps://store.skysmart.ru\n\n#магазин #образование #tilda #pragmatica\nСпасибо за ссылку @censor_online",
@@ -437,29 +458,6 @@
       "iskusstvo",
       "tilda",
       "avamyara"
-    ],
-    "awards": []
-  },
-  {
-    "id": 752,
-    "title": "alvaar",
-    "caption": "alvaar\nhttps://alvaar.one/\n\n#магазин #shopify #nonobjectiveworks",
-    "image": "data/images/752.jpg",
-    "tags": [
-      "магазин",
-      "shopify",
-      "nonobjectiveworks"
-    ],
-    "url": "https://alvaar.one/",
-    "date": 1595584807,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "shopify",
-      "nonobjectiveworks"
     ],
     "awards": []
   }
