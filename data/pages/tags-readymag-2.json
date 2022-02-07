@@ -1,5 +1,28 @@
 [
   {
+    "id": 982,
+    "title": "Команда цифрового дизайна PRAGMATICA",
+    "caption": "Команда цифрового дизайна PRAGMATICA\nhttps://pragmatica.design/\n\n#портфолио #студия #readymag\nСпасибо за ссылку @censor_online",
+    "image": "data/images/982.jpg",
+    "tags": [
+      "портфолио",
+      "студия",
+      "readymag"
+    ],
+    "url": "https://pragmatica.design/",
+    "date": 1629227756,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "studiya",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 978,
     "title": "Sulliwan Vacancies",
     "caption": "Sulliwan Vacancies\nhttps://hr.sulliwan.com/\n\n#студия #работа #hr #readymag #sulliwan",
@@ -454,31 +477,6 @@
       "uslugi",
       "readymag",
       "aleksandrkorobov"
-    ],
-    "awards": []
-  },
-  {
-    "id": 918,
-    "title": "koryo-saram",
-    "caption": "koryo-saram\nhttps://readymag.com/hosdots/koryo-saram/\n\n#спецпроект #история #readymag #егорким\nСпасибо за ссылку @readymag_official",
-    "image": "data/images/918.jpg",
-    "tags": [
-      "спецпроект",
-      "история",
-      "readymag",
-      "егорким"
-    ],
-    "url": "https://readymag.com/hosdots/koryo-saram/",
-    "date": 1619767403,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "istoriya",
-      "readymag",
-      "yegorkim"
     ],
     "awards": []
   }

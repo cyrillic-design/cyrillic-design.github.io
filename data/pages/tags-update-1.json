@@ -1,5 +1,28 @@
 [
   {
+    "id": 1049,
+    "title": "Дима Шалаев",
+    "caption": "Дима Шалаев\nhttp://dmitryshalaev.ru\n\n#портфолио #readymag #update",
+    "image": "data/images/1049.jpg",
+    "tags": [
+      "портфолио",
+      "readymag",
+      "update"
+    ],
+    "url": "http://dmitryshalaev.ru",
+    "date": 1644230179,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "readymag",
+      "update"
+    ],
+    "awards": []
+  },
+  {
     "id": 1041,
     "title": "Музей современного искусства «Гараж»",
     "caption": "Музей современного искусства «Гараж»\nhttps://garagemca.org/ru\n\n#музей #афиша #update #perushevandkhmelev #charmer\nСпасибо за ссылку @gorokhovatsky",

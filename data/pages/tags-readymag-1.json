@@ -1,5 +1,28 @@
 [
   {
+    "id": 1049,
+    "title": "Дима Шалаев",
+    "caption": "Дима Шалаев\nhttp://dmitryshalaev.ru\n\n#портфолио #readymag #update",
+    "image": "data/images/1049.jpg",
+    "tags": [
+      "портфолио",
+      "readymag",
+      "update"
+    ],
+    "url": "http://dmitryshalaev.ru",
+    "date": 1644230179,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "readymag",
+      "update"
+    ],
+    "awards": []
+  },
+  {
     "id": 1045,
     "title": "Stameska",
     "caption": "Stameska\nhttps://stameskastudio.com\n\n#производство #портфолио #readymag\nСпасибо за ссылку @readymag_official",
@@ -461,29 +484,6 @@
       "spetsproekt",
       "readymag",
       "pavelkedich"
-    ],
-    "awards": []
-  },
-  {
-    "id": 982,
-    "title": "Команда цифрового дизайна PRAGMATICA",
-    "caption": "Команда цифрового дизайна PRAGMATICA\nhttps://pragmatica.design/\n\n#портфолио #студия #readymag\nСпасибо за ссылку @censor_online",
-    "image": "data/images/982.jpg",
-    "tags": [
-      "портфолио",
-      "студия",
-      "readymag"
-    ],
-    "url": "https://pragmatica.design/",
-    "date": 1629227756,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio",
-      "studiya",
-      "readymag"
     ],
     "awards": []
   }

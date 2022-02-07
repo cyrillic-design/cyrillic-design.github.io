@@ -1,5 +1,25 @@
 [
   {
+    "id": 482,
+    "title": "Юлия Засс",
+    "caption": "Юлия Засс\nhttps://juliazass.com/ru\n\n#портфолио #tilda",
+    "image": "data/images/482.jpg",
+    "tags": [
+      "портфолио",
+      "tilda"
+    ],
+    "url": "https://juliazass.com/ru",
+    "date": 1553680823,
+    "edit_date": 1583440323,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "tilda"
+    ],
+    "awards": []
+  },
+  {
     "id": 479,
     "title": "Masterskaya",
     "caption": "Masterskaya\nhttps://masterskaya.pro/\n\n#портфолио",
@@ -353,25 +373,6 @@
     "isRemoved": false,
     "slugs": [
       "studiya",
-      "portfolio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 298,
-    "title": "SETTERS",
-    "image": "data/images/298.jpg",
-    "tags": [
-      "агентство",
-      "портфолио"
-    ],
-    "url": "https://setters.agency/",
-    "date": 1536832821,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "agentstvo",
       "portfolio"
     ],
     "awards": []

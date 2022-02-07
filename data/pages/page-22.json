@@ -1,5 +1,26 @@
 [
   {
+    "id": 587,
+    "title": "KIOSK",
+    "image": "data/images/587.jpg",
+    "tags": [
+      "магазин",
+      "портфолио",
+      "designworkout"
+    ],
+    "url": "https://kiosk.works/",
+    "date": 1568455242,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "portfolio",
+      "designworkout"
+    ],
+    "awards": []
+  },
+  {
     "id": 586,
     "title": "Без Меня Егору Летову — 55 лет",
     "image": "data/images/586.jpg",
@@ -356,25 +377,6 @@
     "slugs": [
       "spetsproekt",
       "kruzhok"
-    ],
-    "awards": []
-  },
-  {
-    "id": 564,
-    "title": "Dreamlaser",
-    "image": "data/images/564.jpg",
-    "tags": [
-      "портфолио",
-      "whiterussianstudio"
-    ],
-    "url": "http://www.dreamlaser.ru",
-    "date": 1565431239,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio",
-      "whiterussianstudio"
     ],
     "awards": []
   }

@@ -1,5 +1,27 @@
 [
   {
+    "id": 862,
+    "title": "ZET Academy",
+    "caption": "ZET Academy\nhttps://zetacademy.by/\n\n#образование #readymag",
+    "image": "data/images/862.jpg",
+    "tags": [
+      "образование",
+      "readymag"
+    ],
+    "url": "https://zetacademy.by/",
+    "date": 1608631207,
+    "edit_date": 1619714517,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 854,
     "title": "хотели как лучше",
     "caption": "хотели как лучше\nhttps://wannabest.ru/\n\n#портфолио #подкаст #readymag #nonobjectiveworks",
@@ -449,31 +471,6 @@
     "slugs": [
       "spetsproekt",
       "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 776,
-    "title": "yazdes art",
-    "caption": "yazdes art\nhttps://yazdes.art/\n\n#мероприятие #образование #readymag #nonobjectiveworks",
-    "image": "data/images/776.jpg",
-    "tags": [
-      "мероприятие",
-      "образование",
-      "readymag",
-      "nonobjectiveworks"
-    ],
-    "url": "https://yazdes.art/",
-    "date": 1600941611,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "meropriyatie",
-      "obrazovanie",
-      "readymag",
-      "nonobjectiveworks"
     ],
     "awards": []
   }
