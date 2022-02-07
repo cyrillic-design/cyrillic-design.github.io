@@ -1,5 +1,26 @@
 [
   {
+    "id": 478,
+    "title": "Алия: психологическая поддержка в перинатальной потере",
+    "image": "data/images/478.jpg",
+    "tags": [
+      "помощь",
+      "услуги",
+      "verks"
+    ],
+    "url": "https://babyloss.ru/",
+    "date": 1553248815,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "pomoshch",
+      "uslugi",
+      "verks"
+    ],
+    "awards": []
+  },
+  {
     "id": 477,
     "title": "POTEHA developers",
     "image": "data/images/477.jpg",
@@ -384,27 +405,6 @@
       "dannie",
       "istoriya",
       "urbica"
-    ],
-    "awards": []
-  },
-  {
-    "id": 456,
-    "title": "Homo Sedens",
-    "image": "data/images/456.jpg",
-    "tags": [
-      "спецпроект",
-      "здоровье",
-      "мамихлапинатана"
-    ],
-    "url": "https://homosedens.detralex.ru/",
-    "date": 1551348016,
-    "edit_date": 1583185362,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "zdorove",
-      "mamikhlapinatana"
     ],
     "awards": []
   }

@@ -1,5 +1,26 @@
 [
   {
+    "id": 368,
+    "title": "Третьяковская галерея: Уроки Ларионова",
+    "image": "data/images/368.jpg",
+    "tags": [
+      "искусство",
+      "спецпроект",
+      "artlebedev"
+    ],
+    "url": "https://mikhail-larionov.tretyakov.ru/",
+    "date": 1543312815,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "iskusstvo",
+      "spetsproekt",
+      "artlebedev"
+    ],
+    "awards": []
+  },
+  {
     "id": 367,
     "title": "Letterwork",
     "image": "data/images/367.jpg",
@@ -383,27 +404,6 @@
       "nedvizhimost",
       "promo",
       "greencow"
-    ],
-    "awards": []
-  },
-  {
-    "id": 345,
-    "title": "Falafel + AIC",
-    "image": "data/images/345.jpg",
-    "tags": [
-      "промо",
-      "магазин",
-      "aic"
-    ],
-    "url": "http://aic.falafelbooks.com/",
-    "date": 1541412018,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "magazin",
-      "aic"
     ],
     "awards": []
   }

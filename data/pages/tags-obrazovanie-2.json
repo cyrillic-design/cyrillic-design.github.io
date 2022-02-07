@@ -1,5 +1,24 @@
 [
   {
+    "id": 884,
+    "title": "Школа Wemakefab",
+    "caption": "Школа Wemakefab\nhttps://wemakefab.school/\n\n#образование",
+    "image": "data/images/884.jpg",
+    "tags": [
+      "образование"
+    ],
+    "url": "https://wemakefab.school/",
+    "date": 1612166721,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie"
+    ],
+    "awards": []
+  },
+  {
     "id": 883,
     "title": "Webium",
     "caption": "Webium\nhttps://webium.ru/\n\n#образование",
@@ -430,29 +449,6 @@
       "spetsproekt",
       "obrazovanie",
       "servis"
-    ],
-    "awards": []
-  },
-  {
-    "id": 753,
-    "title": "Bolditalic — выпуск 2020",
-    "caption": "Bolditalic — выпуск 2020\nhttps://2020.bolditalic.type.school/\n\n#образование #readymag #владимирпушкарёв\nСпасибо за ссылку @VPuschkarev",
-    "image": "data/images/753.jpg",
-    "tags": [
-      "образование",
-      "readymag",
-      "владимирпушкарёв"
-    ],
-    "url": "https://2020.bolditalic.type.school/",
-    "date": 1595671205,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "readymag",
-      "vladimirpushkaryov"
     ],
     "awards": []
   }

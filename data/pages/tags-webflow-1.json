@@ -1,5 +1,32 @@
 [
   {
+    "id": 1050,
+    "title": "Паттерны дизайн-менеджмента",
+    "caption": "Паттерны дизайн-менеджмента\nhttps://www.dmpatterns.com\n\n#образование #мероприятие #webflow #pragmatica #николайиванов",
+    "image": "data/images/1050.jpg",
+    "tags": [
+      "образование",
+      "мероприятие",
+      "webflow",
+      "pragmatica",
+      "николайиванов"
+    ],
+    "url": "https://www.dmpatterns.com",
+    "date": 1644242522,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "meropriyatie",
+      "webflow",
+      "pragmatica",
+      "nikolaiivanov"
+    ],
+    "awards": []
+  },
+  {
     "id": 1044,
     "title": "Method Zero | Special Sale",
     "caption": "Method Zero | Special Sale\nhttps://lite.methodzero.io\n\n#промо #услуги #дизайн #webflow #methodzero\nСпасибо за ссылку @elena_dicycle",

@@ -1,5 +1,32 @@
 [
   {
+    "id": 1050,
+    "title": "Паттерны дизайн-менеджмента",
+    "caption": "Паттерны дизайн-менеджмента\nhttps://www.dmpatterns.com\n\n#образование #мероприятие #webflow #pragmatica #николайиванов",
+    "image": "data/images/1050.jpg",
+    "tags": [
+      "образование",
+      "мероприятие",
+      "webflow",
+      "pragmatica",
+      "николайиванов"
+    ],
+    "url": "https://www.dmpatterns.com",
+    "date": 1644242522,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "meropriyatie",
+      "webflow",
+      "pragmatica",
+      "nikolaiivanov"
+    ],
+    "awards": []
+  },
+  {
     "id": 1035,
     "title": "6-я Уральская индустриальная биеннале современного искусства",
     "caption": "6-я Уральская индустриальная биеннале современного искусства\nhttps://uralbiennial.ru\n\n#мероприятие #искусство #aicodes\nСпасибо за ссылку @winkeyless",
@@ -466,31 +493,6 @@
       "podkast",
       "obrazovanie",
       "webflow"
-    ],
-    "awards": []
-  },
-  {
-    "id": 841,
-    "title": "Новый театр",
-    "caption": "Новый театр\nhttps://newteatr.com/\n\n#мероприятие #искусство #readymag #redcollar",
-    "image": "data/images/841.jpg",
-    "tags": [
-      "мероприятие",
-      "искусство",
-      "readymag",
-      "redcollar"
-    ],
-    "url": "https://newteatr.com/",
-    "date": 1606982407,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "meropriyatie",
-      "iskusstvo",
-      "readymag",
-      "redcollar"
     ],
     "awards": []
   }
