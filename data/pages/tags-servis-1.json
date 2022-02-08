@@ -1,5 +1,30 @@
 [
   {
+    "id": 1051,
+    "title": "BetterMe",
+    "caption": "BetterMe\nhttps://betterme.world/ua\n\n#сервис #приложение #здоровье #спорт",
+    "image": "data/images/1051.jpg",
+    "tags": [
+      "сервис",
+      "приложение",
+      "здоровье",
+      "спорт"
+    ],
+    "url": "https://betterme.world/ua",
+    "date": 1644305999,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "prilozhenie",
+      "zdorove",
+      "sport"
+    ],
+    "awards": []
+  },
+  {
     "id": 1047,
     "title": "МТС Знаем лично",
     "caption": "МТС Знаем лично\nhttps://znaem.mts.ru\n\n#сервис #бизнес\nСпасибо за ссылку @sergikonnikov",
@@ -436,27 +461,6 @@
     "isRemoved": false,
     "slugs": [
       "dizain",
-      "servis"
-    ],
-    "awards": []
-  },
-  {
-    "id": 868,
-    "title": "Эйч",
-    "caption": "Эйч\nhttps://h.budu.jobs/\n\n#hr #сервис",
-    "image": "data/images/868.jpg",
-    "tags": [
-      "hr",
-      "сервис"
-    ],
-    "url": "https://h.budu.jobs/",
-    "date": 1609063206,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "hr",
       "servis"
     ],
     "awards": []

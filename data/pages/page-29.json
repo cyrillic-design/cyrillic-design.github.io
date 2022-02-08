@@ -1,5 +1,26 @@
 [
   {
+    "id": 433,
+    "title": "VkusVill - Доставка",
+    "image": "data/images/433.jpg",
+    "tags": [
+      "сервис",
+      "доставка",
+      "max"
+    ],
+    "url": "https://dostavka.vkusvill.ru/",
+    "date": 1549706401,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "dostavka",
+      "max"
+    ],
+    "awards": []
+  },
+  {
     "id": 432,
     "title": "Embacy",
     "image": "data/images/432.jpg",
@@ -371,28 +392,6 @@
     "slugs": [
       "promo",
       "redo"
-    ],
-    "awards": []
-  },
-  {
-    "id": 413,
-    "title": "Село Хрюг",
-    "caption": "Село Хрюг\nhttps://khrug.ru/index.html\n\n#спецпроект #люди #кружок",
-    "image": "data/images/413.jpg",
-    "tags": [
-      "спецпроект",
-      "люди",
-      "кружок"
-    ],
-    "url": "https://khrug.ru/index.html",
-    "date": 1547719215,
-    "edit_date": 1583423738,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "lyudi",
-      "kruzhok"
     ],
     "awards": []
   }

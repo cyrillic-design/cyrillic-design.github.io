@@ -1,5 +1,30 @@
 [
   {
+    "id": 1051,
+    "title": "BetterMe",
+    "caption": "BetterMe\nhttps://betterme.world/ua\n\n#сервис #приложение #здоровье #спорт",
+    "image": "data/images/1051.jpg",
+    "tags": [
+      "сервис",
+      "приложение",
+      "здоровье",
+      "спорт"
+    ],
+    "url": "https://betterme.world/ua",
+    "date": 1644305999,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "prilozhenie",
+      "zdorove",
+      "sport"
+    ],
+    "awards": []
+  },
+  {
     "id": 1038,
     "title": "За Глазок, за наше село",
     "caption": "За Глазок, за наше село\nhttps://glazok.kruzhok.io/\n\n#спецпроект #фильм #спорт #кружок",

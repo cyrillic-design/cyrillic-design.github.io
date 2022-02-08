@@ -1,5 +1,26 @@
 [
   {
+    "id": 336,
+    "title": "Блог Tilda Publishing",
+    "image": "data/images/336.jpg",
+    "tags": [
+      "новости",
+      "сервис",
+      "tilda"
+    ],
+    "url": "http://blog.tilda.cc/",
+    "date": 1540634406,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "novosti",
+      "servis",
+      "tilda"
+    ],
+    "awards": []
+  },
+  {
     "id": 334,
     "title": "SOLO",
     "image": "data/images/334.jpg",
@@ -388,23 +409,6 @@
       "nedvizhimost",
       "servis",
       "sberbank"
-    ],
-    "awards": []
-  },
-  {
-    "id": 202,
-    "title": "RealtimeBoard",
-    "image": "data/images/202.jpg",
-    "tags": [
-      "сервис"
-    ],
-    "url": "https://realtimeboard.com/ru/",
-    "date": 1528624801,
-    "edit_date": 1583185536,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "servis"
     ],
     "awards": []
   }
