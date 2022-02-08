@@ -1,5 +1,28 @@
 [
   {
+    "id": 1052,
+    "title": "Москино",
+    "caption": "Москино\nhttps://mos-kino.ru\n\n#кино #афиша #charmer\nСпасибл за ссылку @masterlobster",
+    "image": "data/images/1052.jpg",
+    "tags": [
+      "кино",
+      "афиша",
+      "charmer"
+    ],
+    "url": "https://mos-kino.ru",
+    "date": 1644327273,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "kino",
+      "afisha",
+      "charmer"
+    ],
+    "awards": []
+  },
+  {
     "id": 1041,
     "title": "Музей современного искусства «Гараж»",
     "caption": "Музей современного искусства «Гараж»\nhttps://garagemca.org/ru\n\n#музей #афиша #update #perushevandkhmelev #charmer\nСпасибо за ссылку @gorokhovatsky",

@@ -1,5 +1,28 @@
 [
   {
+    "id": 1052,
+    "title": "Москино",
+    "caption": "Москино\nhttps://mos-kino.ru\n\n#кино #афиша #charmer\nСпасибл за ссылку @masterlobster",
+    "image": "data/images/1052.jpg",
+    "tags": [
+      "кино",
+      "афиша",
+      "charmer"
+    ],
+    "url": "https://mos-kino.ru",
+    "date": 1644327273,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "kino",
+      "afisha",
+      "charmer"
+    ],
+    "awards": []
+  },
+  {
     "id": 1011,
     "title": "Центр документального кино",
     "caption": "Центр документального кино\nhttps://cdkino.ru\n\n#кино #афиша #гошачубукин",
