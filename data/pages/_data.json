@@ -14427,7 +14427,7 @@
   "1052": {
     "id": 1052,
     "title": "Москино",
-    "caption": "Москино\nhttps://mos-kino.ru\n\n#кино #афиша #charmer\nСпасибл за ссылку @masterlobster",
+    "caption": "Москино\nhttps://mos-kino.ru\n\n#кино #афиша #charmer\nСпасибо за ссылку @masterlobster",
     "image": "1052.jpg",
     "tags": [
       "кино",
@@ -14436,6 +14436,7 @@
     ],
     "url": "https://mos-kino.ru",
     "date": 1644327273,
+    "edit_date": 1644327304,
     "isMonth": false,
     "isYear": false,
     "isHighlighted": false,
