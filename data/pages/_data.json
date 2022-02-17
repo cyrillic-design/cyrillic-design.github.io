@@ -14441,5 +14441,22 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "1053": {
+    "id": 1053,
+    "title": "Современник",
+    "caption": "Современник\nhttps://sovremennik.ru/\n\n#культура #театр #eshgruppa",
+    "image": "1053.jpg",
+    "tags": [
+      "культура",
+      "театр",
+      "eshgruppa"
+    ],
+    "url": "https://sovremennik.ru/",
+    "date": 1645088856,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

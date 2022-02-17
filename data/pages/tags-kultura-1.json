@@ -1,5 +1,28 @@
 [
   {
+    "id": 1053,
+    "title": "Современник",
+    "caption": "Современник\nhttps://sovremennik.ru/\n\n#культура #театр #eshgruppa",
+    "image": "data/images/1053.jpg",
+    "tags": [
+      "культура",
+      "театр",
+      "eshgruppa"
+    ],
+    "url": "https://sovremennik.ru/",
+    "date": 1645088856,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "kultura",
+      "teatr",
+      "eshgruppa"
+    ],
+    "awards": []
+  },
+  {
     "id": 1042,
     "title": "Теория художественных пространств В.А. Фаворского и П.А. Флоренского",
     "caption": "Теория художественных пространств В.А. Фаворского и П.А. Флоренского\nhttps://favorsky-florensky.tilda.ws\n\n#спецпроект #история #искусство #культура #tilda #анямельник\nСпасибо за ссылку @villyfok",
@@ -467,27 +490,6 @@
       "kultura",
       "lyudi",
       "sulliwan"
-    ],
-    "awards": []
-  },
-  {
-    "id": 157,
-    "title": "Мастерская Брусникина",
-    "image": "data/images/157.jpg",
-    "tags": [
-      "культура",
-      "театр",
-      "charmer"
-    ],
-    "url": "https://masterbrus.com/",
-    "date": 1524650415,
-    "edit_date": 1583185536,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "kultura",
-      "teatr",
-      "charmer"
     ],
     "awards": []
   }
