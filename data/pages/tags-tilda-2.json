@@ -1,5 +1,31 @@
 [
   {
+    "id": 816,
+    "title": "MY FRUIT!",
+    "caption": "MY FRUIT!\nhttps://myfruit.com.ua/\n\n#сервис #магазин #tilda #кириллжаркий",
+    "image": "data/images/816.jpg",
+    "tags": [
+      "сервис",
+      "магазин",
+      "tilda",
+      "кириллжаркий"
+    ],
+    "url": "https://myfruit.com.ua/",
+    "date": 1605437594,
+    "edit_date": 1610529465,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "magazin",
+      "tilda",
+      "kirillzharkii"
+    ],
+    "awards": []
+  },
+  {
     "id": 814,
     "title": "Кристина Колесникова",
     "caption": "Кристина Колесникова\nhttps://kriskol.ru/\n\n#образование #tilda",
@@ -444,30 +470,6 @@
     "isRemoved": false,
     "slugs": [
       "obrazovanie",
-      "tilda"
-    ],
-    "awards": []
-  },
-  {
-    "id": 498,
-    "title": "Алекс и Кэт",
-    "caption": "Алекс и Кэт\nhttps://alexkatfood.ru/\n\n#магазин #доставка #юлиязасс #tilda",
-    "image": "data/images/498.jpg",
-    "tags": [
-      "магазин",
-      "доставка",
-      "юлиязасс",
-      "tilda"
-    ],
-    "url": "https://alexkatfood.ru/",
-    "date": 1555236056,
-    "edit_date": 1583440252,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "dostavka",
-      "yuliyazass",
       "tilda"
     ],
     "awards": []

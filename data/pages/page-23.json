@@ -1,5 +1,22 @@
 [
   {
+    "id": 569,
+    "title": "Молния Beta",
+    "image": "data/images/569.jpg",
+    "tags": [
+      "сервис"
+    ],
+    "url": "https://molnia.me/",
+    "date": 1565949646,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis"
+    ],
+    "awards": []
+  },
+  {
     "id": 568,
     "title": "ROKY",
     "image": "data/images/568.jpg",
@@ -360,25 +377,6 @@
     "slugs": [
       "izdanie",
       "stride"
-    ],
-    "awards": []
-  },
-  {
-    "id": 548,
-    "title": "РОССМА",
-    "image": "data/images/548.jpg",
-    "tags": [
-      "производство",
-      "студияевгенияярового"
-    ],
-    "url": "https://rossma.ru/",
-    "date": 1562666479,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "proizvodstvo",
-      "studiyaevgeniyayarovogo"
     ],
     "awards": []
   }

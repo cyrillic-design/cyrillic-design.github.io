@@ -1,5 +1,32 @@
 [
   {
+    "id": 1054,
+    "title": "Иероним Босх",
+    "caption": "Иероним Босх\nhttps://hieronymusbosch.tilda.ws\n\n#спецпроект #искусство #история #tilda #алексейпрокопенко",
+    "image": "data/images/1054.jpg",
+    "tags": [
+      "спецпроект",
+      "искусство",
+      "история",
+      "tilda",
+      "алексейпрокопенко"
+    ],
+    "url": "https://hieronymusbosch.tilda.ws",
+    "date": 1645348012,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "iskusstvo",
+      "istoriya",
+      "tilda",
+      "alekseiprokopenko"
+    ],
+    "awards": []
+  },
+  {
     "id": 1043,
     "title": "Peter Paul Rubens",
     "caption": "Peter Paul Rubens\nhttps://peter-paul-rubens.site\n\n#спецпроект #история #искусство #tilda #николаймихалев",
@@ -482,32 +509,6 @@
     "isRemoved": false,
     "slugs": [
       "iskusstvo"
-    ],
-    "awards": []
-  },
-  {
-    "id": 560,
-    "title": "Здесь и сейчас. Атлас творческих студий",
-    "caption": "Здесь и сейчас. Атлас творческих студий\nhttps://hereandnow.moscow/\n\n#мероприятие #искусство #спецпроект #readymag #aic",
-    "image": "data/images/560.jpg",
-    "tags": [
-      "мероприятие",
-      "искусство",
-      "спецпроект",
-      "readymag",
-      "aic"
-    ],
-    "url": "https://hereandnow.moscow/",
-    "date": 1564740033,
-    "edit_date": 1583440361,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "meropriyatie",
-      "iskusstvo",
-      "spetsproekt",
-      "readymag",
-      "aic"
     ],
     "awards": []
   }
