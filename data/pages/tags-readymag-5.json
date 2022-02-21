@@ -1,5 +1,26 @@
 [
   {
+    "id": 777,
+    "title": "ИИ И КИНО",
+    "caption": "ИИ И КИНО\nhttps://readymag.com/u799818405/2146390/\n\n#спецпроект #readymag",
+    "image": "data/images/777.jpg",
+    "tags": [
+      "спецпроект",
+      "readymag"
+    ],
+    "url": "https://readymag.com/u799818405/2146390/",
+    "date": 1601028004,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 776,
     "title": "yazdes art",
     "caption": "yazdes art\nhttps://yazdes.art/\n\n#мероприятие #образование #readymag #nonobjectiveworks",
@@ -459,33 +480,6 @@
       "lyudi",
       "spetsproekt",
       "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 718,
-    "title": "Что такое дом?",
-    "caption": "Что такое дом?\nhttps://dom.batenka.ru/\n\n#спецпроект #исследование #readymag #пик #батенькадавытрансформер",
-    "image": "data/images/718.jpg",
-    "tags": [
-      "спецпроект",
-      "исследование",
-      "readymag",
-      "пик",
-      "батенькадавытрансформер"
-    ],
-    "url": "https://dom.batenka.ru/",
-    "date": 1587463207,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "issledovanie",
-      "readymag",
-      "pik",
-      "batenkadavitransformer"
     ],
     "awards": []
   }

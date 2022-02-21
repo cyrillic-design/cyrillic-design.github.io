@@ -1,5 +1,30 @@
 [
   {
+    "id": 847,
+    "title": "Grow this, Grow that: Product designer",
+    "caption": "Grow this, Grow that: Product designer\nhttps://vectorly.team/grow-this-grow-that-ru/product-designer\n\n#мероприятие #подкаст #образование #webflow\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/847.jpg",
+    "tags": [
+      "мероприятие",
+      "подкаст",
+      "образование",
+      "webflow"
+    ],
+    "url": "https://vectorly.team/grow-this-grow-that-ru/product-designer",
+    "date": 1607446132,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "podkast",
+      "obrazovanie",
+      "webflow"
+    ],
+    "awards": []
+  },
+  {
     "id": 841,
     "title": "Новый театр",
     "caption": "Новый театр\nhttps://newteatr.com/\n\n#мероприятие #искусство #readymag #redcollar",
@@ -467,28 +492,6 @@
     "slugs": [
       "servis",
       "promo",
-      "meropriyatie",
-      "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 676,
-    "title": "LUXENGLISH",
-    "caption": "LUXENGLISH\nhttps://luxenglish.ru/\n\n☆ #образование #мероприятие #readymag",
-    "image": "data/images/676.jpg",
-    "tags": [
-      "образование",
-      "мероприятие",
-      "readymag"
-    ],
-    "url": "https://luxenglish.ru/",
-    "date": 1583402410,
-    "edit_date": 1583666034,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
       "meropriyatie",
       "readymag"
     ],

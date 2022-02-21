@@ -1,5 +1,28 @@
 [
   {
+    "id": 1055,
+    "title": "Воробушки",
+    "caption": "Воробушки\nhttps://vrbshki.com\n\n#мероприятие #образование #readymag\nСпасибо за ссылку @ohmyinterface",
+    "image": "data/images/1055.jpg",
+    "tags": [
+      "мероприятие",
+      "образование",
+      "readymag"
+    ],
+    "url": "https://vrbshki.com",
+    "date": 1645428564,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "obrazovanie",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 1050,
     "title": "Паттерны дизайн-менеджмента",
     "caption": "Паттерны дизайн-менеджмента\nhttps://www.dmpatterns.com\n\n#образование #мероприятие #webflow #pragmatica #николайиванов",
@@ -454,29 +477,6 @@
       "nonobjectiveworks",
       "artemmatyushkin",
       "timofeilebedev"
-    ],
-    "awards": []
-  },
-  {
-    "id": 888,
-    "title": "Bang Bang Education",
-    "caption": "Bang Bang Education\nhttps://bangbangeducation.ru/\n\n#образование #electricredstudio #astroshock\nСпасибо за ссылку @VPuschkarev",
-    "image": "data/images/888.jpg",
-    "tags": [
-      "образование",
-      "electricredstudio",
-      "astroshock"
-    ],
-    "url": "https://bangbangeducation.ru/",
-    "date": 1612356613,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "electricredstudio",
-      "astroshock"
     ],
     "awards": []
   }

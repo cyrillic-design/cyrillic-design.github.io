@@ -1,5 +1,29 @@
 [
   {
+    "id": 983,
+    "title": "Дом устаревших проектов",
+    "caption": "Дом устаревших проектов\nhttps://belpromproekt.leta.today/\n\n#спецпроект #readymag #павелкедич",
+    "image": "data/images/983.jpg",
+    "tags": [
+      "спецпроект",
+      "readymag",
+      "павелкедич"
+    ],
+    "url": "https://belpromproekt.leta.today/",
+    "date": 1629378373,
+    "edit_date": 1629378387,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "readymag",
+      "pavelkedich"
+    ],
+    "awards": []
+  },
+  {
     "id": 982,
     "title": "Команда цифрового дизайна PRAGMATICA",
     "caption": "Команда цифрового дизайна PRAGMATICA\nhttps://pragmatica.design/\n\n#портфолио #студия #readymag\nСпасибо за ссылку @censor_online",
@@ -452,31 +476,6 @@
       "dostavka",
       "readymag",
       "breadhead"
-    ],
-    "awards": []
-  },
-  {
-    "id": 921,
-    "title": "Wander Wonder",
-    "caption": "Wander Wonder\nhttps://readymag.com/u25485059/1967674/\n\n#путешествия #услуги #readymag #александркоробов",
-    "image": "data/images/921.jpg",
-    "tags": [
-      "путешествия",
-      "услуги",
-      "readymag",
-      "александркоробов"
-    ],
-    "url": "https://readymag.com/u25485059/1967674/",
-    "date": 1620038457,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "puteshestviya",
-      "uslugi",
-      "readymag",
-      "aleksandrkorobov"
     ],
     "awards": []
   }

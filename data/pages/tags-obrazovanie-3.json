@@ -1,5 +1,29 @@
 [
   {
+    "id": 758,
+    "title": "Brave New World",
+    "caption": "Brave New World\nhttps://bnw.budu.jobs/\n\n#спецпроект #образование #сервис\nСпасибо за ссылку @kkkarterrr",
+    "image": "data/images/758.jpg",
+    "tags": [
+      "спецпроект",
+      "образование",
+      "сервис"
+    ],
+    "url": "https://bnw.budu.jobs/",
+    "date": 1598349611,
+    "edit_date": 1598350429,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "obrazovanie",
+      "servis"
+    ],
+    "awards": []
+  },
+  {
     "id": 753,
     "title": "Bolditalic — выпуск 2020",
     "caption": "Bolditalic — выпуск 2020\nhttps://2020.bolditalic.type.school/\n\n#образование #readymag #владимирпушкарёв\nСпасибо за ссылку @VPuschkarev",
@@ -438,25 +462,6 @@
     "slugs": [
       "obrazovanie",
       "sulliwan"
-    ],
-    "awards": []
-  },
-  {
-    "id": 615,
-    "title": "Weekend-курс актёрского мастерства",
-    "image": "data/images/615.jpg",
-    "tags": [
-      "образование",
-      "tilda"
-    ],
-    "url": "https://karavaev-lab.ru/wknd",
-    "date": 1572084041,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "tilda"
     ],
     "awards": []
   }

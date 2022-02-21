@@ -14477,5 +14477,22 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "1055": {
+    "id": 1055,
+    "title": "Воробушки",
+    "caption": "Воробушки\nhttps://vrbshki.com\n\n#мероприятие #образование #readymag\nСпасибо за ссылку @ohmyinterface",
+    "image": "1055.jpg",
+    "tags": [
+      "мероприятие",
+      "образование",
+      "readymag"
+    ],
+    "url": "https://vrbshki.com",
+    "date": 1645428564,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

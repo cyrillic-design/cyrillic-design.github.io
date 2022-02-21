@@ -1,5 +1,28 @@
 [
   {
+    "id": 1055,
+    "title": "Воробушки",
+    "caption": "Воробушки\nhttps://vrbshki.com\n\n#мероприятие #образование #readymag\nСпасибо за ссылку @ohmyinterface",
+    "image": "data/images/1055.jpg",
+    "tags": [
+      "мероприятие",
+      "образование",
+      "readymag"
+    ],
+    "url": "https://vrbshki.com",
+    "date": 1645428564,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "obrazovanie",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 1049,
     "title": "Дима Шалаев",
     "caption": "Дима Шалаев\nhttp://dmitryshalaev.ru\n\n#портфолио #readymag #update",
@@ -460,30 +483,6 @@
     "slugs": [
       "portfolio",
       "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 983,
-    "title": "Дом устаревших проектов",
-    "caption": "Дом устаревших проектов\nhttps://belpromproekt.leta.today/\n\n#спецпроект #readymag #павелкедич",
-    "image": "data/images/983.jpg",
-    "tags": [
-      "спецпроект",
-      "readymag",
-      "павелкедич"
-    ],
-    "url": "https://belpromproekt.leta.today/",
-    "date": 1629378373,
-    "edit_date": 1629378387,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "readymag",
-      "pavelkedich"
     ],
     "awards": []
   }

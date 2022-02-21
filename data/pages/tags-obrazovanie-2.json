@@ -1,5 +1,28 @@
 [
   {
+    "id": 888,
+    "title": "Bang Bang Education",
+    "caption": "Bang Bang Education\nhttps://bangbangeducation.ru/\n\n#образование #electricredstudio #astroshock\nСпасибо за ссылку @VPuschkarev",
+    "image": "data/images/888.jpg",
+    "tags": [
+      "образование",
+      "electricredstudio",
+      "astroshock"
+    ],
+    "url": "https://bangbangeducation.ru/",
+    "date": 1612356613,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "electricredstudio",
+      "astroshock"
+    ],
+    "awards": []
+  },
+  {
     "id": 884,
     "title": "Школа Wemakefab",
     "caption": "Школа Wemakefab\nhttps://wemakefab.school/\n\n#образование",
@@ -425,30 +448,6 @@
       "obrazovanie",
       "readymag",
       "dadacreative"
-    ],
-    "awards": []
-  },
-  {
-    "id": 758,
-    "title": "Brave New World",
-    "caption": "Brave New World\nhttps://bnw.budu.jobs/\n\n#спецпроект #образование #сервис\nСпасибо за ссылку @kkkarterrr",
-    "image": "data/images/758.jpg",
-    "tags": [
-      "спецпроект",
-      "образование",
-      "сервис"
-    ],
-    "url": "https://bnw.budu.jobs/",
-    "date": 1598349611,
-    "edit_date": 1598350429,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "obrazovanie",
-      "servis"
     ],
     "awards": []
   }
