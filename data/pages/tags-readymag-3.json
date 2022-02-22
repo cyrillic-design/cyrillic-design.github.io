@@ -1,5 +1,31 @@
 [
   {
+    "id": 922,
+    "title": "Стартер",
+    "caption": "Стартер\nhttps://starterapp.ru/\n\n#сервис #доставка #readymag #breadhead",
+    "image": "data/images/922.jpg",
+    "tags": [
+      "сервис",
+      "доставка",
+      "readymag",
+      "breadhead"
+    ],
+    "url": "https://starterapp.ru/",
+    "date": 1620115263,
+    "edit_date": 1642991747,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "dostavka",
+      "readymag",
+      "breadhead"
+    ],
+    "awards": []
+  },
+  {
     "id": 921,
     "title": "Wander Wonder",
     "caption": "Wander Wonder\nhttps://readymag.com/u25485059/1967674/\n\n#путешествия #услуги #readymag #александркоробов",
@@ -451,29 +477,6 @@
     "isRemoved": false,
     "slugs": [
       "obrazovanie",
-      "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 871,
-    "title": "Новогодний стол от Брикета",
-    "caption": "Новогодний стол от Брикета\nhttp://2021.briketmarket.com/\n\n#спецпроект #магазин #readymag",
-    "image": "data/images/871.jpg",
-    "tags": [
-      "спецпроект",
-      "магазин",
-      "readymag"
-    ],
-    "url": "http://2021.briketmarket.com/",
-    "date": 1609236007,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "magazin",
       "readymag"
     ],
     "awards": []

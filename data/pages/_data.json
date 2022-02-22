@@ -14494,5 +14494,22 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "1056": {
+    "id": 1056,
+    "title": "taktika",
+    "caption": "taktika\nhttps://taktika.agency\n\n#портфолио #агентство #readymag\nСпасибо за ссылку @readymag_official",
+    "image": "1056.jpg",
+    "tags": [
+      "портфолио",
+      "агентство",
+      "readymag"
+    ],
+    "url": "https://taktika.agency",
+    "date": 1645527732,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
