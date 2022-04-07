@@ -1,5 +1,22 @@
 [
   {
+    "id": 339,
+    "title": "Майк Юхтенко",
+    "image": "data/images/339.jpg",
+    "tags": [
+      "портфолио"
+    ],
+    "url": "http://maicle.ru/",
+    "date": 1540893615,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio"
+    ],
+    "awards": []
+  },
+  {
     "id": 306,
     "title": "Райт",
     "image": "data/images/306.jpg",
@@ -361,25 +378,6 @@
     "slugs": [
       "agentstvo",
       "portfolio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 191,
-    "title": "Олег Герт",
-    "image": "data/images/191.jpg",
-    "tags": [
-      "портфолио",
-      "дизайн"
-    ],
-    "url": "http://oleggert.ru/",
-    "date": 1527760811,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio",
-      "dizain"
     ],
     "awards": []
   }

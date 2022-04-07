@@ -1,5 +1,30 @@
 [
   {
+    "id": 80,
+    "title": "Памяти Юрия Верменича",
+    "image": "data/images/80.jpg",
+    "tags": [
+      "культура",
+      "спецпроект",
+      "музыка",
+      "память",
+      "coda"
+    ],
+    "url": "http://vermenich.jazzprovince.ru/",
+    "date": 1518775229,
+    "edit_date": 1583185563,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "kultura",
+      "spetsproekt",
+      "muzika",
+      "pamyat",
+      "coda"
+    ],
+    "awards": []
+  },
+  {
     "id": 76,
     "title": "Republic",
     "image": "data/images/76.jpg",
