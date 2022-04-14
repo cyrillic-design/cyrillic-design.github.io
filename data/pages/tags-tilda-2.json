@@ -1,5 +1,30 @@
 [
   {
+    "id": 820,
+    "title": "LEVEL UP FORUM",
+    "caption": "LEVEL UP FORUM\nhttps://levelup-forum.ru/\n\n#мероприятие #образование #tilda #никитаковров",
+    "image": "data/images/820.jpg",
+    "tags": [
+      "мероприятие",
+      "образование",
+      "tilda",
+      "никитаковров"
+    ],
+    "url": "https://levelup-forum.ru/",
+    "date": 1605777222,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "obrazovanie",
+      "tilda",
+      "nikitakovrov"
+    ],
+    "awards": []
+  },
+  {
     "id": 816,
     "title": "MY FRUIT!",
     "caption": "MY FRUIT!\nhttps://myfruit.com.ua/\n\n#сервис #магазин #tilda #кириллжаркий",
@@ -451,25 +476,6 @@
       "portfolio",
       "spetsproekt",
       "the23",
-      "tilda"
-    ],
-    "awards": []
-  },
-  {
-    "id": 615,
-    "title": "Weekend-курс актёрского мастерства",
-    "image": "data/images/615.jpg",
-    "tags": [
-      "образование",
-      "tilda"
-    ],
-    "url": "https://karavaev-lab.ru/wknd",
-    "date": 1572084041,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
       "tilda"
     ],
     "awards": []

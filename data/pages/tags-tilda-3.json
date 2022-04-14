@@ -1,5 +1,24 @@
 [
   {
+    "id": 615,
+    "title": "Weekend-курс актёрского мастерства",
+    "image": "data/images/615.jpg",
+    "tags": [
+      "образование",
+      "tilda"
+    ],
+    "url": "https://karavaev-lab.ru/wknd",
+    "date": 1572084041,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "tilda"
+    ],
+    "awards": []
+  },
+  {
     "id": 498,
     "title": "Алекс и Кэт",
     "caption": "Алекс и Кэт\nhttps://alexkatfood.ru/\n\n#магазин #доставка #юлиязасс #tilda",
