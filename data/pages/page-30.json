@@ -1,5 +1,24 @@
 [
   {
+    "id": 421,
+    "title": "Яндекс.Авто",
+    "image": "data/images/421.jpg",
+    "tags": [
+      "промо",
+      "readymag"
+    ],
+    "url": "https://readymag.com/yandexgeoteam/1229224/",
+    "date": 1548410417,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 420,
     "title": "Kelnik",
     "image": "data/images/420.jpg",
@@ -374,28 +393,6 @@
     "slugs": [
       "finansi",
       "biznes"
-    ],
-    "awards": []
-  },
-  {
-    "id": 401,
-    "title": "Сделай свой Выборг",
-    "caption": "Сделай свой Выборг\nhttps://vyborg.me/\n\n#брендинг #город #setters",
-    "image": "data/images/401.jpg",
-    "tags": [
-      "брендинг",
-      "город",
-      "setters"
-    ],
-    "url": "https://vyborg.me/",
-    "date": 1545904829,
-    "edit_date": 1583687860,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "brending",
-      "gorod",
-      "setters"
     ],
     "awards": []
   }

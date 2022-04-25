@@ -1,5 +1,31 @@
 [
   {
+    "id": 1018,
+    "title": "ТРУДРУК",
+    "caption": "ТРУДРУК\nhttps://trudruk.ru/\n\n#магазин #производство #одежда #readymag\nСпасибо за ссылку @readymag_official",
+    "image": "data/images/1018.jpg",
+    "tags": [
+      "магазин",
+      "производство",
+      "одежда",
+      "readymag"
+    ],
+    "url": "https://trudruk.ru/",
+    "date": 1637853903,
+    "edit_date": 1637854441,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "proizvodstvo",
+      "odezhda",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 1017,
     "title": "mmcité",
     "caption": "mmcité\nhttps://www.mmcite.com/ru\n\n#портфолио #производство\nСпасибо за ссылку @AndyAbramov",
@@ -439,29 +465,6 @@
     "slugs": [
       "spetsproekt",
       "istoriya",
-      "pavelkedich"
-    ],
-    "awards": []
-  },
-  {
-    "id": 997,
-    "title": "М-464: нераспознаваемая индивидуальность",
-    "caption": "М-464: нераспознаваемая индивидуальность\nhttps://m464.leta.today/\n\n#спецпроект #readymag #павелкедич\nСпасибо за ссылку @readymag_official",
-    "image": "data/images/997.jpg",
-    "tags": [
-      "спецпроект",
-      "readymag",
-      "павелкедич"
-    ],
-    "url": "https://m464.leta.today/",
-    "date": 1631884136,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "readymag",
       "pavelkedich"
     ],
     "awards": []

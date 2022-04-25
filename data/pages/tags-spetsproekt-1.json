@@ -1,5 +1,28 @@
 [
   {
+    "id": 1060,
+    "title": "Civilians",
+    "caption": "Civilians\nhttps://civilians.space\n\n#спецпроект #сообщество #readymag",
+    "image": "data/images/1060.jpg",
+    "tags": [
+      "спецпроект",
+      "сообщество",
+      "readymag"
+    ],
+    "url": "https://civilians.space",
+    "date": 1650914442,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "soobshchestvo",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 1054,
     "title": "Иероним Босх",
     "caption": "Иероним Босх\nhttps://hieronymusbosch.tilda.ws\n\n#спецпроект #искусство #история #tilda #алексейпрокопенко",
@@ -470,29 +493,6 @@
       "spetsproekt",
       "magazin",
       "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 943,
-    "title": "Беларуская літаратура ў аўдыякнігах",
-    "caption": "Беларуская літаратура ў аўдыякнігах\nhttps://lit.letapis.by/\n\n#спецпроект #история #алексейчеренкевич",
-    "image": "data/images/943.jpg",
-    "tags": [
-      "спецпроект",
-      "история",
-      "алексейчеренкевич"
-    ],
-    "url": "https://lit.letapis.by/",
-    "date": 1621435844,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "istoriya",
-      "alekseicherenkevich"
     ],
     "awards": []
   }

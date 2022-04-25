@@ -14544,5 +14544,22 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "1060": {
+    "id": 1060,
+    "title": "Civilians",
+    "caption": "Civilians\nhttps://civilians.space\n\n#спецпроект #сообщество #readymag",
+    "image": "1060.jpg",
+    "tags": [
+      "спецпроект",
+      "сообщество",
+      "readymag"
+    ],
+    "url": "https://civilians.space",
+    "date": 1650914442,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

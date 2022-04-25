@@ -1,5 +1,31 @@
 [
   {
+    "id": 730,
+    "title": "Курс прозы «Глагол»",
+    "caption": "Курс прозы «Глагол»\nhttp://glglgl.ru/\n\n#образование #мероприятие #readymag #nonobjectiveworks",
+    "image": "data/images/730.jpg",
+    "tags": [
+      "образование",
+      "мероприятие",
+      "readymag",
+      "nonobjectiveworks"
+    ],
+    "url": "http://glglgl.ru/",
+    "date": 1590573617,
+    "edit_date": 1600870401,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "meropriyatie",
+      "readymag",
+      "nonobjectiveworks"
+    ],
+    "awards": []
+  },
+  {
     "id": 728,
     "title": "Путеводитель по Тобольску",
     "caption": "Путеводитель по Тобольску\nhttps://opentobolsk.ru/\n\n#город #люди #спецпроект #readymag\nСпасибо за ссылку @readymag_official",
@@ -461,27 +487,6 @@
       "muzika",
       "readymag",
       "artemlepilin"
-    ],
-    "awards": []
-  },
-  {
-    "id": 638,
-    "title": "Женщины в дизайне",
-    "image": "data/images/638.jpg",
-    "tags": [
-      "подкаст",
-      "промо",
-      "readymag"
-    ],
-    "url": "https://designingwomen.readymag.com/podcast/",
-    "date": 1576663258,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "podkast",
-      "promo",
-      "readymag"
     ],
     "awards": []
   }

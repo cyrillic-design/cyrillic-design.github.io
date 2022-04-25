@@ -1,5 +1,28 @@
 [
   {
+    "id": 1060,
+    "title": "Civilians",
+    "caption": "Civilians\nhttps://civilians.space\n\n#спецпроект #сообщество #readymag",
+    "image": "data/images/1060.jpg",
+    "tags": [
+      "спецпроект",
+      "сообщество",
+      "readymag"
+    ],
+    "url": "https://civilians.space",
+    "date": 1650914442,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "soobshchestvo",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 1056,
     "title": "taktika",
     "caption": "taktika\nhttps://taktika.agency\n\n#портфолио #агентство #readymag\nСпасибо за ссылку @readymag_official",
@@ -463,27 +486,6 @@
     "slugs": [
       "portfolio",
       "uslugi",
-      "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 992,
-    "title": "Кукушка",
-    "caption": "Кукушка\nhttps://coocooschool.ru/\n\n#образование #readymag\nСпасибо за ссылку @tim_or_timofey",
-    "image": "data/images/992.jpg",
-    "tags": [
-      "образование",
-      "readymag"
-    ],
-    "url": "https://coocooschool.ru/",
-    "date": 1631536201,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
       "readymag"
     ],
     "awards": []
