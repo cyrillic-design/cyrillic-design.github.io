@@ -1,5 +1,28 @@
 [
   {
+    "id": 1061,
+    "title": "Re-Mariupol",
+    "caption": "Re-Mariupol\nhttps://re-mariupol.com\n\n#город #сергійродіонов #readymag",
+    "image": "data/images/1061.jpg",
+    "tags": [
+      "город",
+      "сергійродіонов",
+      "readymag"
+    ],
+    "url": "https://re-mariupol.com",
+    "date": 1651083085,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "gorod",
+      "sergіirodіonov",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 1060,
     "title": "Civilians",
     "caption": "Civilians\nhttps://civilians.space\n\n#спецпроект #благотворительность #сообщество #readymag",
@@ -466,30 +489,6 @@
       "spetsproekt",
       "readymag",
       "pavelkedich"
-    ],
-    "awards": []
-  },
-  {
-    "id": 993,
-    "title": "Charmer Design Unit",
-    "caption": "Charmer Design Unit\nhttps://russian.charmer.design/\n\n#портфолио #услуги #readymag\nСпасибо за ссылку @masterlobster",
-    "image": "data/images/993.jpg",
-    "tags": [
-      "портфолио",
-      "услуги",
-      "readymag"
-    ],
-    "url": "https://russian.charmer.design/",
-    "date": 1631562073,
-    "edit_date": 1631562247,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio",
-      "uslugi",
-      "readymag"
     ],
     "awards": []
   }

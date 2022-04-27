@@ -1,5 +1,29 @@
 [
   {
+    "id": 998,
+    "title": "Хроника Музея современного искусства «Гараж»",
+    "caption": "Хроника Музея современного искусства «Гараж»\nhttps://chronicle.garagemca.org/\n\n#спецпроект #история #павелкедич",
+    "image": "data/images/998.jpg",
+    "tags": [
+      "спецпроект",
+      "история",
+      "павелкедич"
+    ],
+    "url": "https://chronicle.garagemca.org/",
+    "date": 1631973323,
+    "edit_date": 1631973397,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "istoriya",
+      "pavelkedich"
+    ],
+    "awards": []
+  },
+  {
     "id": 997,
     "title": "М-464: нераспознаваемая индивидуальность",
     "caption": "М-464: нераспознаваемая индивидуальность\nhttps://m464.leta.today/\n\n#спецпроект #readymag #павелкедич\nСпасибо за ссылку @readymag_official",
@@ -449,27 +473,6 @@
       "obrazovanie",
       "readymag",
       "rassvetdigital"
-    ],
-    "awards": []
-  },
-  {
-    "id": 975,
-    "title": "Цикада",
-    "caption": "Цикада\nhttps://cicadaprize.com/\n\n#мероприятие #readymag\nСпасибо за ссылку @readymag_official",
-    "image": "data/images/975.jpg",
-    "tags": [
-      "мероприятие",
-      "readymag"
-    ],
-    "url": "https://cicadaprize.com/",
-    "date": 1626955208,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "meropriyatie",
-      "readymag"
     ],
     "awards": []
   }
