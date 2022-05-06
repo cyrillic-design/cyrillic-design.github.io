@@ -1,5 +1,30 @@
 [
   {
+    "id": 1020,
+    "title": "Тру",
+    "caption": "Тру\nhttps://trueducation.ru/\n\n#hr #образование #услуги #tilda",
+    "image": "data/images/1020.jpg",
+    "tags": [
+      "hr",
+      "образование",
+      "услуги",
+      "tilda"
+    ],
+    "url": "https://trueducation.ru/",
+    "date": 1637931640,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "hr",
+      "obrazovanie",
+      "uslugi",
+      "tilda"
+    ],
+    "awards": []
+  },
+  {
     "id": 1019,
     "title": "Конкурс на разработку стикерпака OneTwoTrip",
     "caption": "Конкурс на разработку стикерпака OneTwoTrip\nhttps://events.skillbox.ru/travelstickerpack\n\n#промо #конкурс #tilda #skillbox",
@@ -439,34 +464,6 @@
       "meropriyatie",
       "tilda",
       "dmitriiopalev"
-    ],
-    "awards": []
-  },
-  {
-    "id": 999,
-    "title": "Фонд А.Козлова",
-    "caption": "Фонд А.Козлова\nhttps://www.kozlov.fund/\n\n#благотворительность #фонд #музыка #webflow #methodzero\nСпасибо за ссылку @boris_zagor",
-    "image": "data/images/999.jpg",
-    "tags": [
-      "благотворительность",
-      "фонд",
-      "музыка",
-      "webflow",
-      "methodzero"
-    ],
-    "url": "https://www.kozlov.fund/",
-    "date": 1632141956,
-    "edit_date": 1632142023,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "blagotvoritelnost",
-      "fond",
-      "muzika",
-      "webflow",
-      "methodzero"
     ],
     "awards": []
   }

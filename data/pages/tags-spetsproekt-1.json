@@ -1,5 +1,30 @@
 [
   {
+    "id": 1062,
+    "title": "Страдающего Средневековья",
+    "caption": "Страдающего Средневековья\nhttps://sufferingmedieval.ru\n\n#спецпроект #музей #readymag #nonobjectiveworks\nСпасибо за ссылку @readymag_official",
+    "image": "data/images/1062.jpg",
+    "tags": [
+      "спецпроект",
+      "музей",
+      "readymag",
+      "nonobjectiveworks"
+    ],
+    "url": "https://sufferingmedieval.ru",
+    "date": 1651833947,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "muzei",
+      "readymag",
+      "nonobjectiveworks"
+    ],
+    "awards": []
+  },
+  {
     "id": 1060,
     "title": "Civilians",
     "caption": "Civilians\nhttps://civilians.space\n\n#спецпроект #благотворительность #сообщество #readymag",
@@ -473,29 +498,6 @@
       "spetsproekt",
       "istoriya",
       "kristinabutirina"
-    ],
-    "awards": []
-  },
-  {
-    "id": 951,
-    "title": "Antarctica",
-    "caption": "Antarctica\nhttps://antarctica.sloi.clothing/\n\n#спецпроект #магазин #readymag",
-    "image": "data/images/951.jpg",
-    "tags": [
-      "спецпроект",
-      "магазин",
-      "readymag"
-    ],
-    "url": "https://antarctica.sloi.clothing/",
-    "date": 1622833569,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "magazin",
-      "readymag"
     ],
     "awards": []
   }

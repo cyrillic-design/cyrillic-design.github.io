@@ -1,5 +1,28 @@
 [
   {
+    "id": 514,
+    "title": "Letapis by",
+    "image": "data/images/514.jpg",
+    "tags": [
+      "культура",
+      "спецпроект",
+      "беларусь",
+      "алексейчеренкевич"
+    ],
+    "url": "http://letapis.by/",
+    "date": 1558605608,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "kultura",
+      "spetsproekt",
+      "belarus",
+      "alekseicherenkevich"
+    ],
+    "awards": []
+  },
+  {
     "id": 505,
     "title": "Карамзин Онлайн",
     "image": "data/images/505.jpg",
@@ -394,25 +417,6 @@
       "kultura",
       "lyudi",
       "sberbank"
-    ],
-    "awards": []
-  },
-  {
-    "id": 337,
-    "title": "Я вышел ростом и лицом",
-    "image": "data/images/337.jpg",
-    "tags": [
-      "спецпроект",
-      "lentaru"
-    ],
-    "url": "http://vysotsky.lenta.ru/",
-    "date": 1540720809,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "lentaru"
     ],
     "awards": []
   }

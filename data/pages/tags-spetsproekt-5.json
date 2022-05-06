@@ -1,5 +1,24 @@
 [
   {
+    "id": 634,
+    "title": "Signal Future Insights",
+    "image": "data/images/634.jpg",
+    "tags": [
+      "спецпроект",
+      "ony"
+    ],
+    "url": "https://signal-fi.ony.ru/",
+    "date": 1575194465,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "ony"
+    ],
+    "awards": []
+  },
+  {
     "id": 624,
     "title": "Правила удобного дорожного движения",
     "image": "data/images/624.jpg",
@@ -388,29 +407,6 @@
     "isRemoved": false,
     "slugs": [
       "spetsproekt"
-    ],
-    "awards": []
-  },
-  {
-    "id": 514,
-    "title": "Letapis by",
-    "image": "data/images/514.jpg",
-    "tags": [
-      "культура",
-      "спецпроект",
-      "беларусь",
-      "алексейчеренкевич"
-    ],
-    "url": "http://letapis.by/",
-    "date": 1558605608,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "kultura",
-      "spetsproekt",
-      "belarus",
-      "alekseicherenkevich"
     ],
     "awards": []
   }
