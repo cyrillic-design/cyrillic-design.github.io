@@ -1,5 +1,22 @@
 [
   {
+    "id": 596,
+    "title": "GaidLine",
+    "image": "data/images/596.jpg",
+    "tags": [
+      "журнал"
+    ],
+    "url": "http://justice.gaidline.media/",
+    "date": 1569943902,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal"
+    ],
+    "awards": []
+  },
+  {
     "id": 589,
     "title": "Экспертный журнал о красоте",
     "image": "data/images/589.jpg",
@@ -373,27 +390,6 @@
     "slugs": [
       "zhurnal",
       "moda"
-    ],
-    "awards": []
-  },
-  {
-    "id": 201,
-    "title": "Афиша Daily",
-    "image": "data/images/201.jpg",
-    "tags": [
-      "журнал",
-      "новости",
-      "люди"
-    ],
-    "url": "https://daily.afisha.ru/",
-    "date": 1528538418,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "zhurnal",
-      "novosti",
-      "lyudi"
     ],
     "awards": []
   }

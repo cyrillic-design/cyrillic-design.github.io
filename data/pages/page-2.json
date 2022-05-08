@@ -1,5 +1,34 @@
 [
   {
+    "id": 1042,
+    "title": "Теория художественных пространств В.А. Фаворского и П.А. Флоренского",
+    "caption": "Теория художественных пространств В.А. Фаворского и П.А. Флоренского\nhttps://favorsky-florensky.tilda.ws\n\n#спецпроект #история #искусство #культура #tilda #анямельник\nСпасибо за ссылку @villyfok",
+    "image": "data/images/1042.jpg",
+    "tags": [
+      "спецпроект",
+      "история",
+      "искусство",
+      "культура",
+      "tilda",
+      "анямельник"
+    ],
+    "url": "https://favorsky-florensky.tilda.ws",
+    "date": 1643468477,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "istoriya",
+      "iskusstvo",
+      "kultura",
+      "tilda",
+      "anyamelnik"
+    ],
+    "awards": []
+  },
+  {
     "id": 1041,
     "title": "Музей современного искусства «Гараж»",
     "caption": "Музей современного искусства «Гараж»\nhttps://garagemca.org/ru\n\n#музей #афиша #update #perushevandkhmelev #charmer\nСпасибо за ссылку @gorokhovatsky",
@@ -473,29 +502,6 @@
       "bank",
       "finansi",
       "spetsproekt"
-    ],
-    "awards": []
-  },
-  {
-    "id": 1021,
-    "title": "Disexual",
-    "caption": "Disexual\nhttps://readymag.com/hsedesign/digitalsexuality/\n\n#спецпроект #исследование #readymag 18+\nСпасибо за ссылку @lilyakhmetova",
-    "image": "data/images/1021.jpg",
-    "tags": [
-      "спецпроект",
-      "исследование",
-      "readymag"
-    ],
-    "url": "https://readymag.com/hsedesign/digitalsexuality/",
-    "date": 1638178126,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "issledovanie",
-      "readymag"
     ],
     "awards": []
   }
