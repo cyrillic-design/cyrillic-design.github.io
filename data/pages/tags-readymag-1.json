@@ -1,5 +1,28 @@
 [
   {
+    "id": 1064,
+    "title": "Кухня на районе",
+    "caption": "Кухня на районе\nhttps://logo.localkitchen.ru/\n\n#дизайн #брендинг #readymag\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/1064.jpg",
+    "tags": [
+      "дизайн",
+      "брендинг",
+      "readymag"
+    ],
+    "url": "https://logo.localkitchen.ru/",
+    "date": 1653338567,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "dizain",
+      "brending",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 1062,
     "title": "Страдающего Средневековья",
     "caption": "Страдающего Средневековья\nhttps://sufferingmedieval.ru\n\n#спецпроект #музей #readymag #nonobjectiveworks\nСпасибо за ссылку @readymag_official",
@@ -467,29 +490,6 @@
       "festival",
       "kino",
       "promo",
-      "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 1003,
-    "title": "Schooll",
-    "caption": "Schooll\nhttps://schooll.com.ua\n\n#образование #мероприятие #readymag\nСпасибо за ссылку @readymag_official",
-    "image": "data/images/1003.jpg",
-    "tags": [
-      "образование",
-      "мероприятие",
-      "readymag"
-    ],
-    "url": "https://schooll.com.ua",
-    "date": 1633940032,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "meropriyatie",
       "readymag"
     ],
     "awards": []

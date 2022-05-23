@@ -1,5 +1,28 @@
 [
   {
+    "id": 1064,
+    "title": "Кухня на районе",
+    "caption": "Кухня на районе\nhttps://logo.localkitchen.ru/\n\n#дизайн #брендинг #readymag\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/1064.jpg",
+    "tags": [
+      "дизайн",
+      "брендинг",
+      "readymag"
+    ],
+    "url": "https://logo.localkitchen.ru/",
+    "date": 1653338567,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "dizain",
+      "brending",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 1044,
     "title": "Method Zero | Special Sale",
     "caption": "Method Zero | Special Sale\nhttps://lite.methodzero.io\n\n#промо #услуги #дизайн #webflow #methodzero\nСпасибо за ссылку @elena_dicycle",
@@ -425,27 +448,6 @@
       "studiya",
       "dizain",
       "portfolio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 229,
-    "title": "100 лет дизайна",
-    "image": "data/images/229.jpg",
-    "tags": [
-      "образование",
-      "дизайн",
-      "bangbangeducation"
-    ],
-    "url": "https://bangbangeducation.ru/100",
-    "date": 1530957621,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "dizain",
-      "bangbangeducation"
     ],
     "awards": []
   }

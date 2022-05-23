@@ -14615,5 +14615,22 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "1064": {
+    "id": 1064,
+    "title": "Кухня на районе",
+    "caption": "Кухня на районе\nhttps://logo.localkitchen.ru/\n\n#дизайн #брендинг #readymag\nСпасибо за ссылку @AndyAbramov",
+    "image": "1064.jpg",
+    "tags": [
+      "дизайн",
+      "брендинг",
+      "readymag"
+    ],
+    "url": "https://logo.localkitchen.ru/",
+    "date": 1653338567,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

@@ -1,5 +1,30 @@
 [
   {
+    "id": 932,
+    "title": "West Coast vs East Coast",
+    "caption": "West Coast vs East Coast\nhttps://readymag.com/raznorabochee/moog-vs-buchla/\n\n#спецпроект #история #музыка #readymag\nСпасибо за ссылку @readymag_official",
+    "image": "data/images/932.jpg",
+    "tags": [
+      "спецпроект",
+      "история",
+      "музыка",
+      "readymag"
+    ],
+    "url": "https://readymag.com/raznorabochee/moog-vs-buchla/",
+    "date": 1620727269,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "istoriya",
+      "muzika",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 930,
     "title": "Breadhead",
     "caption": "Breadhead\nhttps://breadhead.ru/\n\n#портфолио #readymag\nСпасибо за ссылку @Dimazhuravlev",
@@ -455,29 +480,6 @@
       "nonobjectiveworks",
       "artemmatyushkin",
       "timofeilebedev"
-    ],
-    "awards": []
-  },
-  {
-    "id": 882,
-    "title": "Black Sea Coast Mutation — KULTRAB",
-    "caption": "Black Sea Coast Mutation — KULTRAB\nhttps://blackseacoastmutation.kultrab.com/\n\n#спецпроект #readymag #таняегошина",
-    "image": "data/images/882.jpg",
-    "tags": [
-      "спецпроект",
-      "readymag",
-      "таняегошина"
-    ],
-    "url": "https://blackseacoastmutation.kultrab.com/",
-    "date": 1611575570,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "readymag",
-      "tanyaegoshina"
     ],
     "awards": []
   }

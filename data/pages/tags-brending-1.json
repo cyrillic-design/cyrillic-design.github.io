@@ -1,5 +1,28 @@
 [
   {
+    "id": 1064,
+    "title": "Кухня на районе",
+    "caption": "Кухня на районе\nhttps://logo.localkitchen.ru/\n\n#дизайн #брендинг #readymag\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/1064.jpg",
+    "tags": [
+      "дизайн",
+      "брендинг",
+      "readymag"
+    ],
+    "url": "https://logo.localkitchen.ru/",
+    "date": 1653338567,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "dizain",
+      "brending",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 957,
     "title": "Навигационный и информационный шрифт Ижевска IZH 260 A/T",
     "caption": "Навигационный и информационный шрифт Ижевска IZH 260 A/T\nhttp://izh.design/\n\n#город #брендинг #tilda #paratype",
