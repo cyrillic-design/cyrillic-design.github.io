@@ -29,9 +29,10 @@
   {
     "id": 957,
     "title": "Навигационный и информационный шрифт Ижевска IZH 260 A/T",
-    "caption": "Навигационный и информационный шрифт Ижевска IZH 260 A/T\nhttp://izh.design/\n\n#город #брендинг #tilda #paratype",
+    "caption": "Навигационный и информационный шрифт Ижевска IZH 260 A/T\nhttp://izh.design/\n\n#шрифт #город #брендинг #tilda #paratype",
     "image": "data/images/957.jpg",
     "tags": [
+      "шрифт",
       "город",
       "брендинг",
       "tilda",
@@ -39,11 +40,13 @@
     ],
     "url": "http://izh.design/",
     "date": 1623602924,
+    "edit_date": 1653375136,
     "isMonth": false,
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
+      "shrift",
       "gorod",
       "brending",
       "tilda",
