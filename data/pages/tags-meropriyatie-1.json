@@ -1,5 +1,28 @@
 [
   {
+    "id": 1065,
+    "title": "Воробушки",
+    "caption": "Воробушки\nhttps://vrbshki.com\n\n#мероприятие #образование #readymag",
+    "image": "data/images/1065.jpg",
+    "tags": [
+      "мероприятие",
+      "образование",
+      "readymag"
+    ],
+    "url": "https://vrbshki.com",
+    "date": 1653510275,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "obrazovanie",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 1055,
     "title": "Воробушки",
     "caption": "Воробушки\nhttps://vrbshki.com\n\n#мероприятие #образование #readymag\nСпасибо за ссылку @ohmyinterface",
@@ -463,34 +486,6 @@
       "iskusstvo",
       "meropriyatie",
       "kultura"
-    ],
-    "awards": []
-  },
-  {
-    "id": 866,
-    "title": "Lubimovka Festival",
-    "caption": "Lubimovka Festival\nhttps://new.lubimovka.ru/\n\n#мероприятие #брендинг #помощь #readymag #shishki",
-    "image": "data/images/866.jpg",
-    "tags": [
-      "мероприятие",
-      "брендинг",
-      "помощь",
-      "readymag",
-      "shishki"
-    ],
-    "url": "https://new.lubimovka.ru/",
-    "date": 1608890407,
-    "edit_date": 1608894017,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "meropriyatie",
-      "brending",
-      "pomoshch",
-      "readymag",
-      "shishki"
     ],
     "awards": []
   }

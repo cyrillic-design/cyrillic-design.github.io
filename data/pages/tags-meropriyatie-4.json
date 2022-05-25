@@ -1,5 +1,24 @@
 [
   {
+    "id": 502,
+    "title": "Летняя стажировка для дизайнеров в Яндекс.Маркете",
+    "image": "data/images/502.jpg",
+    "tags": [
+      "мероприятие",
+      "яндекс"
+    ],
+    "url": "http://designsummer.ru/",
+    "date": 1556654536,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "yandeks"
+    ],
+    "awards": []
+  },
+  {
     "id": 481,
     "title": "Pluton",
     "caption": "Pluton\nhttps://pluton.moscow/\n\n#музыка #мероприятие",

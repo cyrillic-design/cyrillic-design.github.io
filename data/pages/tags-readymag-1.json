@@ -1,5 +1,28 @@
 [
   {
+    "id": 1065,
+    "title": "Воробушки",
+    "caption": "Воробушки\nhttps://vrbshki.com\n\n#мероприятие #образование #readymag",
+    "image": "data/images/1065.jpg",
+    "tags": [
+      "мероприятие",
+      "образование",
+      "readymag"
+    ],
+    "url": "https://vrbshki.com",
+    "date": 1653510275,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "obrazovanie",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 1064,
     "title": "Кухня на районе",
     "caption": "Кухня на районе\nhttps://logo.localkitchen.ru/\n\n#дизайн #брендинг #readymag\nСпасибо за ссылку @AndyAbramov",
@@ -465,31 +488,6 @@
       "fond",
       "kultura",
       "spetsproekt",
-      "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 1006,
-    "title": "Фестиваль American Autumn",
-    "caption": "Фестиваль American Autumn\nhttps://aafest.ru\n\n#фестиваль #кино #промо #readymag\nСпасибо за ссылку @readymag_official",
-    "image": "data/images/1006.jpg",
-    "tags": [
-      "фестиваль",
-      "кино",
-      "промо",
-      "readymag"
-    ],
-    "url": "https://aafest.ru",
-    "date": 1634212844,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "festival",
-      "kino",
-      "promo",
       "readymag"
     ],
     "awards": []

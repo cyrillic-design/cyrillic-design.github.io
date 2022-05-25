@@ -1,5 +1,28 @@
 [
   {
+    "id": 1065,
+    "title": "Воробушки",
+    "caption": "Воробушки\nhttps://vrbshki.com\n\n#мероприятие #образование #readymag",
+    "image": "data/images/1065.jpg",
+    "tags": [
+      "мероприятие",
+      "образование",
+      "readymag"
+    ],
+    "url": "https://vrbshki.com",
+    "date": 1653510275,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "obrazovanie",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 1064,
     "title": "Кухня на районе",
     "caption": "Кухня на районе\nhttps://logo.localkitchen.ru/\n\n#дизайн #брендинг #readymag\nСпасибо за ссылку @AndyAbramov",
@@ -441,34 +464,6 @@
       "proizvodstvo",
       "portfolio",
       "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 1044,
-    "title": "Method Zero | Special Sale",
-    "caption": "Method Zero | Special Sale\nhttps://lite.methodzero.io\n\n#промо #услуги #дизайн #webflow #methodzero\nСпасибо за ссылку @elena_dicycle",
-    "image": "data/images/1044.jpg",
-    "tags": [
-      "промо",
-      "услуги",
-      "дизайн",
-      "webflow",
-      "methodzero"
-    ],
-    "url": "https://lite.methodzero.io",
-    "date": 1643731847,
-    "edit_date": 1643823620,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "uslugi",
-      "dizain",
-      "webflow",
-      "methodzero"
     ],
     "awards": []
   }
