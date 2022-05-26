@@ -2,21 +2,23 @@
   {
     "id": 1065,
     "title": "Воробушки",
-    "caption": "Воробушки\nhttps://vrbshki.com\n\n#мероприятие #образование #readymag\nСпасибо за ссылку @vrbshki",
+    "caption": "Воробушки\nhttps://vrbshki.com\n\n#дизайн #мероприятие #образование #readymag\nСпасибо за ссылку @vrbshki",
     "image": "data/images/1065.jpg",
     "tags": [
+      "дизайн",
       "мероприятие",
       "образование",
       "readymag"
     ],
     "url": "https://vrbshki.com",
     "date": 1653510275,
-    "edit_date": 1653510453,
+    "edit_date": 1653590425,
     "isMonth": false,
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false,
     "slugs": [
+      "dizain",
       "meropriyatie",
       "obrazovanie",
       "readymag"
