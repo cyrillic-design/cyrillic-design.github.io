@@ -1,5 +1,34 @@
 [
   {
+    "id": 959,
+    "title": "Про Егорьевск",
+    "caption": "Про Егорьевск\nhttps://proegoryevsk.ru/\n\n#музей #город #история #спецпроект #tilda #naaustudio\nСпасибо за ссылку @leoleonov",
+    "image": "data/images/959.jpg",
+    "tags": [
+      "музей",
+      "город",
+      "история",
+      "спецпроект",
+      "tilda",
+      "naaustudio"
+    ],
+    "url": "https://proegoryevsk.ru/",
+    "date": 1623869301,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "muzei",
+      "gorod",
+      "istoriya",
+      "spetsproekt",
+      "tilda",
+      "naaustudio"
+    ],
+    "awards": []
+  },
+  {
     "id": 958,
     "title": "Simucube 2",
     "caption": "Simucube 2\nhttps://dudarevmotorsport.ru/simucube/\n\n#промо #webflow #methodzero\nСпасибо за ссылку @boris_zagor",
@@ -427,31 +456,6 @@
       "istoriya",
       "muzei",
       "redis"
-    ],
-    "awards": []
-  },
-  {
-    "id": 932,
-    "title": "West Coast vs East Coast",
-    "caption": "West Coast vs East Coast\nhttps://readymag.com/raznorabochee/moog-vs-buchla/\n\n#спецпроект #история #музыка #readymag\nСпасибо за ссылку @readymag_official",
-    "image": "data/images/932.jpg",
-    "tags": [
-      "спецпроект",
-      "история",
-      "музыка",
-      "readymag"
-    ],
-    "url": "https://readymag.com/raznorabochee/moog-vs-buchla/",
-    "date": 1620727269,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "istoriya",
-      "muzika",
-      "readymag"
     ],
     "awards": []
   }

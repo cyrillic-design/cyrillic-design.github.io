@@ -1,5 +1,26 @@
 [
   {
+    "id": 1067,
+    "title": "Agami Ceramics",
+    "caption": "Agami Ceramics\nhttps://agami.moscow\n\n#магазин #производство\nСпасибо за ссылку @masterlobster",
+    "image": "data/images/1067.jpg",
+    "tags": [
+      "магазин",
+      "производство"
+    ],
+    "url": "https://agami.moscow",
+    "date": 1654090563,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "proizvodstvo"
+    ],
+    "awards": []
+  },
+  {
     "id": 1048,
     "title": "Gregori",
     "caption": "Gregori\nhttps://italian-food.ru\n\n#магазин #доставка\nСпасибо за ссылку @vsevolodseregin",
@@ -433,31 +454,6 @@
       "magazin",
       "dostavka",
       "tilda"
-    ],
-    "awards": []
-  },
-  {
-    "id": 779,
-    "title": "Spilne",
-    "caption": "Spilne\nhttps://spilne.art/\n\n#магазин #искусство #tilda #avamyara",
-    "image": "data/images/779.jpg",
-    "tags": [
-      "магазин",
-      "искусство",
-      "tilda",
-      "avamyara"
-    ],
-    "url": "https://spilne.art/",
-    "date": 1601200805,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "iskusstvo",
-      "tilda",
-      "avamyara"
     ],
     "awards": []
   }

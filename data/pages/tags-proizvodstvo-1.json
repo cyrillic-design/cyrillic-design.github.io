@@ -1,5 +1,26 @@
 [
   {
+    "id": 1067,
+    "title": "Agami Ceramics",
+    "caption": "Agami Ceramics\nhttps://agami.moscow\n\n#магазин #производство\nСпасибо за ссылку @masterlobster",
+    "image": "data/images/1067.jpg",
+    "tags": [
+      "магазин",
+      "производство"
+    ],
+    "url": "https://agami.moscow",
+    "date": 1654090563,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "proizvodstvo"
+    ],
+    "awards": []
+  },
+  {
     "id": 1045,
     "title": "Stameska",
     "caption": "Stameska\nhttps://stameskastudio.com\n\n#производство #портфолио #readymag\nСпасибо за ссылку @readymag_official",
@@ -419,27 +440,6 @@
     "slugs": [
       "proizvodstvo",
       "levelup"
-    ],
-    "awards": []
-  },
-  {
-    "id": 527,
-    "title": "Российский экологический оператор",
-    "image": "data/images/527.jpg",
-    "tags": [
-      "производство",
-      "промо",
-      "сервис"
-    ],
-    "url": "https://reo.ru/",
-    "date": 1559815232,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "proizvodstvo",
-      "promo",
-      "servis"
     ],
     "awards": []
   }

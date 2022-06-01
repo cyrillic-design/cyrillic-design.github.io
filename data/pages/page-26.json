@@ -1,5 +1,24 @@
 [
   {
+    "id": 517,
+    "title": "Vision Lighting",
+    "image": "data/images/517.jpg",
+    "tags": [
+      "производство",
+      "магазин"
+    ],
+    "url": "https://visionlighting.ua/",
+    "date": 1558864809,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "magazin"
+    ],
+    "awards": []
+  },
+  {
     "id": 516,
     "title": "Любава",
     "image": "data/images/516.jpg",
@@ -380,25 +399,6 @@
     "slugs": [
       "nedvizhimost",
       "promo"
-    ],
-    "awards": []
-  },
-  {
-    "id": 495,
-    "title": "ZIMA Magazine",
-    "image": "data/images/495.jpg",
-    "tags": [
-      "издание",
-      "wednesday"
-    ],
-    "url": "https://zimamagazine.com/",
-    "date": 1554976849,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "izdanie",
-      "wednesday"
     ],
     "awards": []
   }

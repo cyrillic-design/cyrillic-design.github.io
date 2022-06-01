@@ -14671,5 +14671,21 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "1067": {
+    "id": 1067,
+    "title": "Agami Ceramics",
+    "caption": "Agami Ceramics\nhttps://agami.moscow\n\n#магазин #производство\nСпасибо за ссылку @masterlobster",
+    "image": "1067.jpg",
+    "tags": [
+      "магазин",
+      "производство"
+    ],
+    "url": "https://agami.moscow",
+    "date": 1654090563,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
