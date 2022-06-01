@@ -1,5 +1,30 @@
 [
   {
+    "id": 1066,
+    "title": "Supermatch",
+    "caption": "Supermatch\nhttps://www.supermatch.school\n\n#образование #дизайн #webflow #pragmatica\nСпасибо за ссылку @pragmatica_s",
+    "image": "data/images/1066.jpg",
+    "tags": [
+      "образование",
+      "дизайн",
+      "webflow",
+      "pragmatica"
+    ],
+    "url": "https://www.supermatch.school",
+    "date": 1654089143,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "dizain",
+      "webflow",
+      "pragmatica"
+    ],
+    "awards": []
+  },
+  {
     "id": 1050,
     "title": "Паттерны дизайн-менеджмента",
     "caption": "Паттерны дизайн-менеджмента\nhttps://www.dmpatterns.com\n\n#образование #мероприятие #webflow #pragmatica #николайиванов",
