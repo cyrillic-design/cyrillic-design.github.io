@@ -14687,5 +14687,23 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "1068": {
+    "id": 1068,
+    "title": "Хайер",
+    "caption": "Хайер\nhttps://haierapp.ru\n\n#сервис #приложение #образование #мероприятие\nСпасибо за ссылку @winkeyless",
+    "image": "1068.jpg",
+    "tags": [
+      "сервис",
+      "приложение",
+      "образование",
+      "мероприятие"
+    ],
+    "url": "https://haierapp.ru",
+    "date": 1654337130,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

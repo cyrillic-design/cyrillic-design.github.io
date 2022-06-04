@@ -1,5 +1,28 @@
 [
   {
+    "id": 529,
+    "title": "Sloy",
+    "image": "data/images/529.jpg",
+    "tags": [
+      "приложение",
+      "промо",
+      "мода",
+      "заглушка"
+    ],
+    "url": "https://sloy.com/",
+    "date": 1560260683,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "prilozhenie",
+      "promo",
+      "moda",
+      "zaglushka"
+    ],
+    "awards": []
+  },
+  {
     "id": 509,
     "title": "АБУК",
     "image": "data/images/509.jpg",

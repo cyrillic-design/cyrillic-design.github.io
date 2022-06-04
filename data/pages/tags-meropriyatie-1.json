@@ -1,5 +1,30 @@
 [
   {
+    "id": 1068,
+    "title": "Хайер",
+    "caption": "Хайер\nhttps://haierapp.ru\n\n#сервис #приложение #образование #мероприятие\nСпасибо за ссылку @winkeyless",
+    "image": "data/images/1068.jpg",
+    "tags": [
+      "сервис",
+      "приложение",
+      "образование",
+      "мероприятие"
+    ],
+    "url": "https://haierapp.ru",
+    "date": 1654337130,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "prilozhenie",
+      "obrazovanie",
+      "meropriyatie"
+    ],
+    "awards": []
+  },
+  {
     "id": 1065,
     "title": "Воробушки",
     "caption": "Воробушки\nhttps://vrbshki.com\n\n#дизайн #мероприятие #образование #readymag\nСпасибо за ссылку @vrbshki",
@@ -466,29 +491,6 @@
       "iskusstvo",
       "materialist",
       "perushevandkhmelev"
-    ],
-    "awards": []
-  },
-  {
-    "id": 867,
-    "title": "Zuzeum",
-    "caption": "Zuzeum\nhttps://www.zuzeum.com/ru/\n\n#искусство #мероприятие #культура",
-    "image": "data/images/867.jpg",
-    "tags": [
-      "искусство",
-      "мероприятие",
-      "культура"
-    ],
-    "url": "https://www.zuzeum.com/ru/",
-    "date": 1608976806,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "iskusstvo",
-      "meropriyatie",
-      "kultura"
     ],
     "awards": []
   }

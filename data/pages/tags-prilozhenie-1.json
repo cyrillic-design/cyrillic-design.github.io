@@ -1,5 +1,30 @@
 [
   {
+    "id": 1068,
+    "title": "Хайер",
+    "caption": "Хайер\nhttps://haierapp.ru\n\n#сервис #приложение #образование #мероприятие\nСпасибо за ссылку @winkeyless",
+    "image": "data/images/1068.jpg",
+    "tags": [
+      "сервис",
+      "приложение",
+      "образование",
+      "мероприятие"
+    ],
+    "url": "https://haierapp.ru",
+    "date": 1654337130,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "prilozhenie",
+      "obrazovanie",
+      "meropriyatie"
+    ],
+    "awards": []
+  },
+  {
     "id": 1051,
     "title": "BetterMe",
     "caption": "BetterMe\nhttps://betterme.world/ua\n\n#сервис #приложение #здоровье #спорт",
@@ -441,29 +466,6 @@
       "servis",
       "zaglushka",
       "prilozhenie"
-    ],
-    "awards": []
-  },
-  {
-    "id": 529,
-    "title": "Sloy",
-    "image": "data/images/529.jpg",
-    "tags": [
-      "приложение",
-      "промо",
-      "мода",
-      "заглушка"
-    ],
-    "url": "https://sloy.com/",
-    "date": 1560260683,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "prilozhenie",
-      "promo",
-      "moda",
-      "zaglushka"
     ],
     "awards": []
   }

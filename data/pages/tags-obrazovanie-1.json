@@ -1,5 +1,30 @@
 [
   {
+    "id": 1068,
+    "title": "Хайер",
+    "caption": "Хайер\nhttps://haierapp.ru\n\n#сервис #приложение #образование #мероприятие\nСпасибо за ссылку @winkeyless",
+    "image": "data/images/1068.jpg",
+    "tags": [
+      "сервис",
+      "приложение",
+      "образование",
+      "мероприятие"
+    ],
+    "url": "https://haierapp.ru",
+    "date": 1654337130,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "prilozhenie",
+      "obrazovanie",
+      "meropriyatie"
+    ],
+    "awards": []
+  },
+  {
     "id": 1066,
     "title": "Supermatch",
     "caption": "Supermatch\nhttps://www.supermatch.school\n\n#образование #дизайн #webflow #pragmatica\nСпасибо за ссылку @pragmatica_s",
@@ -451,33 +476,6 @@
     "slugs": [
       "promo",
       "obrazovanie"
-    ],
-    "awards": []
-  },
-  {
-    "id": 903,
-    "title": "Соковыжималка Juicy Salif",
-    "caption": "Соковыжималка Juicy Salif \nhttps://juicysalif.com/\n\n#спецпроект #история #образование #readymag #pragmatica\nСпасибо за ссылку @katebainova",
-    "image": "data/images/903.jpg",
-    "tags": [
-      "спецпроект",
-      "история",
-      "образование",
-      "readymag",
-      "pragmatica"
-    ],
-    "url": "https://juicysalif.com/",
-    "date": 1617444037,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "istoriya",
-      "obrazovanie",
-      "readymag",
-      "pragmatica"
     ],
     "awards": []
   }

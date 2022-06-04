@@ -1,5 +1,22 @@
 [
   {
+    "id": 388,
+    "title": "InLiberty",
+    "image": "data/images/388.jpg",
+    "tags": [
+      "образование"
+    ],
+    "url": "https://www.inliberty.ru/",
+    "date": 1544781605,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie"
+    ],
+    "awards": []
+  },
+  {
     "id": 386,
     "title": "Карабинович",
     "image": "data/images/386.jpg",
@@ -381,27 +398,6 @@
       "krasota",
       "magazin",
       "loremipsumlab"
-    ],
-    "awards": []
-  },
-  {
-    "id": 365,
-    "title": "Международный аэропорт Шереметьево",
-    "image": "data/images/365.jpg",
-    "tags": [
-      "сервис",
-      "авиакомпания",
-      "beta"
-    ],
-    "url": "https://www.svo.aero/ru/main",
-    "date": 1543053616,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "aviakompaniya",
-      "beta"
     ],
     "awards": []
   }

@@ -1,5 +1,30 @@
 [
   {
+    "id": 1068,
+    "title": "Хайер",
+    "caption": "Хайер\nhttps://haierapp.ru\n\n#сервис #приложение #образование #мероприятие\nСпасибо за ссылку @winkeyless",
+    "image": "data/images/1068.jpg",
+    "tags": [
+      "сервис",
+      "приложение",
+      "образование",
+      "мероприятие"
+    ],
+    "url": "https://haierapp.ru",
+    "date": 1654337130,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "prilozhenie",
+      "obrazovanie",
+      "meropriyatie"
+    ],
+    "awards": []
+  },
+  {
     "id": 1051,
     "title": "BetterMe",
     "caption": "BetterMe\nhttps://betterme.world/ua\n\n#сервис #приложение #здоровье #спорт",
@@ -440,28 +465,6 @@
       "servis",
       "hr",
       "update"
-    ],
-    "awards": []
-  },
-  {
-    "id": 869,
-    "title": "Спектр формы",
-    "caption": "Спектр формы\nhttps://www.whyreka.com/spectrum\n\n#дизайн #сервис\nСпасибо за ссылку @DesignBoard",
-    "image": "data/images/869.jpg",
-    "tags": [
-      "дизайн",
-      "сервис"
-    ],
-    "url": "https://www.whyreka.com/spectrum",
-    "date": 1609149615,
-    "edit_date": 1610028503,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "dizain",
-      "servis"
     ],
     "awards": []
   }

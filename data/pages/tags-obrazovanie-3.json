@@ -1,5 +1,30 @@
 [
   {
+    "id": 785,
+    "title": "егэ-хаус",
+    "caption": "егэ-хаус\nhttp://egehouse.webium.ru/\n\n#мероприятие #образование #tilda #камчатка\nСпасибо за ссылку @kirilltarelkin",
+    "image": "data/images/785.jpg",
+    "tags": [
+      "мероприятие",
+      "образование",
+      "tilda",
+      "камчатка"
+    ],
+    "url": "http://egehouse.webium.ru/",
+    "date": 1602842406,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "obrazovanie",
+      "tilda",
+      "kamchatka"
+    ],
+    "awards": []
+  },
+  {
     "id": 776,
     "title": "yazdes art",
     "caption": "yazdes art\nhttps://yazdes.art/\n\n#мероприятие #образование #readymag #nonobjectiveworks",
@@ -451,25 +476,6 @@
       "obrazovanie",
       "meropriyatie",
       "tilda"
-    ],
-    "awards": []
-  },
-  {
-    "id": 650,
-    "title": "Лекторий Skillbox",
-    "image": "data/images/650.jpg",
-    "tags": [
-      "образование",
-      "мероприятие"
-    ],
-    "url": "https://events.skillbox.ru/designmeetup",
-    "date": 1577700014,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "meropriyatie"
     ],
     "awards": []
   }
