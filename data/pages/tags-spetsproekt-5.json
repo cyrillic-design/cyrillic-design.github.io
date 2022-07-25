@@ -1,5 +1,26 @@
 [
   {
+    "id": 636,
+    "title": "Шапша",
+    "image": "data/images/636.jpg",
+    "tags": [
+      "спецпроект",
+      "люди",
+      "кружок"
+    ],
+    "url": "https://shapsha.io/",
+    "date": 1575626449,
+    "edit_date": 1583183700,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "lyudi",
+      "kruzhok"
+    ],
+    "awards": []
+  },
+  {
     "id": 634,
     "title": "Signal Future Insights",
     "image": "data/images/634.jpg",
@@ -390,23 +411,6 @@
       "spetsproekt",
       "readymag",
       "aic"
-    ],
-    "awards": []
-  },
-  {
-    "id": 558,
-    "title": "Кружок — Музыка",
-    "image": "data/images/558.jpg",
-    "tags": [
-      "спецпроект"
-    ],
-    "url": "https://music.kruzhok.io",
-    "date": 1564135219,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt"
     ],
     "awards": []
   }

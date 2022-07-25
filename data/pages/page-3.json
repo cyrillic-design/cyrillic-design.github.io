@@ -1,5 +1,30 @@
 [
   {
+    "id": 1027,
+    "title": "Цмур. Подкаст проекта «Кружок»",
+    "caption": "Цмур. Подкаст проекта «Кружок»\nhttps://podcast.kruzhok.io\n\n#подкаст #спецпроект #образование #люди\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/1027.jpg",
+    "tags": [
+      "подкаст",
+      "спецпроект",
+      "образование",
+      "люди"
+    ],
+    "url": "https://podcast.kruzhok.io",
+    "date": 1638789142,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "podkast",
+      "spetsproekt",
+      "obrazovanie",
+      "lyudi"
+    ],
+    "awards": []
+  },
+  {
     "id": 1026,
     "title": "Тёмная сторона шрифта",
     "caption": "Тёмная сторона шрифта\nhttps://darkside.paratype.ru\n\n#образование #дизайн #readymag #paratype #мариякасаткина\nСпасибо за ссылку @typeschool",
@@ -447,29 +472,6 @@
     "isRemoved": false,
     "slugs": [
       "servis"
-    ],
-    "awards": []
-  },
-  {
-    "id": 1007,
-    "title": "World Chess - Official FIDE Gaming Platform",
-    "caption": "World Chess - Official FIDE Gaming Platform\nhttps://chessarena.com\n\n#игра #сервис #мероприятие",
-    "image": "data/images/1007.jpg",
-    "tags": [
-      "игра",
-      "сервис",
-      "мероприятие"
-    ],
-    "url": "https://chessarena.com",
-    "date": 1634453156,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "igra",
-      "servis",
-      "meropriyatie"
     ],
     "awards": []
   }

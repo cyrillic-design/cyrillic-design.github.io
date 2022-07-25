@@ -1,5 +1,26 @@
 [
   {
+    "id": 323,
+    "title": "The Orator Club",
+    "image": "data/images/323.jpg",
+    "tags": [
+      "update",
+      "образование",
+      "cherepukhin"
+    ],
+    "url": "https://orator.club/",
+    "date": 1539165606,
+    "edit_date": 1583185395,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "update",
+      "obrazovanie",
+      "cherepukhin"
+    ],
+    "awards": []
+  },
+  {
     "id": 322,
     "title": "OneSoil",
     "image": "data/images/322.jpg",
@@ -392,25 +413,6 @@
       "pamyat",
       "garage",
       "promo"
-    ],
-    "awards": []
-  },
-  {
-    "id": 303,
-    "title": "Wheely",
-    "image": "data/images/303.jpg",
-    "tags": [
-      "сервис",
-      "бизнес"
-    ],
-    "url": "https://wheely.com/ru",
-    "date": 1537264817,
-    "edit_date": 1583185436,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "biznes"
     ],
     "awards": []
   }

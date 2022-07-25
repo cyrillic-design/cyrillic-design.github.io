@@ -1,5 +1,24 @@
 [
   {
+    "id": 608,
+    "title": "Школа китайского языка Лаоши в Москве",
+    "image": "data/images/608.jpg",
+    "tags": [
+      "образование",
+      "numo"
+    ],
+    "url": "https://msk.laoshi.ru/",
+    "date": 1571479207,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "numo"
+    ],
+    "awards": []
+  },
+  {
     "id": 607,
     "title": "DW ERA",
     "image": "data/images/607.jpg",
@@ -361,25 +380,6 @@
       "magazin",
       "portfolio",
       "designworkout"
-    ],
-    "awards": []
-  },
-  {
-    "id": 586,
-    "title": "Без Меня Егору Летову — 55 лет",
-    "image": "data/images/586.jpg",
-    "tags": [
-      "спецпроект",
-      "медуза"
-    ],
-    "url": "https://meduza.io/specials/letov",
-    "date": 1568368834,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "meduza"
     ],
     "awards": []
   }
