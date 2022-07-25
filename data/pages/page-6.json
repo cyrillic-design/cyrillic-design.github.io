@@ -1,5 +1,30 @@
 [
   {
+    "id": 962,
+    "title": "Про OneSoil Business Insights",
+    "caption": "Про OneSoil Business Insights\nhttps://b2b.onesoil.ai/ru/\n\n#данные #бизнес #сервис #readymag",
+    "image": "data/images/962.jpg",
+    "tags": [
+      "данные",
+      "бизнес",
+      "сервис",
+      "readymag"
+    ],
+    "url": "https://b2b.onesoil.ai/ru/",
+    "date": 1624882114,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "dannie",
+      "biznes",
+      "servis",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 961,
     "title": "Yandex Scale",
     "caption": "Yandex Scale\nhttps://scale.yandex.ru/\n\n#мероприятие #бизнес #технологии #конференция #яндекс",
@@ -431,31 +456,6 @@
     "slugs": [
       "magazin",
       "adeptworks"
-    ],
-    "awards": []
-  },
-  {
-    "id": 941,
-    "title": "P.Y.E CLIPONS",
-    "caption": "P.Y.E CLIPONS\nhttps://clipons.pyeoptics.com/\n\n#магазин #промо #readymag #breadhead\nСпасибо за ссылку @readymag_official",
-    "image": "data/images/941.jpg",
-    "tags": [
-      "магазин",
-      "промо",
-      "readymag",
-      "breadhead"
-    ],
-    "url": "https://clipons.pyeoptics.com/",
-    "date": 1621332063,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "promo",
-      "readymag",
-      "breadhead"
     ],
     "awards": []
   }

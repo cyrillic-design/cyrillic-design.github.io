@@ -28,6 +28,28 @@
     "awards": []
   },
   {
+    "id": 1069,
+    "title": "Страдариум от Страдающего Средневековья",
+    "caption": "Страдариум от Страдающего Средневековья\nhttps://stradarium.ru\n\n#образование #tilda",
+    "image": "data/images/1069.jpg",
+    "tags": [
+      "образование",
+      "tilda"
+    ],
+    "url": "https://stradarium.ru",
+    "date": 1657036737,
+    "edit_date": 1658740145,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "tilda"
+    ],
+    "awards": []
+  },
+  {
     "id": 1068,
     "title": "Хайер",
     "caption": "Хайер\nhttps://haierapp.ru\n\n#сервис #приложение #образование #мероприятие\nСпасибо за ссылку @winkeyless",
@@ -457,29 +479,6 @@
       "webflow",
       "pragmatica",
       "nikolaiivanov"
-    ],
-    "awards": []
-  },
-  {
-    "id": 1049,
-    "title": "Дима Шалаев",
-    "caption": "Дима Шалаев\nhttp://dmitryshalaev.ru\n\n#портфолио #readymag #update",
-    "image": "data/images/1049.jpg",
-    "tags": [
-      "портфолио",
-      "readymag",
-      "update"
-    ],
-    "url": "http://dmitryshalaev.ru",
-    "date": 1644230179,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio",
-      "readymag",
-      "update"
     ],
     "awards": []
   }

@@ -1,5 +1,28 @@
 [
   {
+    "id": 617,
+    "title": "NETTO",
+    "image": "data/images/617.jpg",
+    "tags": [
+      "портфолио",
+      "спецпроект",
+      "the23",
+      "tilda"
+    ],
+    "url": "https://netto.the23.design/",
+    "date": 1572256855,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "spetsproekt",
+      "the23",
+      "tilda"
+    ],
+    "awards": []
+  },
+  {
     "id": 615,
     "title": "Weekend-курс актёрского мастерства",
     "image": "data/images/615.jpg",

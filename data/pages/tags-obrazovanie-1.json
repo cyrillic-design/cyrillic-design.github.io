@@ -1,5 +1,27 @@
 [
   {
+    "id": 1069,
+    "title": "Страдариум от Страдающего Средневековья",
+    "caption": "Страдариум от Страдающего Средневековья\nhttps://stradarium.ru\n\n#образование #tilda",
+    "image": "data/images/1069.jpg",
+    "tags": [
+      "образование",
+      "tilda"
+    ],
+    "url": "https://stradarium.ru",
+    "date": 1657036737,
+    "edit_date": 1658740145,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "tilda"
+    ],
+    "awards": []
+  },
+  {
     "id": 1068,
     "title": "Хайер",
     "caption": "Хайер\nhttps://haierapp.ru\n\n#сервис #приложение #образование #мероприятие\nСпасибо за ссылку @winkeyless",
@@ -455,27 +477,6 @@
       "biznes",
       "obrazovanie",
       "tilda"
-    ],
-    "awards": []
-  },
-  {
-    "id": 912,
-    "title": "Лепота",
-    "caption": "Лепота\nhttps://bangbangeducation.ru/movie/lepota\n\n#промо #образование\nСпасибо за ссылку @ivanedorn",
-    "image": "data/images/912.jpg",
-    "tags": [
-      "промо",
-      "образование"
-    ],
-    "url": "https://bangbangeducation.ru/movie/lepota",
-    "date": 1619597638,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "obrazovanie"
     ],
     "awards": []
   }

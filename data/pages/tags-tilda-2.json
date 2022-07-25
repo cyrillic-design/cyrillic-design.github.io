@@ -1,5 +1,28 @@
 [
   {
+    "id": 826,
+    "title": "MaeshAE",
+    "caption": "MaeshAE\nhttps://maesh.ru/\n\n#услуги #tilda #invibe",
+    "image": "data/images/826.jpg",
+    "tags": [
+      "услуги",
+      "tilda",
+      "invibe"
+    ],
+    "url": "https://maesh.ru/",
+    "date": 1606296219,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "uslugi",
+      "tilda",
+      "invibe"
+    ],
+    "awards": []
+  },
+  {
     "id": 820,
     "title": "LEVEL UP FORUM",
     "caption": "LEVEL UP FORUM\nhttps://levelup-forum.ru/\n\n#мероприятие #образование #tilda #никитаковров",
@@ -454,29 +477,6 @@
       "uslugi",
       "tilda",
       "personagency"
-    ],
-    "awards": []
-  },
-  {
-    "id": 617,
-    "title": "NETTO",
-    "image": "data/images/617.jpg",
-    "tags": [
-      "портфолио",
-      "спецпроект",
-      "the23",
-      "tilda"
-    ],
-    "url": "https://netto.the23.design/",
-    "date": 1572256855,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio",
-      "spetsproekt",
-      "the23",
-      "tilda"
     ],
     "awards": []
   }

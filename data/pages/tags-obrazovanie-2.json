@@ -1,5 +1,26 @@
 [
   {
+    "id": 912,
+    "title": "Лепота",
+    "caption": "Лепота\nhttps://bangbangeducation.ru/movie/lepota\n\n#промо #образование\nСпасибо за ссылку @ivanedorn",
+    "image": "data/images/912.jpg",
+    "tags": [
+      "промо",
+      "образование"
+    ],
+    "url": "https://bangbangeducation.ru/movie/lepota",
+    "date": 1619597638,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "obrazovanie"
+    ],
+    "awards": []
+  },
+  {
     "id": 903,
     "title": "Соковыжималка Juicy Salif",
     "caption": "Соковыжималка Juicy Salif \nhttps://juicysalif.com/\n\n#спецпроект #история #образование #readymag #pragmatica\nСпасибо за ссылку @katebainova",
@@ -425,33 +446,6 @@
       "spetsproekt",
       "obrazovanie",
       "kruzhok"
-    ],
-    "awards": []
-  },
-  {
-    "id": 789,
-    "title": "Как поёт искусственный интеллект",
-    "caption": "Как поёт искусственный интеллект\nhttps://readymag.com/marykobanenko/musicai/\n\n#спецпроект #музыка #образование #readymag #машакобаненко\nСпасибо за ссылку @marykobanenko",
-    "image": "data/images/789.jpg",
-    "tags": [
-      "спецпроект",
-      "музыка",
-      "образование",
-      "readymag",
-      "машакобаненко"
-    ],
-    "url": "https://readymag.com/marykobanenko/musicai/",
-    "date": 1603455413,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "muzika",
-      "obrazovanie",
-      "readymag",
-      "mashakobanenko"
     ],
     "awards": []
   }

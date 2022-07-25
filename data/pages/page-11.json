@@ -1,5 +1,28 @@
 [
   {
+    "id": 846,
+    "title": "Работа в компании Северсталь",
+    "caption": "Работа в компании Северсталь\nhttps://career.severstal.com/\n\n#производство #hr #artlebedev",
+    "image": "data/images/846.jpg",
+    "tags": [
+      "производство",
+      "hr",
+      "artlebedev"
+    ],
+    "url": "https://career.severstal.com/",
+    "date": 1607421607,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "hr",
+      "artlebedev"
+    ],
+    "awards": []
+  },
+  {
     "id": 845,
     "title": "Новгород грядущий",
     "caption": "Новгород грядущий\nhttp://specials.zapovednik.space/velikynovgorod/\n\n#спецпроект #история #культура #readymag #kandales",
@@ -422,31 +445,6 @@
       "igra",
       "muzei",
       "materialist"
-    ],
-    "awards": []
-  },
-  {
-    "id": 822,
-    "title": "Сохрани мою речь навсегда",
-    "caption": "Сохрани мою речь навсегда\nhttps://om130.ru/\n\n#спецпроект #культура #история #tuman\nСпасибо за ссылку @AndyAbramov",
-    "image": "data/images/822.jpg",
-    "tags": [
-      "спецпроект",
-      "культура",
-      "история",
-      "tuman"
-    ],
-    "url": "https://om130.ru/",
-    "date": 1605880424,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "kultura",
-      "istoriya",
-      "tuman"
     ],
     "awards": []
   }

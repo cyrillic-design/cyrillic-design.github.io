@@ -1,5 +1,24 @@
 [
   {
+    "id": 542,
+    "title": "Академия Яндекса",
+    "image": "data/images/542.jpg",
+    "tags": [
+      "образование",
+      "яндекс"
+    ],
+    "url": "https://academy.yandex.ru",
+    "date": 1561629646,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "yandeks"
+    ],
+    "awards": []
+  },
+  {
     "id": 541,
     "title": "Stride",
     "image": "data/images/541.jpg",
@@ -359,23 +378,6 @@
     "isRemoved": false,
     "slugs": [
       "meropriyatie"
-    ],
-    "awards": []
-  },
-  {
-    "id": 522,
-    "title": "Игорь Камышев",
-    "image": "data/images/522.jpg",
-    "tags": [
-      "портфолио"
-    ],
-    "url": "https://kamyshev.me/",
-    "date": 1559210416,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio"
     ],
     "awards": []
   }
