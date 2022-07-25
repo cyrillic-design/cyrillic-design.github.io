@@ -1,5 +1,26 @@
 [
   {
+    "id": 365,
+    "title": "Международный аэропорт Шереметьево",
+    "image": "data/images/365.jpg",
+    "tags": [
+      "сервис",
+      "авиакомпания",
+      "beta"
+    ],
+    "url": "https://www.svo.aero/ru/main",
+    "date": 1543053616,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "aviakompaniya",
+      "beta"
+    ],
+    "awards": []
+  },
+  {
     "id": 341,
     "title": "Блог OneSoil",
     "image": "data/images/341.jpg",
@@ -390,27 +411,6 @@
       "finansi",
       "biznes",
       "servis"
-    ],
-    "awards": []
-  },
-  {
-    "id": 220,
-    "title": "Fins",
-    "image": "data/images/220.jpg",
-    "tags": [
-      "финансы",
-      "сервис",
-      "бкс"
-    ],
-    "url": "https://fins.money/",
-    "date": 1530180010,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "finansi",
-      "servis",
-      "bks"
     ],
     "awards": []
   }

@@ -1,5 +1,24 @@
 [
   {
+    "id": 650,
+    "title": "Лекторий Skillbox",
+    "image": "data/images/650.jpg",
+    "tags": [
+      "образование",
+      "мероприятие"
+    ],
+    "url": "https://events.skillbox.ru/designmeetup",
+    "date": 1577700014,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "meropriyatie"
+    ],
+    "awards": []
+  },
+  {
     "id": 649,
     "title": "bobber",
     "image": "data/images/649.jpg",
@@ -388,27 +407,6 @@
     "slugs": [
       "promo",
       "magazin"
-    ],
-    "awards": []
-  },
-  {
-    "id": 630,
-    "title": "Слава Самодуров",
-    "image": "data/images/630.jpg",
-    "tags": [
-      "промо",
-      "портфолио",
-      "voskhoddigital"
-    ],
-    "url": "https://slavasamodurov.com/",
-    "date": 1574503204,
-    "edit_date": 1583183700,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "portfolio",
-      "voskhoddigital"
     ],
     "awards": []
   }

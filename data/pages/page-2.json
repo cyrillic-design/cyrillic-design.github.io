@@ -1,5 +1,32 @@
 [
   {
+    "id": 1050,
+    "title": "Паттерны дизайн-менеджмента",
+    "caption": "Паттерны дизайн-менеджмента\nhttps://www.dmpatterns.com\n\n#образование #мероприятие #webflow #pragmatica #николайиванов",
+    "image": "data/images/1050.jpg",
+    "tags": [
+      "образование",
+      "мероприятие",
+      "webflow",
+      "pragmatica",
+      "николайиванов"
+    ],
+    "url": "https://www.dmpatterns.com",
+    "date": 1644242522,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "meropriyatie",
+      "webflow",
+      "pragmatica",
+      "nikolaiivanov"
+    ],
+    "awards": []
+  },
+  {
     "id": 1049,
     "title": "Дима Шалаев",
     "caption": "Дима Шалаев\nhttp://dmitryshalaev.ru\n\n#портфолио #readymag #update",
@@ -469,29 +496,6 @@
       "podkast",
       "dizain",
       "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 1030,
-    "title": "Дороже денег",
-    "caption": "Дороже денег\nhttps://dorozhe.media\n\n#финансы #журнал #медиа\nСпасибо за ссылку @AndyAbramov",
-    "image": "data/images/1030.jpg",
-    "tags": [
-      "финансы",
-      "журнал",
-      "медиа"
-    ],
-    "url": "https://dorozhe.media",
-    "date": 1639393238,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "finansi",
-      "zhurnal",
-      "media"
     ],
     "awards": []
   }

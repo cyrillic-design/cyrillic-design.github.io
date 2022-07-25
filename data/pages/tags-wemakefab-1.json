@@ -1,5 +1,28 @@
 [
   {
+    "id": 1071,
+    "title": "Dprofile",
+    "caption": "Dprofile\nhttps://dprofile.ru\n\n#сервис #дизайн #wemakefab",
+    "image": "data/images/1071.jpg",
+    "tags": [
+      "сервис",
+      "дизайн",
+      "wemakefab"
+    ],
+    "url": "https://dprofile.ru",
+    "date": 1658773203,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "dizain",
+      "wemakefab"
+    ],
+    "awards": []
+  },
+  {
     "id": 750,
     "title": "Unit",
     "caption": "Unit\nhttps://unit-studio.ru/\n\n#производство #wemakefab",

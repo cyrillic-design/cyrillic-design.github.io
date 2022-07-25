@@ -1,5 +1,26 @@
 [
   {
+    "id": 528,
+    "title": "Квартиротека ИКЕА",
+    "image": "data/images/528.jpg",
+    "tags": [
+      "магазин",
+      "доставка",
+      "сервис"
+    ],
+    "url": "https://www.ikea.com/ext/ru/kvartiroteka/",
+    "date": 1559901624,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "dostavka",
+      "servis"
+    ],
+    "awards": []
+  },
+  {
     "id": 527,
     "title": "Российский экологический оператор",
     "image": "data/images/527.jpg",
@@ -381,27 +402,6 @@
     "slugs": [
       "servis",
       "dating"
-    ],
-    "awards": []
-  },
-  {
-    "id": 365,
-    "title": "Международный аэропорт Шереметьево",
-    "image": "data/images/365.jpg",
-    "tags": [
-      "сервис",
-      "авиакомпания",
-      "beta"
-    ],
-    "url": "https://www.svo.aero/ru/main",
-    "date": 1543053616,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "aviakompaniya",
-      "beta"
     ],
     "awards": []
   }

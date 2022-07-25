@@ -1,5 +1,28 @@
 [
   {
+    "id": 1071,
+    "title": "Dprofile",
+    "caption": "Dprofile\nhttps://dprofile.ru\n\n#сервис #дизайн #wemakefab",
+    "image": "data/images/1071.jpg",
+    "tags": [
+      "сервис",
+      "дизайн",
+      "wemakefab"
+    ],
+    "url": "https://dprofile.ru",
+    "date": 1658773203,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "dizain",
+      "wemakefab"
+    ],
+    "awards": []
+  },
+  {
     "id": 1066,
     "title": "Supermatch",
     "caption": "Supermatch\nhttps://www.supermatch.school\n\n#образование #дизайн #webflow #pragmatica\nСпасибо за ссылку @pragmatica_s",
@@ -436,29 +459,6 @@
       "bank",
       "finansi",
       "alfabank"
-    ],
-    "awards": []
-  },
-  {
-    "id": 262,
-    "title": "Телеграф",
-    "image": "data/images/262.jpg",
-    "tags": [
-      "update",
-      "журнал",
-      "дизайн",
-      "the23"
-    ],
-    "url": "http://telegraf.design/",
-    "date": 1533808819,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "update",
-      "zhurnal",
-      "dizain",
-      "the23"
     ],
     "awards": []
   }

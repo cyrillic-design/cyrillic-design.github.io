@@ -1,5 +1,28 @@
 [
   {
+    "id": 899,
+    "title": "Эйч",
+    "caption": "Эйч\nhttps://h.budu.jobs/\n\n#сервис #hr #update",
+    "image": "data/images/899.jpg",
+    "tags": [
+      "сервис",
+      "hr",
+      "update"
+    ],
+    "url": "https://h.budu.jobs/",
+    "date": 1616234441,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "hr",
+      "update"
+    ],
+    "awards": []
+  },
+  {
     "id": 869,
     "title": "Спектр формы",
     "caption": "Спектр формы\nhttps://www.whyreka.com/spectrum\n\n#дизайн #сервис\nСпасибо за ссылку @DesignBoard",
@@ -447,30 +470,6 @@
       "servis",
       "promo",
       "yandeks"
-    ],
-    "awards": []
-  },
-  {
-    "id": 683,
-    "title": "В моем репертуаре",
-    "caption": "В моем репертуаре\nhttps://truetoform.me/\n\n☆ #сервис #промо #мероприятие #readymag",
-    "image": "data/images/683.jpg",
-    "tags": [
-      "сервис",
-      "промо",
-      "мероприятие",
-      "readymag"
-    ],
-    "url": "https://truetoform.me/",
-    "date": 1583834419,
-    "edit_date": 1583834486,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "promo",
-      "meropriyatie",
-      "readymag"
     ],
     "awards": []
   }

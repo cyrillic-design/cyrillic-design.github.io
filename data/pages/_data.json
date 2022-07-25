@@ -14742,5 +14742,22 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "1071": {
+    "id": 1071,
+    "title": "Dprofile",
+    "caption": "Dprofile\nhttps://dprofile.ru\n\n#сервис #дизайн #wemakefab",
+    "image": "1071.jpg",
+    "tags": [
+      "сервис",
+      "дизайн",
+      "wemakefab"
+    ],
+    "url": "https://dprofile.ru",
+    "date": 1658773203,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

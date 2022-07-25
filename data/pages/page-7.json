@@ -1,5 +1,26 @@
 [
   {
+    "id": 942,
+    "title": "SHU",
+    "caption": "SHU\nhttps://shuclothes.com/ru\n\n#магазин #adeptworks\nСпасибо за ссылку @VPuschkarev",
+    "image": "data/images/942.jpg",
+    "tags": [
+      "магазин",
+      "adeptworks"
+    ],
+    "url": "https://shuclothes.com/ru",
+    "date": 1621407669,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "adeptworks"
+    ],
+    "awards": []
+  },
+  {
     "id": 941,
     "title": "P.Y.E CLIPONS",
     "caption": "P.Y.E CLIPONS\nhttps://clipons.pyeoptics.com/\n\n#магазин #промо #readymag #breadhead\nСпасибо за ссылку @readymag_official",
@@ -441,29 +462,6 @@
       "portfolio",
       "readymag",
       "nonobjectiveworks"
-    ],
-    "awards": []
-  },
-  {
-    "id": 914,
-    "title": "MBA «Лидеры изменений»",
-    "caption": "MBA «Лидеры изменений»\nhttps://skillbox.pro/\n\n#бизнес #образование #tilda",
-    "image": "data/images/914.jpg",
-    "tags": [
-      "бизнес",
-      "образование",
-      "tilda"
-    ],
-    "url": "https://skillbox.pro/",
-    "date": 1619683470,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "biznes",
-      "obrazovanie",
-      "tilda"
     ],
     "awards": []
   }

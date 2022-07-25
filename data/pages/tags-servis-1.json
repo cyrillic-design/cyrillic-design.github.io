@@ -1,5 +1,28 @@
 [
   {
+    "id": 1071,
+    "title": "Dprofile",
+    "caption": "Dprofile\nhttps://dprofile.ru\n\n#сервис #дизайн #wemakefab",
+    "image": "data/images/1071.jpg",
+    "tags": [
+      "сервис",
+      "дизайн",
+      "wemakefab"
+    ],
+    "url": "https://dprofile.ru",
+    "date": 1658773203,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "dizain",
+      "wemakefab"
+    ],
+    "awards": []
+  },
+  {
     "id": 1068,
     "title": "Хайер",
     "caption": "Хайер\nhttps://haierapp.ru\n\n#сервис #приложение #образование #мероприятие\nСпасибо за ссылку @winkeyless",
@@ -442,29 +465,6 @@
     "slugs": [
       "servis",
       "prilozhenie"
-    ],
-    "awards": []
-  },
-  {
-    "id": 899,
-    "title": "Эйч",
-    "caption": "Эйч\nhttps://h.budu.jobs/\n\n#сервис #hr #update",
-    "image": "data/images/899.jpg",
-    "tags": [
-      "сервис",
-      "hr",
-      "update"
-    ],
-    "url": "https://h.budu.jobs/",
-    "date": 1616234441,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "hr",
-      "update"
     ],
     "awards": []
   }
