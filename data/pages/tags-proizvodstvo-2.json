@@ -1,5 +1,24 @@
 [
   {
+    "id": 539,
+    "title": "ЗАО «Росма»",
+    "image": "data/images/539.jpg",
+    "tags": [
+      "производство",
+      "levelup"
+    ],
+    "url": "https://rosma.spb.ru/",
+    "date": 1561370466,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "levelup"
+    ],
+    "awards": []
+  },
+  {
     "id": 527,
     "title": "Российский экологический оператор",
     "image": "data/images/527.jpg",
@@ -384,29 +403,6 @@
       "proizvodstvo",
       "promo",
       "chipsa"
-    ],
-    "awards": []
-  },
-  {
-    "id": 210,
-    "title": "Фабрика «Диванчик»",
-    "image": "data/images/210.jpg",
-    "tags": [
-      "производство",
-      "фабрика",
-      "магазин",
-      "okcmedia"
-    ],
-    "url": "https://divanchik.ru/",
-    "date": 1529316019,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "proizvodstvo",
-      "fabrika",
-      "magazin",
-      "okcmedia"
     ],
     "awards": []
   }

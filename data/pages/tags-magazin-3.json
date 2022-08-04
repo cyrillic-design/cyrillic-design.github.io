@@ -1,5 +1,24 @@
 [
   {
+    "id": 531,
+    "title": "SHU",
+    "image": "data/images/531.jpg",
+    "tags": [
+      "одежда",
+      "магазин"
+    ],
+    "url": "https://shuclothes.com/ru/",
+    "date": 1560420033,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "odezhda",
+      "magazin"
+    ],
+    "awards": []
+  },
+  {
     "id": 528,
     "title": "Квартиротека ИКЕА",
     "image": "data/images/528.jpg",
@@ -384,27 +403,6 @@
       "magazin",
       "dostavka",
       "moda"
-    ],
-    "awards": []
-  },
-  {
-    "id": 279,
-    "title": "SIASPACE",
-    "image": "data/images/279.jpg",
-    "tags": [
-      "магазин",
-      "мода",
-      "facility"
-    ],
-    "url": "https://siaspace.com/",
-    "date": 1535191203,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "moda",
-      "facility"
     ],
     "awards": []
   }

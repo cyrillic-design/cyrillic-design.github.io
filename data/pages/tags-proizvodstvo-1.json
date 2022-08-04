@@ -1,5 +1,28 @@
 [
   {
+    "id": 1072,
+    "title": "Tuma",
+    "caption": "Tuma\nhttps://tuma.store\n\n#магазин #производство #tilda",
+    "image": "data/images/1072.jpg",
+    "tags": [
+      "магазин",
+      "производство",
+      "tilda"
+    ],
+    "url": "https://tuma.store",
+    "date": 1659629149,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "proizvodstvo",
+      "tilda"
+    ],
+    "awards": []
+  },
+  {
     "id": 1067,
     "title": "Agami Ceramics",
     "caption": "Agami Ceramics\nhttps://agami.moscow\n\n#магазин #производство\nСпасибо за ссылку @masterlobster",
@@ -421,25 +444,6 @@
     "slugs": [
       "proizvodstvo",
       "studiyaevgeniyayarovogo"
-    ],
-    "awards": []
-  },
-  {
-    "id": 539,
-    "title": "ЗАО «Росма»",
-    "image": "data/images/539.jpg",
-    "tags": [
-      "производство",
-      "levelup"
-    ],
-    "url": "https://rosma.spb.ru/",
-    "date": 1561370466,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "proizvodstvo",
-      "levelup"
     ],
     "awards": []
   }

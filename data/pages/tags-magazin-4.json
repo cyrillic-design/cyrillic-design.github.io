@@ -1,5 +1,26 @@
 [
   {
+    "id": 279,
+    "title": "SIASPACE",
+    "image": "data/images/279.jpg",
+    "tags": [
+      "магазин",
+      "мода",
+      "facility"
+    ],
+    "url": "https://siaspace.com/",
+    "date": 1535191203,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "moda",
+      "facility"
+    ],
+    "awards": []
+  },
+  {
     "id": 278,
     "title": "Калашников",
     "image": "data/images/278.jpg",
@@ -374,25 +395,6 @@
     "slugs": [
       "magazin",
       "promo"
-    ],
-    "awards": []
-  },
-  {
-    "id": 154,
-    "title": "Zoomanity",
-    "image": "data/images/154.jpg",
-    "tags": [
-      "промо",
-      "магазин"
-    ],
-    "url": "http://zoomanity.land/ru/",
-    "date": 1524391208,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "magazin"
     ],
     "awards": []
   }

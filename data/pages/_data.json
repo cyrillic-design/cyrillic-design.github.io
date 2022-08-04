@@ -14759,5 +14759,22 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "1072": {
+    "id": 1072,
+    "title": "Tuma",
+    "caption": "Tuma\nhttps://tuma.store\n\n#магазин #производство #tilda",
+    "image": "1072.jpg",
+    "tags": [
+      "магазин",
+      "производство",
+      "tilda"
+    ],
+    "url": "https://tuma.store",
+    "date": 1659629149,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

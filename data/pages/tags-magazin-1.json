@@ -1,5 +1,28 @@
 [
   {
+    "id": 1072,
+    "title": "Tuma",
+    "caption": "Tuma\nhttps://tuma.store\n\n#магазин #производство #tilda",
+    "image": "data/images/1072.jpg",
+    "tags": [
+      "магазин",
+      "производство",
+      "tilda"
+    ],
+    "url": "https://tuma.store",
+    "date": 1659629149,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "proizvodstvo",
+      "tilda"
+    ],
+    "awards": []
+  },
+  {
     "id": 1067,
     "title": "Agami Ceramics",
     "caption": "Agami Ceramics\nhttps://agami.moscow\n\n#магазин #производство\nСпасибо за ссылку @masterlobster",
@@ -431,29 +454,6 @@
       "magazin",
       "tilda",
       "kirillzharkii"
-    ],
-    "awards": []
-  },
-  {
-    "id": 803,
-    "title": "safer — practice",
-    "caption": "safer — practice\nhttps://safer.zone/\n\n#магазин #доставка #tilda \nСпасибо за ссылку @AnnaTsybina",
-    "image": "data/images/803.jpg",
-    "tags": [
-      "магазин",
-      "доставка",
-      "tilda"
-    ],
-    "url": "https://safer.zone/",
-    "date": 1604320877,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "dostavka",
-      "tilda"
     ],
     "awards": []
   }
