@@ -1,5 +1,26 @@
 [
   {
+    "id": 1073,
+    "title": "Галицкий & Галицкий",
+    "caption": "Галицкий & Галицкий\nhttps://galitskiy-galitskiy.ru\n\n#производство #ony 18+\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/1073.jpg",
+    "tags": [
+      "производство",
+      "ony"
+    ],
+    "url": "https://galitskiy-galitskiy.ru",
+    "date": 1659679362,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "ony"
+    ],
+    "awards": []
+  },
+  {
     "id": 972,
     "title": "Газпром-Медиа Холдинг",
     "caption": "Газпром-Медиа Холдинг\nhttps://www.gazprom-media.com/ru\n\n#корпоративныйсайт #ony",

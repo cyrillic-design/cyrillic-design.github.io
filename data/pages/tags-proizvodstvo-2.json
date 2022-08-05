@@ -1,5 +1,24 @@
 [
   {
+    "id": 548,
+    "title": "РОССМА",
+    "image": "data/images/548.jpg",
+    "tags": [
+      "производство",
+      "студияевгенияярового"
+    ],
+    "url": "https://rossma.ru/",
+    "date": 1562666479,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "studiyaevgeniyayarovogo"
+    ],
+    "awards": []
+  },
+  {
     "id": 539,
     "title": "ЗАО «Росма»",
     "image": "data/images/539.jpg",
@@ -382,27 +401,6 @@
       "proizvodstvo",
       "promo",
       "xdesign"
-    ],
-    "awards": []
-  },
-  {
-    "id": 217,
-    "title": "Krasmilk",
-    "image": "data/images/217.jpg",
-    "tags": [
-      "производство",
-      "промо",
-      "chipsa"
-    ],
-    "url": "http://krasmilk.ru/",
-    "date": 1529920814,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "proizvodstvo",
-      "promo",
-      "chipsa"
     ],
     "awards": []
   }
