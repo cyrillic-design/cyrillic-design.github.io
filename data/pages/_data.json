@@ -14792,5 +14792,21 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "1074": {
+    "id": 1074,
+    "title": "Oblik Store",
+    "caption": "Oblik Store\nhttps://oblik.one\n\n#магазин #readymag \nСпасибо за ссылку @readymag_official",
+    "image": "1074.jpg",
+    "tags": [
+      "магазин",
+      "readymag"
+    ],
+    "url": "https://oblik.one",
+    "date": 1660064833,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

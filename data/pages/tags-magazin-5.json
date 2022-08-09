@@ -1,5 +1,24 @@
 [
   {
+    "id": 159,
+    "title": "Servermall",
+    "image": "data/images/159.jpg",
+    "tags": [
+      "магазин",
+      "промо"
+    ],
+    "url": "https://servermall.ru/",
+    "date": 1524823212,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "promo"
+    ],
+    "awards": []
+  },
+  {
     "id": 154,
     "title": "Zoomanity",
     "image": "data/images/154.jpg",
