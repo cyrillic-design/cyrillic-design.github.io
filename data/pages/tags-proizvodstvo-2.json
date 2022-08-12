@@ -1,5 +1,26 @@
 [
   {
+    "id": 556,
+    "title": "Койот",
+    "image": "data/images/556.jpg",
+    "tags": [
+      "производство",
+      "магазин",
+      "aiwin"
+    ],
+    "url": "https://coyote-ekb.ru/",
+    "date": 1563962419,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "magazin",
+      "aiwin"
+    ],
+    "awards": []
+  },
+  {
     "id": 548,
     "title": "РОССМА",
     "image": "data/images/548.jpg",
@@ -380,27 +401,6 @@
       "uslugi",
       "proizvodstvo",
       "astroshok"
-    ],
-    "awards": []
-  },
-  {
-    "id": 221,
-    "title": "ФАРТ",
-    "image": "data/images/221.jpg",
-    "tags": [
-      "производство",
-      "промо",
-      "xdesign"
-    ],
-    "url": "http://trubochka.ru/",
-    "date": 1530266410,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "proizvodstvo",
-      "promo",
-      "xdesign"
     ],
     "awards": []
   }
