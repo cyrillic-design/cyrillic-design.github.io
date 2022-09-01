@@ -1,5 +1,26 @@
 [
   {
+    "id": 1076,
+    "title": "aic стажировка",
+    "caption": "aic стажировка\nhttps://intern.aic.ru\n\n#обучение #readymag\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/1076.jpg",
+    "tags": [
+      "обучение",
+      "readymag"
+    ],
+    "url": "https://intern.aic.ru",
+    "date": 1662036447,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obuchenie",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 1075,
     "title": "Парфюмерная студия storysmell",
     "caption": "Парфюмерная студия storysmell\nhttps://storysmell.com\n\n#производство #readymag\nСпасибо за ссылку @readymag_official",
@@ -454,32 +475,6 @@
     "slugs": [
       "spetsproekt",
       "issledovanie",
-      "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 1018,
-    "title": "ТРУДРУК",
-    "caption": "ТРУДРУК\nhttps://trudruk.ru/\n\n#магазин #производство #одежда #readymag\nСпасибо за ссылку @readymag_official",
-    "image": "data/images/1018.jpg",
-    "tags": [
-      "магазин",
-      "производство",
-      "одежда",
-      "readymag"
-    ],
-    "url": "https://trudruk.ru/",
-    "date": 1637853903,
-    "edit_date": 1637854441,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "proizvodstvo",
-      "odezhda",
       "readymag"
     ],
     "awards": []

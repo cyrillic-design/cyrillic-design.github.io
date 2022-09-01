@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1076,
+    "title": "aic стажировка",
+    "caption": "aic стажировка\nhttps://intern.aic.ru\n\n#обучение #readymag\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/1076.jpg",
+    "tags": [
+      "обучение",
+      "readymag"
+    ],
+    "url": "https://intern.aic.ru",
+    "date": 1662036447,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obuchenie",
+      "readymag"
+    ],
+    "awards": []
+  }
+]
