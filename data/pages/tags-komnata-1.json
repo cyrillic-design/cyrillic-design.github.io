@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1077,
+    "title": "INDIEVID",
+    "caption": "INDIEVID\nhttps://indievid.me\n\n#музыка #readymag #komnata\nСпасибо за ссылку @readymag_official",
+    "image": "data/images/1077.jpg",
+    "tags": [
+      "музыка",
+      "readymag",
+      "komnata"
+    ],
+    "url": "https://indievid.me",
+    "date": 1663057972,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "muzika",
+      "readymag",
+      "komnata"
+    ],
+    "awards": []
+  }
+]

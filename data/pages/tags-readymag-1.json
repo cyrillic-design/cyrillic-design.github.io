@@ -1,5 +1,28 @@
 [
   {
+    "id": 1077,
+    "title": "INDIEVID",
+    "caption": "INDIEVID\nhttps://indievid.me\n\n#музыка #readymag #komnata\nСпасибо за ссылку @readymag_official",
+    "image": "data/images/1077.jpg",
+    "tags": [
+      "музыка",
+      "readymag",
+      "komnata"
+    ],
+    "url": "https://indievid.me",
+    "date": 1663057972,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "muzika",
+      "readymag",
+      "komnata"
+    ],
+    "awards": []
+  },
+  {
     "id": 1076,
     "title": "aic стажировка",
     "caption": "aic стажировка\nhttps://intern.aic.ru\n\n#обучение #readymag\nСпасибо за ссылку @AndyAbramov",
@@ -453,29 +476,6 @@
       "zaglushka",
       "readymag",
       "kirillrodin"
-    ],
-    "awards": []
-  },
-  {
-    "id": 1021,
-    "title": "Disexual",
-    "caption": "Disexual\nhttps://readymag.com/hsedesign/digitalsexuality/\n\n#спецпроект #исследование #readymag 18+\nСпасибо за ссылку @lilyakhmetova",
-    "image": "data/images/1021.jpg",
-    "tags": [
-      "спецпроект",
-      "исследование",
-      "readymag"
-    ],
-    "url": "https://readymag.com/hsedesign/digitalsexuality/",
-    "date": 1638178126,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "issledovanie",
-      "readymag"
     ],
     "awards": []
   }
