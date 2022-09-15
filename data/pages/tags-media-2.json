@@ -1,5 +1,28 @@
 [
   {
+    "id": 164,
+    "title": "Государственная дума РФ",
+    "image": "data/images/164.jpg",
+    "tags": [
+      "государство",
+      "медиа",
+      "россия",
+      "labag"
+    ],
+    "url": "http://www.duma.gov.ru/",
+    "date": 1525341611,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "gosudarstvo",
+      "media",
+      "rossiya",
+      "labag"
+    ],
+    "awards": []
+  },
+  {
     "id": 130,
     "title": "Новая газета",
     "image": "data/images/130.jpg",

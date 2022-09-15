@@ -14857,5 +14857,21 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "1078": {
+    "id": 1078,
+    "title": "Perito",
+    "caption": "Perito\nhttps://perito-burrito.com\n\n#медиа #культура\nСпасибо за ссылку @AndyAbramov",
+    "image": "1078.jpg",
+    "tags": [
+      "медиа",
+      "культура"
+    ],
+    "url": "https://perito-burrito.com",
+    "date": 1663255623,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
