@@ -1,5 +1,28 @@
 [
   {
+    "id": 973,
+    "title": "Онлайн-музей ЖЭК-арта",
+    "caption": "Онлайн-музей ЖЭК-арта\nhttps://dvor.digital/\n\n#спецпроект #музей #золотыетигрыроссии\nСпасибо за ссылку @masha_cvetomuzika",
+    "image": "data/images/973.jpg",
+    "tags": [
+      "спецпроект",
+      "музей",
+      "золотыетигрыроссии"
+    ],
+    "url": "https://dvor.digital/",
+    "date": 1626723664,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "muzei",
+      "zolotietigrirossii"
+    ],
+    "awards": []
+  },
+  {
     "id": 972,
     "title": "Газпром-Медиа Холдинг",
     "caption": "Газпром-Медиа Холдинг\nhttps://www.gazprom-media.com/ru\n\n#корпоративныйсайт #ony",
@@ -448,29 +471,6 @@
       "zhurnal",
       "hr",
       "webflow"
-    ],
-    "awards": []
-  },
-  {
-    "id": 951,
-    "title": "Antarctica",
-    "caption": "Antarctica\nhttps://antarctica.sloi.clothing/\n\n#спецпроект #магазин #readymag",
-    "image": "data/images/951.jpg",
-    "tags": [
-      "спецпроект",
-      "магазин",
-      "readymag"
-    ],
-    "url": "https://antarctica.sloi.clothing/",
-    "date": 1622833569,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "magazin",
-      "readymag"
     ],
     "awards": []
   }

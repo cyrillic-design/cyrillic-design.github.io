@@ -1,5 +1,26 @@
 [
   {
+    "id": 1079,
+    "title": "Подписные издания",
+    "caption": "Подписные издания\nhttps://www.podpisnie.ru\n\n#магазин #aidapacheva\nСпасибо за ссылку @aidapacheva",
+    "image": "data/images/1079.jpg",
+    "tags": [
+      "магазин",
+      "aidapacheva"
+    ],
+    "url": "https://www.podpisnie.ru",
+    "date": 1664883345,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "aidapacheva"
+    ],
+    "awards": []
+  },
+  {
     "id": 747,
     "title": "Как устроена и работает ДНК",
     "caption": "Как устроена и работает ДНК\nhttps://howdnaworks.ru/\n\n#спецпроект #readymag #aidapacheva\nСпасибо за ссылку @aidapacheva",

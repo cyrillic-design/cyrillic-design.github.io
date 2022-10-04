@@ -1,5 +1,28 @@
 [
   {
+    "id": 1059,
+    "title": "Onest Font",
+    "caption": "Onest Font\nhttps://onest.md/ru\n\n#промо #шрифт #tilda",
+    "image": "data/images/1059.jpg",
+    "tags": [
+      "промо",
+      "шрифт",
+      "tilda"
+    ],
+    "url": "https://onest.md/ru",
+    "date": 1649950351,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "shrift",
+      "tilda"
+    ],
+    "awards": []
+  },
+  {
     "id": 1058,
     "title": "Breadhead",
     "caption": "Breadhead\nhttps://breadhead.ru\n\n#портфолио #студия\nСпасибо за ссылку @breadhead",
@@ -465,32 +488,6 @@
       "readymag",
       "update",
       "breadhead"
-    ],
-    "awards": []
-  },
-  {
-    "id": 1038,
-    "title": "За Глазок, за наше село",
-    "caption": "За Глазок, за наше село\nhttps://glazok.kruzhok.io/\n\n#спецпроект #фильм #спорт #кружок",
-    "image": "data/images/1038.jpg",
-    "tags": [
-      "спецпроект",
-      "фильм",
-      "спорт",
-      "кружок"
-    ],
-    "url": "https://glazok.kruzhok.io/",
-    "date": 1642698085,
-    "edit_date": 1642698728,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "film",
-      "sport",
-      "kruzhok"
     ],
     "awards": []
   }
