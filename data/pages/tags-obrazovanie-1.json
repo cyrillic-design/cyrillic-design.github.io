@@ -1,5 +1,26 @@
 [
   {
+    "id": 1080,
+    "title": "Школа дизайна Perasperadastra",
+    "caption": "Школа дизайна Perasperadastra\nhttps://perasperadastra.ru/school \n\n#образование #tilda\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/1080.jpg",
+    "tags": [
+      "образование",
+      "tilda"
+    ],
+    "url": "https://perasperadastra.ru/school",
+    "date": 1666187062,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "tilda"
+    ],
+    "awards": []
+  },
+  {
     "id": 1069,
     "title": "Страдариум от Страдающего Средневековья",
     "caption": "Страдариум от Страдающего Средневековья\nhttps://stradarium.ru\n\n#образование #tilda",
@@ -454,29 +475,6 @@
     "slugs": [
       "obrazovanie",
       "pragmatica"
-    ],
-    "awards": []
-  },
-  {
-    "id": 914,
-    "title": "MBA «Лидеры изменений»",
-    "caption": "MBA «Лидеры изменений»\nhttps://skillbox.pro/\n\n#бизнес #образование #tilda",
-    "image": "data/images/914.jpg",
-    "tags": [
-      "бизнес",
-      "образование",
-      "tilda"
-    ],
-    "url": "https://skillbox.pro/",
-    "date": 1619683470,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "biznes",
-      "obrazovanie",
-      "tilda"
     ],
     "awards": []
   }

@@ -14889,5 +14889,21 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "1080": {
+    "id": 1080,
+    "title": "Школа дизайна Perasperadastra",
+    "caption": "Школа дизайна Perasperadastra\nhttps://perasperadastra.ru/school \n\n#образование #tilda\nСпасибо за ссылку @AndyAbramov",
+    "image": "1080.jpg",
+    "tags": [
+      "образование",
+      "tilda"
+    ],
+    "url": "https://perasperadastra.ru/school",
+    "date": 1666187062,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

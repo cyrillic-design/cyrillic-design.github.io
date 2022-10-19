@@ -1,5 +1,32 @@
 [
   {
+    "id": 903,
+    "title": "Соковыжималка Juicy Salif",
+    "caption": "Соковыжималка Juicy Salif \nhttps://juicysalif.com/\n\n#спецпроект #история #образование #readymag #pragmatica\nСпасибо за ссылку @katebainova",
+    "image": "data/images/903.jpg",
+    "tags": [
+      "спецпроект",
+      "история",
+      "образование",
+      "readymag",
+      "pragmatica"
+    ],
+    "url": "https://juicysalif.com/",
+    "date": 1617444037,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "istoriya",
+      "obrazovanie",
+      "readymag",
+      "pragmatica"
+    ],
+    "awards": []
+  },
+  {
     "id": 901,
     "title": "The Pansionat",
     "caption": "The Pansionat\nhttps://thepansionat.ru/\n\n#промо #приложение #readymag #кухнянарайоне",
@@ -429,27 +456,6 @@
     "slugs": [
       "portfolio",
       "tilda"
-    ],
-    "awards": []
-  },
-  {
-    "id": 879,
-    "title": "Книга «Эссенция сенца»",
-    "caption": "Книга «Эссенция сенца»\nhttps://sencessence.ru/\n\n#промо #астрошок\nСпасибо за ссылку @AndyAbramov",
-    "image": "data/images/879.jpg",
-    "tags": [
-      "промо",
-      "астрошок"
-    ],
-    "url": "https://sencessence.ru/",
-    "date": 1610997218,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "astroshok"
     ],
     "awards": []
   }

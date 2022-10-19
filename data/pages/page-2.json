@@ -1,5 +1,31 @@
 [
   {
+    "id": 1060,
+    "title": "Civilians",
+    "caption": "Civilians\nhttps://civilians.space\n\n#спецпроект #благотворительность #сообщество #readymag",
+    "image": "data/images/1060.jpg",
+    "tags": [
+      "спецпроект",
+      "благотворительность",
+      "сообщество",
+      "readymag"
+    ],
+    "url": "https://civilians.space",
+    "date": 1650914442,
+    "edit_date": 1650920952,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "blagotvoritelnost",
+      "soobshchestvo",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 1059,
     "title": "Onest Font",
     "caption": "Onest Font\nhttps://onest.md/ru\n\n#промо #шрифт #tilda",
@@ -461,33 +487,6 @@
       "muzei",
       "readymag",
       "nonobjectiveworks"
-    ],
-    "awards": []
-  },
-  {
-    "id": 1039,
-    "title": "Стартер",
-    "caption": "Стартер\nhttps://starterapp.ru/\n\n#сервис #доставка #readymag #update #breadhead",
-    "image": "data/images/1039.jpg",
-    "tags": [
-      "сервис",
-      "доставка",
-      "readymag",
-      "update",
-      "breadhead"
-    ],
-    "url": "https://starterapp.ru/",
-    "date": 1643180528,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "dostavka",
-      "readymag",
-      "update",
-      "breadhead"
     ],
     "awards": []
   }

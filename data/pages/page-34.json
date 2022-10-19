@@ -1,5 +1,26 @@
 [
   {
+    "id": 355,
+    "title": "Bauhaus Imaginista",
+    "image": "data/images/355.jpg",
+    "tags": [
+      "образование",
+      "garage",
+      "readymag"
+    ],
+    "url": "https://bauhaus-imaginista.garagemca.org",
+    "date": 1542276018,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "garage",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 354,
     "title": "Вакансии Simple",
     "image": "data/images/354.jpg",
@@ -387,27 +408,6 @@
       "promo",
       "zdorove",
       "creativepeople"
-    ],
-    "awards": []
-  },
-  {
-    "id": 334,
-    "title": "SOLO",
-    "image": "data/images/334.jpg",
-    "tags": [
-      "сервис",
-      "доставка",
-      "еда"
-    ],
-    "url": "https://solofood.ru/",
-    "date": 1540461619,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "dostavka",
-      "yeda"
     ],
     "awards": []
   }

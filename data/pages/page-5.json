@@ -1,5 +1,28 @@
 [
   {
+    "id": 997,
+    "title": "М-464: нераспознаваемая индивидуальность",
+    "caption": "М-464: нераспознаваемая индивидуальность\nhttps://m464.leta.today/\n\n#спецпроект #readymag #павелкедич\nСпасибо за ссылку @readymag_official",
+    "image": "data/images/997.jpg",
+    "tags": [
+      "спецпроект",
+      "readymag",
+      "павелкедич"
+    ],
+    "url": "https://m464.leta.today/",
+    "date": 1631884136,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "readymag",
+      "pavelkedich"
+    ],
+    "awards": []
+  },
+  {
     "id": 996,
     "title": "Tuman Studio",
     "caption": "Tuman Studio\nhttps://tumanstudio.com/ru\n\n#портфолио #студия",
@@ -447,27 +470,6 @@
     "slugs": [
       "meropriyatie",
       "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 974,
-    "title": "NORM 1458",
-    "caption": "NORM 1458\nhttps://1458.ru/\n\n#портфолио #whiterussianstudio",
-    "image": "data/images/974.jpg",
-    "tags": [
-      "портфолио",
-      "whiterussianstudio"
-    ],
-    "url": "https://1458.ru/",
-    "date": 1626940902,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio",
-      "whiterussianstudio"
     ],
     "awards": []
   }

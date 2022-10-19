@@ -1,5 +1,28 @@
 [
   {
+    "id": 790,
+    "title": "Деревня Сардаял",
+    "caption": "Деревня Сардаял\nhttps://sardayal.ru/\n\n#спецпроект #образование #кружок",
+    "image": "data/images/790.jpg",
+    "tags": [
+      "спецпроект",
+      "образование",
+      "кружок"
+    ],
+    "url": "https://sardayal.ru/",
+    "date": 1603537567,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "obrazovanie",
+      "kruzhok"
+    ],
+    "awards": []
+  },
+  {
     "id": 789,
     "title": "Как поёт искусственный интеллект",
     "caption": "Как поёт искусственный интеллект\nhttps://readymag.com/marykobanenko/musicai/\n\n#спецпроект #музыка #образование #readymag #машакобаненко\nСпасибо за ссылку @marykobanenko",
@@ -458,28 +481,6 @@
       "katalog",
       "iskusstvo",
       "luchshedoma",
-      "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 676,
-    "title": "LUXENGLISH",
-    "caption": "LUXENGLISH\nhttps://luxenglish.ru/\n\n☆ #образование #мероприятие #readymag",
-    "image": "data/images/676.jpg",
-    "tags": [
-      "образование",
-      "мероприятие",
-      "readymag"
-    ],
-    "url": "https://luxenglish.ru/",
-    "date": 1583402410,
-    "edit_date": 1583666034,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "meropriyatie",
       "readymag"
     ],
     "awards": []

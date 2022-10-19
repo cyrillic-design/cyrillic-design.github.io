@@ -1,5 +1,28 @@
 [
   {
+    "id": 914,
+    "title": "MBA «Лидеры изменений»",
+    "caption": "MBA «Лидеры изменений»\nhttps://skillbox.pro/\n\n#бизнес #образование #tilda",
+    "image": "data/images/914.jpg",
+    "tags": [
+      "бизнес",
+      "образование",
+      "tilda"
+    ],
+    "url": "https://skillbox.pro/",
+    "date": 1619683470,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "biznes",
+      "obrazovanie",
+      "tilda"
+    ],
+    "awards": []
+  },
+  {
     "id": 912,
     "title": "Лепота",
     "caption": "Лепота\nhttps://bangbangeducation.ru/movie/lepota\n\n#промо #образование\nСпасибо за ссылку @ivanedorn",
@@ -423,29 +446,6 @@
     "isRemoved": false,
     "slugs": [
       "obrazovanie"
-    ],
-    "awards": []
-  },
-  {
-    "id": 790,
-    "title": "Деревня Сардаял",
-    "caption": "Деревня Сардаял\nhttps://sardayal.ru/\n\n#спецпроект #образование #кружок",
-    "image": "data/images/790.jpg",
-    "tags": [
-      "спецпроект",
-      "образование",
-      "кружок"
-    ],
-    "url": "https://sardayal.ru/",
-    "date": 1603537567,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "obrazovanie",
-      "kruzhok"
     ],
     "awards": []
   }
