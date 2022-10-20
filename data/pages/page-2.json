@@ -1,5 +1,30 @@
 [
   {
+    "id": 1062,
+    "title": "Страдающего Средневековья",
+    "caption": "Страдающего Средневековья\nhttps://sufferingmedieval.ru\n\n#спецпроект #музей #readymag #nonobjectiveworks\nСпасибо за ссылку @readymag_official",
+    "image": "data/images/1062.jpg",
+    "tags": [
+      "спецпроект",
+      "музей",
+      "readymag",
+      "nonobjectiveworks"
+    ],
+    "url": "https://sufferingmedieval.ru",
+    "date": 1651833947,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "muzei",
+      "readymag",
+      "nonobjectiveworks"
+    ],
+    "awards": []
+  },
+  {
     "id": 1061,
     "title": "Re-Mariupol",
     "caption": "Re-Mariupol\nhttps://re-mariupol.com\n\n#город #сергійродіонов #readymag",
@@ -454,33 +479,6 @@
       "kultura",
       "tilda",
       "anyamelnik"
-    ],
-    "awards": []
-  },
-  {
-    "id": 1041,
-    "title": "Музей современного искусства «Гараж»",
-    "caption": "Музей современного искусства «Гараж»\nhttps://garagemca.org/ru\n\n#музей #афиша #update #perushevandkhmelev #charmer\nСпасибо за ссылку @gorokhovatsky",
-    "image": "data/images/1041.jpg",
-    "tags": [
-      "музей",
-      "афиша",
-      "update",
-      "perushevandkhmelev",
-      "charmer"
-    ],
-    "url": "https://garagemca.org/ru",
-    "date": 1643454708,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "muzei",
-      "afisha",
-      "update",
-      "perushevandkhmelev",
-      "charmer"
     ],
     "awards": []
   }

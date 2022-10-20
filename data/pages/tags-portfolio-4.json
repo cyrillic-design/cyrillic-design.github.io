@@ -1,5 +1,25 @@
 [
   {
+    "id": 627,
+    "title": "Ориентир",
+    "caption": "Ориентир\nhttp://orientir.ru/\n\n#портфолио #whiterussianstudio",
+    "image": "data/images/627.jpg",
+    "tags": [
+      "портфолио",
+      "whiterussianstudio"
+    ],
+    "url": "http://orientir.ru/",
+    "date": 1573898430,
+    "edit_date": 1583247340,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "whiterussianstudio"
+    ],
+    "awards": []
+  },
+  {
     "id": 625,
     "title": "L&L",
     "image": "data/images/625.jpg",
@@ -350,23 +370,6 @@
       "portfolio",
       "readymag",
       "sulliwan"
-    ],
-    "awards": []
-  },
-  {
-    "id": 493,
-    "title": "Urbica",
-    "image": "data/images/493.jpg",
-    "tags": [
-      "портфолио"
-    ],
-    "url": "https://urbica.co/ru/",
-    "date": 1554890443,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio"
     ],
     "awards": []
   }

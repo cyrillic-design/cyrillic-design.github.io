@@ -1,5 +1,26 @@
 [
   {
+    "id": 188,
+    "title": "Дизайн-студия 23",
+    "image": "data/images/188.jpg",
+    "tags": [
+      "студия",
+      "дизайн",
+      "портфолио"
+    ],
+    "url": "http://the23.design/",
+    "date": 1527501610,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "studiya",
+      "dizain",
+      "portfolio"
+    ],
+    "awards": []
+  },
+  {
     "id": 184,
     "title": "Zero",
     "caption": "Zero\nhttp://zero.ru/\n\n#студия #портфолио #услуги #агентство",
