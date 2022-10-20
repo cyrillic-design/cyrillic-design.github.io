@@ -1,5 +1,28 @@
 [
   {
+    "id": 788,
+    "title": "Современник",
+    "caption": "Современник\nhttps://new.sovremennik.ru/\n\n#культура #театр #eshgruppa",
+    "image": "data/images/788.jpg",
+    "tags": [
+      "культура",
+      "театр",
+      "eshgruppa"
+    ],
+    "url": "https://new.sovremennik.ru/",
+    "date": 1603375138,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "kultura",
+      "teatr",
+      "eshgruppa"
+    ],
+    "awards": []
+  },
+  {
     "id": 787,
     "title": "Сергей Васин",
     "caption": "Сергей Васин\nhttps://serge-vasin.com/ru\n\n#портфолио\nСпасибо за ссылку @sergevasin",
@@ -435,32 +458,6 @@
       "yeda",
       "dostavka",
       "vintage"
-    ],
-    "awards": []
-  },
-  {
-    "id": 768,
-    "title": "TYPICAL.OKR",
-    "caption": "TYPICAL.OKR\nhttps://typicalokr.co/\n\n#исследование #сервис #typical #readymag",
-    "image": "data/images/768.jpg",
-    "tags": [
-      "исследование",
-      "сервис",
-      "typical",
-      "readymag"
-    ],
-    "url": "https://typicalokr.co/",
-    "date": 1600068393,
-    "edit_date": 1600088036,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "issledovanie",
-      "servis",
-      "typical",
-      "readymag"
     ],
     "awards": []
   }

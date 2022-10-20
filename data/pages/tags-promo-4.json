@@ -1,5 +1,26 @@
 [
   {
+    "id": 630,
+    "title": "Слава Самодуров",
+    "image": "data/images/630.jpg",
+    "tags": [
+      "промо",
+      "портфолио",
+      "voskhoddigital"
+    ],
+    "url": "https://slavasamodurov.com/",
+    "date": 1574503204,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "portfolio",
+      "voskhoddigital"
+    ],
+    "awards": []
+  },
+  {
     "id": 629,
     "title": "Путешествие в темноте",
     "image": "data/images/629.jpg",
@@ -385,26 +406,6 @@
       "prilozhenie",
       "bank",
       "finansi"
-    ],
-    "awards": []
-  },
-  {
-    "id": 467,
-    "title": "Мятный JOE",
-    "caption": "Мятный JOE\nhttps://mintijoe.ru/\n\n#промо #prominado",
-    "image": "data/images/467.jpg",
-    "tags": [
-      "промо",
-      "prominado"
-    ],
-    "url": "https://mintijoe.ru/",
-    "date": 1552298406,
-    "edit_date": 1583423601,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "prominado"
     ],
     "awards": []
   }

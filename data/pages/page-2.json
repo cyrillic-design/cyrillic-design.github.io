@@ -1,5 +1,28 @@
 [
   {
+    "id": 1061,
+    "title": "Re-Mariupol",
+    "caption": "Re-Mariupol\nhttps://re-mariupol.com\n\n#город #сергійродіонов #readymag",
+    "image": "data/images/1061.jpg",
+    "tags": [
+      "город",
+      "сергійродіонов",
+      "readymag"
+    ],
+    "url": "https://re-mariupol.com",
+    "date": 1651083085,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "gorod",
+      "sergіirodіonov",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 1060,
     "title": "Civilians",
     "caption": "Civilians\nhttps://civilians.space\n\n#спецпроект #благотворительность #сообщество #readymag",
@@ -458,35 +481,6 @@
       "update",
       "perushevandkhmelev",
       "charmer"
-    ],
-    "awards": []
-  },
-  {
-    "id": 1040,
-    "title": "В зеркале Симурга. Сабир Гейбатов",
-    "caption": "В зеркале Симурга. Сабир Гейбатов\nhttps://simurg.mkalamuseum.ru\n\n#спецпроект #искусство #история #музей #readymag #nonobjectiveworks\nСпасибо за ссылку @readymag_official",
-    "image": "data/images/1040.jpg",
-    "tags": [
-      "спецпроект",
-      "искусство",
-      "история",
-      "музей",
-      "readymag",
-      "nonobjectiveworks"
-    ],
-    "url": "https://simurg.mkalamuseum.ru",
-    "date": 1643194882,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "iskusstvo",
-      "istoriya",
-      "muzei",
-      "readymag",
-      "nonobjectiveworks"
     ],
     "awards": []
   }

@@ -1,5 +1,25 @@
 [
   {
+    "id": 467,
+    "title": "Мятный JOE",
+    "caption": "Мятный JOE\nhttps://mintijoe.ru/\n\n#промо #prominado",
+    "image": "data/images/467.jpg",
+    "tags": [
+      "промо",
+      "prominado"
+    ],
+    "url": "https://mintijoe.ru/",
+    "date": 1552298406,
+    "edit_date": 1583423601,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "prominado"
+    ],
+    "awards": []
+  },
+  {
     "id": 461,
     "title": "Co loft",
     "image": "data/images/461.jpg",
@@ -381,27 +401,6 @@
       "nedvizhimost",
       "promo",
       "greencow"
-    ],
-    "awards": []
-  },
-  {
-    "id": 338,
-    "title": "SpicyNoSpicy",
-    "image": "data/images/338.jpg",
-    "tags": [
-      "промо",
-      "еда",
-      "thefirstthelast"
-    ],
-    "url": "https://spicynospicy.com.ua",
-    "date": 1540807212,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "yeda",
-      "thefirstthelast"
     ],
     "awards": []
   }
