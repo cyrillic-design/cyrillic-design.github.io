@@ -1,5 +1,28 @@
 [
   {
+    "id": 860,
+    "title": "Troove",
+    "caption": "Troove\nhttps://troove.ru/\n\n#промо #сервис #приложение\nСпасибо за ссылку @Hovsky",
+    "image": "data/images/860.jpg",
+    "tags": [
+      "промо",
+      "сервис",
+      "приложение"
+    ],
+    "url": "https://troove.ru/",
+    "date": 1608458406,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "servis",
+      "prilozhenie"
+    ],
+    "awards": []
+  },
+  {
     "id": 859,
     "title": "МТС Твой бизнес — Квиз",
     "caption": "МТС Твой бизнес — Квиз\nhttps://tb.mts.ru/quiz/\n\n#финансы #сервис #игра #бизнес\nСпасибо за ссылку @stasplkv",
@@ -450,27 +473,6 @@
       "spetsproekt",
       "obrazovanie",
       "kruzhok"
-    ],
-    "awards": []
-  },
-  {
-    "id": 839,
-    "title": "Барьер очистители для воды",
-    "caption": "Барьер очистители для воды\nhttps://wd.barrier.ru/\n\n#промо #max\nСпасибо за ссылку @max_kanalchik",
-    "image": "data/images/839.jpg",
-    "tags": [
-      "промо",
-      "max"
-    ],
-    "url": "https://wd.barrier.ru/",
-    "date": 1606896008,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "max"
     ],
     "awards": []
   }

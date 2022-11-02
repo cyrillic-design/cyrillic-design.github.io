@@ -1,5 +1,28 @@
 [
   {
+    "id": 1063,
+    "title": "Рядом",
+    "caption": "Рядом\nhttps://ryadom.media\n\n#медиа #журнал #город\nСпасибо за ссылку @rsjhn",
+    "image": "data/images/1063.jpg",
+    "tags": [
+      "медиа",
+      "журнал",
+      "город"
+    ],
+    "url": "https://ryadom.media",
+    "date": 1652001944,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "media",
+      "zhurnal",
+      "gorod"
+    ],
+    "awards": []
+  },
+  {
     "id": 1062,
     "title": "Страдающего Средневековья",
     "caption": "Страдающего Средневековья\nhttps://sufferingmedieval.ru\n\n#спецпроект #музей #readymag #nonobjectiveworks\nСпасибо за ссылку @readymag_official",
@@ -450,35 +473,6 @@
       "iskusstvo",
       "tilda",
       "nikolaimikhalev"
-    ],
-    "awards": []
-  },
-  {
-    "id": 1042,
-    "title": "Теория художественных пространств В.А. Фаворского и П.А. Флоренского",
-    "caption": "Теория художественных пространств В.А. Фаворского и П.А. Флоренского\nhttps://favorsky-florensky.tilda.ws\n\n#спецпроект #история #искусство #культура #tilda #анямельник\nСпасибо за ссылку @villyfok",
-    "image": "data/images/1042.jpg",
-    "tags": [
-      "спецпроект",
-      "история",
-      "искусство",
-      "культура",
-      "tilda",
-      "анямельник"
-    ],
-    "url": "https://favorsky-florensky.tilda.ws",
-    "date": 1643468477,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "istoriya",
-      "iskusstvo",
-      "kultura",
-      "tilda",
-      "anyamelnik"
     ],
     "awards": []
   }
