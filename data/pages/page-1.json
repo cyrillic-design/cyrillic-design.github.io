@@ -1,5 +1,26 @@
 [
   {
+    "id": 1084,
+    "title": "Открытый офис",
+    "caption": "Открытый офис\nhttps://openyouroffice.ru\n\n#бизнес #readymag\nСпасибо за ссылку @readymag_official",
+    "image": "data/images/1084.jpg",
+    "tags": [
+      "бизнес",
+      "readymag"
+    ],
+    "url": "https://openyouroffice.ru",
+    "date": 1667904876,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "biznes",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 1083,
     "title": "Пинк",
     "caption": "Пинк\nhttps://pinks.agency\n\n#студия #агентство #tilda",
@@ -425,29 +446,6 @@
       "dizain",
       "meropriyatie",
       "obrazovanie",
-      "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 1064,
-    "title": "Кухня на районе",
-    "caption": "Кухня на районе\nhttps://logo.localkitchen.ru/\n\n#дизайн #брендинг #readymag\nСпасибо за ссылку @AndyAbramov",
-    "image": "data/images/1064.jpg",
-    "tags": [
-      "дизайн",
-      "брендинг",
-      "readymag"
-    ],
-    "url": "https://logo.localkitchen.ru/",
-    "date": 1653338567,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "dizain",
-      "brending",
       "readymag"
     ],
     "awards": []

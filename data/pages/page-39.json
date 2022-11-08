@@ -1,5 +1,26 @@
 [
   {
+    "id": 257,
+    "title": "2018 FORMULA 1 AZERBAIJAN GRAND PRIX",
+    "image": "data/images/257.jpg",
+    "tags": [
+      "спорт",
+      "мероприятие",
+      "chulakov"
+    ],
+    "url": "https://www.bakucitycircuit.com/ru",
+    "date": 1533376805,
+    "edit_date": 1583185435,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "sport",
+      "meropriyatie",
+      "chulakov"
+    ],
+    "awards": []
+  },
+  {
     "id": 256,
     "title": "MADS",
     "image": "data/images/256.jpg",
@@ -372,26 +393,6 @@
       "bank",
       "finansi",
       "aic"
-    ],
-    "awards": []
-  },
-  {
-    "id": 237,
-    "title": "Группа компаний «Грейн Холдинг»",
-    "caption": "Группа компаний «Грейн Холдинг»\nhttp://grainholding.ru/\n\n#производство #artlebedev",
-    "image": "data/images/237.jpg",
-    "tags": [
-      "производство",
-      "artlebedev"
-    ],
-    "url": "http://grainholding.ru/",
-    "date": 1531648809,
-    "edit_date": 1583247383,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "proizvodstvo",
-      "artlebedev"
     ],
     "awards": []
   }

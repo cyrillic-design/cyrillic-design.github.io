@@ -1,5 +1,24 @@
 [
   {
+    "id": 603,
+    "title": "Атлас ВМаяковский",
+    "image": "data/images/603.jpg",
+    "tags": [
+      "мероприятие",
+      "groznovco"
+    ],
+    "url": "http://vmayakovsky.com/",
+    "date": 1571047236,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "groznovco"
+    ],
+    "awards": []
+  },
+  {
     "id": 602,
     "title": "Briket Market",
     "image": "data/images/602.jpg",
@@ -364,23 +383,6 @@
       "magazin",
       "servis",
       "artlebedev"
-    ],
-    "awards": []
-  },
-  {
-    "id": 579,
-    "title": "Магазин КликКлак",
-    "image": "data/images/579.jpg",
-    "tags": [
-      "магазин"
-    ],
-    "url": "https://klikklak.shop/",
-    "date": 1567936815,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin"
     ],
     "awards": []
   }

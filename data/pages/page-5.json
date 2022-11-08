@@ -1,5 +1,26 @@
 [
   {
+    "id": 1002,
+    "title": "Skysmart",
+    "caption": "Skysmart\nhttps://skysmart.ru\n\n#образование #сервис\nСпасибо за ссылку @kirilltarelkin",
+    "image": "data/images/1002.jpg",
+    "tags": [
+      "образование",
+      "сервис"
+    ],
+    "url": "https://skysmart.ru",
+    "date": 1633083431,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "servis"
+    ],
+    "awards": []
+  },
+  {
     "id": 1001,
     "title": "BoldItalic",
     "caption": "BoldItalic\nhttps://bolditalic.type.school\n\n#образование #мероприятие #tilda #дмитрийопалев\nСпасибо за ссылку @masterlobster",
@@ -454,27 +475,6 @@
       "rabota",
       "yandeks",
       "whiterussianstudio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 979,
-    "title": "4 истории про то, что мы любим",
-    "caption": "4 истории про то, что мы любим\nhttps://4stories.apokrif.media/\n\n#спецпроект #pixeljamstudio",
-    "image": "data/images/979.jpg",
-    "tags": [
-      "спецпроект",
-      "pixeljamstudio"
-    ],
-    "url": "https://4stories.apokrif.media/",
-    "date": 1628276266,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "pixeljamstudio"
     ],
     "awards": []
   }

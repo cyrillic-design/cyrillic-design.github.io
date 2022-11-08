@@ -14955,5 +14955,21 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "1084": {
+    "id": 1084,
+    "title": "Открытый офис",
+    "caption": "Открытый офис\nhttps://openyouroffice.ru\n\n#бизнес #readymag\nСпасибо за ссылку @readymag_official",
+    "image": "1084.jpg",
+    "tags": [
+      "бизнес",
+      "readymag"
+    ],
+    "url": "https://openyouroffice.ru",
+    "date": 1667904876,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
