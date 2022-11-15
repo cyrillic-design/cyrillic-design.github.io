@@ -1,5 +1,30 @@
 [
   {
+    "id": 980,
+    "title": "Создавайте Финтех с нуля",
+    "caption": "Создавайте Финтех с нуля\nhttps://yandexfintech.ru/\n\n#hr #работа #яндекс #whiterussianstudio",
+    "image": "data/images/980.jpg",
+    "tags": [
+      "hr",
+      "работа",
+      "яндекс",
+      "whiterussianstudio"
+    ],
+    "url": "https://yandexfintech.ru/",
+    "date": 1628701843,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "hr",
+      "rabota",
+      "yandeks",
+      "whiterussianstudio"
+    ],
+    "awards": []
+  },
+  {
     "id": 979,
     "title": "4 истории про то, что мы любим",
     "caption": "4 истории про то, что мы любим\nhttps://4stories.apokrif.media/\n\n#спецпроект #pixeljamstudio",
@@ -445,34 +470,6 @@
       "promo",
       "webflow",
       "methodzero"
-    ],
-    "awards": []
-  },
-  {
-    "id": 957,
-    "title": "Навигационный и информационный шрифт Ижевска IZH 260 A/T",
-    "caption": "Навигационный и информационный шрифт Ижевска IZH 260 A/T\nhttp://izh.design/\n\n#шрифт #город #брендинг #tilda #paratype",
-    "image": "data/images/957.jpg",
-    "tags": [
-      "шрифт",
-      "город",
-      "брендинг",
-      "tilda",
-      "paratype"
-    ],
-    "url": "http://izh.design/",
-    "date": 1623602924,
-    "edit_date": 1653375136,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "shrift",
-      "gorod",
-      "brending",
-      "tilda",
-      "paratype"
     ],
     "awards": []
   }

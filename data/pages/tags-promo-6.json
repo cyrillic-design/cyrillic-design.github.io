@@ -1,5 +1,26 @@
 [
   {
+    "id": 340,
+    "title": "Barkli Gallery",
+    "image": "data/images/340.jpg",
+    "tags": [
+      "недвижимость",
+      "промо",
+      "greencow"
+    ],
+    "url": "http://barkligallery.ru",
+    "date": 1540980017,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "nedvizhimost",
+      "promo",
+      "greencow"
+    ],
+    "awards": []
+  },
+  {
     "id": 338,
     "title": "SpicyNoSpicy",
     "image": "data/images/338.jpg",
@@ -394,27 +415,6 @@
       "promo",
       "lyudi",
       "mustapp"
-    ],
-    "awards": []
-  },
-  {
-    "id": 192,
-    "title": "45/60",
-    "image": "data/images/192.jpg",
-    "tags": [
-      "промо",
-      "ресторан",
-      "еда"
-    ],
-    "url": "http://45-60.ru/",
-    "date": 1527847218,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "restoran",
-      "yeda"
     ],
     "awards": []
   }

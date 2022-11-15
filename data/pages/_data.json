@@ -14971,5 +14971,21 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "1085": {
+    "id": 1085,
+    "title": "Rose Family",
+    "caption": "Rose Family\nhttps://rosefamily.com.ua\n\n#промо #thefirstthelast",
+    "image": "1085.jpg",
+    "tags": [
+      "промо",
+      "thefirstthelast"
+    ],
+    "url": "https://rosefamily.com.ua",
+    "date": 1668503188,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
