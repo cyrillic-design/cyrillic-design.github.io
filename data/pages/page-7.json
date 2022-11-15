@@ -1,5 +1,28 @@
 [
   {
+    "id": 958,
+    "title": "Simucube 2",
+    "caption": "Simucube 2\nhttps://dudarevmotorsport.ru/simucube/\n\n#промо #webflow #methodzero\nСпасибо за ссылку @boris_zagor",
+    "image": "data/images/958.jpg",
+    "tags": [
+      "промо",
+      "webflow",
+      "methodzero"
+    ],
+    "url": "https://dudarevmotorsport.ru/simucube/",
+    "date": 1623760090,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "webflow",
+      "methodzero"
+    ],
+    "awards": []
+  },
+  {
     "id": 957,
     "title": "Навигационный и информационный шрифт Ижевска IZH 260 A/T",
     "caption": "Навигационный и информационный шрифт Ижевска IZH 260 A/T\nhttp://izh.design/\n\n#шрифт #город #брендинг #tilda #paratype",
@@ -429,27 +452,6 @@
       "istoriya",
       "muzika",
       "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 931,
-    "title": "Свои",
-    "caption": "Свои\nhttps://svoi.io/\n\n#журнал #недвижимость",
-    "image": "data/images/931.jpg",
-    "tags": [
-      "журнал",
-      "недвижимость"
-    ],
-    "url": "https://svoi.io/",
-    "date": 1620640867,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "zhurnal",
-      "nedvizhimost"
     ],
     "awards": []
   }

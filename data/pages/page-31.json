@@ -1,5 +1,22 @@
 [
   {
+    "id": 427,
+    "title": "RETROSUPERFUTURE",
+    "image": "data/images/427.jpg",
+    "tags": [
+      "магазин"
+    ],
+    "url": "https://retrosuperfuture.ru/",
+    "date": 1548928803,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin"
+    ],
+    "awards": []
+  },
+  {
     "id": 426,
     "title": "Учебник по веб-анимации",
     "image": "data/images/426.jpg",
@@ -374,27 +391,6 @@
       "dizain",
       "readymag",
       "dmitriikuchev"
-    ],
-    "awards": []
-  },
-  {
-    "id": 407,
-    "title": "Wink",
-    "image": "data/images/407.jpg",
-    "tags": [
-      "промо",
-      "сервис",
-      "ростелеком"
-    ],
-    "url": "https://wink.rt.ru/apps/",
-    "date": 1547200825,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "servis",
-      "rostelekom"
     ],
     "awards": []
   }

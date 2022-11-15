@@ -1,5 +1,32 @@
 [
   {
+    "id": 1026,
+    "title": "Тёмная сторона шрифта",
+    "caption": "Тёмная сторона шрифта\nhttps://darkside.paratype.ru\n\n#образование #дизайн #readymag #paratype #мариякасаткина\nСпасибо за ссылку @typeschool",
+    "image": "data/images/1026.jpg",
+    "tags": [
+      "образование",
+      "дизайн",
+      "readymag",
+      "paratype",
+      "мариякасаткина"
+    ],
+    "url": "https://darkside.paratype.ru",
+    "date": 1638378588,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "dizain",
+      "readymag",
+      "paratype",
+      "mariyakasatkina"
+    ],
+    "awards": []
+  },
+  {
     "id": 1024,
     "title": "Дэни Купа в офисе",
     "caption": "Дэни Купа в офисе\nhttps://skrepy.ooo\n\n#промо #заглушка #readymag #кириллродин\nСпасибо за ссылку @kirillrodin",
@@ -450,29 +477,6 @@
     "isRemoved": false,
     "slugs": [
       "portfolio",
-      "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 964,
-    "title": "Приложение Apt",
-    "caption": "Приложение Apt\nhttps://joinapt.app/\n\n#приложение #сервис #readymag",
-    "image": "data/images/964.jpg",
-    "tags": [
-      "приложение",
-      "сервис",
-      "readymag"
-    ],
-    "url": "https://joinapt.app/",
-    "date": 1625063665,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "prilozhenie",
-      "servis",
       "readymag"
     ],
     "awards": []

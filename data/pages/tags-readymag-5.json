@@ -1,5 +1,28 @@
 [
   {
+    "id": 827,
+    "title": "Союз",
+    "caption": "Союз\nhttp://soyuz.moscow/\n\n#портфолио #readymag #trudagecy",
+    "image": "data/images/827.jpg",
+    "tags": [
+      "портфолио",
+      "readymag",
+      "trudagecy"
+    ],
+    "url": "http://soyuz.moscow/",
+    "date": 1606374719,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "readymag",
+      "trudagecy"
+    ],
+    "awards": []
+  },
+  {
     "id": 819,
     "title": "DAAT Production",
     "caption": "DAAT Production\nhttps://daat.pro/\n\n#портфолио #студия #readymag #saint",
@@ -456,29 +479,6 @@
       "istoriya",
       "readymag",
       "nadyapetrova"
-    ],
-    "awards": []
-  },
-  {
-    "id": 753,
-    "title": "Bolditalic — выпуск 2020",
-    "caption": "Bolditalic — выпуск 2020\nhttps://2020.bolditalic.type.school/\n\n#образование #readymag #владимирпушкарёв\nСпасибо за ссылку @VPuschkarev",
-    "image": "data/images/753.jpg",
-    "tags": [
-      "образование",
-      "readymag",
-      "владимирпушкарёв"
-    ],
-    "url": "https://2020.bolditalic.type.school/",
-    "date": 1595671205,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "readymag",
-      "vladimirpushkaryov"
     ],
     "awards": []
   }
