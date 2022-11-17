@@ -1,5 +1,26 @@
 [
   {
+    "id": 1087,
+    "title": "OneSoil",
+    "caption": "OneSoil\nhttps://onesoil.ai/ru\n\n#производство #wrs\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/1087.jpg",
+    "tags": [
+      "производство",
+      "wrs"
+    ],
+    "url": "https://onesoil.ai/ru",
+    "date": 1668664885,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "wrs"
+    ],
+    "awards": []
+  },
+  {
     "id": 1086,
     "title": "ниоткуда",
     "caption": "ниоткуда\nhttps://niotkuda.com\n\n#спецпроект #readymag #димашалаев",
@@ -419,27 +440,6 @@
       "prilozhenie",
       "obrazovanie",
       "meropriyatie"
-    ],
-    "awards": []
-  },
-  {
-    "id": 1067,
-    "title": "Agami Ceramics",
-    "caption": "Agami Ceramics\nhttps://agami.moscow\n\n#магазин #производство\nСпасибо за ссылку @masterlobster",
-    "image": "data/images/1067.jpg",
-    "tags": [
-      "магазин",
-      "производство"
-    ],
-    "url": "https://agami.moscow",
-    "date": 1654090563,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "proizvodstvo"
     ],
     "awards": []
   }

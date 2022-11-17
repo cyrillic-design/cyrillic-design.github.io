@@ -1,5 +1,28 @@
 [
   {
+    "id": 610,
+    "title": "Кулинарные рецепты – САФ",
+    "image": "data/images/610.jpg",
+    "tags": [
+      "журнал",
+      "производство",
+      "еда",
+      "nimax"
+    ],
+    "url": "https://safclub.ru/",
+    "date": 1571652017,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "proizvodstvo",
+      "yeda",
+      "nimax"
+    ],
+    "awards": []
+  },
+  {
     "id": 556,
     "title": "Койот",
     "image": "data/images/556.jpg",
@@ -380,27 +403,6 @@
     "slugs": [
       "proizvodstvo",
       "artlebedev"
-    ],
-    "awards": []
-  },
-  {
-    "id": 234,
-    "title": "Фасадные решения",
-    "image": "data/images/234.jpg",
-    "tags": [
-      "услуги",
-      "производство",
-      "астрошок"
-    ],
-    "url": "http://facadesolutions.ru/",
-    "date": 1531389622,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "uslugi",
-      "proizvodstvo",
-      "astroshok"
     ],
     "awards": []
   }

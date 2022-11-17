@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1087,
+    "title": "OneSoil",
+    "caption": "OneSoil\nhttps://onesoil.ai/ru\n\n#производство #wrs\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/1087.jpg",
+    "tags": [
+      "производство",
+      "wrs"
+    ],
+    "url": "https://onesoil.ai/ru",
+    "date": 1668664885,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "wrs"
+    ],
+    "awards": []
+  }
+]

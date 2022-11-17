@@ -1,5 +1,30 @@
 [
   {
+    "id": 819,
+    "title": "DAAT Production",
+    "caption": "DAAT Production\nhttps://daat.pro/\n\n#портфолио #студия #readymag #saint",
+    "image": "data/images/819.jpg",
+    "tags": [
+      "портфолио",
+      "студия",
+      "readymag",
+      "saint"
+    ],
+    "url": "https://daat.pro/",
+    "date": 1605688759,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "studiya",
+      "readymag",
+      "saint"
+    ],
+    "awards": []
+  },
+  {
     "id": 818,
     "title": "Интернет журнал Materia",
     "caption": "Интернет журнал Materia\nhttps://themateria.pro/\n\n#журнал #люди\nСпасибо за ссылку @dimaglumov",
@@ -427,29 +452,6 @@
     "slugs": [
       "portfolio",
       "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 794,
-    "title": "Голубой Вагон",
-    "caption": "Голубой Вагон\nhttps://diletant.media/spec/goluboivagon\n\n#спецпроект #история #дилетант\nСпасибо за ссылку @alexgolyanov",
-    "image": "data/images/794.jpg",
-    "tags": [
-      "спецпроект",
-      "история",
-      "дилетант"
-    ],
-    "url": "https://diletant.media/spec/goluboivagon",
-    "date": 1603965611,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "istoriya",
-      "diletant"
     ],
     "awards": []
   }

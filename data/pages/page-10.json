@@ -1,5 +1,28 @@
 [
   {
+    "id": 888,
+    "title": "Bang Bang Education",
+    "caption": "Bang Bang Education\nhttps://bangbangeducation.ru/\n\n#образование #electricredstudio #astroshock\nСпасибо за ссылку @VPuschkarev",
+    "image": "data/images/888.jpg",
+    "tags": [
+      "образование",
+      "electricredstudio",
+      "astroshock"
+    ],
+    "url": "https://bangbangeducation.ru/",
+    "date": 1612356613,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "electricredstudio",
+      "astroshock"
+    ],
+    "awards": []
+  },
+  {
     "id": 886,
     "title": "2-я Триеннале российского современного искусства",
     "caption": "2-я Триеннале российского современного искусства\nhttps://triennial.garagemca.org/ru/\n\n#мероприятие #искусство #materialist #perushevandkhmelev\nСпасибо за ссылку @gurick",
@@ -427,27 +450,6 @@
       "pomoshch",
       "prilozhenie",
       "ony"
-    ],
-    "awards": []
-  },
-  {
-    "id": 864,
-    "title": "Студия genue",
-    "caption": "Студия genue\nhttps://genue.ru/\n\n#портфолио #update",
-    "image": "data/images/864.jpg",
-    "tags": [
-      "портфолио",
-      "update"
-    ],
-    "url": "https://genue.ru/",
-    "date": 1608804008,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio",
-      "update"
     ],
     "awards": []
   }

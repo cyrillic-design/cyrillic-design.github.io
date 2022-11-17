@@ -1,5 +1,22 @@
 [
   {
+    "id": 583,
+    "title": "Косметика Тины Канделаки",
+    "image": "data/images/583.jpg",
+    "tags": [
+      "магазин"
+    ],
+    "url": "https://ansaligy.com/",
+    "date": 1568196030,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin"
+    ],
+    "awards": []
+  },
+  {
     "id": 581,
     "title": "P.Y.E",
     "image": "data/images/581.jpg",
@@ -360,26 +377,6 @@
     "slugs": [
       "portfolio",
       "zaglushka"
-    ],
-    "awards": []
-  },
-  {
-    "id": 561,
-    "title": "Портрет российской семьи",
-    "caption": "Портрет российской семьи\nhttps://ria.ru/20190805/1557121163.html\n\n#спецпроект #риа",
-    "image": "data/images/561.jpg",
-    "tags": [
-      "спецпроект",
-      "риа"
-    ],
-    "url": "https://ria.ru/20190805/1557121163.html",
-    "date": 1565085634,
-    "edit_date": 1583247387,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "ria"
     ],
     "awards": []
   }

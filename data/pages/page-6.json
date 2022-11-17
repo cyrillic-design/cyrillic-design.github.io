@@ -1,5 +1,28 @@
 [
   {
+    "id": 982,
+    "title": "Команда цифрового дизайна PRAGMATICA",
+    "caption": "Команда цифрового дизайна PRAGMATICA\nhttps://pragmatica.design/\n\n#портфолио #студия #readymag\nСпасибо за ссылку @censor_online",
+    "image": "data/images/982.jpg",
+    "tags": [
+      "портфолио",
+      "студия",
+      "readymag"
+    ],
+    "url": "https://pragmatica.design/",
+    "date": 1629227756,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "studiya",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 981,
     "title": "Не надо стесняться",
     "caption": "Не надо стесняться\nhttps://nns.i-m-i.ru/\n\n #спецпроект #музыка #ими\nСпасибо за ссылку @AndyAbramov",
@@ -441,35 +464,6 @@
     "slugs": [
       "portfolio",
       "maksimaksenov"
-    ],
-    "awards": []
-  },
-  {
-    "id": 959,
-    "title": "Про Егорьевск",
-    "caption": "Про Егорьевск\nhttps://proegoryevsk.ru/\n\n#музей #город #история #спецпроект #tilda #naaustudio\nСпасибо за ссылку @leoleonov",
-    "image": "data/images/959.jpg",
-    "tags": [
-      "музей",
-      "город",
-      "история",
-      "спецпроект",
-      "tilda",
-      "naaustudio"
-    ],
-    "url": "https://proegoryevsk.ru/",
-    "date": 1623869301,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "muzei",
-      "gorod",
-      "istoriya",
-      "spetsproekt",
-      "tilda",
-      "naaustudio"
     ],
     "awards": []
   }
