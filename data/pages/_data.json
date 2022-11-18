@@ -15020,5 +15020,21 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "1088": {
+    "id": 1088,
+    "title": "Хантфлоу",
+    "caption": "Хантфлоу\nhttps://huntflow.ru\n\n#сервис #hr\nСпасибо за ссылку @AndyAbramov",
+    "image": "1088.jpg",
+    "tags": [
+      "сервис",
+      "hr"
+    ],
+    "url": "https://huntflow.ru",
+    "date": 1668750396,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

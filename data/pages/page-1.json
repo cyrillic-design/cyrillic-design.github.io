@@ -1,5 +1,26 @@
 [
   {
+    "id": 1088,
+    "title": "Хантфлоу",
+    "caption": "Хантфлоу\nhttps://huntflow.ru\n\n#сервис #hr\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/1088.jpg",
+    "tags": [
+      "сервис",
+      "hr"
+    ],
+    "url": "https://huntflow.ru",
+    "date": 1668750396,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "hr"
+    ],
+    "awards": []
+  },
+  {
     "id": 1087,
     "title": "OneSoil",
     "caption": "OneSoil\nhttps://onesoil.ai/ru\n\n#производство #wrs\nСпасибо за ссылку @AndyAbramov",
@@ -415,31 +436,6 @@
     "slugs": [
       "obrazovanie",
       "tilda"
-    ],
-    "awards": []
-  },
-  {
-    "id": 1068,
-    "title": "Хайер",
-    "caption": "Хайер\nhttps://haierapp.ru\n\n#сервис #приложение #образование #мероприятие\nСпасибо за ссылку @winkeyless",
-    "image": "data/images/1068.jpg",
-    "tags": [
-      "сервис",
-      "приложение",
-      "образование",
-      "мероприятие"
-    ],
-    "url": "https://haierapp.ru",
-    "date": 1654337130,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "prilozhenie",
-      "obrazovanie",
-      "meropriyatie"
     ],
     "awards": []
   }

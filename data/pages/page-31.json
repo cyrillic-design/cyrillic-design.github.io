@@ -1,5 +1,26 @@
 [
   {
+    "id": 429,
+    "title": "БКС Банк",
+    "image": "data/images/429.jpg",
+    "tags": [
+      "финансы",
+      "банк",
+      "aic"
+    ],
+    "url": "https://beta.bcs-bank.com/",
+    "date": 1549360822,
+    "edit_date": 1583185362,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "finansi",
+      "bank",
+      "aic"
+    ],
+    "awards": []
+  },
+  {
     "id": 428,
     "title": "Hochbach GmbH",
     "image": "data/images/428.jpg",
@@ -370,23 +391,6 @@
     "slugs": [
       "servis",
       "itogi"
-    ],
-    "awards": []
-  },
-  {
-    "id": 409,
-    "title": "Evrone",
-    "image": "data/images/409.jpg",
-    "tags": [
-      "портфолио"
-    ],
-    "url": "https://evrone.ru/",
-    "date": 1547373613,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio"
     ],
     "awards": []
   }

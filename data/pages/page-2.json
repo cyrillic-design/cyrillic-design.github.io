@@ -1,5 +1,30 @@
 [
   {
+    "id": 1068,
+    "title": "Хайер",
+    "caption": "Хайер\nhttps://haierapp.ru\n\n#сервис #приложение #образование #мероприятие\nСпасибо за ссылку @winkeyless",
+    "image": "data/images/1068.jpg",
+    "tags": [
+      "сервис",
+      "приложение",
+      "образование",
+      "мероприятие"
+    ],
+    "url": "https://haierapp.ru",
+    "date": 1654337130,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "prilozhenie",
+      "obrazovanie",
+      "meropriyatie"
+    ],
+    "awards": []
+  },
+  {
     "id": 1067,
     "title": "Agami Ceramics",
     "caption": "Agami Ceramics\nhttps://agami.moscow\n\n#магазин #производство\nСпасибо за ссылку @masterlobster",
@@ -448,27 +473,6 @@
     "slugs": [
       "magazin",
       "dostavka"
-    ],
-    "awards": []
-  },
-  {
-    "id": 1047,
-    "title": "МТС Знаем лично",
-    "caption": "МТС Знаем лично\nhttps://znaem.mts.ru\n\n#сервис #бизнес\nСпасибо за ссылку @sergikonnikov",
-    "image": "data/images/1047.jpg",
-    "tags": [
-      "сервис",
-      "бизнес"
-    ],
-    "url": "https://znaem.mts.ru",
-    "date": 1643868133,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "biznes"
     ],
     "awards": []
   }

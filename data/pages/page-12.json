@@ -1,5 +1,28 @@
 [
   {
+    "id": 844,
+    "title": "Дизайн в Mail ru Group",
+    "caption": "Дизайн в Mail ru Group\nhttps://design.mail.ru/\n\n#брендинг #дизайн #гайд\nСпасибо за ссылку @Hovsky",
+    "image": "data/images/844.jpg",
+    "tags": [
+      "брендинг",
+      "дизайн",
+      "гайд"
+    ],
+    "url": "https://design.mail.ru/",
+    "date": 1607155206,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "brending",
+      "dizain",
+      "gaid"
+    ],
+    "awards": []
+  },
+  {
     "id": 843,
     "title": "Журнал Винвестора",
     "caption": "Журнал Винвестора\nhttps://winvestor.media/\n\n#журнал #финансы #инвестиции\nСпасибо за ссылку @Dmitry_Shcherbyna",
@@ -416,31 +439,6 @@
     "isRemoved": false,
     "slugs": [
       "magazin"
-    ],
-    "awards": []
-  },
-  {
-    "id": 820,
-    "title": "LEVEL UP FORUM",
-    "caption": "LEVEL UP FORUM\nhttps://levelup-forum.ru/\n\n#мероприятие #образование #tilda #никитаковров",
-    "image": "data/images/820.jpg",
-    "tags": [
-      "мероприятие",
-      "образование",
-      "tilda",
-      "никитаковров"
-    ],
-    "url": "https://levelup-forum.ru/",
-    "date": 1605777222,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "meropriyatie",
-      "obrazovanie",
-      "tilda",
-      "nikitakovrov"
     ],
     "awards": []
   }

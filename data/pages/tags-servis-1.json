@@ -1,5 +1,26 @@
 [
   {
+    "id": 1088,
+    "title": "Хантфлоу",
+    "caption": "Хантфлоу\nhttps://huntflow.ru\n\n#сервис #hr\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/1088.jpg",
+    "tags": [
+      "сервис",
+      "hr"
+    ],
+    "url": "https://huntflow.ru",
+    "date": 1668750396,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "hr"
+    ],
+    "awards": []
+  },
+  {
     "id": 1071,
     "title": "Dprofile",
     "caption": "Dprofile\nhttps://dprofile.ru\n\n#сервис #дизайн #wemakefab",
@@ -444,27 +465,6 @@
       "dostavka",
       "readymag",
       "breadhead"
-    ],
-    "awards": []
-  },
-  {
-    "id": 909,
-    "title": "Everybook",
-    "caption": "Everybook\nhttps://everybook.ru/\n\n#сервис #приложение",
-    "image": "data/images/909.jpg",
-    "tags": [
-      "сервис",
-      "приложение"
-    ],
-    "url": "https://everybook.ru/",
-    "date": 1619425025,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "prilozhenie"
     ],
     "awards": []
   }

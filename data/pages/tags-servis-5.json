@@ -1,5 +1,24 @@
 [
   {
+    "id": 385,
+    "title": "Pure",
+    "image": "data/images/385.jpg",
+    "tags": [
+      "сервис",
+      "датинг"
+    ],
+    "url": "https://pure.sex/ru/",
+    "date": 1544608815,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "dating"
+    ],
+    "awards": []
+  },
+  {
     "id": 365,
     "title": "Международный аэропорт Шереметьево",
     "image": "data/images/365.jpg",
@@ -390,27 +409,6 @@
     "slugs": [
       "servis",
       "kino"
-    ],
-    "awards": []
-  },
-  {
-    "id": 222,
-    "title": "Яндекс.Касса",
-    "image": "data/images/222.jpg",
-    "tags": [
-      "финансы",
-      "бизнес",
-      "сервис"
-    ],
-    "url": "https://kassa.yandex.ru/",
-    "date": 1530352817,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "finansi",
-      "biznes",
-      "servis"
     ],
     "awards": []
   }
