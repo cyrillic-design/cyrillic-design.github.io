@@ -1,5 +1,28 @@
 [
   {
+    "id": 1089,
+    "title": "Cedro Agency",
+    "caption": "Cedro Agency\nhttps://www.cedro.agency\n\n#портфолио #агентство #webflow",
+    "image": "data/images/1089.jpg",
+    "tags": [
+      "портфолио",
+      "агентство",
+      "webflow"
+    ],
+    "url": "https://www.cedro.agency",
+    "date": 1669201749,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "agentstvo",
+      "webflow"
+    ],
+    "awards": []
+  },
+  {
     "id": 1083,
     "title": "Пинк",
     "caption": "Пинк\nhttps://pinks.agency\n\n#студия #агентство #tilda",
@@ -388,25 +411,6 @@
     "slugs": [
       "agentstvo",
       "dizain",
-      "portfolio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 266,
-    "title": "Proxima",
-    "image": "data/images/266.jpg",
-    "tags": [
-      "агентство",
-      "портфолио"
-    ],
-    "url": "https://proxima.agency/",
-    "date": 1534154410,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "agentstvo",
       "portfolio"
     ],
     "awards": []

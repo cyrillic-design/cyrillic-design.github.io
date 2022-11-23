@@ -1,5 +1,28 @@
 [
   {
+    "id": 1089,
+    "title": "Cedro Agency",
+    "caption": "Cedro Agency\nhttps://www.cedro.agency\n\n#портфолио #агентство #webflow",
+    "image": "data/images/1089.jpg",
+    "tags": [
+      "портфолио",
+      "агентство",
+      "webflow"
+    ],
+    "url": "https://www.cedro.agency",
+    "date": 1669201749,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "agentstvo",
+      "webflow"
+    ],
+    "awards": []
+  },
+  {
     "id": 1082,
     "title": "pinkman",
     "caption": "pinkman\nhttps://pinkman.ru\n\n#портфолио #студия #webflow\nСпасибо за ссылку @AndyAbramov",

@@ -1,5 +1,27 @@
 [
   {
+    "id": 1069,
+    "title": "Страдариум от Страдающего Средневековья",
+    "caption": "Страдариум от Страдающего Средневековья\nhttps://stradarium.ru\n\n#образование #tilda",
+    "image": "data/images/1069.jpg",
+    "tags": [
+      "образование",
+      "tilda"
+    ],
+    "url": "https://stradarium.ru",
+    "date": 1657036737,
+    "edit_date": 1658740145,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "tilda"
+    ],
+    "awards": []
+  },
+  {
     "id": 1068,
     "title": "Хайер",
     "caption": "Хайер\nhttps://haierapp.ru\n\n#сервис #приложение #образование #мероприятие\nСпасибо за ссылку @winkeyless",
@@ -452,27 +474,6 @@
       "portfolio",
       "readymag",
       "update"
-    ],
-    "awards": []
-  },
-  {
-    "id": 1048,
-    "title": "Gregori",
-    "caption": "Gregori\nhttps://italian-food.ru\n\n#магазин #доставка\nСпасибо за ссылку @vsevolodseregin",
-    "image": "data/images/1048.jpg",
-    "tags": [
-      "магазин",
-      "доставка"
-    ],
-    "url": "https://italian-food.ru",
-    "date": 1643886098,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "dostavka"
     ],
     "awards": []
   }

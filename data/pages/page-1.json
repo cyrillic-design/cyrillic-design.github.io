@@ -1,5 +1,28 @@
 [
   {
+    "id": 1089,
+    "title": "Cedro Agency",
+    "caption": "Cedro Agency\nhttps://www.cedro.agency\n\n#портфолио #агентство #webflow",
+    "image": "data/images/1089.jpg",
+    "tags": [
+      "портфолио",
+      "агентство",
+      "webflow"
+    ],
+    "url": "https://www.cedro.agency",
+    "date": 1669201749,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "agentstvo",
+      "webflow"
+    ],
+    "awards": []
+  },
+  {
     "id": 1088,
     "title": "Хантфлоу",
     "caption": "Хантфлоу\nhttps://huntflow.ru\n\n#сервис #hr\nСпасибо за ссылку @AndyAbramov",
@@ -414,28 +437,6 @@
       "spetsproekt",
       "webflow",
       "redis"
-    ],
-    "awards": []
-  },
-  {
-    "id": 1069,
-    "title": "Страдариум от Страдающего Средневековья",
-    "caption": "Страдариум от Страдающего Средневековья\nhttps://stradarium.ru\n\n#образование #tilda",
-    "image": "data/images/1069.jpg",
-    "tags": [
-      "образование",
-      "tilda"
-    ],
-    "url": "https://stradarium.ru",
-    "date": 1657036737,
-    "edit_date": 1658740145,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "tilda"
     ],
     "awards": []
   }
