@@ -1,5 +1,28 @@
 [
   {
+    "id": 1090,
+    "title": "Vesna Capital Investment Fund",
+    "caption": "Vesna Capital Investment Fund\nhttps://www.vesna.capital\n\n#финансы #бизнес #readymag\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/1090.jpg",
+    "tags": [
+      "финансы",
+      "бизнес",
+      "readymag"
+    ],
+    "url": "https://www.vesna.capital",
+    "date": 1669267397,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "finansi",
+      "biznes",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 1084,
     "title": "Открытый офис",
     "caption": "Открытый офис\nhttps://openyouroffice.ru\n\n#бизнес #readymag\nСпасибо за ссылку @readymag_official",
@@ -430,28 +453,6 @@
       "finansi",
       "biznes",
       "bks"
-    ],
-    "awards": []
-  },
-  {
-    "id": 228,
-    "title": "Dumb Startups",
-    "caption": "Dumb Startups\nhttp://dumbstartup.co/\n\n#образование #люди #бизнес",
-    "image": "data/images/228.jpg",
-    "tags": [
-      "образование",
-      "люди",
-      "бизнес"
-    ],
-    "url": "http://dumbstartup.co/",
-    "date": 1530871218,
-    "edit_date": 1583417729,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "lyudi",
-      "biznes"
     ],
     "awards": []
   }

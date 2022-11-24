@@ -1,5 +1,28 @@
 [
   {
+    "id": 1090,
+    "title": "Vesna Capital Investment Fund",
+    "caption": "Vesna Capital Investment Fund\nhttps://www.vesna.capital\n\n#финансы #бизнес #readymag\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/1090.jpg",
+    "tags": [
+      "финансы",
+      "бизнес",
+      "readymag"
+    ],
+    "url": "https://www.vesna.capital",
+    "date": 1669267397,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "finansi",
+      "biznes",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 1086,
     "title": "ниоткуда",
     "caption": "ниоткуда\nhttps://niotkuda.com\n\n#спецпроект #readymag #димашалаев",
@@ -444,29 +467,6 @@
     "slugs": [
       "proizvodstvo",
       "magazin",
-      "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 1031,
-    "title": "ZAGOVOR",
-    "caption": "ZAGOVOR\nhttps://zagovor.design\n\n#подкаст #дизайн #readymag\nСпасибо за ссылку @AndyAbramov",
-    "image": "data/images/1031.jpg",
-    "tags": [
-      "подкаст",
-      "дизайн",
-      "readymag"
-    ],
-    "url": "https://zagovor.design",
-    "date": 1640082842,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "podkast",
-      "dizain",
       "readymag"
     ],
     "awards": []

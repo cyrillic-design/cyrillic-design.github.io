@@ -1,5 +1,28 @@
 [
   {
+    "id": 1090,
+    "title": "Vesna Capital Investment Fund",
+    "caption": "Vesna Capital Investment Fund\nhttps://www.vesna.capital\n\n#финансы #бизнес #readymag\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/1090.jpg",
+    "tags": [
+      "финансы",
+      "бизнес",
+      "readymag"
+    ],
+    "url": "https://www.vesna.capital",
+    "date": 1669267397,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "finansi",
+      "biznes",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 1089,
     "title": "Cedro Agency",
     "caption": "Cedro Agency\nhttps://www.cedro.agency\n\n#портфолио #агентство #webflow",
@@ -409,34 +432,6 @@
       "servis",
       "dizain",
       "wemakefab"
-    ],
-    "awards": []
-  },
-  {
-    "id": 1070,
-    "title": "Туры в культуры",
-    "caption": "Туры в культуры\nhttps://travel.yandex.ru/special/tours-to-cultures/\n\n#история #культура #спецпроект #webflow #redis",
-    "image": "data/images/1070.jpg",
-    "tags": [
-      "история",
-      "культура",
-      "спецпроект",
-      "webflow",
-      "redis"
-    ],
-    "url": "https://travel.yandex.ru/special/tours-to-cultures/",
-    "date": 1658736489,
-    "edit_date": 1658736631,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "istoriya",
-      "kultura",
-      "spetsproekt",
-      "webflow",
-      "redis"
     ],
     "awards": []
   }

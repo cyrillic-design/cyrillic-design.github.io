@@ -1,5 +1,28 @@
 [
   {
+    "id": 1090,
+    "title": "Vesna Capital Investment Fund",
+    "caption": "Vesna Capital Investment Fund\nhttps://www.vesna.capital\n\n#финансы #бизнес #readymag\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/1090.jpg",
+    "tags": [
+      "финансы",
+      "бизнес",
+      "readymag"
+    ],
+    "url": "https://www.vesna.capital",
+    "date": 1669267397,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "finansi",
+      "biznes",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 1036,
     "title": "MISSION:LUNA",
     "caption": "MISSION:LUNA\nhttps://www.missionluna.ru/\n\n#финансы #банк #сервис #webflow #pragmatica",
@@ -451,31 +474,6 @@
       "analitika",
       "finansi",
       "pinkman"
-    ],
-    "awards": []
-  },
-  {
-    "id": 487,
-    "title": "Работяга",
-    "image": "data/images/487.jpg",
-    "tags": [
-      "промо",
-      "игра",
-      "финансы",
-      "банк",
-      "рокетбанк"
-    ],
-    "url": "https://rabotyaga.rocketbank.ru/",
-    "date": 1554112835,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "igra",
-      "finansi",
-      "bank",
-      "roketbank"
     ],
     "awards": []
   }

@@ -15053,5 +15053,22 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "1090": {
+    "id": 1090,
+    "title": "Vesna Capital Investment Fund",
+    "caption": "Vesna Capital Investment Fund\nhttps://www.vesna.capital\n\n#финансы #бизнес #readymag\nСпасибо за ссылку @AndyAbramov",
+    "image": "1090.jpg",
+    "tags": [
+      "финансы",
+      "бизнес",
+      "readymag"
+    ],
+    "url": "https://www.vesna.capital",
+    "date": 1669267397,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

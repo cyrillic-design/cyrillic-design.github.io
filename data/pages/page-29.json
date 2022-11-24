@@ -1,5 +1,22 @@
 [
   {
+    "id": 477,
+    "title": "POTEHA developers",
+    "image": "data/images/477.jpg",
+    "tags": [
+      "портфолио"
+    ],
+    "url": "https://potehadevs.com",
+    "date": 1553162411,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio"
+    ],
+    "awards": []
+  },
+  {
     "id": 476,
     "title": "За каждым успехом стоит мечта",
     "image": "data/images/476.jpg",
@@ -388,23 +405,6 @@
       "spetsproekt",
       "zdorove",
       "mamikhlapinatana"
-    ],
-    "awards": []
-  },
-  {
-    "id": 455,
-    "title": "Skyeng job review",
-    "image": "data/images/455.jpg",
-    "tags": [
-      "hr"
-    ],
-    "url": "https://readymag.com/u49498434/1315502/",
-    "date": 1551261614,
-    "edit_date": 1583185362,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "hr"
     ],
     "awards": []
   }
