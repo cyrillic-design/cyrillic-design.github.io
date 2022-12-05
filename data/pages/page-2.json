@@ -1,5 +1,28 @@
 [
   {
+    "id": 1071,
+    "title": "Dprofile",
+    "caption": "Dprofile\nhttps://dprofile.ru\n\n#сервис #дизайн #wemakefab",
+    "image": "data/images/1071.jpg",
+    "tags": [
+      "сервис",
+      "дизайн",
+      "wemakefab"
+    ],
+    "url": "https://dprofile.ru",
+    "date": 1658773203,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "dizain",
+      "wemakefab"
+    ],
+    "awards": []
+  },
+  {
     "id": 1070,
     "title": "Туры в культуры",
     "caption": "Туры в культуры\nhttps://travel.yandex.ru/special/tours-to-cultures/\n\n#история #культура #спецпроект #webflow #redis",
@@ -452,33 +475,6 @@
       "prilozhenie",
       "zdorove",
       "sport"
-    ],
-    "awards": []
-  },
-  {
-    "id": 1050,
-    "title": "Паттерны дизайн-менеджмента",
-    "caption": "Паттерны дизайн-менеджмента\nhttps://www.dmpatterns.com\n\n#образование #мероприятие #webflow #pragmatica #николайиванов",
-    "image": "data/images/1050.jpg",
-    "tags": [
-      "образование",
-      "мероприятие",
-      "webflow",
-      "pragmatica",
-      "николайиванов"
-    ],
-    "url": "https://www.dmpatterns.com",
-    "date": 1644242522,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "meropriyatie",
-      "webflow",
-      "pragmatica",
-      "nikolaiivanov"
     ],
     "awards": []
   }

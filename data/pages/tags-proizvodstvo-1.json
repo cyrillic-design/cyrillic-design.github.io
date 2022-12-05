@@ -1,5 +1,28 @@
 [
   {
+    "id": 1091,
+    "title": "Bronitex",
+    "caption": "Bronitex\nhttps://bronitex.ru/\n \n#промо #производство #redcollar\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/1091.jpg",
+    "tags": [
+      "промо",
+      "производство",
+      "redcollar"
+    ],
+    "url": "https://bronitex.ru/",
+    "date": 1670259024,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "proizvodstvo",
+      "redcollar"
+    ],
+    "awards": []
+  },
+  {
     "id": 1087,
     "title": "OneSoil",
     "caption": "OneSoil\nhttps://onesoil.ai/ru\n\n#производство #wrs\nСпасибо за ссылку @AndyAbramov",
@@ -422,27 +445,6 @@
     "isRemoved": false,
     "slugs": [
       "fond",
-      "proizvodstvo"
-    ],
-    "awards": []
-  },
-  {
-    "id": 719,
-    "title": "Falafel books",
-    "caption": "Falafel books\nhttps://falafelbooks.com/\n\n#магазин #производство\nСпасибо за ссылку @AndyAbramov",
-    "image": "data/images/719.jpg",
-    "tags": [
-      "магазин",
-      "производство"
-    ],
-    "url": "https://falafelbooks.com/",
-    "date": 1587549639,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
       "proizvodstvo"
     ],
     "awards": []

@@ -1,5 +1,28 @@
 [
   {
+    "id": 1091,
+    "title": "Bronitex",
+    "caption": "Bronitex\nhttps://bronitex.ru/\n \n#промо #производство #redcollar\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/1091.jpg",
+    "tags": [
+      "промо",
+      "производство",
+      "redcollar"
+    ],
+    "url": "https://bronitex.ru/",
+    "date": 1670259024,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "proizvodstvo",
+      "redcollar"
+    ],
+    "awards": []
+  },
+  {
     "id": 1090,
     "title": "Vesna Capital Investment Fund",
     "caption": "Vesna Capital Investment Fund\nhttps://www.vesna.capital\n\n#финансы #бизнес #readymag\nСпасибо за ссылку @AndyAbramov",
@@ -409,29 +432,6 @@
       "magazin",
       "proizvodstvo",
       "tilda"
-    ],
-    "awards": []
-  },
-  {
-    "id": 1071,
-    "title": "Dprofile",
-    "caption": "Dprofile\nhttps://dprofile.ru\n\n#сервис #дизайн #wemakefab",
-    "image": "data/images/1071.jpg",
-    "tags": [
-      "сервис",
-      "дизайн",
-      "wemakefab"
-    ],
-    "url": "https://dprofile.ru",
-    "date": 1658773203,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "dizain",
-      "wemakefab"
     ],
     "awards": []
   }

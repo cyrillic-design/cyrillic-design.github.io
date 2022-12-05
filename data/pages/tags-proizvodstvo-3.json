@@ -1,5 +1,25 @@
 [
   {
+    "id": 237,
+    "title": "Группа компаний «Грейн Холдинг»",
+    "caption": "Группа компаний «Грейн Холдинг»\nhttp://grainholding.ru/\n\n#производство #artlebedev",
+    "image": "data/images/237.jpg",
+    "tags": [
+      "производство",
+      "artlebedev"
+    ],
+    "url": "http://grainholding.ru/",
+    "date": 1531648809,
+    "edit_date": 1583247383,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "artlebedev"
+    ],
+    "awards": []
+  },
+  {
     "id": 234,
     "title": "Фасадные решения",
     "image": "data/images/234.jpg",

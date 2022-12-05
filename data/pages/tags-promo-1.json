@@ -1,5 +1,28 @@
 [
   {
+    "id": 1091,
+    "title": "Bronitex",
+    "caption": "Bronitex\nhttps://bronitex.ru/\n \n#промо #производство #redcollar\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/1091.jpg",
+    "tags": [
+      "промо",
+      "производство",
+      "redcollar"
+    ],
+    "url": "https://bronitex.ru/",
+    "date": 1670259024,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "proizvodstvo",
+      "redcollar"
+    ],
+    "awards": []
+  },
+  {
     "id": 1085,
     "title": "Rose Family",
     "caption": "Rose Family\nhttps://rosefamily.com.ua\n\n#промо #thefirstthelast",
@@ -453,27 +476,6 @@
     "slugs": [
       "promo",
       "ony"
-    ],
-    "awards": []
-  },
-  {
-    "id": 879,
-    "title": "Книга «Эссенция сенца»",
-    "caption": "Книга «Эссенция сенца»\nhttps://sencessence.ru/\n\n#промо #астрошок\nСпасибо за ссылку @AndyAbramov",
-    "image": "data/images/879.jpg",
-    "tags": [
-      "промо",
-      "астрошок"
-    ],
-    "url": "https://sencessence.ru/",
-    "date": 1610997218,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "astroshok"
     ],
     "awards": []
   }

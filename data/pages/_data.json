@@ -15070,5 +15070,22 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "1091": {
+    "id": 1091,
+    "title": "Bronitex",
+    "caption": "Bronitex\nhttps://bronitex.ru/\n \n#промо #производство #redcollar\nСпасибо за ссылку @AndyAbramov",
+    "image": "1091.jpg",
+    "tags": [
+      "промо",
+      "производство",
+      "redcollar"
+    ],
+    "url": "https://bronitex.ru/",
+    "date": 1670259024,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
