@@ -1,5 +1,28 @@
 [
   {
+    "id": 1032,
+    "title": "Corporelle Studio",
+    "caption": "Corporelle Studio\nhttps://ru.corporelle.studio\n\n#производство #магазин #readymag\nСпасибо за ссылку @kruglovse",
+    "image": "data/images/1032.jpg",
+    "tags": [
+      "производство",
+      "магазин",
+      "readymag"
+    ],
+    "url": "https://ru.corporelle.studio",
+    "date": 1640102528,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "magazin",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 1031,
     "title": "ZAGOVOR",
     "caption": "ZAGOVOR\nhttps://zagovor.design\n\n#подкаст #дизайн #readymag\nСпасибо за ссылку @AndyAbramov",
@@ -456,30 +479,6 @@
       "artemmatyushkin",
       "lizatyutyaeva",
       "nonobjectiveworks"
-    ],
-    "awards": []
-  },
-  {
-    "id": 970,
-    "title": "type today: Gauge",
-    "caption": "type today: Gauge\nhttps://gauge-ru.type.today/\n\n#лонгрид #шрифт #readymag",
-    "image": "data/images/970.jpg",
-    "tags": [
-      "лонгрид",
-      "шрифт",
-      "readymag"
-    ],
-    "url": "https://gauge-ru.type.today/",
-    "date": 1625911662,
-    "edit_date": 1625911926,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "longrid",
-      "shrift",
-      "readymag"
     ],
     "awards": []
   }

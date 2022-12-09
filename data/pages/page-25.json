@@ -1,5 +1,26 @@
 [
   {
+    "id": 566,
+    "title": "ТРАНЗИСТОР",
+    "image": "data/images/566.jpg",
+    "tags": [
+      "музыка",
+      "люди",
+      "стасполяков"
+    ],
+    "url": "https://trnsstr.ru",
+    "date": 1565604039,
+    "edit_date": 1583183812,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "muzika",
+      "lyudi",
+      "staspolyakov"
+    ],
+    "awards": []
+  },
+  {
     "id": 565,
     "title": "Большая Коча",
     "image": "data/images/565.jpg",
@@ -360,24 +381,6 @@
     "isRemoved": false,
     "slugs": [
       "promo"
-    ],
-    "awards": []
-  },
-  {
-    "id": 545,
-    "title": "Timepad",
-    "caption": "Timepad\nhttps://timepad.ru/\n\n#сервис",
-    "image": "data/images/545.jpg",
-    "tags": [
-      "сервис"
-    ],
-    "url": "https://timepad.ru/",
-    "date": 1562230768,
-    "edit_date": 1583255649,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "servis"
     ],
     "awards": []
   }

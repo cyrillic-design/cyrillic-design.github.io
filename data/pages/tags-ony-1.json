@@ -1,5 +1,30 @@
 [
   {
+    "id": 1092,
+    "title": "Go Circle",
+    "caption": "Go Circle\nhttps://gocircle.ru\n\n#портфолио #агентство #readymag #ony",
+    "image": "data/images/1092.jpg",
+    "tags": [
+      "портфолио",
+      "агентство",
+      "readymag",
+      "ony"
+    ],
+    "url": "https://gocircle.ru",
+    "date": 1670565683,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "agentstvo",
+      "readymag",
+      "ony"
+    ],
+    "awards": []
+  },
+  {
     "id": 1073,
     "title": "Галицкий & Галицкий",
     "caption": "Галицкий & Галицкий\nhttps://galitskiy-galitskiy.ru\n\n#производство #ony 18+\nСпасибо за ссылку @AndyAbramov",

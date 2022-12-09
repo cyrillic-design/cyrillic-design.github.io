@@ -1,5 +1,30 @@
 [
   {
+    "id": 1092,
+    "title": "Go Circle",
+    "caption": "Go Circle\nhttps://gocircle.ru\n\n#портфолио #агентство #readymag #ony",
+    "image": "data/images/1092.jpg",
+    "tags": [
+      "портфолио",
+      "агентство",
+      "readymag",
+      "ony"
+    ],
+    "url": "https://gocircle.ru",
+    "date": 1670565683,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "agentstvo",
+      "readymag",
+      "ony"
+    ],
+    "awards": []
+  },
+  {
     "id": 1090,
     "title": "Vesna Capital Investment Fund",
     "caption": "Vesna Capital Investment Fund\nhttps://www.vesna.capital\n\n#финансы #бизнес #readymag\nСпасибо за ссылку @AndyAbramov",
@@ -445,29 +470,6 @@
       "kultura",
       "readymag",
       "yuriiantonov"
-    ],
-    "awards": []
-  },
-  {
-    "id": 1032,
-    "title": "Corporelle Studio",
-    "caption": "Corporelle Studio\nhttps://ru.corporelle.studio\n\n#производство #магазин #readymag\nСпасибо за ссылку @kruglovse",
-    "image": "data/images/1032.jpg",
-    "tags": [
-      "производство",
-      "магазин",
-      "readymag"
-    ],
-    "url": "https://ru.corporelle.studio",
-    "date": 1640102528,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "proizvodstvo",
-      "magazin",
-      "readymag"
     ],
     "awards": []
   }

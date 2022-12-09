@@ -1,5 +1,30 @@
 [
   {
+    "id": 1092,
+    "title": "Go Circle",
+    "caption": "Go Circle\nhttps://gocircle.ru\n\n#портфолио #агентство #readymag #ony",
+    "image": "data/images/1092.jpg",
+    "tags": [
+      "портфолио",
+      "агентство",
+      "readymag",
+      "ony"
+    ],
+    "url": "https://gocircle.ru",
+    "date": 1670565683,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "agentstvo",
+      "readymag",
+      "ony"
+    ],
+    "awards": []
+  },
+  {
     "id": 1089,
     "title": "Cedro Agency",
     "caption": "Cedro Agency\nhttps://www.cedro.agency\n\n#портфолио #агентство #webflow",
@@ -389,28 +414,6 @@
     "isRemoved": false,
     "slugs": [
       "agentstvo",
-      "portfolio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 291,
-    "title": "ONY",
-    "caption": "ONY\nhttps://ony.ru/\n\n#агентство #дизайн #портфолио",
-    "image": "data/images/291.jpg",
-    "tags": [
-      "агентство",
-      "дизайн",
-      "портфолио"
-    ],
-    "url": "https://ony.ru/",
-    "date": 1536228002,
-    "edit_date": 1583385193,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "agentstvo",
-      "dizain",
       "portfolio"
     ],
     "awards": []

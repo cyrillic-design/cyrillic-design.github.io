@@ -1,5 +1,28 @@
 [
   {
+    "id": 1072,
+    "title": "Tuma",
+    "caption": "Tuma\nhttps://tuma.store\n\n#магазин #производство #tilda",
+    "image": "data/images/1072.jpg",
+    "tags": [
+      "магазин",
+      "производство",
+      "tilda"
+    ],
+    "url": "https://tuma.store",
+    "date": 1659629149,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "proizvodstvo",
+      "tilda"
+    ],
+    "awards": []
+  },
+  {
     "id": 1071,
     "title": "Dprofile",
     "caption": "Dprofile\nhttps://dprofile.ru\n\n#сервис #дизайн #wemakefab",
@@ -450,31 +473,6 @@
       "kino",
       "afisha",
       "charmer"
-    ],
-    "awards": []
-  },
-  {
-    "id": 1051,
-    "title": "BetterMe",
-    "caption": "BetterMe\nhttps://betterme.world/ua\n\n#сервис #приложение #здоровье #спорт",
-    "image": "data/images/1051.jpg",
-    "tags": [
-      "сервис",
-      "приложение",
-      "здоровье",
-      "спорт"
-    ],
-    "url": "https://betterme.world/ua",
-    "date": 1644305999,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "servis",
-      "prilozhenie",
-      "zdorove",
-      "sport"
     ],
     "awards": []
   }
