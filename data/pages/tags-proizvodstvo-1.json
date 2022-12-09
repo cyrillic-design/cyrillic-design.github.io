@@ -1,5 +1,33 @@
 [
   {
+    "id": 1092,
+    "title": "Go Circle",
+    "caption": "Go Circle\nhttps://gocircle.ru\n\n#портфолио #производство #сообщество #readymag #ony",
+    "image": "data/images/1092.jpg",
+    "tags": [
+      "портфолио",
+      "производство",
+      "сообщество",
+      "readymag",
+      "ony"
+    ],
+    "url": "https://gocircle.ru",
+    "date": 1670565683,
+    "edit_date": 1670570542,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "proizvodstvo",
+      "soobshchestvo",
+      "readymag",
+      "ony"
+    ],
+    "awards": []
+  },
+  {
     "id": 1091,
     "title": "Bronitex",
     "caption": "Bronitex\nhttps://bronitex.ru/\n \n#промо #производство #redcollar\nСпасибо за ссылку @AndyAbramov",
@@ -424,27 +452,6 @@
     "isRemoved": false,
     "slugs": [
       "izdatelstvo",
-      "proizvodstvo"
-    ],
-    "awards": []
-  },
-  {
-    "id": 736,
-    "title": "V-A-C",
-    "caption": "V-A-C\nhttps://v-a-c.org/ru\n\n#фонд #производство\nСпасибо за ссылку @AndyAbramov",
-    "image": "data/images/736.jpg",
-    "tags": [
-      "фонд",
-      "производство"
-    ],
-    "url": "https://v-a-c.org/ru",
-    "date": 1592072200,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "fond",
       "proizvodstvo"
     ],
     "awards": []

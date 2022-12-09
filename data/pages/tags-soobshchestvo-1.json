@@ -1,5 +1,33 @@
 [
   {
+    "id": 1092,
+    "title": "Go Circle",
+    "caption": "Go Circle\nhttps://gocircle.ru\n\n#портфолио #производство #сообщество #readymag #ony",
+    "image": "data/images/1092.jpg",
+    "tags": [
+      "портфолио",
+      "производство",
+      "сообщество",
+      "readymag",
+      "ony"
+    ],
+    "url": "https://gocircle.ru",
+    "date": 1670565683,
+    "edit_date": 1670570542,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "proizvodstvo",
+      "soobshchestvo",
+      "readymag",
+      "ony"
+    ],
+    "awards": []
+  },
+  {
     "id": 1060,
     "title": "Civilians",
     "caption": "Civilians\nhttps://civilians.space\n\n#спецпроект #благотворительность #сообщество #readymag",
