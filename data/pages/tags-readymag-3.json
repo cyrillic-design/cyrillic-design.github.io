@@ -1,5 +1,32 @@
 [
   {
+    "id": 971,
+    "title": "СЛЫШ",
+    "caption": "СЛЫШ\nhttps://podfest.ru/\n\n#мероприятие #readymag #артемматюшкин #лизатютяева #nonobjectiveworks\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/971.jpg",
+    "tags": [
+      "мероприятие",
+      "readymag",
+      "артемматюшкин",
+      "лизатютяева",
+      "nonobjectiveworks"
+    ],
+    "url": "https://podfest.ru/",
+    "date": 1626200888,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "readymag",
+      "artemmatyushkin",
+      "lizatyutyaeva",
+      "nonobjectiveworks"
+    ],
+    "awards": []
+  },
+  {
     "id": 970,
     "title": "type today: Gauge",
     "caption": "type today: Gauge\nhttps://gauge-ru.type.today/\n\n#лонгрид #шрифт #readymag",
@@ -454,30 +481,6 @@
       "istoriya",
       "readymag",
       "ilyakorobov"
-    ],
-    "awards": []
-  },
-  {
-    "id": 908,
-    "title": "Second Friend Store",
-    "caption": "Second Friend Store\nhttp://10years.secondfriendstore.ru/\n\n#мероприятие #мода #readymag\nСпасибо за ссылку @readymag_official",
-    "image": "data/images/908.jpg",
-    "tags": [
-      "мероприятие",
-      "мода",
-      "readymag"
-    ],
-    "url": "http://10years.secondfriendstore.ru/",
-    "date": 1619348926,
-    "edit_date": 1619349292,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "meropriyatie",
-      "moda",
-      "readymag"
     ],
     "awards": []
   }

@@ -1,5 +1,22 @@
 [
   {
+    "id": 546,
+    "title": "Бубнёжная «Интроверт»",
+    "image": "data/images/546.jpg",
+    "tags": [
+      "промо"
+    ],
+    "url": "http://introvert.moscow/",
+    "date": 1562320859,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo"
+    ],
+    "awards": []
+  },
+  {
     "id": 545,
     "title": "Timepad",
     "caption": "Timepad\nhttps://timepad.ru/\n\n#сервис",
@@ -360,25 +377,6 @@
     "slugs": [
       "proizvodstvo",
       "studiyaevgeniyayarovogo"
-    ],
-    "awards": []
-  },
-  {
-    "id": 525,
-    "title": "Tima Radya",
-    "image": "data/images/525.jpg",
-    "tags": [
-      "портфолио",
-      "sever"
-    ],
-    "url": "http://t-radya.com/",
-    "date": 1559642456,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio",
-      "sever"
     ],
     "awards": []
   }

@@ -15107,5 +15107,21 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "1093": {
+    "id": 1093,
+    "title": "CubX",
+    "caption": "CubX\nhttps://cubx.design\n\n#портфолио #readymag \nСпасибо за ссылку @pashapppp",
+    "image": "1093.jpg",
+    "tags": [
+      "портфолио",
+      "readymag"
+    ],
+    "url": "https://cubx.design",
+    "date": 1671695921,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

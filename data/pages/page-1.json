@@ -1,5 +1,26 @@
 [
   {
+    "id": 1093,
+    "title": "CubX",
+    "caption": "CubX\nhttps://cubx.design\n\n#портфолио #readymag \nСпасибо за ссылку @pashapppp",
+    "image": "data/images/1093.jpg",
+    "tags": [
+      "портфолио",
+      "readymag"
+    ],
+    "url": "https://cubx.design",
+    "date": 1671695921,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 1092,
     "title": "Go Circle",
     "caption": "Go Circle\nhttps://gocircle.ru\n\n#портфолио #производство #сообщество #readymag #ony",
@@ -416,27 +437,6 @@
     "slugs": [
       "magazin",
       "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 1073,
-    "title": "Галицкий & Галицкий",
-    "caption": "Галицкий & Галицкий\nhttps://galitskiy-galitskiy.ru\n\n#производство #ony 18+\nСпасибо за ссылку @AndyAbramov",
-    "image": "data/images/1073.jpg",
-    "tags": [
-      "производство",
-      "ony"
-    ],
-    "url": "https://galitskiy-galitskiy.ru",
-    "date": 1659679362,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "proizvodstvo",
-      "ony"
     ],
     "awards": []
   }
