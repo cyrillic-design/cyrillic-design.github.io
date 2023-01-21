@@ -1,5 +1,30 @@
 [
   {
+    "id": 1094,
+    "title": "Volume Attack",
+    "caption": "Volume Attack\nhttps://volumeattack.shop\n\n#реклама #магазин #музыка #tilda",
+    "image": "data/images/1094.jpg",
+    "tags": [
+      "реклама",
+      "магазин",
+      "музыка",
+      "tilda"
+    ],
+    "url": "https://volumeattack.shop",
+    "date": 1674287383,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "reklama",
+      "magazin",
+      "muzika",
+      "tilda"
+    ],
+    "awards": []
+  },
+  {
     "id": 1083,
     "title": "Пинк",
     "caption": "Пинк\nhttps://pinks.agency\n\n#студия #агентство #tilda",
@@ -462,30 +487,6 @@
       "blog",
       "tilda",
       "update"
-    ],
-    "awards": []
-  },
-  {
-    "id": 873,
-    "title": "Letterdog",
-    "caption": "Letterdog\nhttps://letterdog.by/\n\n#портфолио #производство #tilda",
-    "image": "data/images/873.jpg",
-    "tags": [
-      "портфолио",
-      "производство",
-      "tilda"
-    ],
-    "url": "https://letterdog.by/",
-    "date": 1610368320,
-    "edit_date": 1610368379,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio",
-      "proizvodstvo",
-      "tilda"
     ],
     "awards": []
   }

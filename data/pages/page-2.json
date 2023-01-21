@@ -1,5 +1,26 @@
 [
   {
+    "id": 1074,
+    "title": "Oblik Store",
+    "caption": "Oblik Store\nhttps://oblik.one\n\n#магазин #readymag \nСпасибо за ссылку @readymag_official",
+    "image": "data/images/1074.jpg",
+    "tags": [
+      "магазин",
+      "readymag"
+    ],
+    "url": "https://oblik.one",
+    "date": 1660064833,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 1073,
     "title": "Галицкий & Галицкий",
     "caption": "Галицкий & Галицкий\nhttps://galitskiy-galitskiy.ru\n\n#производство #ony 18+\nСпасибо за ссылку @AndyAbramov",
@@ -447,29 +468,6 @@
       "istoriya",
       "tilda",
       "alekseiprokopenko"
-    ],
-    "awards": []
-  },
-  {
-    "id": 1053,
-    "title": "Современник",
-    "caption": "Современник\nhttps://sovremennik.ru/\n\n#культура #театр #eshgruppa",
-    "image": "data/images/1053.jpg",
-    "tags": [
-      "культура",
-      "театр",
-      "eshgruppa"
-    ],
-    "url": "https://sovremennik.ru/",
-    "date": 1645088856,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "kultura",
-      "teatr",
-      "eshgruppa"
     ],
     "awards": []
   }

@@ -1,5 +1,26 @@
 [
   {
+    "id": 570,
+    "title": "Rehabshop",
+    "image": "data/images/570.jpg",
+    "tags": [
+      "магазин",
+      "roky",
+      "orientir"
+    ],
+    "url": "https://rehab-shop.ru/",
+    "date": 1566036044,
+    "edit_date": 1583183812,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "roky",
+      "orientir"
+    ],
+    "awards": []
+  },
+  {
     "id": 556,
     "title": "Койот",
     "image": "data/images/556.jpg",
@@ -384,27 +405,6 @@
       "promo",
       "magazin",
       "proizvodstvo"
-    ],
-    "awards": []
-  },
-  {
-    "id": 345,
-    "title": "Falafel + AIC",
-    "image": "data/images/345.jpg",
-    "tags": [
-      "промо",
-      "магазин",
-      "aic"
-    ],
-    "url": "http://aic.falafelbooks.com/",
-    "date": 1541412018,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "magazin",
-      "aic"
     ],
     "awards": []
   }
