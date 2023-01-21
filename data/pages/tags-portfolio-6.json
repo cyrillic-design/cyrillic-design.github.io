@@ -1,5 +1,24 @@
 [
   {
+    "id": 383,
+    "title": "BrandStudio",
+    "image": "data/images/383.jpg",
+    "tags": [
+      "агентство",
+      "портфолио"
+    ],
+    "url": "https://brandstudio.ru/#",
+    "date": 1544436027,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "agentstvo",
+      "portfolio"
+    ],
+    "awards": []
+  },
+  {
     "id": 372,
     "title": "Beta",
     "image": "data/images/372.jpg",
@@ -356,25 +375,6 @@
     "isRemoved": false,
     "slugs": [
       "agentstvo",
-      "portfolio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 225,
-    "title": "ROKY",
-    "image": "data/images/225.jpg",
-    "tags": [
-      "студия",
-      "портфолио"
-    ],
-    "url": "https://roky.rocks/",
-    "date": 1530607376,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "studiya",
       "portfolio"
     ],
     "awards": []
