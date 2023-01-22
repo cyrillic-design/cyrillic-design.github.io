@@ -1,5 +1,28 @@
 [
   {
+    "id": 1096,
+    "title": "Open Media",
+    "caption": "Open Media\nhttps://www.openmedia.co\n\n#портфолио #агентство #webflow \nСпасибо за ссылку @nichtszuverlieren",
+    "image": "data/images/1096.jpg",
+    "tags": [
+      "портфолио",
+      "агентство",
+      "webflow"
+    ],
+    "url": "https://www.openmedia.co",
+    "date": 1674370851,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "agentstvo",
+      "webflow"
+    ],
+    "awards": []
+  },
+  {
     "id": 1089,
     "title": "Cedro Agency",
     "caption": "Cedro Agency\nhttps://www.cedro.agency\n\n#портфолио #агентство #webflow",

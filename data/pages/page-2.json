@@ -1,5 +1,26 @@
 [
   {
+    "id": 1076,
+    "title": "aic стажировка",
+    "caption": "aic стажировка\nhttps://intern.aic.ru\n\n#обучение #readymag\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/1076.jpg",
+    "tags": [
+      "обучение",
+      "readymag"
+    ],
+    "url": "https://intern.aic.ru",
+    "date": 1662036447,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obuchenie",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 1075,
     "title": "Парфюмерная студия storysmell",
     "caption": "Парфюмерная студия storysmell\nhttps://storysmell.com\n\n#производство #readymag\nСпасибо за ссылку @readymag_official",
@@ -438,29 +459,6 @@
     "slugs": [
       "portfolio",
       "agentstvo",
-      "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 1055,
-    "title": "Воробушки",
-    "caption": "Воробушки\nhttps://vrbshki.com\n\n#мероприятие #образование #readymag\nСпасибо за ссылку @ohmyinterface",
-    "image": "data/images/1055.jpg",
-    "tags": [
-      "мероприятие",
-      "образование",
-      "readymag"
-    ],
-    "url": "https://vrbshki.com",
-    "date": 1645428564,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "meropriyatie",
-      "obrazovanie",
       "readymag"
     ],
     "awards": []

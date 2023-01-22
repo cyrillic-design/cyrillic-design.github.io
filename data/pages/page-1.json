@@ -1,5 +1,28 @@
 [
   {
+    "id": 1096,
+    "title": "Open Media",
+    "caption": "Open Media\nhttps://www.openmedia.co\n\n#портфолио #агентство #webflow \nСпасибо за ссылку @nichtszuverlieren",
+    "image": "data/images/1096.jpg",
+    "tags": [
+      "портфолио",
+      "агентство",
+      "webflow"
+    ],
+    "url": "https://www.openmedia.co",
+    "date": 1674370851,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "agentstvo",
+      "webflow"
+    ],
+    "awards": []
+  },
+  {
     "id": 1095,
     "title": "abarabonova",
     "caption": "abarabonova\nhttps://abarabonova.com\n\n#портфолио\nСпасибо за ссылку @nichtszuverlieren",
@@ -418,27 +441,6 @@
       "muzika",
       "readymag",
       "komnata"
-    ],
-    "awards": []
-  },
-  {
-    "id": 1076,
-    "title": "aic стажировка",
-    "caption": "aic стажировка\nhttps://intern.aic.ru\n\n#обучение #readymag\nСпасибо за ссылку @AndyAbramov",
-    "image": "data/images/1076.jpg",
-    "tags": [
-      "обучение",
-      "readymag"
-    ],
-    "url": "https://intern.aic.ru",
-    "date": 1662036447,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obuchenie",
-      "readymag"
     ],
     "awards": []
   }

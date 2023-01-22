@@ -1,5 +1,28 @@
 [
   {
+    "id": 1096,
+    "title": "Open Media",
+    "caption": "Open Media\nhttps://www.openmedia.co\n\n#портфолио #агентство #webflow \nСпасибо за ссылку @nichtszuverlieren",
+    "image": "data/images/1096.jpg",
+    "tags": [
+      "портфолио",
+      "агентство",
+      "webflow"
+    ],
+    "url": "https://www.openmedia.co",
+    "date": 1674370851,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "agentstvo",
+      "webflow"
+    ],
+    "awards": []
+  },
+  {
     "id": 1089,
     "title": "Cedro Agency",
     "caption": "Cedro Agency\nhttps://www.cedro.agency\n\n#портфолио #агентство #webflow",
@@ -389,28 +412,6 @@
     "isRemoved": false,
     "slugs": [
       "agentstvo",
-      "portfolio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 291,
-    "title": "ONY",
-    "caption": "ONY\nhttps://ony.ru/\n\n#агентство #дизайн #портфолио",
-    "image": "data/images/291.jpg",
-    "tags": [
-      "агентство",
-      "дизайн",
-      "портфолио"
-    ],
-    "url": "https://ony.ru/",
-    "date": 1536228002,
-    "edit_date": 1583385193,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "agentstvo",
-      "dizain",
       "portfolio"
     ],
     "awards": []

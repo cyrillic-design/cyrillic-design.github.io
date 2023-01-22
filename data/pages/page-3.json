@@ -1,5 +1,28 @@
 [
   {
+    "id": 1055,
+    "title": "Воробушки",
+    "caption": "Воробушки\nhttps://vrbshki.com\n\n#мероприятие #образование #readymag\nСпасибо за ссылку @ohmyinterface",
+    "image": "data/images/1055.jpg",
+    "tags": [
+      "мероприятие",
+      "образование",
+      "readymag"
+    ],
+    "url": "https://vrbshki.com",
+    "date": 1645428564,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "obrazovanie",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 1054,
     "title": "Иероним Босх",
     "caption": "Иероним Босх\nhttps://hieronymusbosch.tilda.ws\n\n#спецпроект #искусство #история #tilda #алексейпрокопенко",
@@ -477,29 +500,6 @@
       "servis",
       "webflow",
       "pragmatica"
-    ],
-    "awards": []
-  },
-  {
-    "id": 1035,
-    "title": "6-я Уральская индустриальная биеннале современного искусства",
-    "caption": "6-я Уральская индустриальная биеннале современного искусства\nhttps://uralbiennial.ru\n\n#мероприятие #искусство #aicodes\nСпасибо за ссылку @winkeyless",
-    "image": "data/images/1035.jpg",
-    "tags": [
-      "мероприятие",
-      "искусство",
-      "aicodes"
-    ],
-    "url": "https://uralbiennial.ru",
-    "date": 1641394959,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "meropriyatie",
-      "iskusstvo",
-      "aicodes"
     ],
     "awards": []
   }

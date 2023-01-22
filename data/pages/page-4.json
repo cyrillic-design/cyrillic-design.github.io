@@ -1,5 +1,28 @@
 [
   {
+    "id": 1035,
+    "title": "6-я Уральская индустриальная биеннале современного искусства",
+    "caption": "6-я Уральская индустриальная биеннале современного искусства\nhttps://uralbiennial.ru\n\n#мероприятие #искусство #aicodes\nСпасибо за ссылку @winkeyless",
+    "image": "data/images/1035.jpg",
+    "tags": [
+      "мероприятие",
+      "искусство",
+      "aicodes"
+    ],
+    "url": "https://uralbiennial.ru",
+    "date": 1641394959,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "iskusstvo",
+      "aicodes"
+    ],
+    "awards": []
+  },
+  {
     "id": 1034,
     "title": "Магазин Skysmart",
     "caption": "Магазин Skysmart\nhttps://store.skysmart.ru\n\n#магазин #образование #tilda #pragmatica\nСпасибо за ссылку @censor_online",
@@ -458,34 +481,6 @@
       "promo",
       "shrift",
       "tilda"
-    ],
-    "awards": []
-  },
-  {
-    "id": 1014,
-    "title": "tuma",
-    "caption": "tuma\nhttps://tuma.store/\n\n#заглушка #промо #магазин #readymag #ильятумайкин",
-    "image": "data/images/1014.jpg",
-    "tags": [
-      "заглушка",
-      "промо",
-      "магазин",
-      "readymag",
-      "ильятумайкин"
-    ],
-    "url": "https://tuma.store/",
-    "date": 1636577977,
-    "edit_date": 1636578184,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "zaglushka",
-      "promo",
-      "magazin",
-      "readymag",
-      "ilyatumaikin"
     ],
     "awards": []
   }
