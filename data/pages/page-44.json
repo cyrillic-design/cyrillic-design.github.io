@@ -1,5 +1,24 @@
 [
   {
+    "id": 170,
+    "title": "HANDWERS",
+    "image": "data/images/170.jpg",
+    "tags": [
+      "магазин",
+      "доставка"
+    ],
+    "url": "https://handwers.com/ru/",
+    "date": 1525946421,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "dostavka"
+    ],
+    "awards": []
+  },
+  {
     "id": 169,
     "title": "Администрация Кемеровской области",
     "image": "data/images/169.jpg",
@@ -395,25 +414,6 @@
       "spetsproekt",
       "readymag",
       "katyauzienko"
-    ],
-    "awards": []
-  },
-  {
-    "id": 150,
-    "title": "Стадион «Санкт-Петербург»",
-    "image": "data/images/150.jpg",
-    "tags": [
-      "спорт",
-      "букинг"
-    ],
-    "url": "http://arena.fc-zenit.ru/",
-    "date": 1524045618,
-    "edit_date": 1583185536,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "sport",
-      "buking"
     ],
     "awards": []
   }

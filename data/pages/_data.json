@@ -15188,5 +15188,22 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "1098": {
+    "id": 1098,
+    "title": "Феномен маргиналов",
+    "caption": "Феномен маргиналов\nhttps://readymag.com/hseadc1/whoarethemarginals/\n\n#спецпроект #readymag #asyaoleynichenko\nСпасибо за ссылку @pnkprty",
+    "image": "1098.jpg",
+    "tags": [
+      "спецпроект",
+      "readymag",
+      "asyaoleynichenko"
+    ],
+    "url": "https://readymag.com/hseadc1/whoarethemarginals/",
+    "date": 1674487200,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }
