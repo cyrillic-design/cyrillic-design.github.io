@@ -1,5 +1,28 @@
 [
   {
+    "id": 1056,
+    "title": "taktika",
+    "caption": "taktika\nhttps://taktika.agency\n\n#портфолио #агентство #readymag\nСпасибо за ссылку @readymag_official",
+    "image": "data/images/1056.jpg",
+    "tags": [
+      "портфолио",
+      "агентство",
+      "readymag"
+    ],
+    "url": "https://taktika.agency",
+    "date": 1645527732,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "agentstvo",
+      "readymag"
+    ],
+    "awards": []
+  },
+  {
     "id": 1055,
     "title": "Воробушки",
     "caption": "Воробушки\nhttps://vrbshki.com\n\n#мероприятие #образование #readymag\nСпасибо за ссылку @ohmyinterface",
@@ -472,34 +495,6 @@
       "kultura",
       "readymag",
       "yuriiantonov"
-    ],
-    "awards": []
-  },
-  {
-    "id": 1036,
-    "title": "MISSION:LUNA",
-    "caption": "MISSION:LUNA\nhttps://www.missionluna.ru/\n\n#финансы #банк #сервис #webflow #pragmatica",
-    "image": "data/images/1036.jpg",
-    "tags": [
-      "финансы",
-      "банк",
-      "сервис",
-      "webflow",
-      "pragmatica"
-    ],
-    "url": "https://www.missionluna.ru/",
-    "date": 1641538928,
-    "edit_date": 1642731910,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "finansi",
-      "bank",
-      "servis",
-      "webflow",
-      "pragmatica"
     ],
     "awards": []
   }

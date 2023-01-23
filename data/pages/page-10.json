@@ -1,5 +1,28 @@
 [
   {
+    "id": 899,
+    "title": "Эйч",
+    "caption": "Эйч\nhttps://h.budu.jobs/\n\n#сервис #hr #update",
+    "image": "data/images/899.jpg",
+    "tags": [
+      "сервис",
+      "hr",
+      "update"
+    ],
+    "url": "https://h.budu.jobs/",
+    "date": 1616234441,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "hr",
+      "update"
+    ],
+    "awards": []
+  },
+  {
     "id": 898,
     "title": "День клиента",
     "caption": "День клиента\nhttps://clientsday.localkitchen.ru/\n\n#спецпроект #еда #readymag #кухнянарайоне\nСпасибо за ссылку @winkeyless",
@@ -429,27 +452,6 @@
       "obrazovanie",
       "tilda",
       "redis"
-    ],
-    "awards": []
-  },
-  {
-    "id": 876,
-    "title": "Бібліотека Юрія Вітренка",
-    "caption": "Бібліотека Юрія Вітренка\nhttps://www.vitrenkolibrary.com/\n\n#бизнес #nextpage",
-    "image": "data/images/876.jpg",
-    "tags": [
-      "бизнес",
-      "nextpage"
-    ],
-    "url": "https://www.vitrenkolibrary.com/",
-    "date": 1610618407,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "biznes",
-      "nextpage"
     ],
     "awards": []
   }
