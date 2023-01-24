@@ -1,5 +1,31 @@
 [
   {
+    "id": 922,
+    "title": "Стартер",
+    "caption": "Стартер\nhttps://starterapp.ru/\n\n#сервис #доставка #readymag #breadhead",
+    "image": "data/images/922.jpg",
+    "tags": [
+      "сервис",
+      "доставка",
+      "readymag",
+      "breadhead"
+    ],
+    "url": "https://starterapp.ru/",
+    "date": 1620115263,
+    "edit_date": 1642991747,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "dostavka",
+      "readymag",
+      "breadhead"
+    ],
+    "awards": []
+  },
+  {
     "id": 909,
     "title": "Everybook",
     "caption": "Everybook\nhttps://everybook.ru/\n\n#сервис #приложение",
@@ -443,31 +469,6 @@
       "servis",
       "tilda",
       "denissizemov"
-    ],
-    "awards": []
-  },
-  {
-    "id": 705,
-    "title": "ZAMMI",
-    "caption": "ZAMMI\nhttp://zammi.me/\n\n#магазин #доставка #сервис #tilda",
-    "image": "data/images/705.jpg",
-    "tags": [
-      "магазин",
-      "доставка",
-      "сервис",
-      "tilda"
-    ],
-    "url": "http://zammi.me/",
-    "date": 1586340018,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "dostavka",
-      "servis",
-      "tilda"
     ],
     "awards": []
   }

@@ -1,5 +1,26 @@
 [
   {
+    "id": 198,
+    "title": "Укркабель",
+    "image": "data/images/198.jpg",
+    "tags": [
+      "производство",
+      "услуги",
+      "facility"
+    ],
+    "url": "http://ukrcable.com.ua/ru",
+    "date": 1528279204,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "proizvodstvo",
+      "uslugi",
+      "facility"
+    ],
+    "awards": []
+  },
+  {
     "id": 193,
     "title": "Сделано",
     "image": "data/images/193.jpg",
