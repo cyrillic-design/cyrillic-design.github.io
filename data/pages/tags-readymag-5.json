@@ -1,32 +1,5 @@
 [
   {
-    "id": 845,
-    "title": "Новгород грядущий",
-    "caption": "Новгород грядущий\nhttp://specials.zapovednik.space/velikynovgorod/\n\n#спецпроект #история #культура #readymag #kandales",
-    "image": "data/images/845.jpg",
-    "tags": [
-      "спецпроект",
-      "история",
-      "культура",
-      "readymag",
-      "kandales"
-    ],
-    "url": "http://specials.zapovednik.space/velikynovgorod/",
-    "date": 1607335208,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "istoriya",
-      "kultura",
-      "readymag",
-      "kandales"
-    ],
-    "awards": []
-  },
-  {
     "id": 841,
     "title": "Новый театр",
     "caption": "Новый театр\nhttps://newteatr.com/\n\n#мероприятие #искусство #readymag #redcollar",
@@ -472,6 +445,32 @@
       "obrazovanie",
       "readymag",
       "dadacreative"
+    ],
+    "awards": []
+  },
+  {
+    "id": 768,
+    "title": "TYPICAL.OKR",
+    "caption": "TYPICAL.OKR\nhttps://typicalokr.co/\n\n#исследование #сервис #typical #readymag",
+    "image": "data/images/768.jpg",
+    "tags": [
+      "исследование",
+      "сервис",
+      "typical",
+      "readymag"
+    ],
+    "url": "https://typicalokr.co/",
+    "date": 1600068393,
+    "edit_date": 1600088036,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "issledovanie",
+      "servis",
+      "typical",
+      "readymag"
     ],
     "awards": []
   }

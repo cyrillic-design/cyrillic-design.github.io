@@ -1,26 +1,5 @@
 [
   {
-    "id": 353,
-    "title": "Orient Finans Bank",
-    "image": "data/images/353.jpg",
-    "tags": [
-      "банк",
-      "финансы",
-      "artlebedev"
-    ],
-    "url": "https://ofb.uz/",
-    "date": 1542103221,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "bank",
-      "finansi",
-      "artlebedev"
-    ],
-    "awards": []
-  },
-  {
     "id": 352,
     "title": "Теремок",
     "image": "data/images/352.jpg",
@@ -408,6 +387,25 @@
       "promo",
       "istoriya",
       "avto"
+    ],
+    "awards": []
+  },
+  {
+    "id": 332,
+    "title": "ТАСС",
+    "image": "data/images/332.jpg",
+    "tags": [
+      "новости",
+      "агентство"
+    ],
+    "url": "https://tass.ru/",
+    "date": 1540288814,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "novosti",
+      "agentstvo"
     ],
     "awards": []
   }

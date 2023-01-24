@@ -1,22 +1,5 @@
 [
   {
-    "id": 129,
-    "title": "Рабочая Станция",
-    "image": "data/images/129.jpg",
-    "tags": [
-      "услуги"
-    ],
-    "url": "http://coworkstation.ru/",
-    "date": 1522323342,
-    "edit_date": 1583185535,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "uslugi"
-    ],
-    "awards": []
-  },
-  {
     "id": 128,
     "title": "Связной",
     "image": "data/images/128.jpg",
@@ -413,6 +396,29 @@
     "slugs": [
       "tv",
       "media"
+    ],
+    "awards": []
+  },
+  {
+    "id": 109,
+    "title": "Пастырь",
+    "image": "data/images/109.jpg",
+    "tags": [
+      "сообщество",
+      "медиа",
+      "образование",
+      "культура"
+    ],
+    "url": "http://priest.today/",
+    "date": 1520589607,
+    "edit_date": 1583185563,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "soobshchestvo",
+      "media",
+      "obrazovanie",
+      "kultura"
     ],
     "awards": []
   }

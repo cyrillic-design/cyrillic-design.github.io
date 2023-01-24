@@ -1,28 +1,5 @@
 [
   {
-    "id": 1098,
-    "title": "Феномен маргиналов",
-    "caption": "Феномен маргиналов\nhttps://readymag.com/hseadc1/whoarethemarginals/\n\n#спецпроект #readymag #asyaoleynichenko\nСпасибо за ссылку @pnkprty",
-    "image": "data/images/1098.jpg",
-    "tags": [
-      "спецпроект",
-      "readymag",
-      "asyaoleynichenko"
-    ],
-    "url": "https://readymag.com/hseadc1/whoarethemarginals/",
-    "date": 1674487200,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "readymag",
-      "asyaoleynichenko"
-    ],
-    "awards": []
-  },
-  {
     "id": 1093,
     "title": "CubX",
     "caption": "CubX\nhttps://cubx.design\n\n#портфолио #readymag \nСпасибо за ссылку @pashapppp",
@@ -465,6 +442,33 @@
       "muzei",
       "readymag",
       "nonobjectiveworks"
+    ],
+    "awards": []
+  },
+  {
+    "id": 1039,
+    "title": "Стартер",
+    "caption": "Стартер\nhttps://starterapp.ru/\n\n#сервис #доставка #readymag #update #breadhead",
+    "image": "data/images/1039.jpg",
+    "tags": [
+      "сервис",
+      "доставка",
+      "readymag",
+      "update",
+      "breadhead"
+    ],
+    "url": "https://starterapp.ru/",
+    "date": 1643180528,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "dostavka",
+      "readymag",
+      "update",
+      "breadhead"
     ],
     "awards": []
   }

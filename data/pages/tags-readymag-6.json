@@ -1,31 +1,5 @@
 [
   {
-    "id": 768,
-    "title": "TYPICAL.OKR",
-    "caption": "TYPICAL.OKR\nhttps://typicalokr.co/\n\n#исследование #сервис #typical #readymag",
-    "image": "data/images/768.jpg",
-    "tags": [
-      "исследование",
-      "сервис",
-      "typical",
-      "readymag"
-    ],
-    "url": "https://typicalokr.co/",
-    "date": 1600068393,
-    "edit_date": 1600088036,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "issledovanie",
-      "servis",
-      "typical",
-      "readymag"
-    ],
-    "awards": []
-  },
-  {
     "id": 765,
     "title": "Progoolka",
     "caption": "Progoolka\nhttps://progoolka.com/\n\n#сервис #приложение #промо #readymag\nСпасибо за ссылку @readymag_official",
@@ -494,6 +468,31 @@
       "otchet",
       "readymag",
       "artemtarasov"
+    ],
+    "awards": []
+  },
+  {
+    "id": 700,
+    "title": "Reading clubs Skyeng",
+    "caption": "Reading clubs Skyeng\nhttps://readymag.com/u49498434/ReadingSkyeng/\n\n#промо #образование #otherland #readymag",
+    "image": "data/images/700.jpg",
+    "tags": [
+      "промо",
+      "образование",
+      "otherland",
+      "readymag"
+    ],
+    "url": "https://readymag.com/u49498434/ReadingSkyeng/",
+    "date": 1585983669,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "obrazovanie",
+      "otherland",
+      "readymag"
     ],
     "awards": []
   }

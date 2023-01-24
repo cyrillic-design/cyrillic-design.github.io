@@ -1,26 +1,5 @@
 [
   {
-    "id": 975,
-    "title": "Цикада",
-    "caption": "Цикада\nhttps://cicadaprize.com/\n\n#мероприятие #readymag\nСпасибо за ссылку @readymag_official",
-    "image": "data/images/975.jpg",
-    "tags": [
-      "мероприятие",
-      "readymag"
-    ],
-    "url": "https://cicadaprize.com/",
-    "date": 1626955208,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "meropriyatie",
-      "readymag"
-    ],
-    "awards": []
-  },
-  {
     "id": 971,
     "title": "СЛЫШ",
     "caption": "СЛЫШ\nhttps://podfest.ru/\n\n#мероприятие #readymag #артемматюшкин #лизатютяева #nonobjectiveworks\nСпасибо за ссылку @AndyAbramov",
@@ -477,6 +456,31 @@
       "istoriya",
       "readymag",
       "margaritali"
+    ],
+    "awards": []
+  },
+  {
+    "id": 910,
+    "title": "Armenian IT",
+    "caption": "Armenian IT\nhttps://armenianit.dataart.com/\n\n#спецпроект #история #readymag #ильякоробов",
+    "image": "data/images/910.jpg",
+    "tags": [
+      "спецпроект",
+      "история",
+      "readymag",
+      "ильякоробов"
+    ],
+    "url": "https://armenianit.dataart.com/",
+    "date": 1619451602,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "istoriya",
+      "readymag",
+      "ilyakorobov"
     ],
     "awards": []
   }

@@ -1,28 +1,5 @@
 [
   {
-    "id": 1098,
-    "title": "Феномен маргиналов",
-    "caption": "Феномен маргиналов\nhttps://readymag.com/hseadc1/whoarethemarginals/\n\n#спецпроект #readymag #asyaoleynichenko\nСпасибо за ссылку @pnkprty",
-    "image": "data/images/1098.jpg",
-    "tags": [
-      "спецпроект",
-      "readymag",
-      "asyaoleynichenko"
-    ],
-    "url": "https://readymag.com/hseadc1/whoarethemarginals/",
-    "date": 1674487200,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "readymag",
-      "asyaoleynichenko"
-    ],
-    "awards": []
-  },
-  {
     "id": 1097,
     "title": "ffface me",
     "caption": "ffface me\nhttps://ffface.me/ua/\n\n#портфолио",
@@ -439,6 +416,27 @@
     "slugs": [
       "magazin",
       "aidapacheva"
+    ],
+    "awards": []
+  },
+  {
+    "id": 1078,
+    "title": "Perito",
+    "caption": "Perito\nhttps://perito-burrito.com\n\n#медиа #культура\nСпасибо за ссылку @AndyAbramov",
+    "image": "data/images/1078.jpg",
+    "tags": [
+      "медиа",
+      "культура"
+    ],
+    "url": "https://perito-burrito.com",
+    "date": 1663255623,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "media",
+      "kultura"
     ],
     "awards": []
   }

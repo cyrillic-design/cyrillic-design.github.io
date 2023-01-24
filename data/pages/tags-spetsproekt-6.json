@@ -1,25 +1,5 @@
 [
   {
-    "id": 561,
-    "title": "Портрет российской семьи",
-    "caption": "Портрет российской семьи\nhttps://ria.ru/20190805/1557121163.html\n\n#спецпроект #риа",
-    "image": "data/images/561.jpg",
-    "tags": [
-      "спецпроект",
-      "риа"
-    ],
-    "url": "https://ria.ru/20190805/1557121163.html",
-    "date": 1565085634,
-    "edit_date": 1583247387,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "ria"
-    ],
-    "awards": []
-  },
-  {
     "id": 560,
     "title": "Здесь и сейчас. Атлас творческих студий",
     "caption": "Здесь и сейчас. Атлас творческих студий\nhttps://hereandnow.moscow/\n\n#мероприятие #искусство #спецпроект #readymag #aic",
@@ -415,6 +395,27 @@
       "iskusstvo",
       "spetsproekt",
       "artlebedev"
+    ],
+    "awards": []
+  },
+  {
+    "id": 358,
+    "title": "Visitation",
+    "image": "data/images/358.jpg",
+    "tags": [
+      "спецпроект",
+      "такиедела",
+      "bookmate"
+    ],
+    "url": "https://1993.takiedela.ru/",
+    "date": 1542621629,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "takiedela",
+      "bookmate"
     ],
     "awards": []
   }

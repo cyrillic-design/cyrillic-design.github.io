@@ -1,26 +1,5 @@
 [
   {
-    "id": 923,
-    "title": "Пьесы Ивана Вырыпаева",
-    "caption": "Пьесы Ивана Вырыпаева\nhttps://vyrypaev.com/ru/\n\n#портфолио #eshgruppa",
-    "image": "data/images/923.jpg",
-    "tags": [
-      "портфолио",
-      "eshgruppa"
-    ],
-    "url": "https://vyrypaev.com/ru/",
-    "date": 1620122465,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio",
-      "eshgruppa"
-    ],
-    "awards": []
-  },
-  {
     "id": 922,
     "title": "Стартер",
     "caption": "Стартер\nhttps://starterapp.ru/\n\n#сервис #доставка #readymag #breadhead",
@@ -459,6 +438,27 @@
       "prilozhenie",
       "readymag",
       "kukhnyanaraione"
+    ],
+    "awards": []
+  },
+  {
+    "id": 900,
+    "title": "Трехгорная мануфактура",
+    "caption": "Трехгорная мануфактура\nhttps://trekhgorka.ru/\n\n#промо #ony",
+    "image": "data/images/900.jpg",
+    "tags": [
+      "промо",
+      "ony"
+    ],
+    "url": "https://trekhgorka.ru/",
+    "date": 1617269763,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "ony"
     ],
     "awards": []
   }

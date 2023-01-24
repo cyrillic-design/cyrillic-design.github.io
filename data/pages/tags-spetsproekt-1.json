@@ -1,28 +1,5 @@
 [
   {
-    "id": 1098,
-    "title": "Феномен маргиналов",
-    "caption": "Феномен маргиналов\nhttps://readymag.com/hseadc1/whoarethemarginals/\n\n#спецпроект #readymag #asyaoleynichenko\nСпасибо за ссылку @pnkprty",
-    "image": "data/images/1098.jpg",
-    "tags": [
-      "спецпроект",
-      "readymag",
-      "asyaoleynichenko"
-    ],
-    "url": "https://readymag.com/hseadc1/whoarethemarginals/",
-    "date": 1674487200,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "readymag",
-      "asyaoleynichenko"
-    ],
-    "awards": []
-  },
-  {
     "id": 1086,
     "title": "ниоткуда",
     "caption": "ниоткуда\nhttps://niotkuda.com\n\n#спецпроект #readymag #димашалаев",
@@ -497,6 +474,29 @@
     "slugs": [
       "spetsproekt",
       "pixeljamstudio"
+    ],
+    "awards": []
+  },
+  {
+    "id": 973,
+    "title": "Онлайн-музей ЖЭК-арта",
+    "caption": "Онлайн-музей ЖЭК-арта\nhttps://dvor.digital/\n\n#спецпроект #музей #золотыетигрыроссии\nСпасибо за ссылку @masha_cvetomuzika",
+    "image": "data/images/973.jpg",
+    "tags": [
+      "спецпроект",
+      "музей",
+      "золотыетигрыроссии"
+    ],
+    "url": "https://dvor.digital/",
+    "date": 1626723664,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "muzei",
+      "zolotietigrirossii"
     ],
     "awards": []
   }

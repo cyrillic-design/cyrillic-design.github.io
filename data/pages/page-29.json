@@ -1,24 +1,5 @@
 [
   {
-    "id": 485,
-    "title": "UXPUB",
-    "image": "data/images/485.jpg",
-    "tags": [
-      "журнал",
-      "дизайн"
-    ],
-    "url": "https://ux.pub/",
-    "date": 1553940023,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "zhurnal",
-      "dizain"
-    ],
-    "awards": []
-  },
-  {
     "id": 484,
     "title": "ВОНО — Свободный Пульт",
     "image": "data/images/484.jpg",
@@ -398,6 +379,27 @@
     "slugs": [
       "obrazovanie",
       "meropriyatie"
+    ],
+    "awards": []
+  },
+  {
+    "id": 463,
+    "title": "Журнал Авто.ру",
+    "image": "data/images/463.jpg",
+    "tags": [
+      "журнал",
+      "авто",
+      "яндекс"
+    ],
+    "url": "https://mag.auto.ru/",
+    "date": 1551952815,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "zhurnal",
+      "avto",
+      "yandeks"
     ],
     "awards": []
   }

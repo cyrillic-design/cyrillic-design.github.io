@@ -1,29 +1,5 @@
 [
   {
-    "id": 658,
-    "title": "Piano Trio Fest",
-    "caption": "Piano Trio Fest\nhttps://pianotriofest.com/\n\n☆ #мероприятие #музыка #readymag #zholud\n♡ @nowhow",
-    "image": "data/images/658.jpg",
-    "tags": [
-      "мероприятие",
-      "музыка",
-      "readymag",
-      "zholud"
-    ],
-    "url": "https://pianotriofest.com/",
-    "date": 1579773656,
-    "edit_date": 1583439463,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "meropriyatie",
-      "muzika",
-      "readymag",
-      "zholud"
-    ],
-    "awards": []
-  },
-  {
     "id": 657,
     "title": "Падение берлинской стены",
     "image": "data/images/657.jpg",
@@ -412,6 +388,29 @@
       "podkast",
       "promo",
       "readymag"
+    ],
+    "awards": []
+  },
+  {
+    "id": 637,
+    "title": "Благотворительный фонд «‎Шалаш»‎",
+    "image": "data/images/637.jpg",
+    "tags": [
+      "фонд",
+      "люди",
+      "помощь",
+      "sulliwan"
+    ],
+    "url": "https://shalash.academy/",
+    "date": 1576231245,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "fond",
+      "lyudi",
+      "pomoshch",
+      "sulliwan"
     ],
     "awards": []
   }
