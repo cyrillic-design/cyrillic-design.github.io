@@ -1,5 +1,32 @@
 [
   {
+    "id": 1039,
+    "title": "Стартер",
+    "caption": "Стартер\nhttps://starterapp.ru/\n\n#сервис #доставка #readymag #update #breadhead",
+    "image": "data/images/1039.jpg",
+    "tags": [
+      "сервис",
+      "доставка",
+      "readymag",
+      "update",
+      "breadhead"
+    ],
+    "url": "https://starterapp.ru/",
+    "date": 1643180528,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "dostavka",
+      "readymag",
+      "update",
+      "breadhead"
+    ],
+    "awards": []
+  },
+  {
     "id": 1037,
     "title": "Пейзажи Самарской области",
     "caption": "Пейзажи Самарской области\nhttps://landscapesamara.ru/\n\n#спецпроект #культура #readymag #юрийантонов\nСпасибо за ссылку @readymag_official",
@@ -456,27 +483,6 @@
       "obrazovanie",
       "readymag",
       "rassvetdigital"
-    ],
-    "awards": []
-  },
-  {
-    "id": 975,
-    "title": "Цикада",
-    "caption": "Цикада\nhttps://cicadaprize.com/\n\n#мероприятие #readymag\nСпасибо за ссылку @readymag_official",
-    "image": "data/images/975.jpg",
-    "tags": [
-      "мероприятие",
-      "readymag"
-    ],
-    "url": "https://cicadaprize.com/",
-    "date": 1626955208,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "meropriyatie",
-      "readymag"
     ],
     "awards": []
   }

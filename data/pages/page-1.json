@@ -1,5 +1,28 @@
 [
   {
+    "id": 1100,
+    "title": "Феномен маргиналов",
+    "caption": "Феномен маргиналов\nhttps://readymag.com/hseadc1/whoarethemarginals/\n\n#спецпроект #readymag #asyaoleynichenko\nСпасибо за ссылку @pnkprty",
+    "image": "data/images/1100.jpg",
+    "tags": [
+      "спецпроект",
+      "readymag",
+      "asyaoleynichenko"
+    ],
+    "url": "https://readymag.com/hseadc1/whoarethemarginals/",
+    "date": 1674724971,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "readymag",
+      "asyaoleynichenko"
+    ],
+    "awards": []
+  },
+  {
     "id": 1099,
     "title": "Say No Mo",
     "caption": "Say No Mo\nhttp://www.saynomo.com.ua\n\n#услуги #красота #сервис #orchidea\nСпасибо за ссылку @nichtszuverlieren",
@@ -420,27 +443,6 @@
     "slugs": [
       "obrazovanie",
       "tilda"
-    ],
-    "awards": []
-  },
-  {
-    "id": 1079,
-    "title": "Подписные издания",
-    "caption": "Подписные издания\nhttps://www.podpisnie.ru\n\n#магазин #aidapacheva\nСпасибо за ссылку @aidapacheva",
-    "image": "data/images/1079.jpg",
-    "tags": [
-      "магазин",
-      "aidapacheva"
-    ],
-    "url": "https://www.podpisnie.ru",
-    "date": 1664883345,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "magazin",
-      "aidapacheva"
     ],
     "awards": []
   }
