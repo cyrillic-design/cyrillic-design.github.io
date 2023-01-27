@@ -1,5 +1,29 @@
 [
   {
+    "id": 1101,
+    "title": "Артлайф",
+    "caption": "Артлайф\nhttps://biotech.artlife.ru\n\n#наука #технологии #chipsa\nСпасибо за ссылку @nichtszuverlieren",
+    "image": "data/images/1101.jpg",
+    "tags": [
+      "наука",
+      "технологии",
+      "chipsa"
+    ],
+    "url": "https://biotech.artlife.ru",
+    "date": 1674799490,
+    "edit_date": 1674799541,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "nauka",
+      "tekhnologii",
+      "chipsa"
+    ],
+    "awards": []
+  },
+  {
     "id": 717,
     "title": "Визионеры",
     "caption": "Визионеры\nhttps://award.plus-one.ru/\n\n#мероприятие #наука #люди #tilda",

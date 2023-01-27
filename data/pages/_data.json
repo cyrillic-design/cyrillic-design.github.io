@@ -15245,14 +15245,16 @@
   "1101": {
     "id": 1101,
     "title": "Артлайф",
-    "caption": "Артлайф\nhttps://biotech.artlife.ru\n\n#технологии #chipsa\nСпасибо за ссылку @nichtszuverlieren",
+    "caption": "Артлайф\nhttps://biotech.artlife.ru\n\n#наука #технологии #chipsa\nСпасибо за ссылку @nichtszuverlieren",
     "image": "1101.jpg",
     "tags": [
+      "наука",
       "технологии",
       "chipsa"
     ],
     "url": "https://biotech.artlife.ru",
     "date": 1674799490,
+    "edit_date": 1674799541,
     "isMonth": false,
     "isYear": false,
     "isHighlighted": false,
