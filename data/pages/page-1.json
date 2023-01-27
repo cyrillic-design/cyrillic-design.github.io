@@ -1,5 +1,26 @@
 [
   {
+    "id": 1101,
+    "title": "Артлайф",
+    "caption": "Артлайф\nhttps://biotech.artlife.ru\n\n#технологии #chipsa\nСпасибо за ссылку @nichtszuverlieren",
+    "image": "data/images/1101.jpg",
+    "tags": [
+      "технологии",
+      "chipsa"
+    ],
+    "url": "https://biotech.artlife.ru",
+    "date": 1674799490,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "tekhnologii",
+      "chipsa"
+    ],
+    "awards": []
+  },
+  {
     "id": 1100,
     "title": "Феномен маргиналов",
     "caption": "Феномен маргиналов\nhttps://readymag.com/hseadc1/whoarethemarginals/\n\n#спецпроект #readymag #asyaoleynichenko\nСпасибо за ссылку @pnkprty",
@@ -422,27 +443,6 @@
     "slugs": [
       "promo",
       "kino"
-    ],
-    "awards": []
-  },
-  {
-    "id": 1080,
-    "title": "Школа дизайна Perasperadastra",
-    "caption": "Школа дизайна Perasperadastra\nhttps://perasperadastra.ru/school \n\n#образование #tilda\nСпасибо за ссылку @AndyAbramov",
-    "image": "data/images/1080.jpg",
-    "tags": [
-      "образование",
-      "tilda"
-    ],
-    "url": "https://perasperadastra.ru/school",
-    "date": 1666187062,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "obrazovanie",
-      "tilda"
     ],
     "awards": []
   }

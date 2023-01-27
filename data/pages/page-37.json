@@ -1,5 +1,26 @@
 [
   {
+    "id": 314,
+    "title": "Блог Амплифера",
+    "image": "data/images/314.jpg",
+    "tags": [
+      "сервис",
+      "блог",
+      "социальныесети"
+    ],
+    "url": "https://amplifr.com/blog/ru/",
+    "date": 1538215220,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "servis",
+      "blog",
+      "sotsialnieseti"
+    ],
+    "awards": []
+  },
+  {
     "id": 313,
     "title": "New ODS",
     "image": "data/images/313.jpg",
@@ -390,25 +411,6 @@
       "finansi",
       "bank",
       "tinkoff"
-    ],
-    "awards": []
-  },
-  {
-    "id": 294,
-    "title": "Яндекс.Еда",
-    "image": "data/images/294.jpg",
-    "tags": [
-      "доставка",
-      "яндекс"
-    ],
-    "url": "https://eda.yandex/",
-    "date": 1536487217,
-    "edit_date": 1583185435,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "dostavka",
-      "yandeks"
     ],
     "awards": []
   }

@@ -1,5 +1,26 @@
 [
   {
+    "id": 1101,
+    "title": "Артлайф",
+    "caption": "Артлайф\nhttps://biotech.artlife.ru\n\n#технологии #chipsa\nСпасибо за ссылку @nichtszuverlieren",
+    "image": "data/images/1101.jpg",
+    "tags": [
+      "технологии",
+      "chipsa"
+    ],
+    "url": "https://biotech.artlife.ru",
+    "date": 1674799490,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "tekhnologii",
+      "chipsa"
+    ],
+    "awards": []
+  },
+  {
     "id": 760,
     "title": "MoreMilk",
     "caption": "MoreMilk\nhttps://moremilk.ru/\n\n#промо #производство #chipsa",

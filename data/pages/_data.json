@@ -15241,5 +15241,21 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "1101": {
+    "id": 1101,
+    "title": "Артлайф",
+    "caption": "Артлайф\nhttps://biotech.artlife.ru\n\n#технологии #chipsa\nСпасибо за ссылку @nichtszuverlieren",
+    "image": "1101.jpg",
+    "tags": [
+      "технологии",
+      "chipsa"
+    ],
+    "url": "https://biotech.artlife.ru",
+    "date": 1674799490,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

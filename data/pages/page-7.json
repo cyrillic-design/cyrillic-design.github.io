@@ -1,5 +1,26 @@
 [
   {
+    "id": 974,
+    "title": "NORM 1458",
+    "caption": "NORM 1458\nhttps://1458.ru/\n\n#портфолио #whiterussianstudio",
+    "image": "data/images/974.jpg",
+    "tags": [
+      "портфолио",
+      "whiterussianstudio"
+    ],
+    "url": "https://1458.ru/",
+    "date": 1626940902,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "whiterussianstudio"
+    ],
+    "awards": []
+  },
+  {
     "id": 973,
     "title": "Онлайн-музей ЖЭК-арта",
     "caption": "Онлайн-музей ЖЭК-арта\nhttps://dvor.digital/\n\n#спецпроект #музей #золотыетигрыроссии\nСпасибо за ссылку @masha_cvetomuzika",
@@ -447,30 +468,6 @@
       "promo",
       "proizvodstvo",
       "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 952,
-    "title": "Журнал Буду",
-    "caption": "Журнал Буду\nhttps://journal.budu.jobs/\n\n#журнал #hr #webflow\nСпасибо за ссылку @iarromanov",
-    "image": "data/images/952.jpg",
-    "tags": [
-      "журнал",
-      "hr",
-      "webflow"
-    ],
-    "url": "https://journal.budu.jobs/",
-    "date": 1623138971,
-    "edit_date": 1623139022,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "zhurnal",
-      "hr",
-      "webflow"
     ],
     "awards": []
   }
