@@ -2,15 +2,16 @@
   {
     "id": 1102,
     "title": "Moonee",
-    "caption": "Moonee\nhttps://moonee.io/about\n\n#издательство #webflow #embacy",
+    "caption": "Moonee\nhttps://moonee.io/\n\n#издательство #webflow #embacy",
     "image": "data/images/1102.jpg",
     "tags": [
       "издательство",
       "webflow",
       "embacy"
     ],
-    "url": "https://moonee.io/about",
+    "url": "https://moonee.io/",
     "date": 1675873629,
+    "edit_date": 1675873637,
     "isMonth": false,
     "isYear": false,
     "isHighlighted": false,
