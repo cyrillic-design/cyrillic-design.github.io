@@ -1,5 +1,30 @@
 [
   {
+    "id": 1019,
+    "title": "Конкурс на разработку стикерпака OneTwoTrip",
+    "caption": "Конкурс на разработку стикерпака OneTwoTrip\nhttps://events.skillbox.ru/travelstickerpack\n\n#промо #конкурс #tilda #skillbox",
+    "image": "data/images/1019.jpg",
+    "tags": [
+      "промо",
+      "конкурс",
+      "tilda",
+      "skillbox"
+    ],
+    "url": "https://events.skillbox.ru/travelstickerpack",
+    "date": 1637918518,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "konkurs",
+      "tilda",
+      "skillbox"
+    ],
+    "awards": []
+  },
+  {
     "id": 1018,
     "title": "ТРУДРУК",
     "caption": "ТРУДРУК\nhttps://trudruk.ru/\n\n#магазин #производство #одежда #readymag\nСпасибо за ссылку @readymag_official",
@@ -442,30 +467,6 @@
       "muzika",
       "webflow",
       "methodzero"
-    ],
-    "awards": []
-  },
-  {
-    "id": 998,
-    "title": "Хроника Музея современного искусства «Гараж»",
-    "caption": "Хроника Музея современного искусства «Гараж»\nhttps://chronicle.garagemca.org/\n\n#спецпроект #история #павелкедич",
-    "image": "data/images/998.jpg",
-    "tags": [
-      "спецпроект",
-      "история",
-      "павелкедич"
-    ],
-    "url": "https://chronicle.garagemca.org/",
-    "date": 1631973323,
-    "edit_date": 1631973397,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "istoriya",
-      "pavelkedich"
     ],
     "awards": []
   }

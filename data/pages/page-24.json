@@ -1,5 +1,25 @@
 [
   {
+    "id": 600,
+    "title": "РА «ВОСХОД»",
+    "caption": "РА «ВОСХОД»\nhttps://voskhod.agency/\n\n#агентство #портфолио",
+    "image": "data/images/600.jpg",
+    "tags": [
+      "агентство",
+      "портфолио"
+    ],
+    "url": "https://voskhod.agency/",
+    "date": 1570788023,
+    "edit_date": 1583340469,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "agentstvo",
+      "portfolio"
+    ],
+    "awards": []
+  },
+  {
     "id": 599,
     "title": "Birds Records",
     "image": "data/images/599.jpg",
@@ -361,27 +381,6 @@
     "isRemoved": false,
     "slugs": [
       "meropriyatie"
-    ],
-    "awards": []
-  },
-  {
-    "id": 575,
-    "title": "Современные российские дизайнеры шрифта",
-    "image": "data/images/575.jpg",
-    "tags": [
-      "спецпроект",
-      "readymag",
-      "лисицкий"
-    ],
-    "url": "https://readymag.com/deedandreward/russiandesigners/",
-    "date": 1567677608,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "readymag",
-      "lisitskii"
     ],
     "awards": []
   }

@@ -1,5 +1,24 @@
 [
   {
+    "id": 511,
+    "title": "KOTSIUBA",
+    "image": "data/images/511.jpg",
+    "tags": [
+      "студия",
+      "портфолио"
+    ],
+    "url": "https://kotsiuba.com/",
+    "date": 1558346402,
+    "edit_date": 1583185363,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "studiya",
+      "portfolio"
+    ],
+    "awards": []
+  },
+  {
     "id": 510,
     "title": "Медисорб",
     "image": "data/images/510.jpg",
@@ -374,25 +393,6 @@
       "analitika",
       "finansi",
       "pinkman"
-    ],
-    "awards": []
-  },
-  {
-    "id": 488,
-    "title": "LukaPizza",
-    "image": "data/images/488.jpg",
-    "tags": [
-      "доставка",
-      "еда"
-    ],
-    "url": "https://lukapizza.ru",
-    "date": 1554199227,
-    "edit_date": 1583185363,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "dostavka",
-      "yeda"
     ],
     "awards": []
   }

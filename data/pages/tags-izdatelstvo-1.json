@@ -1,5 +1,28 @@
 [
   {
+    "id": 1102,
+    "title": "Moonee",
+    "caption": "Moonee\nhttps://moonee.io/about\n\n#издательство #webflow #embacy",
+    "image": "data/images/1102.jpg",
+    "tags": [
+      "издательство",
+      "webflow",
+      "embacy"
+    ],
+    "url": "https://moonee.io/about",
+    "date": 1675873629,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "izdatelstvo",
+      "webflow",
+      "embacy"
+    ],
+    "awards": []
+  },
+  {
     "id": 738,
     "title": "Глущенкоиздат",
     "caption": "Глущенкоиздат\nhttp://gluschenkoizdat.ru/\n\n#издательство #производство\nСпасибо за ссылку @AndyAbramov",
