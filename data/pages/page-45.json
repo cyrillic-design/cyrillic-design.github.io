@@ -1,5 +1,24 @@
 [
   {
+    "id": 154,
+    "title": "Zoomanity",
+    "image": "data/images/154.jpg",
+    "tags": [
+      "промо",
+      "магазин"
+    ],
+    "url": "http://zoomanity.land/ru/",
+    "date": 1524391208,
+    "edit_date": 1583185536,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "magazin"
+    ],
+    "awards": []
+  },
+  {
     "id": 153,
     "title": "Мастер и Маргарита. Я там был",
     "image": "data/images/153.jpg",
@@ -389,28 +408,6 @@
       "aviakompaniya",
       "uslugi",
       "puteshestviya"
-    ],
-    "awards": []
-  },
-  {
-    "id": 133,
-    "title": "BERNÍK & partneri",
-    "caption": "BERNÍK & partneri\nhttps://www.bernik-partneri.sk/ru\n\n#бизнес #услуги #ideil",
-    "image": "data/images/133.jpg",
-    "tags": [
-      "бизнес",
-      "услуги",
-      "ideil"
-    ],
-    "url": "https://www.bernik-partneri.sk/ru",
-    "date": 1522662082,
-    "edit_date": 1583415893,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "biznes",
-      "uslugi",
-      "ideil"
     ],
     "awards": []
   }

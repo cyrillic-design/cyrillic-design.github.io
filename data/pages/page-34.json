@@ -1,5 +1,28 @@
 [
   {
+    "id": 381,
+    "title": "Подкаст «Остарбайтеры»",
+    "image": "data/images/381.jpg",
+    "tags": [
+      "спецпроект",
+      "подкаст",
+      "glagolevfm",
+      "мемориал"
+    ],
+    "url": "https://ost.glagolev.fm/",
+    "date": 1544263253,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "podkast",
+      "glagolevfm",
+      "memorial"
+    ],
+    "awards": []
+  },
+  {
     "id": 380,
     "title": "Искусство кино",
     "image": "data/images/380.jpg",
@@ -381,23 +404,6 @@
       "spetsproekt",
       "takiedela",
       "bookmate"
-    ],
-    "awards": []
-  },
-  {
-    "id": 357,
-    "title": "Юрий Нарвин",
-    "image": "data/images/357.jpg",
-    "tags": [
-      "портфолио"
-    ],
-    "url": "https://ru.narvin.co",
-    "date": 1542448821,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio"
     ],
     "awards": []
   }

@@ -1,5 +1,28 @@
 [
   {
+    "id": 976,
+    "title": "rassvet school",
+    "caption": "rassvet school\nhttps://rassvet.school/\n\n#образование #readymag #rassvetdigital",
+    "image": "data/images/976.jpg",
+    "tags": [
+      "образование",
+      "readymag",
+      "rassvetdigital"
+    ],
+    "url": "https://rassvet.school/",
+    "date": 1627551500,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "obrazovanie",
+      "readymag",
+      "rassvetdigital"
+    ],
+    "awards": []
+  },
+  {
     "id": 975,
     "title": "Цикада",
     "caption": "Цикада\nhttps://cicadaprize.com/\n\n#мероприятие #readymag\nСпасибо за ссылку @readymag_official",
@@ -443,29 +466,6 @@
       "spetsproekt",
       "istoriya",
       "kristinabutirina"
-    ],
-    "awards": []
-  },
-  {
-    "id": 954,
-    "title": "Т—Ж: журнал про ваши деньги",
-    "caption": "Т—Ж: журнал про ваши деньги\nhttps://journal.tinkoff.ru/\n\n#журнал #банк #финансы",
-    "image": "data/images/954.jpg",
-    "tags": [
-      "журнал",
-      "банк",
-      "финансы"
-    ],
-    "url": "https://journal.tinkoff.ru/",
-    "date": 1623332280,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "zhurnal",
-      "bank",
-      "finansi"
     ],
     "awards": []
   }
