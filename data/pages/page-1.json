@@ -1,5 +1,26 @@
 [
   {
+    "id": 1105,
+    "title": "Anton Komandin",
+    "caption": "Anton Komandin\nhttps://komandin.com\n\n#портфолио #tilda",
+    "image": "data/images/1105.jpg",
+    "tags": [
+      "портфолио",
+      "tilda"
+    ],
+    "url": "https://komandin.com",
+    "date": 1676966789,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "tilda"
+    ],
+    "awards": []
+  },
+  {
     "id": 1104,
     "title": "Thel Studios",
     "caption": "Thel Studios\nhttps://thelstudios.tilda.ws\n\n#производство #одежда #tilda #иринагрошева\nСпасибо за ссылку @ringrosheva",
@@ -428,29 +449,6 @@
     "slugs": [
       "biznes",
       "readymag"
-    ],
-    "awards": []
-  },
-  {
-    "id": 1083,
-    "title": "Пинк",
-    "caption": "Пинк\nhttps://pinks.agency\n\n#студия #агентство #tilda",
-    "image": "data/images/1083.jpg",
-    "tags": [
-      "студия",
-      "агентство",
-      "tilda"
-    ],
-    "url": "https://pinks.agency",
-    "date": 1667381182,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "studiya",
-      "agentstvo",
-      "tilda"
     ],
     "awards": []
   }

@@ -1,5 +1,24 @@
 [
   {
+    "id": 622,
+    "title": "New Wallet — Travel Kit",
+    "image": "data/images/622.jpg",
+    "tags": [
+      "магазин",
+      "промо"
+    ],
+    "url": "https://newwallet.ru/osobennosti/osobennosti-travel",
+    "date": 1573552837,
+    "edit_date": 1583183700,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "magazin",
+      "promo"
+    ],
+    "awards": []
+  },
+  {
     "id": 621,
     "title": "Bank UA",
     "image": "data/images/621.jpg",
@@ -379,25 +398,6 @@
     "slugs": [
       "meropriyatie",
       "groznovco"
-    ],
-    "awards": []
-  },
-  {
-    "id": 602,
-    "title": "Briket Market",
-    "image": "data/images/602.jpg",
-    "tags": [
-      "заглушка",
-      "мероприятие"
-    ],
-    "url": "https://briketmarket.com/",
-    "date": 1570960829,
-    "edit_date": 1583183812,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "zaglushka",
-      "meropriyatie"
     ],
     "awards": []
   }

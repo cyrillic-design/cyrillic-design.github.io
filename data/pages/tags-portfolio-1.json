@@ -1,5 +1,26 @@
 [
   {
+    "id": 1105,
+    "title": "Anton Komandin",
+    "caption": "Anton Komandin\nhttps://komandin.com\n\n#портфолио #tilda",
+    "image": "data/images/1105.jpg",
+    "tags": [
+      "портфолио",
+      "tilda"
+    ],
+    "url": "https://komandin.com",
+    "date": 1676966789,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "portfolio",
+      "tilda"
+    ],
+    "awards": []
+  },
+  {
     "id": 1097,
     "title": "ffface me",
     "caption": "ffface me\nhttps://ffface.me/ua/\n\n#портфолио",
@@ -417,27 +438,6 @@
     "slugs": [
       "portfolio",
       "whiterussianstudio"
-    ],
-    "awards": []
-  },
-  {
-    "id": 965,
-    "title": "Портфолио — Дима Шалаев",
-    "caption": "Портфолио — Дима Шалаев\nhttp://dmitryshalaev.ru/\n\n#портфолио #readymag",
-    "image": "data/images/965.jpg",
-    "tags": [
-      "портфолио",
-      "readymag"
-    ],
-    "url": "http://dmitryshalaev.ru/",
-    "date": 1625224026,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio",
-      "readymag"
     ],
     "awards": []
   }
