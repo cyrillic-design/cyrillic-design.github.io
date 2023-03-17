@@ -1,5 +1,32 @@
 [
   {
+    "id": 1107,
+    "title": "Стрит-арт хранение",
+    "caption": "Стрит-арт хранение\nhttps://street-art-storage.com\n\n#спецпроект #культура #музей #readymag #nonobjectiveworks\nСпасибо за ссылку @nastiiakvity",
+    "image": "data/images/1107.jpg",
+    "tags": [
+      "спецпроект",
+      "культура",
+      "музей",
+      "readymag",
+      "nonobjectiveworks"
+    ],
+    "url": "https://street-art-storage.com",
+    "date": 1679041804,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "kultura",
+      "muzei",
+      "readymag",
+      "nonobjectiveworks"
+    ],
+    "awards": []
+  },
+  {
     "id": 1100,
     "title": "Феномен маргиналов",
     "caption": "Феномен маргиналов\nhttps://readymag.com/hseadc1/whoarethemarginals/\n\n#спецпроект #readymag #asyaoleynichenko\nСпасибо за ссылку @pnkprty",
@@ -476,27 +503,6 @@
       "spetsproekt",
       "muzika",
       "imi"
-    ],
-    "awards": []
-  },
-  {
-    "id": 979,
-    "title": "4 истории про то, что мы любим",
-    "caption": "4 истории про то, что мы любим\nhttps://4stories.apokrif.media/\n\n#спецпроект #pixeljamstudio",
-    "image": "data/images/979.jpg",
-    "tags": [
-      "спецпроект",
-      "pixeljamstudio"
-    ],
-    "url": "https://4stories.apokrif.media/",
-    "date": 1628276266,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "spetsproekt",
-      "pixeljamstudio"
     ],
     "awards": []
   }

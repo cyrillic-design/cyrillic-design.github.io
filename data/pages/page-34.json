@@ -1,5 +1,26 @@
 [
   {
+    "id": 384,
+    "title": "Конференция «Управление изменениями. Global Russians»",
+    "image": "data/images/384.jpg",
+    "tags": [
+      "мероприятие",
+      "бизнес",
+      "plusone"
+    ],
+    "url": "https://conf.plus-one.ru/global-russians",
+    "date": 1544522444,
+    "edit_date": 1583185395,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "meropriyatie",
+      "biznes",
+      "plusone"
+    ],
+    "awards": []
+  },
+  {
     "id": 383,
     "title": "BrandStudio",
     "image": "data/images/383.jpg",
@@ -383,27 +404,6 @@
       "izdanie",
       "finansi",
       "bank"
-    ],
-    "awards": []
-  },
-  {
-    "id": 361,
-    "title": "Умные плейлисты на Яндекс.Музыке",
-    "image": "data/images/361.jpg",
-    "tags": [
-      "промо",
-      "яндекс",
-      "romansazonov"
-    ],
-    "url": "https://smartplaylists.ru/",
-    "date": 1542794455,
-    "edit_date": 1583185395,
-    "isHighlighted": true,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "yandeks",
-      "romansazonov"
     ],
     "awards": []
   }

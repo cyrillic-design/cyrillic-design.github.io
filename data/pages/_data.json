@@ -15328,5 +15328,24 @@
     "isYear": false,
     "isHighlighted": false,
     "isRemoved": false
+  },
+  "1107": {
+    "id": 1107,
+    "title": "Стрит-арт хранение",
+    "caption": "Стрит-арт хранение\nhttps://street-art-storage.com\n\n#спецпроект #культура #музей #readymag #nonobjectiveworks\nСпасибо за ссылку @nastiiakvity",
+    "image": "1107.jpg",
+    "tags": [
+      "спецпроект",
+      "культура",
+      "музей",
+      "readymag",
+      "nonobjectiveworks"
+    ],
+    "url": "https://street-art-storage.com",
+    "date": 1679041804,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false
   }
 }

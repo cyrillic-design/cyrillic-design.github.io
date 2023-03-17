@@ -1,5 +1,32 @@
 [
   {
+    "id": 1107,
+    "title": "Стрит-арт хранение",
+    "caption": "Стрит-арт хранение\nhttps://street-art-storage.com\n\n#спецпроект #культура #музей #readymag #nonobjectiveworks\nСпасибо за ссылку @nastiiakvity",
+    "image": "data/images/1107.jpg",
+    "tags": [
+      "спецпроект",
+      "культура",
+      "музей",
+      "readymag",
+      "nonobjectiveworks"
+    ],
+    "url": "https://street-art-storage.com",
+    "date": 1679041804,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "kultura",
+      "muzei",
+      "readymag",
+      "nonobjectiveworks"
+    ],
+    "awards": []
+  },
+  {
     "id": 1078,
     "title": "Perito",
     "caption": "Perito\nhttps://perito-burrito.com\n\n#медиа #культура\nСпасибо за ссылку @AndyAbramov",
@@ -476,27 +503,6 @@
       "kultura",
       "lyudi",
       "sberbank"
-    ],
-    "awards": []
-  },
-  {
-    "id": 310,
-    "title": "Рихтер",
-    "image": "data/images/310.jpg",
-    "tags": [
-      "сообщество",
-      "люди",
-      "культура"
-    ],
-    "url": "https://richter.moscow/",
-    "date": 1537869613,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "soobshchestvo",
-      "lyudi",
-      "kultura"
     ],
     "awards": []
   }

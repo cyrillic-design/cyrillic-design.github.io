@@ -1,5 +1,32 @@
 [
   {
+    "id": 1107,
+    "title": "Стрит-арт хранение",
+    "caption": "Стрит-арт хранение\nhttps://street-art-storage.com\n\n#спецпроект #культура #музей #readymag #nonobjectiveworks\nСпасибо за ссылку @nastiiakvity",
+    "image": "data/images/1107.jpg",
+    "tags": [
+      "спецпроект",
+      "культура",
+      "музей",
+      "readymag",
+      "nonobjectiveworks"
+    ],
+    "url": "https://street-art-storage.com",
+    "date": 1679041804,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "kultura",
+      "muzei",
+      "readymag",
+      "nonobjectiveworks"
+    ],
+    "awards": []
+  },
+  {
     "id": 1062,
     "title": "Страдающего Средневековья",
     "caption": "Страдающего Средневековья\nhttps://sufferingmedieval.ru\n\n#спецпроект #музей #readymag #nonobjectiveworks\nСпасибо за ссылку @readymag_official",

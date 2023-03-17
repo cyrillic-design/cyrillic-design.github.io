@@ -1,5 +1,32 @@
 [
   {
+    "id": 1107,
+    "title": "Стрит-арт хранение",
+    "caption": "Стрит-арт хранение\nhttps://street-art-storage.com\n\n#спецпроект #культура #музей #readymag #nonobjectiveworks\nСпасибо за ссылку @nastiiakvity",
+    "image": "data/images/1107.jpg",
+    "tags": [
+      "спецпроект",
+      "культура",
+      "музей",
+      "readymag",
+      "nonobjectiveworks"
+    ],
+    "url": "https://street-art-storage.com",
+    "date": 1679041804,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "spetsproekt",
+      "kultura",
+      "muzei",
+      "readymag",
+      "nonobjectiveworks"
+    ],
+    "awards": []
+  },
+  {
     "id": 1106,
     "title": "Collide",
     "caption": "Collide\nhttps://collide.team/ru\n\n#портфолио #tilda #дмитрийопалев\nСпасибо за ссылку @Opalev_Designer",
@@ -430,27 +457,6 @@
       "spetsproekt",
       "readymag",
       "dimashalaev"
-    ],
-    "awards": []
-  },
-  {
-    "id": 1085,
-    "title": "Rose Family",
-    "caption": "Rose Family\nhttps://rosefamily.com.ua\n\n#промо #thefirstthelast",
-    "image": "data/images/1085.jpg",
-    "tags": [
-      "промо",
-      "thefirstthelast"
-    ],
-    "url": "https://rosefamily.com.ua",
-    "date": 1668503188,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "promo",
-      "thefirstthelast"
     ],
     "awards": []
   }

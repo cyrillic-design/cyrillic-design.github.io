@@ -1,5 +1,26 @@
 [
   {
+    "id": 361,
+    "title": "Умные плейлисты на Яндекс.Музыке",
+    "image": "data/images/361.jpg",
+    "tags": [
+      "промо",
+      "яндекс",
+      "romansazonov"
+    ],
+    "url": "https://smartplaylists.ru/",
+    "date": 1542794455,
+    "edit_date": 1583185395,
+    "isHighlighted": true,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "yandeks",
+      "romansazonov"
+    ],
+    "awards": []
+  },
+  {
     "id": 359,
     "title": "Dropbox - Секретные операции",
     "image": "data/images/359.jpg",
@@ -385,23 +406,6 @@
       "nedvizhimost",
       "promo",
       "greencow"
-    ],
-    "awards": []
-  },
-  {
-    "id": 339,
-    "title": "Майк Юхтенко",
-    "image": "data/images/339.jpg",
-    "tags": [
-      "портфолио"
-    ],
-    "url": "http://maicle.ru/",
-    "date": 1540893615,
-    "edit_date": 1583185395,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "portfolio"
     ],
     "awards": []
   }

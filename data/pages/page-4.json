@@ -1,5 +1,33 @@
 [
   {
+    "id": 1044,
+    "title": "Method Zero | Special Sale",
+    "caption": "Method Zero | Special Sale\nhttps://lite.methodzero.io\n\n#промо #услуги #дизайн #webflow #methodzero\nСпасибо за ссылку @elena_dicycle",
+    "image": "data/images/1044.jpg",
+    "tags": [
+      "промо",
+      "услуги",
+      "дизайн",
+      "webflow",
+      "methodzero"
+    ],
+    "url": "https://lite.methodzero.io",
+    "date": 1643731847,
+    "edit_date": 1643823620,
+    "isMonth": false,
+    "isYear": false,
+    "isHighlighted": false,
+    "isRemoved": false,
+    "slugs": [
+      "promo",
+      "uslugi",
+      "dizain",
+      "webflow",
+      "methodzero"
+    ],
+    "awards": []
+  },
+  {
     "id": 1043,
     "title": "Peter Paul Rubens",
     "caption": "Peter Paul Rubens\nhttps://peter-paul-rubens.site\n\n#спецпроект #история #искусство #tilda #николаймихалев",
@@ -483,27 +511,6 @@
       "zaglushka",
       "readymag",
       "kirillrodin"
-    ],
-    "awards": []
-  },
-  {
-    "id": 1023,
-    "title": "Главстрой",
-    "caption": "Главстрой\nhttps://www.glavstroy.ru\n\n#недвижимость #портфолио\nСпасибо за ссылку @AndyAbramov",
-    "image": "data/images/1023.jpg",
-    "tags": [
-      "недвижимость",
-      "портфолио"
-    ],
-    "url": "https://www.glavstroy.ru",
-    "date": 1638255655,
-    "isMonth": false,
-    "isYear": false,
-    "isHighlighted": false,
-    "isRemoved": false,
-    "slugs": [
-      "nedvizhimost",
-      "portfolio"
     ],
     "awards": []
   }
